@@ -1,0 +1,80 @@
+area: Limgrave
+chapter: 1
+name: Endings | Elden Ring Wiki
+EndingsforElden Ringcover the possible conclusions of the game, determined by the player and their influence on The Lands Between's denizens. Each ending is shaped by the player's interactions with certainNPCsand their respectiveSide Quests. This page covers each ending, the requirements to reach an ending, and frequently asked questions. There are a total of six (6) possible endings in Elden Ring.
+See theLorepage for a deeper dive into the history of The Lands Between and its inhabitants.
+Traditionally, no; each playthrough can only have a single ending, and another can only be seen after completing your next playthrough inNew Game+. However, it is possible to make use of save states at the end of your first playthrough to complete an ending and then load to a previous state and complete another. This is an effective way to unlock all ending-relatedAchievementsor to see multiple endings without completing another full playthrough. So far, this method is possible on Steam, PS4/PS5, and Xbox One/Series.
+With the exception of one ending that will be explained below, you can work towards and complete all the relevant quests required for each ending without being locked to it. After beating thefinal boss, you can choose which ending you want to go for out of the endings you've unlocked.
+CheckNew Game+to find out what happens for your next playthrough.
+Check ourWalkthroughpage for detailed on how to clear eachLocation.
+You may also visit theGame Progress Routepage for a quick overview of how to progress through the game.
+VisitSide Queststo find how to complete ending-related NPC questlines.
+This question suggests that you have met with theThree Fingersto inherit the Frenzied Flame. To reverse this, you will needMiquella's Needlewhich can be obtained after completingMillicent'squestline and returning theUnalloyed Gold Needleto the Scarlet Aeonia left afterMalenia, Blade of Miquella'sfight.Miquella's Needlecan be used atDragonlord Placidusax'sarena in theCrumbling Farum Azulato reverse theThree Fingers' flame of frenzy. Fighting Placidusax is not necessary to use the needle; simply being in the boss arena will suffice.
+There are atotal of 6 endings. The player will become the Elden Lord except in the "Lord of Frenzied Flame" ending and the "Age of Stars" ending.
+Any of the four Elden Lord endings grants theTrophy/Achievement, meaning you only need to clear the game 3 times to get all of them, and not 6.
+Must not inherit the Frenzied Flame when touching FracturedMarika.
+After the final boss, touch Fractured Marika and choose to "Mend the Elden Ring" to get the Age of Fracture Ending. Do not choose any of the Mending Runes.
+The Age of Fracture ending is the default ending of the game, where the Tarnished chooses to mend the Elden Ring as it is and begin the new age as Elden Lord.
+"The fallen leaves tell a storyOf how a Tarnished became Elden Lord.In our home, across the fog, the Lands Between.Our seed will look back upon us, and recall.An Age of Fracture."
+CompleteFia'squestline to receive theMending Rune of the Death-Prince
+Rune description excerpt:formed of the two hallowbrand half-wheels combined, it will embed the principle of life within Death into Order.The Golden Order was created by confining Destined Death. Thus, this new Order will be one of Death restored.
+Must not inherit the Frenzied Flame when touching Fractured Marika.
+After the final boss, touch Fractured Marika and choose to "Use Mending Rune of the Death-Prince" to get the Age of the Duskborn Ending.
+After using theCursemark of Deathon Godwyn's corpse to give him a second life as the First of the Dead, Fia lays with him and bears the first of Dead demigods - in the form of a rune. In this ending, the Tarnished chooses to use thisMending Rune of the Death-Princeto begin a new age of the Duskborn as the Elden Lord - where the Lands Between are engulfed in a harrowing fog and the principle of life within Death is embedded into Order, allowingThose Who Live in Death(the undead) to remain without persecution from the living.
+The fallen leaves tell a story. Of how a Tarnished became Elden Lord.
+ELDEN RING(2022)features six total endings: Age of Fracture, Age of Order, Age of the Duskborn, Blessing of Despair, Age of the Stars and the Lord of Frenzied Flame.
+The Age of Fracture is the simplest to obtain, only requiringThe Tarnishedto finish the game, while all others demand completion their respective side quests beforehand. The Age of Fracture, Age of Order, Age of the Duskborn and Blessing of Despair endings see The Tarnished rise as Marika's new Elden Lord of theGolden Order, mending the Elden Ring, and ushering in their new Age of choice to rule over. The Age of the Stars ending sees The Tarnished aidRanni the Witchin oustingMarikaand remaining at her side as Ranni's first Elden Lord. The Lord of Frenzied Flame ending, caused by the possession of the Frenzied Flame, overrides the possibility of any other ending. The Tarnished's disregards the notion of becoming Elden Lord becoming the Lord of Frenzied Flame instead and incinerating everything that came before.
+For The Tarnished to separate themselves from the Frenzied Flame's influence after being inherited, they must aquireMiquella's Needleand follow its specific conditions of use. Once the Frenzied Flame is ridded, it can not be reclaimed in any way, preventing the Lord of Frenzied Flame ending.
+The Tarnished becomes Elden Lord, fulfilling theTwo Fingers'splans of using the Tarnished to restore the sense of stability not felt since the Elden Ring was shattered. TheGolden Orderremains in the truest state possible to what it once was and the status quo is restored.
+The Tarnished becomes Elden Lord, fulfilling Goldmask's idea of a "Perfect" Golden Order, based upon his research into how it had fallen to its current state. Having realized that the imperfections of the Golden Order stemmed from the fickleness of the gods, who in fact were no better than men, Goldmask's new transcendental ideology attempts to bring true order to theLands Between.
+The Tarnished becomes Elden Lord, wielding theruneborn fromFiaand thePrince of Death'sunion. Just as theGolden Orderhad been created by confiningDestined Death, the Tarnished creates a new order of death restored. The principle of life in death is embeded within this order, andThose Who Live in Deathare allowed to live in peace.
+The Tarnished becomes Elden Lord, fulfilling the Dung Eater's twisted vision of a cursed world. All will become cursed, thus none can be scorned, which despite its radicalism, does bring order back to theLands Between.
+The Tarnished helps Ranni fulfil her vision of a Lands Between without the Golden Order by allowing her to replaceMarikain godhood and taking the role of her consort. Ranni ushers in a new order not of gold, but of the stars and moon of the chill night. Rather than make herself and her order objects of worship, she chooses instead to keep her order and theLands Betweenat a great divide, removing the certainties that had existed during Marika's rule.
+The Tarnished and Ranni leave the Lands Between, embarking on a thousand year voyage into darkness under the wisdom of the Moon.
+Rather than become Elden Lord, The Tarnished becomes the Lord of Frenzied Flame, fulfilling the machinations ofShabriri, and theThree Fingers'swill. The Tarnished is left almost completely alone, the Frenzied Flame rapidly consuming everything in existence.
+IfMelinawas not sacrificed, she is seen vowing to hunt down and kill the Tarnished for not heeding her earlier warnings.
+After thefinal bossis slain, they will return alone to a room with Marika's statue and a Grace. Ranni's summon sign will also appear on the ground close by to the Marika's statue, if Ranni's questline has been completed. The Tarnished will now have the option to choose their ending by interacting with Marika's statue, or, if present, Ranni's summon sign. If The Tarnished possesses the Frenzied Flame, Ranni's summon sign will not appear unless the Frenzied Flame is ridden byMiquella's Needle. In this case, the only option will be to interact with Marika's statue, and the Lord of Frenzied Flame ending will automatically begin, offering no alternative choice at all.
+Interacting with Marika's statue without the Frenzied Flame will allow The Tarnished to choose from one of three possible mending runes to repair the Elden Ring that can obtained during their adventures. Once the respective rune has been chosen, the Age of Order, Age of the Duskborn, or Blessing of Despair ending will begin. A fourth option to "Mend the Elden Ring" without a rune is always available, and if chosen, results in the Age of Fracture ending.
+If present, interacting with the Ranni's summon sign, instead of Marika's statue, will begin the Age of the Stars ending.
+In all cases, the nearby Grace can be used to teleport anywhere else and return later, allowing the ending to be postponed and play to continue.
+To begin a New Game+, an ending must be chosen. To then do so, after the end credi
+
+---
+
+area: Limgrave
+chapter: 1
+name: Endings
+The fallen leaves tell a story. Of how a Tarnished became Elden Lord.
+ELDEN RING(2022)features six total endings: Age of Fracture, Age of Order, Age of the Duskborn, Blessing of Despair, Age of the Stars and the Lord of Frenzied Flame.
+The Age of Fracture is the simplest to obtain, only requiringThe Tarnishedto finish the game, while all others demand completion their respective side quests beforehand. The Age of Fracture, Age of Order, Age of the Duskborn and Blessing of Despair endings see The Tarnished rise as Marika's new Elden Lord of theGolden Order, mending the Elden Ring, and ushering in their new Age of choice to rule over. The Age of the Stars ending sees The Tarnished aidRanni the Witchin oustingMarikaand remaining at her side as Ranni's first Elden Lord. The Lord of Frenzied Flame ending, caused by the possession of the Frenzied Flame, overrides the possibility of any other ending. The Tarnished's disregards the notion of becoming Elden Lord becoming the Lord of Frenzied Flame instead and incinerating everything that came before.
+For The Tarnished to separate themselves from the Frenzied Flame's influence after being inherited, they must aquireMiquella's Needleand follow its specific conditions of use. Once the Frenzied Flame is ridded, it can not be reclaimed in any way, preventing the Lord of Frenzied Flame ending.
+The Tarnished becomes Elden Lord, fulfilling theTwo Fingers'splans of using the Tarnished to restore the sense of stability not felt since the Elden Ring was shattered. TheGolden Orderremains in the truest state possible to what it once was and the status quo is restored.
+The Tarnished becomes Elden Lord, fulfilling Goldmask's idea of a "Perfect" Golden Order, based upon his research into how it had fallen to its current state. Having realized that the imperfections of the Golden Order stemmed from the fickleness of the gods, who in fact were no better than men, Goldmask's new transcendental ideology attempts to bring true order to theLands Between.
+The Tarnished becomes Elden Lord, wielding theruneborn fromFiaand thePrince of Death'sunion. Just as theGolden Orderhad been created by confiningDestined Death, the Tarnished creates a new order of death restored. The principle of life in death is embeded within this order, andThose Who Live in Deathare allowed to live in peace.
+The Tarnished becomes Elden Lord, fulfilling the Dung Eater's twisted vision of a cursed world. All will become cursed, thus none can be scorned, which despite its radicalism, does bring order back to theLands Between.
+The Tarnished helps Ranni fulfil her vision of a Lands Between without the Golden Order by allowing her to replaceMarikain godhood and taking the role of her consort. Ranni ushers in a new order not of gold, but of the stars and moon of the chill night. Rather than make herself and her order objects of worship, she chooses instead to keep her order and theLands Betweenat a great divide, removing the certainties that had existed during Marika's rule.
+The Tarnished and Ranni leave the Lands Between, embarking on a thousand year voyage into darkness under the wisdom of the Moon.
+Rather than become Elden Lord, The Tarnished becomes the Lord of Frenzied Flame, fulfilling the machinations ofShabriri, and theThree Fingers'swill. The Tarnished is left almost completely alone, the Frenzied Flame rapidly consuming everything in existence.
+IfMelinawas not sacrificed, she is seen vowing to hunt down and kill the Tarnished for not heeding her earlier warnings.
+After thefinal bossis slain, they will return alone to a room with Marika's statue and a Grace. Ranni's summon sign will also appear on the ground close by to the Marika's statue, if Ranni's questline has been completed. The Tarnished will now have the option to choose their ending by interacting with Marika's statue, or, if present, Ranni's summon sign. If The Tarnished possesses the Frenzied Flame, Ranni's summon sign will not appear unless the Frenzied Flame is ridden byMiquella's Needle. In this case, the only option will be to interact with Marika's statue, and the Lord of Frenzied Flame ending will automatically begin, offering no alternative choice at all.
+Interacting with Marika's statue without the Frenzied Flame will allow The Tarnished to choose from one of three possible mending runes to repair the Elden Ring that can obtained during their adventures. Once the respective rune has been chosen, the Age of Order, Age of the Duskborn, or Blessing of Despair ending will begin. A fourth option to "Mend the Elden Ring" without a rune is always available, and if chosen, results in the Age of Fracture ending.
+If present, interacting with the Ranni's summon sign, instead of Marika's statue, will begin the Age of the Stars ending.
+In all cases, the nearby Grace can be used to teleport anywhere else and return later, allowing the ending to be postponed and play to continue.
+To begin a New Game+, an ending must be chosen. To then do so, after the end credi
+
+---
+
+area: Limgrave
+chapter: 1
+name: Miquella's Needle
+Miquella's Needleis aTool IteminElden Ring.
+This item is part ofMillicent's questline.
+One of the unalloyed gold needles that Miquella crafted to ward away the meddling of outer gods.
+Capable of subduing the flame of frenzy if inherited, allowing one to cheat fate and avoid becoming Lord of Frenzied Flame.
+However, the needle is as yet unfinished and can only be used in the heart of the storm beyond time said to be found in Farum Azula.
+Area: after completeling Millicent's questline by assisting her against her sisters to retrieve theUnalloyed Gold Needle, defeatMalenia, Blade of Miquellaand, upon reloading the area, interact with the Scarlet Aeonia flower.
+This item can only be used within the arena ofDragonlord PlacidusaxinCrumbling Farum Azula: dispells the Flame of Frenzy inherited from theThree Fingersin the depths ofLeyndell, allowing to attain a different ending from theLord of Frenzied Flamefinale.
+OnceMiquella's Needleis used, the burn marks from theThree Fingerswill remain, however theFrenzied Flameeye variation will be removed. The burn marks may be removed byRennaladuring character customization, it may also be reapplied at any time.
+
+---
+

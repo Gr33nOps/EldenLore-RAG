@@ -1,0 +1,56 @@
+area: Limgrave
+chapter: 1
+name: Unused Content
+Unused contentrefers to content that is inside the games files but cannot be accessed through normal means. This content is usually found by datamining processes or hacking the game, and is not intended for the audiences to be found.
+Content usually ends up unused because they are either unfinished or no longer fit the game. Some unused content never sees the light of the day while other is reused or repurposed in future installments.
+Unused icons contain previous iterations of current icons, and nixed content. Some have associated proper names, due to inference or games files, while others are completely unnamed. These objects are still present in the game files.[citation needed]
+Icons that were in theversion 1.0of the game, but were changed or removed in subsequent updates.
+Icons that were present in the Closed Network Test but differ from the ones in the final release of the game.
+Reeling Ricois an unused NPC who used the Ragged Set, which is also cut from the final version of the game, and is tied to anunused questlineinvolving dreams, alcohol, and St. Trina. The quest enabled the player to offer "Dreambrew" to other NPCS, allegedly to discover their secrets. For other NPCs, onlydialogue for when offering the brewremains.
+His Armor Set would later be reused forIgoninShadow of the Erdtree
+Redeemer Guilbert is an unused NPC who is part of a nixed faction called the Redeemers.Datamined datasuggests he might have used Jerren's Set, and was supposed to be where Yura is now found. Onlyhis audio filesseem to remain.
+Shanehaightis an unused NPC. He is a noble fromLeyndell, Royal Capitaland has asmall questtied to him.
+Cut questlines that can not be accessed in the final game, but that were restored by Content Creators.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Abandoned Cave
+Abandoned Caveis a dungeon inELDEN RING(2022)
+A cave etched into the cliffs in northern Caelid, above the ravine leading to theDeep Siofra Well. The cave is swamped inScarlet Rot, and littered with the inactive husks ofIron Virgins.
+The cave can be accessed by crossing a root from the west side of the ravine to the east, past an operating Iron Virgin. Inside the cave, geysers of rot burst from the ground at intervals. Deep within the chamber, two stragglers fromMalenia'sarmy can be found.
+Go directly east from the Smoldering Wall site of grace.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Fell God
+The fell god still lurks within the Fire Giants.
+Thefell god,[1]also known as theone-eyed god,[2]is anunseen characterinELDEN RING(2022). It is the source of theGiants' FlameandGiants' Flame Incantations.
+The fell god is an ancientdeityworshiped by theFire Giants. It is commonly referred to with a myriad of derogatory terms by the inhabitants of theLands Between, such as the "corrupt", "grotesque", "malformed", "fell" or "evil" god of the Fire Giants. It is represented in the visage of a single eye with a fiery-orange iris and nine pupils within.
+It physically manifests itself in the shape of a grotesque face in the torsos of its followers, channeling its power through them, its greatest flames emerging from its mouth (commonly located in the host giant's stomach) along with the undying flames found seeded within theirgiant black forgeenabling its followers to develop innumerable fireincantations.
+The fell god of fire has been around for a long time and predates theErdtree. It was a dreaded figure in the old legends of thehornsentofEnir-Ilim.[3]It was worshiped by the Fire Giants,[2]who it cursed for eternity to tend the Flame within theForge of the Giants.[1]
+The powers of the Flame were once deemed as a threat to the Erdtree byQueen Marikaand theGolden Orderand thus they waged a bloodyWar Against the Giants. Once the Fire Giants were defeated,[1]Queen Marika realized the fires of their forge could not die and thus sealed it away,[4]reducing its once formidable flame into mere embers and cursing the last surviving Fire Giant to keep them so for all eternity.[5]
+Even then, after countless years, innumerableProphetswould be haunted by visions of its flames consuming the Erdtree.[6]And the one-eyed god still lurks dormant within its subjects,[7]on the cusp of being awakened at any moment with a sufficient sacrificial offering.
+Items related to or referencing the One-Eyed God
+
+---
+
+area: Limgrave
+chapter: 1
+name: The Greater Will
+Long ago, we began asstardust, born of a great rupture far across the skies. We, too, are children of the Greater Will. Is that not divine? Is that not sublime?
+TheGreater Willis anunseen characterinELDEN RING(2022).
+TheGreater Willis a mysterious and supremely powerful entity or force from beyond that has great influence over theLands Between. The vassals and envoys of the Greater Will are central to theGolden Order. It inhabits a lightless void outside the Lands Between.[1]
+Long ago, the Greater Will fractured theOne Great, creating births and souls.[2]The adherents of theThree Fingersconsider this action to be a mistake, because it resulted in torment, despair, affliction, sins, and curses.
+Together with a golden star, the Greater Will once sent anElden Beastto theLands Betweenthat would later become theElden Ring.[3]This beast was its vassal, and the living incarnation of the concept of Order.[4]The Greater Will has other vassals and envoys known as theTwo Fingers,[5]who speak in a sign language of light.[6]The mother of the Two Fingers isMetyr, who in turn is a daughter of the Greater Will and the first shooting star to fall upon the Lands Between.[7]
+Before theage of the Erdtree,[8]the denizens of theEternal Citiesrebelled against the Greater Will. To shield themselves from its influence, theNoxdonned ritualmirrorhelmsto block its intervention and that of its vassals.[9]In an act of blasphemy, they drew the ire of the Greater Will by wielding theFingerslayer Bladeagainst one of its vassals.[10]In response to this transgression, the Greater Will unleashedAstel, whose destruction of the Eternal Cities condemned them to an existence underground.[11]
+During the age of the Erdtree begun byQueen Marika the Eternal[12]and at least the era immediately preceding it, the Greater Will's envoy Two Fingers selectedEmpyreansas candidates to become the God of the coming age.[13]Queen Marika was one such candidate, and created the Golden Order by confining theRune of Death.[14]However, Marika would eventually shatter the Elden Ring,[15]leading to herdemigodoffspring inheriting theGreat Runeswhich in turn would trigger a war known asthe Shattering.[16]The Greater Will abandoned the demigods following the Shattering, as none managed to claim title of Elden Lord.[17]
+According to the Two Fingers, the Greater Will has not abandoned the realm, nor the life that inhabits it, proclaiming this is why theTarnishedhave been extended theGuidance of Grace.[18]After the Tarnished returned to the Lands Between following the Shattering, the Two Fingers, at the behest of the Greater Will, bade them kill the demigods in order to claim their Great Runes to becomeElden Lordby becoming Marika's consort,[19]as the Greater Will had long since renounced the demigods.[20]
+In the time ofthe Tarnished, it was discovered that the entrance to the Erdtree was blocked by impenetrable thorns, preventing anyone from becoming Elden Lord. This caused the Two Fingers to commune with the Greater Will in search of answers, which may take thousands or tens of thousands of moons.[21][22]When the Tarnished suggested burning the Erdtree, which would unbind Destined Death and slay the world itself,[23]Finger Reader Enia exclaimed that the Fingers and the Greater Will would never allow it.[24]
+After the Tarnished caused theVolcano Manor'srecusants to disband following the defeat ofRykard, Lord of Blasphemy, the recusant known asKnight Bernahldeclared himself the inheritor of his comrade recusant's will. He declared their refusal to become the Greater Will's pawns and swore it would fall by his blade.[25]
+
+---
+

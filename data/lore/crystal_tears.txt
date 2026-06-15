@@ -1,0 +1,589 @@
+area: Limgrave
+chapter: 1
+name: Crystal Tears | Elden Ring Wiki
+Crystal TearsinElden RingareKey Itemsthat can be mixed in theFlask of Wondrous Physickfor various special effects andbuffs. This page covers their names, effects, durations, andLocations. These for the most part stack with additional buffs that can be applied to your character, and you are limited to only twoCrystal Tearsthat can be put in your flask.
+Crystal Tears, and theFlask of Wondrous Physick, are kept inNew Game+. They are also unique, meaning that they cannot be found in subsequent Journeys.
+Shadow of the Erdtreeadds 8 newCrystal Tears, all of which can only be acquired from defeatingFurnace Golems.
+TwoCrystal Tearscan be mixed into the flask at a time when visitingSites of Grace. Its use will be replenished after resting at a site of grace.
+There are no limitations to which twoCrystal Tearsare combined.
+There are a total of40Crystal Tearsthat can be found ingame.
+Of the availableCrystal Tears, a select few can be found in pairs:
+Crimson Crystal Tear- Together completely restoresHP
+Cerulean Crystal Tear- Together completely restoresFP
+Ruptured Crystal Tear- Together amplifies the damage of resulting explosion
+Ranking Every Crystal Tear in Elden Ring - Tier List
+Quick Search of All Shadow of the Erdtree Crystal Tears
+Recommended Search Terms:HP, FP, Stamina, StatsOffensive, Defensive,Elemental DMG
+A special crystallization formed over the course of many moons within a tear of life, a blessing of the Erdtree. The resulting concoction restores half of one's maxHP.
+A crystal tear formed slowly over the ages where the Erdtree's bounty falls to the ground. The resulting concoction temporarily boosts max HP.
+A crystal tear formed slowly over the ages where the Erdtree's bounty falls to the ground. The resulting concoction gradually restores one'sHPover time.
+A special crystallization formed over the course of many moons within a tear of life, a blessing of the Erdtree. The resulting concoction restores 20% of one's maxFP.
+A crystal tear formed slowly over the ages where the Erdtree's bounty falls to the ground. The resulting concoction temporarily raises one's maximum stamina.
+A crystal tear formed slowly over the ages where the Erdtree's bounty falls to the ground. The resulting concoction gradually restores one's stamina over time.
+Crystal TearsareKey Itemsused to apply temporary buffs inELDEN RING(2022). When resting at aSite of Grace, up to two Crystal Tears can be mixed into theFlask of Wondrous Physickto bestow temporary buffs when consuming the flask. The effect and duration of these buffs depend on the Crystal Tears used. The flask can only be used once, after which it can be replenished by resting at a Site of Grace.
+Crystal Tears are often dropped by minibosses nearMinor Erdtrees(especiallyErdtree Avatars), found in stone receptacles across theLands Between, or dropped byFurnace Golemsin theRealm of Shadow.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Crimson Crystal Tear | Elden Ring Wiki
+Crimson Crystal Tearis aCrystal TearinElden Ring.Crystal Tearscan be used and mixed to enhance the effects of theFlask of Wondrous Physick.
+A crystal tear formed slowly over the ages where the Erdtree's bounty falls to the ground.
+Can be mixed in the Flask of Wondrous Physick.The resulting concoction restores half of one's maximum HP.
+In front of the statue inThird Church of Marika. [Map Link]
+Found on an altar guarded by enemies at the base of theMinor ErdtreeinCapital Outskirts. [Map Link]
+You can findCrystal Tearsat the bases of Minor Erdtrees and elsewhere throughout the Lands Between
+At sites of grace, you can mix two crystal tears in theFlask of Wondrous Physick(This will allow you to create elixirs with various custom effects)
+Crimson Crystal Tearis a key item inELDEN RING(2022).
+Acrystal tearformed slowly over the ages where theErdtree's bounty falls to the ground.
+Can be mixed in theFlask of Wondrous Physick.The resulting concoction restores half of one's maximum HP.
+Loot:Third Church of Marika(Limgrave)/Minor Erdtree(Capital Outskirts))
+RestoresHPequal to50%of maximum HP when theFlask of Wondrous Physickis used if only one of the tears is equipped, or100%of the user's health is both are equipped.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Cerulean Crystal Tear | Elden Ring Wiki
+Cerulean Crystal Tearis aCrystal TearinElden Ring.Crystal Tearscan be used and mixed to enhance the effects of theFlask of Wondrous Physick.
+A crystal tear formed slowly over the ages where the Erdtree's bounty falls to the ground.
+Can be mixed in the Flask of Wondrous Physick.The resulting concoction restores half of one's maximum FP.
+Ranking Every Crystal Tear in Elden Ring - Tier List
+One dropped by theErdtree Avatarthat resides inLiurnia of the Lakes. [Map Link]
+One dropped by theErdtree Avatarguarding theMinor Erdtree (Mountaintops East). [Map Link]
+Using bothCerulean Crystal Tearsin theFlask of Wondrous Physickwill fully restores your FP
+You can find Crystal Tears at the bases of Minor Erdtrees and elsewhere throughout the Lands Between
+At sites of grace, you can mix two crystal tears in theFlask of Wondrous Physick(This will allow you to create elixirs with various custom effects)
+Cerulean Crystal Tearis aCrystal TearinELDEN RING(2022). Two instances of this tear exist.
+Can be mixed in the Flask of Wondrous Physick. The resulting concoction restores half of one's maximum FP.
+Guaranteed drop:Minor Erdtree(Liurnia of the Lakes)/Minor Erdtree(Mountaintops of the Giants)
+When mixed in theFlask of Wondrous Physick, it restoresFPequal to50%of maximum FP on use. If both instances of the tear are used,100%of FP is restored.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Crimsonburst Crystal Tear | Elden Ring Wiki
+Crimsonburst Crystal Tearis aCrystal TearinElden Ring.Crystal Tearscan be mixed in theFlask of Wondrous Physickto enhance its effect.
+A crystal tear formed slowly over the ages where the Erdtree'sbounty falls to the ground.
+Can be mixed in the Flask of Wondrous Physick.The resulting concoction gradually restores one's HP over time.
+Crimsonburst Crystal Tearcan be found in the following location(s):
+Weeping Peninsulabeneath the Minor Erdtree: Dropped by theErdtree Avatarboss upon defeat. [Map Link]
+Does NOT stack with Incantations such as,Blessing's Boon,Blessing of the Erdtree, orBestial Vitality
+You can find Crystal Tears at the bases of Minor Erdtrees and elsewhere throughout the Lands Between
+At sites of grace, you can mix two crystal tears in theFlask of Wondrous Physick(This will allow you to create elixirs with various custom effects)
+This is aHealth RegenBuffand will not stack with othertemporarybuffs of the same type.SeeBuffs and Debuffsfor more information on stacking buffs.
+SeeBuffs and Debuffsfor more information on stacking buffs.
+ER Shadow of the Erdtree Storm Arrow Build Written Guide
+Crimsonburst Crystal Tearis a key item inELDEN RING(2022).
+Acrystal tearformed slowly over the ages where theErdtree's bounty falls to the ground.
+Can be mixed in theFlask of Wondrous Physick.The resulting concoction gradually restores one's HP over time.
+Guaranteed Drop:Minor Erdtree (Weeping Peninsula)(Weeping Peninsula)
+Restores 7HPper second for 180 seconds (1260 HP in total) afterFlask of Wondrous Physickis used.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Cerulean Hidden Tear | Elden Ring Wiki
+Cerulean Hidden Tearis aCrystal TearinElden Ring. Crystal Tears can be mixed in theFlask of Wondrous Physickto determine its effect.
+A crystal tear formed slowly over the ages where the Erdtree's bounty falls to the ground.
+Can be mixed in the Flask of Wondrous Physick.The resulting concoction removes all FP consumption.
+However, this effect is only brief and will quickly expire.
+Ranking Every Crystal Tear in Elden Ring - Tier List
+Mt. Gelmir: Drops from theUlcerated Tree Spiritat theMinor Erdtree, east of theRoad of Iniquitysite of grace. [Map link]
+FPis not consumed by any actions that normally consume FP for 10 seconds. (As of V1.12)
+You can perform actions that would normally consume more FP than your max (e.g. summoning expensiveSpirit Ashesthat you cannot afford normally).
+Weapon skills and spells that only consume FP, such asComet Azur,Crystal Torrent,Meteorite,Meteorite of Astel,Prelate's Charge,Rock Blaster,Spinning Wheel,Surge, O Flame!andUnendurable Frenzy, can be used continuously.
+Hasnoeffect onTongues of Fire, the weapon skill still consumes FP even when the tear is used.
+You can findCrystal Tearsat the bases ofMinor Erdtreesand elsewhere throughout the Lands Between.
+At sites of grace, you can mix two Crystal Tears in theFlask of Wondrous Physick. (This will allow you to create elixirs with various custom effects.)
+ER Shadow of the Erdtree Gravity Sorcerer Build Written Guide
+Cerulean Hidden Tearis akey iteminELDEN RING(2022).
+Can be mixed in the Flask of Wondrous Physick. The resulting concoction eliminates all FP consumption.
+Guaranteed drop:Minor Erdtree (Mt. Gelmir)(Mt. Gelmir)
+Reduces theFPconsumption of all actions to0for the next10seconds when used with theFlask of Wondrous Physick.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Stonebarb Cracked Tear | Elden Ring Wiki
+Stonebarb Cracked Tearis aCrystal TearinElden Ring.Crystal Tearscan be mixed in theFlask of Wondrous Physickto enhance its effect.
+A crystal tear formed slowly over the ages where the Erdtree's bounty falls to the ground.
+Can be mixed in the Flask of Wondrous Physick.The resulting concoction make one's attacks more likely to break an enemy's stance. However, the effect lasts only for a short time.
+Ranking Every Crystal Tear in Elden Ring - Tier List
+Obtained by defeating thePutrid Avatarnear the secondMinor ErdtreeinCaelid. [Map Link]
+You can findCrystal Tearsat the bases of Minor Erdtrees and elsewhere throughout the Lands Between
+At sites of grace, you can mix two crystal tears in theFlask of Wondrous Physick(This will allow you to create elixirs with various custom effects)
+Elden Ring Blue Baller Build Written Guide
+ER Shadow of the Erdtree Meteoric Marauder Build Written Guide
+ER Shadow of the Erdtree Dragonslayer Build Written Guide
+ER Shadow of the Erdtree Dragon Priestess Build Written Guide
+ER Shadow of the Erdtree Carian Sovereignty Build Written Guide
+ER Shadow of the Erdtree Black Hammer Build Written Guide
+Stonebarb Cracked Tearis akey iteminELDEN RING(2022).
+Can be mixed in the Flask of Wondrous Physick.The resulting concoction makes one's attacks more likely to break enemy stances. However, the effect lasts only for a short time.
+Guaranteed drop:Minor Erdtree(Greyoll's Dragonbarrow)
+IncreasesPoise,Stance, andStaminadamage by30%for30seconds after theFlask of Wondrous Physickis used.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Spiked Cracked Tear | Elden Ring Wiki
+Spiked Cracked Tearis aCrystal TearinElden Ring.Crystal Tearscan be mixed in theFlask of Wondrous Physickto enhance its effect.
+A crystal tear formed slowly over the ages where the Erdtree's bounty falls to the ground.
+Can be mixed in the Flask of Wondrous Physick.The resulting concoction increases the power of charged attacks for a certain duration.
+Ranking Every Crystal Tear in Elden Ring - Tier List
+Found on an altar next to theMinor ErdtreeinMistwoodalong with theGreenspill Crystal Tear. [Map Link]
+Stack with theRoar MedallionandHighland Axewhen executing charged heavy attacks after usingWar Cry,Barbaric Roar, orBraggart's Roar.
+Stacks with theAxe Talisman(charged attacks +10%)
+About +26% when paired with Axe Talisman (See below)Data acquired by testing on a giant, always hitting the same leg part and repeated the test multiple times.Vanilla charged attack: 329.Charged attack with talisman: 362 ⇒ 10.03% increase.Charged attack with Spiked Cracked Tear: 378 ⇒ 14.89% increase (we can assume this is due to some rounding of the displayed damage numbers, it's most likely 15%).Charged attack with both talisman and tear buff: 414 ⇒ 25.84% increase (again we can assume this is due to some rounding of the displayed damage numbers, it's most likely 26%).
+Data acquired by testing on a giant, always hitting the same leg part and repeated the test multiple times.
+Charged attack with talisman: 362 ⇒ 10.03% increase.
+Charged attack with Spiked Cracked Tear: 378 ⇒ 14.89% increase (we can assume this is due to some rounding of the displayed damage numbers, it's most likely 15%).
+Charged attack with both talisman and tear buff: 414 ⇒ 25.84% increase (again we can assume this is due to some rounding of the displayed damage numbers, it's most likely 26%).
+You can findCrystal Tearsat the bases of Minor Erdtrees and elsewhere throughout the Lands Between
+At sites of grace, you can mix two crystal tears in theFlask of Wondrous Physick(This will allow you to create elixirs with various custom effects)
+Elden Ring Black Guard Build Written Guide
+ER Shadow of the Erdtree Pyromancer Perfumer Build Written Guide
+ER Shadow of the Erdtree Devonia's Hammer Build Written Guide
+ER Shadow of the Erdtree Messmer Soldier's Spear Build - Storm Blessed Build
+Spiked Cracked Tearis a key item inELDEN RING(2022).
+A crystal tear formed slowly over the ages where theErdtree's bounty falls to the ground.
+Can be mixed in theFlask of Wondrous Physick.The resulting concoction increases the power of charged attacks for a certain duration.
+Deal15%more damage with charged heavy attacks for180seconds afterFlask of Wondrous Physickis used.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Strength-knot Crystal Tear | Elden Ring Wiki
+Strength-knot Crystal Tearis aCrystal TearinElden Ring.Crystal Tearscan be mixed in theFlask of Wondrous Physickto enhance its effect.
+A crystal tear formed slowly over the ages where the Erdtree's bounty falls to the ground.
+Can be mixed in the Flask of Wondrous Physick.The resulting concoction temporarily boosts one's strength.
+Strength-Knot Crystal Tearcan be found in the following location:
+Stormhill: Head Northeast fromStormhill Shackto the cliffs. Look for a small, stone receptacle on the ground. [Map Link]
+Elden Ring Vanquisher Build Written Guide
+Elden Ring Gold Breaker Build Written Guide
+Elden Ring Blue Baller Build Written Guide
+Ranking Every Crystal Tear in Elden Ring - Tier List
+You can find Crystal Tears at the bases of Minor Erdtrees and elsewhere throughout the Lands Between
+At sites of grace, you can mix two crystal tears in theFlask of Wondrous Physick(This will allow you to create elixirs with various custom effects)
+
+---
+
+area: Limgrave
+chapter: 1
+name: Dexterity-knot Crystal Tear | Elden Ring Wiki
+Dexterity-knot Crystal Tearis aCrystal TearinElden Ring.Crystal Tearscan be mixed in theFlask of Wondrous Physickto enhance its effect.
+A crystal tear formed slowly over the ages where the Erdtree's bounty falls to the ground.
+Can be mixed in the Flask of Wondrous Physick.The resulting concoction temporarily boosts one's dexterity.
+Can be found at the top of a small island atLiurnia of the Lakes. Southwest of Boilprawn Shack. [Map Link]
+You can find Crystal Tears at the bases of Minor Erdtrees and elsewhere throughout the Lands Between
+At sites of grace, you can mix two crystal tears in theFlask of Wondrous Physick(This will allow you to create elixirs with various custom effects)
+Elden Ring Vanquisher Build Written Guide
+Elden Ring Gold Breaker Build Written Guide
+Elden Ring Spellthief Build Written Guide
+Elden Ring Samurai Sniper Build Written Guide
+ER Shadow of the Erdtree Pyromancer Perfumer Build Written Guide
+Ranking Every Crystal Tear in Elden Ring - Tier List
+
+---
+
+area: Limgrave
+chapter: 1
+name: Intelligence-knot Crystal Tear | Elden Ring Wiki
+Intelligence-knot Crystal Tearis aCrystal TearinElden Ring.Crystal Tearscan be mixed in theFlask of Wondrous Physickto enhance its effect.
+A crystal tear formed slowly over the ages where the Erdtree's bounty falls to the ground.
+Can be mixed in the Flask of Wondrous Physick.The resulting concoction boosts one's intelligence for a certain duration.
+Where to FindIntelligence-knot Crystal Tear:
+From Road to the Manor Site of Grace, get to the bottom of the cliff (directly East) and follow the cliff's wall North. Guarded by a fewLesser Fingercreepersand oneFingercreeper. [Map Link]
+Note: Despite the map showing a road down from the Main Caria Manor Gate grace point, there is no safe path to reach the knot from here as it's actually a very tall cliff. Instead, if you go to the east side of the nearby Kingsrealm Ruins, you will have a cliff that is at a low enough height to safely drop from.
+Elden Ring Spellthief Build Written Guide
+You can findCrystal Tearsat the bases of Minor Erdtrees and elsewhere throughout the Lands Between
+At sites of grace, you can mix two crystal tears in theFlask of Wondrous Physick(This will allow you to create elixirs with various custom effects)
+
+---
+
+area: Limgrave
+chapter: 1
+name: Faith-knot Crystal Tear | Elden Ring Wiki
+Faith-knot Crystal Tearis aCrystal TearinElden Ring.Crystal Tearscan be mixed in theFlask of Wondrous Physickto enhance its effect.
+A crystal tear formed slowly over the ages where the Erdtree's bounty falls to the ground.
+Can be mixed in the Flask of Wondrous Physick.The resulting concoction temporarily boosts one's faith.
+North of theDemi-Human Forest Ruins. Directly east of theChurch of Pilgrimage, just down the cliff. It's in a bowl under a tree and surrounded by poison flower enemies. [Map Link]
+You can find Crystal Tears at the bases of Minor Erdtrees and elsewhere throughout the Lands Between
+At sites of grace, you can mix two crystal tears in theFlask of Wondrous Physick(This will allow you to create elixirs with various custom effects)
+Ranking Every Crystal Tear in Elden Ring - Tier List
+
+---
+
+area: Limgrave
+chapter: 1
+name: Opaline Bubbletear | Elden Ring Wiki
+Opaline Bubbletearis aCrystal TearinElden Ring.Crystal Tearscan be mixed in theFlask of Wondrous Physickto enhance its effect.
+A crystal tear formed slowly over the ages where the Erdtree's bounty falls to the ground.
+Can be mixed in the Flask of Wondrous Physick.Provides significant damage negation.
+However, this effect only occurs once, and will expire after a certain duration.
+Ranking Every Crystal Tear in Elden Ring - Tier List
+Opaline Bubbletearcan be found in the following location(s):
+Weeping Peninsula, beneath the Minor Erdtree: Dropped by theErdtree Avatarboss upon defeat. [Map Link]
+Increases all damage negation types by 90% for 3 minutes or until hitIf guarding with a shield, the bubble will not pop on hit.This requires a shield with 100% damage negation.If guarding while two-handing, the bubble will pop on hit.
+If guarding with a shield, the bubble will not pop on hit.This requires a shield with 100% damage negation.
+This requires a shield with 100% damage negation.
+If guarding while two-handing, the bubble will pop on hit.
+Damage negation stacks withUplifting Aromatic, but the number of hits until it breaks is unchanged.
+SeeBuffs and Debuffsfor more information on stacking buffs.
+You can findCrystal Tearsat the bases of Minor Erdtrees and elsewhere throughout the Lands Between
+At sites of grace, you can mix two crystal tears in theFlask of Wondrous Physick(This will allow you to create elixirs with various custom effects)
+ER Shadow of the Erdtree Dragon God Build Written Guide
+Opaline Bubbletearis a key item inELDEN RING(2022).
+A crystal tear formed slowly over the ages where theErdtree's bounty falls to the ground.
+Can be mixed in theFlask of Wondrous Physick.Provides significant damage negation.
+Guaranteed drop:Minor Erdtree(Weeping Peninsula)
+Increases All Damage Negation by+90%until the user is hit or for180seconds after theFlask of Wondrous Physickis used.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Lightning-Shrouding Cracked Tear | Elden Ring Wiki
+Lightning-Shrouding Cracked Tearis aCrystal TearinElden Ring. Crystal Tears can be mixed in theFlask of Wondrous Physickto enhance its effect.You can findCrystal Tearsat the bases of Minor Erdtrees and elsewhere throughout the Lands Between.
+A crystal tear formed slowly over the ages where the Erdtree's bounty falls to the ground.
+Can be mixed in the Flask of Wondrous Physick.The resulting concoction temporarily boosts the power of one's lightning attacks.
+Dropped byErdtree AvatarinMinor Erdtree (Liurnia Northeast)in NortheasternLiurnia of the Lakes.Elden Ring Interactive Map Link
+Stacks with theLightning Scorpion Charm(12%).
+Note:Patch 1.09:Effect reduced from 15% to 12.5% inPvP.
+Ranking Every Crystal Tear in Elden Ring - Tier List
+Elden Ring Samurai Sniper Build Written Guide
+ER Shadow of the Erdtree Twin Axe Death Knight Build Written Guide
+ER Shadow of the Erdtree Dragon Priestess Build Written Guide
+
+---
+
+area: Limgrave
+chapter: 1
+name: Holy-Shrouding Cracked Tear | Elden Ring Wiki
+Holy-Shrouding Cracked Tearis aCrystal TearinElden Ring. Crystal Tears can be mixed in theFlask of Wondrous Physickto enhance its effect.
+A crystal tear formed slowly over the ages where the Erdtree's bounty falls to the ground.
+Can be mixed in the Flask of Wondrous Physick.The resulting concoction temporarily boosts the power of one's holy attacks.
+Ranking Every Crystal Tear in Elden Ring - Tier List
+Dropped byErdtree AvatarinMinor Erdtree (Liurnia Northeast)in NortheasternLiurnia of the Lakes.Elden Ring Interactive Map Link
+You can findCrystal Tearsat the bases of Minor Erdtrees and elsewhere throughout the Lands Between
+At sites of grace, you can mix two crystal tears in theFlask of Wondrous Physick(This will allow you to create elixirs with various custom effects)
+Note:Patch 1.09: Effect reduced from 15% to 12.5% inPvP.
+Elden Ring Goldem Sword Sage Build Written Guide
+Elden Ring Sword Saint Build Written Guide
+Elden Ring Gold Breaker Build Written Guide
+ER Shadow of the Erdtree Divine Warrior Build Written Guide
+ER Shadow of the Erdtree Black Hammer Build Written Guide
+
+---
+
+area: Limgrave
+chapter: 1
+name: Opaline Hardtear | Elden Ring Wiki
+Opaline Hardtearis aCrystal TearinElden Ring.Crystal Tearscan be mixed in theFlask of Wondrous Physickto enhance its effect.
+A crystal tear formed slowly over ages where the Erdtree's bounty falls to the ground.
+Can be mixed in the Flask of Wondrous Physick.The resulting concoction temporarily boosts all forms of damage negation.
+Dropped byPutrid Avatarnext to the Minor Erdtree north ofFort FarothinCaelid. [Map Link]
+Increases all damage negation types by 15% for 3 minutes.The bonus is reduced to 10% in PvP.
+Can stack with other sources of protection(talismans, consumables, spells)When paired withGolden Vow, Defensive Incantations or Dried Livers /Boiled Crab, and theDragoncrest Greatshield Talisman/Pearldrake Talismans, can grant upwards of 70% damage negation to the desired style(s); which becomes extremely useful in higher new game cycles.
+When paired withGolden Vow, Defensive Incantations or Dried Livers /Boiled Crab, and theDragoncrest Greatshield Talisman/Pearldrake Talismans, can grant upwards of 70% damage negation to the desired style(s); which becomes extremely useful in higher new game cycles.
+You can findCrystal Tearsat the bases of Minor Erdtrees, and elsewhere throughout the Lands Between.
+At sites of grace, you can mix two crystal tears in theFlask of Wondrous Physick. (This will allow you to create elixirs with various custom effects.)
+ER Shadow of the Erdtree Dark Paladin Build Written Guide
+ER Shadow of the Erdtree Bloody Beastclaw Build Written Guide
+ER Shaodw of the Erdtree Void Knight Build Written Guide
+ER Shadow of the Erdtree Maternal Mage Build Written Guide
+ER Shadow of the Erdtree Dragon God Build Written Guide
+ER Shadow of the Erdtree Fire Knight Impaler Build Written Guide
+ER Shadow of the Erdtree Meteoric Marauder Build Written Guide
+ER Shadow of the Erdtree Star-Lined Samurai Build Written Guide
+ER Shadow of the Erdtree Divine Warrior Build Written Guide
+ER Shadow of the Erdtree Shadowblade Build Written Guide
+ER Shadow of the Erdtree Carian Knight Build Written Guide
+ER Shadow of the Erdtree Dragonslayer Build Written Guide
+ER Shadow of the Erdtree Dragon Priestess Build Written Guide
+ER Shadow of the Erdtree Swordsman of St. Trina Build Written Guide
+ER Shadow of the Erdtree Blood Lancer Build Written Guide
+Ranking Every Crystal Tear in Elden Ring - Tier List
+Opaline Hardtearis akey iteminELDEN RING(2022).
+A crystal tear formed slowly over the ages where the Erdtree's bounty falls to the ground.
+Guaranteed drop:Minor Erdtree(Greyoll's Dragonbarrow)
+Increases all damage negation by15%(10%against other players), for180seconds.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Crimson Bubbletear | Elden Ring Wiki
+Crimson Bubbletearis aCrystal TearinElden Ring.Crystal Tearscan be mixed in theFlask of Wondrous Physickto enhance its effect.
+A crystal tear formed slowly over the ages where the Erdtree's bounty falls to the ground.
+Can be mixed in the Flask of Wondrous Physick.The resulting concoction automatically heals one's HP in the moment before death.
+However, this effect only occurs once, and will expire after a certain duration.
+Ranking Every Crystal Tear in Elden Ring - Tier List
+Crimson Bubbletearcan be found in the following location:
+Dropped by theErdtree Avatarguarding theMinor Erdtreein the east of theMountaintops of the Giants. [Elden Ring Interactive Map Link]
+Restores ⌊MaxHP * 0.3⌋ Health when below 21% health
+Effect lasts for 3 minutes or when the HP restoration triggers
+Will NOT PREVENT DEATH from damage that would otherwise kill the player
+You can findCrystal Tearsat the bases of Minor Erdtrees and elsewhere throughout the Lands Between
+At sites of grace, you can mix two crystal tears in theFlask of Wondrous Physick(This will allow you to create elixirs with various custom effects)
+Crimson Bubbletearis akey iteminELDEN RING(2022).
+Guaranteed drop:Minor Erdtree(Mountaintops of the Giants)
+RestoresHPequal to30%of maximum HP the first time an attack brings the user's HP to below21%for180seconds afterFlask of Wondrous Physickis used.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Winged Crystal Tear | Elden Ring Wiki
+Winged Crystal Tearis aCrystal TearinElden Ring.Crystal Tearscan be mixed in theFlask of Wondrous Physickto enhance its effect.
+A crystal tear formed slowly over the ages where the Erdtree's bounty falls to the ground.
+Can be mixed in theFlask of Wondrous Physick.Temporarily reduces equipment load.
+Found on an altar surrounded bySkeletal Snailsjust inside theCapital Outskirtsto the east-northeast of theHermit Merchant's Shack. [Map Link]
+ER Shadow of the Erdtree Blood Lancer Build Written Guide
+ER Shadow of the Erdtree Piercing Paladin Build Written Guide
+ER Shadow of the Erdtree Carian Sovereignty Build Written Guide
+ER Shadow of the Erdtree Night Claws Build Written Guide
+Boosts max equip load by +450% for 3 minutes
+Winged Crystal Tearis akey iteminELDEN RING(2022).
+Can be mixed in the Flask of Wondrous Physick.Temporarily reduces equipment load.
+When mixed into theFlask of Wondrous Physickand used, increases the user'sEquip Loadby450%for180seconds.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Twiggy Cracked Tear | Elden Ring Wiki
+Twiggy Cracked Tearis aCrystal TearinElden Ring.Crystal Tearscan be mixed in theFlask of Wondrous Physickto enhance its effect.
+A crystal tear formed slowly over the ages where the Erdtree's bounty falls to the ground.
+Can be mixed in the Flask of Wondrous Physick.The resulting concoction prevents one's runes from being lost upon death.
+However, the effect lasts only for a short time.
+Ranking Every Crystal Tear in Elden Ring - Tier List
+Found on an altar guarded by enemies at the base of theMinor ErdtreeinCapital Outskirts. [Map Link]
+You can findCrystal Tearsat the bases of Minor Erdtrees and elsewhere throughout the Lands Between.
+At sites of grace, you can mix two crystal tears in theFlask of Wondrous Physick. (This will allow you to create elixirs with various custom effects.)
+Possible uses include:Explore new high risk areas, eg. to collect items, reach new parts of the map, or expand your knowledge of the land.Retrieve dropped runes from dangerous situations or boss arenas.Check your DPS output against bosses without risking rune loss.Check if a fall would be fatal.
+Explore new high risk areas, eg. to collect items, reach new parts of the map, or expand your knowledge of the land.
+Retrieve dropped runes from dangerous situations or boss arenas.
+Check your DPS output against bosses without risking rune loss.
+See also:Sacrificial Twig, which is aTalismanthat works in the same way but is lost on death.
+Twiggy Cracked Tearis akey iteminELDEN RING(2022).
+Can be mixed in the Flask of Wondrous Physick.The resulting concoction prevents one's runes from being lost upon death. However, the effect lasts only for a short time.
+Prevents the loss ofRunesupon death for180seconds (except for deaths caused byDeath Blight).
+
+---
+
+area: Limgrave
+chapter: 1
+name: Leaden Hardtear | Elden Ring Wiki
+Leaden Hardtearis aCrystal TearinElden Ring.Crystal Tearscan be mixed in theFlask of Wondrous Physickto enhance its effect.
+A crystal tear formed slowly over the ages where the Erdtree's bounty falls to the ground.
+Can be mixed in the Flask of Wondrous Physick.The resulting conconction temporarily boosts one's poise.
+Ranking Every Crystal Tear in Elden Ring - Tier List
+Drops fromUlcerated Tree SpiritinMt. Gelmir. [Elden Ring Map Link]
+Acts as a pseudo-hyperarmor buff that prevents stagger from certain damage levels for 10 seconds.
+You can findCrystal Tearsat the bases of Minor Erdtrees and elsewhere throughout the Lands Between.
+At sites of grace, you can mix two crystal tears in theFlask of Wondrous Physick(this will allow you to create elixirs with various custom effects).
+Leaden Hardtearis akey iteminELDEN RING(2022).
+Can be mixed in the Flask of Wondrous Physick.The resulting concoction temporarily boosts one's poise.
+Guaranteed drop:Minor Erdtree(Mt. Gelmir)
+Prevents stagger from Damage Level1,2,3,5, and8attacks for10seconds afterFlask of Wondrous Physickis used.
+This includes all attacks that do not cause knockdown or launch you into the air.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Bloodsucking Cracked Tear | Elden Ring Wiki
+Bloodsucking Cracked Tearis aCrystal TearinElden Ring.Bloodsucking Cracked Tearis a brand new Crystal Tear in theShadow of the Erdtree DLC.Crystal Tearscan be mixed in theFlask of Wondrous Physickto enhance its effect.
+A crystal tear formed slowly over the ages, where the scattered sap of the Scadutree pools deep within the furnace golems.
+Can be mixed in the Flask of Wondrous Physick. The resulting concoction temporarily increases attack power but drains HP over time.
+Ruins of Unte: Defeat theFurnace Golemthat requires to be lit by throwing aHefty Furnace Poton its furnace head. Killing the creature drops this item, along with x1Furnace Visage. [See Shadow of the Erdtree Map]
+At sites of grace, you can mix two crystal tears in theFlask of Wondrous Physick.
+This will allow you to create elixirs with various custom effects.
+ER Shadow of the Erdtree Storm Arrow Build Written Guide
+Ranking Every Crystal Tear in Elden Ring - Tier List
+ER Shadow of the Erdtree Storm Blade Samurai Build Written Guide
+ER Shadow of the Erdtree Blood Lancer Build Written Guide
+ER Shadow of the Erdtree Staff of the Great Beyond Guide
+ER Shadow of the Erdtree Messmer Soldier's Spear Build - Storm Blessed Build
+ER Shadow of the Erdtree Night Claws Build Written Guide
+Bloodsucking Cracked Tearis atearinELDEN RING(2022).
+Guaranteed drop:Ruins of Unte(Scadu Altus)
+Increases damage by20%(12.5%against other players) but drainsHPequal to (0.2%of maximum HP +20) every second for180seconds.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Ruptured Crystal Tear | Elden Ring Wiki
+Ruptured Crystal Tearis aCrystal TearinElden Ring.Crystal Tearscan be used and mixed to enhance the effects of theFlask of Wondrous Physick. You can findCrystal Tearsat the bases of Minor Erdtrees and elsewhere throughout the Lands Between.
+A crystal tear formed slowly over the ages where the Erdtree's bounty falls to the ground.
+Can be mixed in the Flask of Wondrous Physick.Causes concoction to explode.
+A defective crystal tear which possesses absolutely no medicinal qualities. A lesson said to be learned the hard way for some; faith can be a volatile matter, after all.
+Dropped by theErdtree Avatarthat resides inLiurnia of the Lakes. [Map Link]
+Dropped byPutrid Avatarat the Minor Erdtree in theConsecrated Snowfield, east ofOrdina, Liturgical Town. [Map Link]
+There is a delay of 3.2 seconds with an orange pulsing effect around the character before the explosion happens.
+2 Ruptured Crystal Tears can be obtained and stacked. The amount of ruptured tears in the flask affects the potency and radius of the explosion.
+The explosion dealsHoly Damage, this damage can be raised theSacred Scorpion Charm(12%), theHoly-Shrouding Cracked Tear(20%), theLightskill (20%), and incantationbuffssuch asGolden Vow.
+The self-damage inflicted is flat damage that is not mitigated by damage negation stats.
+Ranking Every Crystal Tear in Elden Ring - Tier List
+Ruptured Crystal Tearis aKey IteminELDEN RING(2022).
+Can be mixed in the Flask of Wondrous Physick.
+Eine Kristallträne, die langsam im Lauf vieler Zeitalter dort heranwuchs, wo der Segen des Erdenbaums auf den Boden fällt.
+Kann in einer Flasche der wundersamen Arznei gemischt werden.Das resultierende Gemisch explodiert.
+Larme de cristal se formant au terme de plusieurs siècles à l'endroit où tombent les dons de l'Arbre-Monde.
+Peut se mélanger dans une Fiole de salut miraculeux. La décoction finale explose.
+Lacrima di cristallo formatasi per secoli nei luoghi benedetti dalla generosità dell'Albero Madre.
+Può essere mischiata nell'ampolla di balsamo portentoso. Causa l'esplosione dell'infuso ottenuto.
+Kryształowa łza uformowana na przestrzeni wieków w miejscu, gdzie dar Złotego Drzewa spada na ziemię.
+Można zmieszać ją w butelce niesamowitego eliksiru.Mieszanina staje się wybuchowa.
+Uma lágrima de cristal formada lentamente ao longo das eras, no solo onde o poder da Térvore cai.
+Pode ser misturada no Frasco do Elixir Magnífico.Faz com que a combinação resultante exploda.
+Кристальная слеза, которая веками зарождалась там, где благоденствие Древа Эрд коснулось земли.
+Можно добавить во флягу с чудесным снадобьем.Полученная смесь взрывается.
+Una lágrima de cristal formada lentamente con el paso de los años allá donde la abundancia del Árbol Áureo caía sobre el suelo.
+Puede mezclarse en un vial de médika milagrosa.Hace explotar el brebaje obtenido.
+หยาด​ผลึก​แก้ว​ถือ​กําเนิด​บน​แผ่น​ดิน​ที​พระพร​พฤกษา​ทอง​พร่าง​พรณ ​จุด​สิน​สุด​แห่ง​นิ​รัน​ดร์​กาล
+ว่า​กัน​ว่า​มี​บาง​คน​ได้​รับ​บท​เรียน​อัน​เลว​ร้าย
+จาก​หยาด​ผลึก​แก้ว​ด้อย​ค่า​ไร้​สรรพคุณ​ทาง​ยา
+A special crystallization formed within a tear of life over the course of many moons.
+Causes concoction to explode when taken in mixed physick.
+A dangerous form of crystal tear which possesses absolutely no medicinal qualities.
+A lesson said to be learned the hard way for some; faith can be a volatile matter, after all.
+Ein besonderer, über viele Monde hinweg in einer Träne des Lebens geformter Kristall.
+Erzeugt in Arznei gemischt eine Explosion.
+Cristallisation spéciale se formant en de nombreuses lunes au sein d'une larme de vie.
+Ajoutée dans une fiole, elle fait exploser la concoction.
+Cristallo speciale formatosi in una lacrima di vita nell'arco di molte lune.
+Genera un'esplosione se assunto in un balsamo.
+Wyjątkowa krystalizacja uformowana wewnątrz łzy życia w ciągu wielu księżyców.
+Po wmieszaniu do eliksiru wywołuje wybuch.
+Необычный кристалл, много лун формировавшийся в слезе жизни.
+При приёме в составе снадобья вызывает взрыв смеси.
+Una cristalización especial que se forma dentro de una lágrima de vida con el paso de muchas lunas.
+Provoca que el brebaje explote si se toma en una mezcla físika.
+หลัง​เวลา​ผ่าน​ไป​นาน​นับ​ป ​ใน​ทีสุด​ผลึก​วิเศษก็​ถือ​กําเนิด​ขึน​ใน​หยาด​นํา​แห่ง​ชีวิต
+เมือ​นํา​ไป​ผสม​กับ​นํา​อมฤตนํา​อมฤต​จะ​เหนียว​นํา​ให้​เกิด​ระเบิด
+A dangerous form of crystal tear which possesses absolutely no medicinal qualities. A lesson said to be learned the hard way for some; faith can be a volatile matter, after all.
+오랜 세월 끝에, 황금 나무의 은혜인물방울 속에 특별한 결정이 생겨난 것.
+Wyjątkowa krystalizacja uformowana wewnątrz łzy życia na przestrzeni wielu miesięcy.
+Uma forma cristalizada rara da lágrima da vida, descoberta por alquimistas devotos ao estudo da Térvore.
+Quando misturada em elixir, esta lágrima cristalizada faz a mistura explodir.
+Provoca que el brebaje explote si se toma en una mezcla milagrosa.
+ผลึก​วิเศษ​ที​ถือ​กําเนิด​ใน​หยาด​อัน​เปรียบ​เสมือน​ของ​ขวัญ​จาก​พฤกษา​ทองณ ​จุด​สิน​สุด​ของ​เวลา​อัน​ยาวนาน ​
+เมือ​นํา​ไป​ผสม​กับ​นํา​อมฤตนํา​อมฤต​นัน​จะ​เหนียว​นํา​ให้​เกิด​ระเบิด ​
+Guaranteed Drop:Minor Erdtree(Liurnia of the Lakes)/Minor Erdtree(Consecrated Snowfield)
+Causes concoction to explode when using theFlask of Wondrous Physick.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Thorny Cracked Tear | Elden Ring Wiki
+Thorny Cracked Tearis aCrystal TearinElden Ring.Crystal Tearscan be mixed in theFlask of Wondrous Physickto enhance its effect.
+A crystal tear formed slowly over the ages where the Erdtree's bounty falls to the ground.
+Can be mixed in the Flask of Wondrous Physick.The resulting concoction makes consecutive attacks grow stronger the longer they continue. However, the effect lasts only for a short time.
+Ranking Every Crystal Tear in Elden Ring - Tier List
+The Thorny Cracked Tear can be found in the following location:
+Consecrated Snowfield: Dropped by thePutrid Avatarat the Minor Erdtree found to the east ofOrdina Liturgical Town. [Map Link]
+Increases attack power relative to the number of attacks you land. Has three tiers of attack power increase. Tiers decay to lower tiers when not attacking fast enough. Number of hits needed to activate effect varies based on attacks used.
+For each tier, attack power increases by9%,13%, and20%
+The attack power boost also affects the damage of certainSpells.
+Attacks contribute to a hidden point system calledAccumuVal, which triggers the tier boosts at specific point values.Thorny Cracked Tearhas triggers for the AccumuVal point values17/30/45/60for each tier respectively (60just extends the third tier).Different attacks (mostly with physical hitboxes) give different number of points. Some spells also count (e.gCarian Slicer,Dragonmaw). Also note that some physical attacks may not provide points, as is the case withSpinning Wheel.
+Thorny Cracked Tearhas triggers for the AccumuVal point values17/30/45/60for each tier respectively (60just extends the third tier).
+Different attacks (mostly with physical hitboxes) give different number of points. Some spells also count (e.gCarian Slicer,Dragonmaw). Also note that some physical attacks may not provide points, as is the case withSpinning Wheel.
+Stacks withWinged Sword Insignia,Rotten Winged Sword Insignia, andMillicent's Prosthesis
+You can findCrystal Tearsat the bases of Minor Erdtrees and elsewhere throughout the Lands Between
+At Sites of Grace, you can mix two crystal tears in theFlask of Wondrous Physick(This will allow you to create elixirs with various custom effects)
+Elden Ring Blazing Blackblade Build Written Guide
+Elden Ring Black Guard Build Written Guide
+Elden Ring Blue Baller Build Written Guide
+ER Shadow of the Erdtree Savage Slasher Build Written Guide
+ER Shadow of the Erdtree Dark Paladin Build Written Guide
+Thorny Cracked Tearis aCrystal TearinELDEN RING(2022).
+Guaranteed drop:Minor Erdtree(Consecrated Snowfield)
+For180seconds after using theFlask of Wondrous Physick, activate the following effect:
+In general, light attacks increase the tier for every3hits landed while heavy attacks increase the tier for every1.5hits landed (rounded up).
+
+---
+
+area: Limgrave
+chapter: 1
+name: Speckled Hardtear | Elden Ring Wiki
+Speckled Hardtearis aCrystal TearinElden Ring.Crystal Tearscan be mixed in theFlask of Wondrous Physickto enhance its effect.
+A crystal tear formed slowly over the ages where the Erdtree's bounty falls to the ground.
+Can be mixed in the Flask of Wondrous Physick.The resulting concoction temporarily raises all resistances and heals all status ailments.
+Ranking Every Crystal Tear in Elden Ring - Tier List
+DefeatWormfaceatMinor Erdtree (Altus Plateau). [Map Link]
+You can findCrystal Tearsat the bases of Minor Erdtrees and elsewhere throughout the Lands Between
+At sites of grace, you can mix two crystal tears in theFlask of Wondrous Physick(This will allow you to create elixirs with various custom effects)
+Speckled Hardtearis aCrystal TearinELDEN RING(2022).
+Can be mixed in the Flask of Wondrous Physick. The resulting concoction temporarily raises all resistances and heals all status ailments.
+Guaranteed drop:Minor Erdtree(Altus Plateau)
+Removes allStatus Effectbuild-up and all resistances by90for180seconds when theFlask of Wondrous Physickis used.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Crimsonspill Crystal Tear | Elden Ring Wiki
+Crimsonspill Crystal Tearis aCrystal TearinElden Ring.Crystal Tearscan be mixed in theFlask of Wondrous Physickto enhance its effect.
+A crystal tear formed slowly over the ages where the Erdtree's bounty falls to the ground.
+Can be mixed in the Flask of Wondrous Physick.The resulting concoction temporarily raises one's maximum HP.
+Dropped byWormfaceinAltus Plateau.Elden Ring Interactive Map Link
+You can findCrystal Tearsat the bases of Minor Erdtrees and elsewhere throughout the Lands Between
+At sites of grace, you can mix two crystal tears in theFlask of Wondrous Physick(This will allow you to create elixirs with various custom effects)
+Crimsonspill Crystal Tearis akey iteminELDEN RING(2022).
+Acrystal tearformed slowly over the ages where theErdtree's bounty falls to the ground.
+Can be mixed in theFlask of Wondrous Physick. The resulting concoction temporarily raises one's maximum HP.
+Guaranteed Drop:Minor Erdtree(Altus Plateau)
+
+---
+
+area: Limgrave
+chapter: 1
+name: Flame-Shrouding Cracked Tear | Elden Ring Wiki
+Flame-Shrouding Cracked Tearis aCrystal TearinElden Ring.Crystal Tearscan be mixed in theFlask of Wondrous Physickto enhance its effect. You can findCrystal Tearsat the bases of Minor Erdtrees and elsewhere throughout the Lands Between
+A crystal tear formed slowly over the ages where the Erdtree's bounty falls to the ground.
+Can be mixed in the Flask of Wondrous Physick.The resulting concoction temporarily boosts the power of one's fire attacks.
+TheFlame-Shrouding Cracked Tearcan be found in the following location:
+Dropped by thePutrid Avatarfound at theMinor ErdtreeinCaelid, east ofSmoldering Church. [Map Link]
+Stacks with theFire Scorpion Charm(12%) and theFlame, Grant Me Strengthspell (20%).
+Note:Patch 1.09: Effect reduced from 15% to 12.5% inPvP.
+Ranking Every Crystal Tear in Elden Ring - Tier List
+Elden Ring Blazing Blackblade Build Written Guide
+ER Shadow of the Erdtree Carian Twinblade Build Written Guide
+ER Shadow of the Erdtree Pyromancer Perfumer Build Written Guide
+ER Shadow of the Erdtree Fire Knight Impaler Build Written Guide
+ER Shadow of the Erdtree Messmer's Flam Written Guide
+ER Shadow of the Erdtree Magma Spitter Build Written Guide
+Flame-Shrouding Cracked Tearis akey iteminELDEN RING(2022).
+IncreasesFiredamage by20%(12.5%against other players) for180seconds if used with theFlask of Wondrous Physick.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Purifying Crystal Tear | Elden Ring Wiki
+Purifying Crystal Tearis aCrystal TearinElden Ring. Crystal Tears can be used and mixed to enhance the effects of theFlask of Wondrous Physick. Like other Crystal Tears, it is not lost inNew Game Plus.
+A crystal tear formed slowly over the age where the Erdtree's bounty falls to the ground.Can be mixed in the Flask of Wonderous Physick.The resulting concoction purifies the curse from Mohg, Lord of Blood's terrifying rite of blood.
+Dropped byEleonora, Violet Bloody Fingerat theSecond Church of MarikainAltus Plateau. [Map Link]
+She will invade as part of the conclusion toBloody Finger Hunter Yura'squestline or if one has advanced to theGrand Lift of Rold.
+Used to negate the curse effect during the fight againstMohg, Lord of Blood.
+Can be used at any point in the boss fight, before the second phase transition, to prevent all blood loss from the curse, although the boss still gets his health back.
+Ranking Every Crystal Tear in Elden Ring - Tier List
+Purifying Crystal Tearis aCrystal TearinELDEN RING(2022).
+A crystal tear formed slowly over the age where the Erdtree's bounty falls to the ground.
+Can be mixed in the Flask of Wonderous Physick. The resulting concoction purifies the curse from Mohg, Lord of Blood's terrifying rite of blood.
+Guaranteed drop:Second Church of Marika(Altus Plateau)
+Greatly reduces the damage fromMohg, Lord of Blood'sBloodboon Ritual after theFlask of Wondrous Physickis used.
+
+---
+

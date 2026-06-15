@@ -1,0 +1,653 @@
+area: Limgrave
+chapter: 1
+name: Lone Wolf Ashes | Elden Ring Wiki
+Lone Wolf Ashesis aSpiritand Summon inElden Ring.Lone Wolf Ashessummons a pack of three wolves with independent life bars that can move and attack enemies at melee range. Despite being calledLone Wolf, these ashes spawn3wolves that work as a team. Wolves have decent amount of HP, they move quickly enough and they inflict a decent amount of damage. Wolves are better as DPS rather than Tank companions. Wolves are not very useful againstBosseswhose attacks have a great AoE. Wolves may not resist many attacks, but they move a lot around enemies, and they dodge a lot, attacking as a team.
+Lone Wolvescan also be found asEnemiesinElden Ring. For more information, seeLone Wolf.
+NOTE:Patch 1.13Will no longer stagger as easily.
+Ashen remains in which spirits yet dwell.Use to summon the spirits of three lone wolves.
+Spirits of wolves chased from their pack. They later encountered a nameless Tarnished, who welcomed them as hunting companions.The wolf spirits overwhelm enemies with their agility, aiding the summoner in combat.
+TheLone Wolf Ashescan be found at the following location:
+Given to players byRennaat theChurch of EllehinLimgrave. Return to the Church after getting the ability to summon yourSpectral Steed WhistlefromMelina. You will find Renna sitting by the ruins of the church. [Map Link]
+If the player missed the opportunity of encountering Renna at the Church of Elleh in Limgrave, theLone Wolf Ashesand theSpirit Calling Bellcan be purchased from theTwin Maiden Husksin theRoundtable Hold.
+They move and attack very fast while in combat
+They will often leap backward and forward, destroying the surroundings.
+They have low health, so it's best to keep enemies entertained while they attack.
+You must be near a rebirth monument to summon spirits from ashes.
+When you are close to a rebirth monument and able to summon, a monument icon will appear on the left side of the screen.
+Lone Wolf Ashesis aspirit ashinELDEN RING(2022).
+Spirits of wolves chased from their pack. They later encountered a nameless Tarnished, who welcomed them as hunting companions. The wolf spirits overwhelm enemies with their agility, aiding the summoner in combat.
+Given by Renna the Witch in theChurch of Elleh, after the player receives theSpectral Steed WhistlefromMelina.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Skeletal Militiaman Ashes | Elden Ring Wiki
+Skeletal Militiaman Ashesis aSpiritand Summon inElden Ring.Skeletal Militiaman Ashessummons the spirits of 2 skeletal militiamenwho live in death.
+Skeletal Militiamencan also be found asEnemiesinElden Ring. For more information, see Skeletal Militiaman.
+Ashen remains in which spirits yet dwell.Use to summon the spirits of two skeletal militiamen.
+These are the spirits of militiamen who live in Death, and willcontinue to rise again until properly finished off.This is the grotesque fate of those who come into contact withDeathroot.
+Obtained when defeating theTibia Mariner Field BossinSummonwater Village. [Map Link]
+Share's the same trait as its normal enemy counterpart; they will resurrect indefinitely unless hit again in its downed state.
+You must be near a rebirth monument to summon spirits from ashes.
+When you are close to a rebirth monument and able to summon, a monument icon will appear on the left side of the screen.
+NOTE:Patch 1.13Will no longer stagger as easily.
+Skeletal Militiaman Ashesis aspirit ashinELDEN RING(2022).
+Ashen remains in which spirits yet dwell. Use to
+summon the spirits of two skeletal militiamen.
+These are the spirits of militiamen who live in Death, and
+will continue to rise again until properly finished off. This
+is the grotesque fate of those who come into contact withDeathroot.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Wandering Noble Ashes | Elden Ring Wiki
+Wandering Noble Ashesis aSpirit SummoninElden Ring.Wandering Noble Ashessummons 5Wandering Nobleswith independent life bars that can move and  attack enemies at melee range.
+Wandering Noblescan entertain multiple enemies for a while, giving you a lot of space against crowds, but they are not effective at combat, so you should not expect them to defeat manyEnemiesby themselves.
+Wandering Noblescan also be found in groups asEnemiesinElden Ring. For more information, seeWandering Nobles.
+Ashen remains in which spirits yet dwell.Use to summon the spirits of five wandering nobles.
+The spirits of nobles who, after death, now wander the LandsBetween. Surely they were in search of something once - butwhatever it was has long been forgotten.
+Located on a corpse that is resting against a stone coffin in theStormfoot CatacombsinLimgrave. Proceed through the catacombs as normal until reaching a ladder that is going up, once you've reached the top continue forward past someImpsuntil reaching a dead end room that is being guarded by two Imps, the corpse resting against the stone coffin will hold the ashes.Map Link
+Each Noble has its own individual life bar
+3 Nobles are armed with swords and 2 with Torches
+Their individual health is rather low, but due to their numbers, they are great to lure enemy attention away from you. TheGreatshield Soldier Ashesare generally better in this regard due to their greatshields and projectile attacks.
+They perform best against single enemies, allowing them to attack more freely.
+When fighting large enemies (confirmed with dragons), the summoned Nobles will cower in fear and refuse to fight.
+Due to their low health and high count, the Wandering Nobles can pair well with equipment that procs on kills, such as theSerpent-God's Curved Swordor theTaker's Cameo, as the on-kill effects of these will apply when a spirit summon dies.
+You must be near a rebirth monument to summon spirits from ashes.
+When you are close to a rebirth monument and able to summon, a monument icon will appear on the left side of the screen.
+NOTE:Patch 1.13Will no longer stagger as easily.
+Wandering Noble Ashesis aspirit ashinELDEN RING(2022).
+Ashen remains in which spirits yet dwell. Use to
+summon the spirits of five wandering nobles.
+The spirits of nobles who, after death, now wander the
+Lands Between. Surely they were in search of something
+once—but whatever it was has long been forgotten.
+Found on a corpse inStormfoot Catacombs, in a dead-end room guarded byImps.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Noble Sorcerer Ashes | Elden Ring Wiki
+Noble Sorcerer Ashesis aSpiritand Summon inElden Ring.Noble Sorcerer Ashessummons a Sorcerer that can move and use spells to attack enemies from a distance.
+The summoned Noble Sorcerer walks very slow, and doesn't attack very frequently. Only serves as a temporary distraction, but don't count on it for defeatingEnemies. Since bosses aggro on the last player/npc who damages it, and the Noble Sorcerer attacks from a distance, this summon can be used with a magic build to continuously change the bosse's aggro while it approaches either the player or NPC.
+Noble Sorcererscan also be found asEnemiesinElden Ring. For more information, seeWandering Nobles.
+Ashen remains in which spirits yet dwell.Use to summon the spirit of a noble sorcerer.Spirit of a nobleman who once asked to be given a place at RayaLucaria to learn glintstone sorceries.His talents were insufficient to be worthy of donning the stonecrown, however, and he is only capable of using the mostrudimentary sorcery.
+The Noble Sorcerer Ashes can be found at the following location:
+Dropped by theErdtree Burial Watchdog, atStormfoot Catacombs.Map Link.
+Has a moderate health pool, but is unable to block enemy attacks
+Attacks from range when possible, using theGlintstone Pebblesorcery.
+Can follow you running, but will move slower when confronting enemies
+Will attack with his staff when engaged in melee combat, dealing very little damage.
+Similar to the Wandering Nobles, the Noble Sorcerer will cower in fear when facing large enemies (only confirmed with dragons), refusing to fight them.
+You must be near a rebirth monument to summon spirits from ashes.
+When you are close to a rebirth monument and able to summon, a monument icon will appear on the left side of the screen.
+NOTE:Patch 1.13Will no longer stagger as easily.
+Noble Sorcerer Ashesis aspirit ashinELDEN RING(2022).
+Ashen remains in which spirits yet dwell. Use to
+Spirit of a nobleman who once asked to be given a place
+at Raya Lucaria to learn glintstone sorceries. His talents
+were insufficient to be worthy of donning the stone crown,
+however, and he is only capable of using the most
+Dropped byErdtree Burial Watchdogat the end ofStormfoot Catacombs.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Glintstone Sorcerer Ashes | Elden Ring Wiki
+Glintstone Sorcerer Ashesis aSpiritand Summon inElden Ring.Glintstone Sorcerer Ashessummons the spirit of a glintstone sorcerer.
+NOTE:Patch 1.13Will no longer stagger as easily.
+Ashen remains in which spirits yet dwell.Use to summon the spirit of a glintstone sorcerer.
+Spirit of a Raya Lucaria sorcerer wearing a stone crown.A scholar of the Olivinus Conspectus, who has mastered the use ofthe Glintstone Stars sorcery.
+Defeat theSpirit-Caller Snailat theRoad's End Catacombs.Map Link
+Will only use Glintstone Stars spell varying between charged/uncharged, will attack using a book if enemies are in close proximity or use the crown to headbutt the enemy.
+You must be near a rebirth monument to summon spirits from ashes.
+When you are close to a rebirth monument and able to summon, a monument icon will appear on the left side of the screen.
+Glintstone Sorcerer Ashesis aspirit ashinELDEN RING(2022).
+Ashen remains in which spirits yet dwell. Use to summon the spirit of a glintstone sorcerer.
+Spirit of aRaya Lucariasorcerer wearing a stone crown.
+A scholar of the Olivinus Conspectus, who has mastered the use of theGlintstone Starssorcery.
+Dropped by theSpiritcaller SnailinRoad's End Catacombs.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Ancestral Follower Ashes | Elden Ring Wiki
+Ancestral Follower Ashesis aSpiritand Summon inElden Ring.Ancestral Follower Ashessummons an ancestral follower who wields a heavy bow.
+NOTE:Patch 1.13Will no longer stagger as easily.Increased physical attack power.
+Ashen remains in which spirits yet dwell.Use to summon the spirit of an ancestral follower.
+A spirit of the horned folk who eschew letters and metalworking.Brawny, and versed in distinctive spiritual arts, this particulartribesman wields a heavy bow.
+Dropped byAncestor Spirit. [Map Link]Video Location
+This ash has a hidden ability to heal about 1/5 of his total health when an enemy is killed, which makes him an invaluable asset while fighting groups. This is a percentage heal, as it will be the same amount of a health bar at higher levels.
+Attacks with its bow at long-range, firing an arrow capable of stunning most enemies. Also tends to keep its distance if possible. Can attack with its axe if anything gets too close.
+Ancestral Follower Ashesis aspirit ashinELDEN RING(2022).
+Ashen remains in whichspiritsyet dwell. Use to summon the spirit of anancestral follower.
+A spirit of thehorned folkwho eschew letters and metalworking. Brawny, and versed in distinctive spiritual arts, this particular tribesman wields aheavy bow.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Godrick Soldier Ashes | Elden Ring Wiki
+Godrick Soldier Ashesis aSpiritand Summon inElden Ring.Godrick Soldier Ashessummons twoGodrick Soldiersto fight by your side.
+Godrick Soldierscan also be found asEnemiesinElden Ring. For more information, seeGodrick Soldier.
+NOTE:Patch 1.13Will no longer stagger as easily.
+Ashen remains in which spirits yet dwell.Use to summon the spirits of two of Godrick's soldiers.
+A duo of spirits, consisting of a wielder of devastating chargedhammer attacks in the vanguard and a crossbowman bringing upthe rear.The soldiers who serve Godrick the Grafted are what remains ofthe army that fled the royal capital of the Erdtree.
+Found at the Cemetery at the west ofStormhillthat is filled with Spirit Jellyfish, next to a grave. There are two red jellyfish nearby. Check both sides of each grave to find it. [Map Link]
+From the Stormhill Shack site of grace, head south and then west, following the cliff around until you can head up some a rocky path  northward. Then turn and go east.
+You must be near a rebirth monument to summon spirits from ashes.
+When you are close to a rebirth monument and able to summon, a monument icon will appear on the left side of the screen.
+Godrick Soldier Ashesis aspirit ashinELDEN RING(2022).
+タメ攻撃に優れる戦槌の前衛とクロスボウの後衛の組み合わせ接ぎ木のゴドリックに仕える兵たちは
+Found in a cemetery on the west side ofStormhill.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Radahn Soldier Ashes | Elden Ring Wiki
+Radahn Soldier Ashesis aSpiritand Summon inElden Ring.Radahn Soldier Ashessummons 2 spirits of Radahn's soldiers, who can be quite powerful as they have shields and fire-based weapons.
+Radahn Soldierscan also be found asEnemiesinElden Ring. For more information, seeRadahn Soldier.
+NOTE:Patch 1.13Will no longer stagger as easily.
+Ashen remains in which spirits yet dwell. Use to summon the spirits of two of Radahn's soldiers.
+Both spirits wield fiery weapons to perform powerful skills. Such is their valor that they will immediately attack after being summoned.
+General Radahn's soldiers were all reputed to be masterful warriors, and it was popularly said that the Redmanes knew no weakness.
+Found in theWar-Dead Catacombsat the northern tip ofRadahn's arena. Go up the stairs to the back right of the first room and go left. Past the archer at the end of the hall turn right, turning right again at the end of that hall past the greatsword knight. Jump through the window to the right near the end of this hall. Go left up the stairs and the ashes will be in a room in front of you behind a knight. See it on theElden Ring Map here.
+Summons two soldiers with flaming weapons, one uses a lordsworn's greatsword and the other uses a lordsworn's straight sword and a torch.The torch user will sometimes use the torch's skill to attack.
+The torch user will sometimes use the torch's skill to attack.
+Has a very long aggro range, but does not follow the player.
+Radahn Soldier Ashesis aspirit ashinELDEN RING(2022).
+Ashen remains in which spirits yet dwell. Use to
+summon the spirits of two of Radahn's soldiers.
+Both spirits wield fiery weapons to perform powerful skills.
+Such is their valor that they will immediately attack after
+General Radahn's soldiers were all reputed to be masterful
+warriors, and it was popularly said that the Redmanes
+Found in theWar-Dead Catacombs. From the main hall, take the back right set of stairs and go through the tunnel forward until there is a window to the right, just before the dead-end, that can be jumped out of to get to a platform. Take the stairs to the left up to a couple ofImpsand it's found in a small room full ofScarlet Rot.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Marionette Soldier Ashes | Elden Ring Wiki
+Marionette Soldier Ashesis aSpiritand Summon inElden Ring.Marionette Soldier Ashessummons two marionettes to fight for you.
+Marionette Soldierscan also be found asEnemiesinElden Ring. For more information seeMarionette Soldier.
+NOTE:Patch 1.13Will no longer stagger as easily.
+Ashen remains in which spirits yet dwell.Use to summon the spirits of two marionette soldiers.
+Spirits of marionette soldiers created to serve a sorcerer.These marionettes are archers, each equipped with a pair of bows.On the verge of falling apart, they are ill—disciplined and attackwithout warning.
+Nearest Site of Grace: Church of the Cuckoo
+When you reach the graveyard section, as you cross the other side of the bridge, make a hard left and drop down to find a path that curves to where theMarionette Soldiersare, kill the two soldiers and then loot the corpse that is hanging by the ledge to find this item.Map Link
+Like many red eyed summons they do not follow you, and will immediately attack enemies in their vicinity.
+Will malfunction from being hit too much causing them to shoot arrows sporadically in a 360° spinning animation. (unless in close proximity or target is a big enemy, majority of arrows will miss)
+Marionette Soldier Ashesis aspirit ashinELDEN RING(2022).
+Ashen remains in which spirits yet dwell. Use to summon the spirits of two marionette soldiers.
+Spirits of marionette soldiers created to serve a sorcerer. These marionettes are archers, each equipped with a pair of bows. On the verge of falling apart, they are ill-disciplined and attack without warning.
+魔術師の従者として作られた、人形兵の霊体両手にそれぞれ弓を持つ射撃人形だが、これはもう壊れかけており
+Found in the graveyard near the start of theAcademy of Raya Lucaria, on a corpse hanging off a ledge accessed via a short tunnel.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Leyndell Soldier Ashes | Elden Ring Wiki
+Leyndell Soldier Ashesis aSpiritand Summon inElden Ring.Leyndell Soldier Ashessummons twoLeyndell Soldierspirits.
+NOTE:Patch 1.13Will no longer stagger as easily.
+Ashen remains in which spirits yet dwell.Use to summon the spirits of two Leyndell soldiers.Spirits of soldiers each equipped with a spear and greatshield.The soldiers of Leyndell fight their battles defensively. During the Shattering, they were the ramparts that fortified the royal capital.
+Found inSainted Hero's GraveinAltus Plateau. In the room with the collapsing floor. Start back from the beginning, avoid the center portion which will collapse, and retrieve from the corpse on the other side of the room. [Elden Ring Map Link]
+Summons two Leyndell soldiers with greatshields and spears
+Not aggressive, seems to have the same aggro range as regular Leyndell soldiers
+Leyndell Soldier Ashesis aspirit ashinELDEN RING(2022).
+Ashen remains in which spirits yet dwell.
+Use to summon the spirits of twoLeyndellsoldiers.
+Spirits of soldiers each equipped with a spear and greatshield.
+The soldiers of Leyndell fight their battles defensively. During the Shattering, they were the ramparts that fortified the royal capital.
+Found on a corpse inSainted Hero's Grave, before falling through a collapsing floor.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Haligtree Soldier Ashes | Elden Ring Wiki
+Haligtree Soldier Ashesis aSpiritand Summon inElden Ring.Haligtree Soldier Ashesareused to summon the spirits of fourHaligtree Foot Soldiers.
+Ashen remains in which spirits yet dwell.Use to summon the spirits of four Haligtree soldiers.Spirits of common soldiers who carry the sacred light. When weakened, they explode to deliver a last-ditch attack.This was the bitter revelation discovered by the desperate soldiers who awaited the return of their lord to the rotted Haligtree.May the flash of our deaths guide Miquella's return.
+Haligtree Soldier Ashescan be found in the following location:
+Elphael, Brace of the Haligtree: Found under a large decorative chalice in the northern edge of the city. [Map Link]
+NOTE:Patch 1.13Will no longer stagger as easily.
+Haligtree Soldier Ashesis aspirit ashinELDEN RING(2022).
+Ashen remains in which spirits yet dwell. Use to summon the spirits of four Haligtree soldiers.
+Spirits of common soldiers who carry the sacred light. When weakened, they explode to deliver a last-ditch attack.
+This was the bitter revelation discovered by the desperate soldiers who awaited the return of their lord to the rottedHaligtree.
+May the flash of our deaths guideMiquella'sreturn.
+聖なる灯を宿した雑兵たちの霊体劣勢になると、自ら爆発して果てるそれは、腐敗した聖樹で主を待ち続けた兵たちがどうしようもなく見出した、過酷な啓示である
+Found inElphael, Brace of the Haligtree, under a large chalice on a balcony on the north side of the dungeon.
+From thePrayer RoomSite of Grace, take the third beam on the right to a small chapel then take the opposite beam to the outer wall. There is a room below the left end of the wall with severalCleanrot Knightsand past the left exit is the chalice.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Banished Knight Oleg Ashes | Elden Ring Wiki
+Banished Knight Oleg Ashesis aSpiritand Summon inElden Ring.Banished Knight Oleg Ashessummons the spirit of aBanished Knight. Oleg is the counterpart toBanished Knight Engvall, together they are known as the Wings of the Storm.
+NOTE:Patch 1.13Will no longer stagger as easily. Increased physical attack power and damage negation against physical attacks.
+Ashen remains in which spirits yet dwell.Use to summon the spirit of Oleg, the Banished Knight.
+One of the two knights known as the Wings of the Storm.After his banishment, he attracted the notice of the Grace-Given Lordand later, having slain a hundred traitors as the Lord's hand,Oleg earned the hero's honor of Erdtree Burial.
+InFringefolk Hero's Grave: To get there, use 2Stonesword Keyson the double Imp Keystone next to theStranded GraveyardSite of Grace. This will lead to a mini dungeon with traps. You will need to avoid a crusher by walking into side alcoves as you descend. There will also be ghost swordsmen and archers.Map Link
+At the end of this, you will fight anUlcerated Tree Spiritboss. The boss will drop this spirit summon and aGolden Seed.
+Banished Knight Olegis aspirit ashinELDEN RING(2022).
+Ashen remains in which spirits yet dwell. Use to summon the spirit of Oleg, the Banished Knight.
+One of the two knights known as the Wings of the Storm. After his banishment, he attracted the notice of the Grace-Given Lord and later, having slain a hundred traitors as the Lord's hand, Oleg earned the hero's honor of Erdtree Burial.
+One of the two knights known as the Wings of the Storm. After his banishment, he attracted the notice of the Grace-Given Lord and later, having slain a hundred traitors as the Lord's hand, Oleg was welcomed back to the Erdtree as a hero.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Banished Knight Engvall Ashes | Elden Ring Wiki
+Banished Knight Engvall Ashesis aSpiritand Summon inElden Ring.Banished Knight Engvall Ashessummon the spirit of aBanished Knight. Engvall is the counterpart toBanished Knight Oleg, together they are known as the Wings of the Storm.
+NOTE:Patch 1.13Will no longer stagger as easily. Increased physical attack power and damage negation against physical attacks.
+Ashen remains in which spirits yet dwell.Use to summon the spirit of Engvall, the Banished Knight.One of the two knights dubbed the Wings of the Storm.Despite his banishment,he rejected the invitation of the Grace-Given Lord,instead keeping watch over a masterless castle for many years,gaining renown as a hero of the fringes.
+Where to FindBanished Knight Engvall Ashes
+Murkwater Catacombs: Obtained after defeating theGrave Warden Duelist. It was includedpatch 1.03, replacing theBattle Hammerthat the boss dropped.
+Banished Knight Engvallis aspirit ashinELDEN RING(2022). A slow, tanky summon that can hit decently hard and is available very early on, Engvall's main drawback is his huge FP cost which puts him out of range of most early builds that aren't focused on magic. This makes him an ideal companion for a caster that doesn't mind devoting all or most of a cerulean flask to him.
+Ashen remains in which spirits yet dwell. Use to summon the spirit of Engvall, the Banished Knight.
+One of the two knights dubbed the Wings of the Storm. Despite his banishment, he rejected the invitation of the Grace-Given Lord, instead keeping watch over a masterless castle for many years, gaining renown as a hero of the fringes.
+かつて、嵐の王の双翼として知られた一方失地騎士となったイングヴァルは、祝福王の誘いを断り
+Dropped byGrave Warden DuelistinMurkwater Catacombs.
+In versions prior toPatch 1.03this Spirit Ash was unobtainable, as the boss would instead drop aBattle Hammer.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Cleanrot Knight Finlay Ashes | Elden Ring Wiki
+Cleanrot Knight Finlay Ashesis aSpiritand Summon inElden Ring.Cleanrot Knight FinlayAshesareused to summon the spirit of the Cleanrot Knight Finlay.
+Cleanrot Knightcan also be found as aBossinElden Ring. For more information, seeCleanrot Knight.
+Legendary ashen remains.Use to summon the spirit of the Cleanrot Knight Finlay.
+Finlay was one of the few survivors of the Battle of Aeonia, who in an unimaginable act of heroism carried the slumbering demigod Malenia all the way back to the Haligtree.She managed the feat alone, fending off all manner of foes along the way.
+Where to FindCleanrot Knight Finlay Ashes
+InElphael, Brace of the Haligtree, start at the Prayer Room site of grace. Go through the northern door and and continue in that direction, fighting past several enemies, until you reach a small stairway leading up.
+After going up the stairway and defeating the enemies, look right (east), and peer down to see a sort of archway. Further north of the archway, you should see a gazebo. (The room with the chest will be near the gazebo.)
+Jump down onto the archway, then face north again and jump to reach the area where the gazebo is. Once in the center of the gazebo, face west, and you'll see a room with aCleanrot Knight. -- this is the room with the chest in it.
+Can proc Rot with Cleanrot Knight moveset. Can also fire off projectiles that dealHoly Damage.
+Finlay will cast a 30 second buff that heals 7 HP/s a bit similar toBlessing's Boonand increases your Fire Damage Negation by 60%, equivalent to the incantationFlame, Protect Me.
+This ash is needed to complete theLegendary Ashen Remains achievement and trophy.
+NOTE:Patch 1.13Will no longer stagger as easily. Increased physical attack power and damage negation against Physical, Magic, and Holy Attack affinities.
+Cleanrot Knight Finlayis aspirit ashinELDEN RING(2022).
+Legendary ashen remains. Use to summon thespiritof theCleanrot KnightFinlay.
+Finlay was one of the few survivors of theBattle of Aeonia, who in an unimaginable act of heroism carried the slumberingdemigodMaleniaall the way back to theHaligtree. She managed the feat alone, fending off all manner of foes along the way.
+In a treasure chest atElphael, Brace of the Haligtree, guarded by aCleanrot Knight. Located north of the Prayer Room grace on a rooftop that you need to jump down to from a rafter.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Black Knife Tiche Ashes | Elden Ring Wiki
+Black Knife Ticheis aSpiritand Summon inElden Ring.Black Knife Tiche Ashsummons an assassin that attacks enemies with her Black Knife imbued with the Rune of Death.
+Legendary ashen remains.Use to summon the spirit of Black Knife Tiche.
+Tiche was one of the assassins who,on the night of the plot,imbued her black knife with the Rune of Deathand slew Godwynthe Golden.She was the daughter of the Black Knife Ringleader,Alecto,and was killed protecting her mother during their flightfrom the royal capital.
+TheBlack Knife TicheSpirit Ashes can be found in the following location:
+Dropped byAlecto, Black Knife Ringleaderupon defeat at theRingleader's Evergaolin southwesternLiurnia. [Map Link]
+Black Knife Tiche is generally considered to be one of the best spirit ashes with only a high fp cost as a downside. She is really efficient at input reading enemy moves and at inflicting theDestined Deathdebuff.
+Black Knife Ticheis aspirit ashinELDEN RING(2022).
+Legendary ashen remains. Use to summon the spirit of Black Knife Tiche.
+Tiche was one of the assassins who, on the night of the plot, imbued her black knife with the Rune of Death and slew Godwyn the Golden. She was the daughter of the Black Knife Ringleader, Alecto, and was killed protecting her mother during their flight from the royal capital.
+陰謀の夜、黒き刃に死のルーンを宿し黄金のゴッドウィンを殺した暗殺者の一人ティシーは、黒き刃の長アレクトーの娘であり
+Dropped byAlecto, Black Knife Ringleaderin theRingleader's Evergaol.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Mimic Tear Ashes | Elden Ring Wiki
+Mimic Tear Ashesis aSpiritand Summon inElden Ring.Mimic Tear Ashessummons mimic tear spirit.
+Mimic Tearcan also be found as aBossinElden Ring. For more information, seeMimic Tear.
+Legendary ashen remains.Use to summon the spirit of a mimic tear.Summoning consumes HP rather than FP.
+This spirit takes the form of the summoner to fight alongsidethem, but its mimicry does not extend to imitating thesummoner's will.Mimic tears are the result of an attempt by the Eternal City toforge a lord.
+Found in a chest locked behind an imp statue door inNight's Sacred Ground.Map LinkVideo Location
+Mimic Tearwillmake use of the following:Currently-equipped Weapons - Prioritizes use of right-hand weapon wielded when summoned, can also powerstance dual wielded weapons.Armor and shields (if applicable)TalismansIfShabriri's Woeis duplicated by the mimic and subsequently unequipped by the player, it will become the focus for aggro.Spells/Incantations (if using a staff or seal respectively)Arrows/Bolts - Unlimited supply of those equipped when summonedSwaps between Arrows/Bolt types at random when firing.Consumables - Can use as many as the player had equipped when summonedMimic Tearwill notincrease offensive consumable use even if lacking a weapon.Exception:Flask of Crimson Tears.Visually altered by theHost's Trick-Mirrorand theFurled Fingers's Trick-Mirror. Replaces the white aura with the cooperator aura or removes the white aura entirely, making it identical to the player.
+Currently-equipped Weapons - Prioritizes use of right-hand weapon wielded when summoned, can also powerstance dual wielded weapons.
+TalismansIfShabriri's Woeis duplicated by the mimic and subsequently unequipped by the player, it will become the focus for aggro.
+IfShabriri's Woeis duplicated by the mimic and subsequently unequipped by the player, it will become the focus for aggro.
+Spells/Incantations (if using a staff or seal respectively)
+Arrows/Bolts - Unlimited supply of those equipped when summonedSwaps between Arrows/Bolt types at random when firing.
+Swaps between Arrows/Bolt types at random when firing.
+Consumables - Can use as many as the player had equipped when summonedMimic Tearwill notincrease offensive consumable use even if lacking a weapon.Exception:Flask of Crimson Tears.
+Mimic Tearwill notincrease offensive consumable use even if lacking a weapon.
+Visually altered by theHost's Trick-Mirrorand theFurled Fingers's Trick-Mirror. Replaces the white aura with the cooperator aura or removes the white aura entirely, making it identical to the player.
+Mimic Tearwill notmake use of the following:Great RunesPouch
+Mimic Tearwill still attempt to use items for which they do not meet the stat requirement.Examples include:Will attempt, and fail, to cast Spells/Incantations for which it doesn't meet the stat requirements, even if there are alternatives for which itdoesmeet the requirements.Will attempt to use weapon skills for which it does not meet the stat requirements.Will 1-Hand a weapon even if it fails to meet the STR requirement of the weapon when not making use of the 2-Hand bonus.Will continue to prioritize use of right-hand weapon given when summoned, even if it fails the stat requirement and another weapon is available to it.Note that the mimic doesn't get stat boosts fromGodrick's Great Rune, equipment, or other sources; so if you're using any of those to meet the requirements for spells or weapon skills, it won't be able to use them.
+Will attempt, and fail, to cast Spells/Incantations for which it doesn't meet the stat requirements, even if there are alternatives for which itdoesmeet the requirements.
+Will attempt to use weapon skills for which it does not meet the stat requirements.
+Will 1-Hand a weapon even if it fails to meet the STR requirement of the weapon when not making use of the 2-Hand bonus.
+Mimic Tear Ashesis aspirit ashinELDEN RING(2022).
+Legendary ashen remains. Use to summon the spirit of a mimic tear. Summoning consumes HP rather than FP.
+This spirit takes the form of the summoner to fight alongside them, but its mimicry does not extend to imitating the summoner's will. Mimic tears are the result of an attempt by the Eternal City to forge a lord.
+In a treasure chest behind aStonesword Keyimp statue inNokron, Eternal City.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Crystalian Ashes | Elden Ring Wiki
+Crystalian Ashesis aSpiritand Summon inElden Ring.CrystalianAshes areused to summon the spirit of a Crystalian.
+Crystalianscan also be found asBossesinElden Ring. For more information, seeCrystalians.
+Ashen remains in which spirits yet dwell.Use to summon the spirit of a Crystalian.Spirit that wields round crystalline blades, both big and small. Its sturdy body, itself hewn from crystal long ago, is hard enough to blunt its opponent's blades, but blows from bludgeoning weapons can shatter it easily.
+Sellia Hideaway: Once you reach the first large room, walk across to the other end of the room, staying on the top level. You'll soon enter a tunnel with a Stake of Marika in it. In the large cave immediately after you pass the Stake of Marika, you can see a crystal running from left to right slightly above your eye-level. The left end of this crystal is where the tunnel that drops down is. In that tunnel is a drop that leads directly into the room with a chest containing these ashes, protected by 3 sorcerers.
+The entrance to Sellia Hideaway is located north of theChurch of the Plaguesite of grace. Look for a small graveyard with a sorcerer wielding a staff and club. Behind the headstone where that sorcerer spawns there is an illusionary wall that hides the entrance to the dungeon.
+His poise is 350, which is incredibly high in Elden Ring (including bosses).
+Very strong versus opponents that do not dealStrike Damage. An ideal tank whose only drawback is not retaining aggro often.
+NOTE:Patch 1.13Will no longer stagger as easily. Increased physical attack power.
+Crystalian Ashesarespirit ashesinELDEN RING(2022).
+Ashen remains in which spirits yet dwell. Use to summon the spirit of a Crystalian.
+Spirit that wields round crystalline blades, both big and small. Its sturdy body, itself hewn from crystal long ago, is hard enough to blunt its opponent's blades, but blows from bludgeoning weapons can shatter it easily.
+Spirit that wields round crystalline blades, both big and small. Its sturdy body, itself hewn from crystal long ago, is hard enough to blunt its opponent's blades, but blows from blunt weapons can shatter it easily.
+大小の、結晶の円刃を振るう霊体古く結晶から削り出されたという体はとても固く、刃などには滅法強いが
+Found inSellia Hideaway, in a chest guarded byGlintstone Sorcerers.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Fanged Imp Ashes | Elden Ring Wiki
+Fanged Imp Ashesis aSpiritand Summon, as well as optionalKeepsake, inElden Ring.Fanged Imp Ashessummons two fanged imp spirits that moves nimbly and attack enemies. They are best used to distract enemies since these spirits move fast, you can summon them when you are being overwhelmed by a group of enemies. While the enemies are being distracted, recover some stamina for a while then continue your attack, coordinating with the fanged imp spirits you've summoned.
+Impscan also be found asEnemiesinElden Ring. For more information, seeImp.
+Ashes remains in which spirits yet dwell.Use to summon two fanged imp spirits.
+These spirits are well suited to causing a disturbance, moving nimbly like pests and hurling magic pots.The two imps seem fond of each other's company.
+You can selectFanged Imp AshesasKeepsakeduring Character Creation
+It can be purchased from theIsolated Merchantfor 2000 Runes. He can be found by traveling to the Main Academy Gate site of grace and following the elevated road east/southeast, past the seal and several wolves. [Elden Ring Map Location]
+Sold here as shown with theVideo Location
+You must be near a rebirth monument to summon spirits from ashes. When you are close to a rebirth monument and able to summon, a monument icon will appear on the left side of the screen.
+Can also be used to solve the riddle to open theAlbinauric Rise.
+NOTE:Patch 1.13Will no longer stagger as easily.
+Fanged Imp Ashesis aspirit ashinELDEN RING(2022).
+Ashen remains in which spirits yet dwell. Use to summon two fanged imp spirits.
+These spirits are well suited to causing a disturbance, moving nimbly like pests and hurling magic pots. The two imps seem fond of each other's company.
+Purchased fromIsolated Merchant (Academy of Raya Lucaria).
+Can also be chosen as a starting gift duringCharacter Creation, which also removes them as a buyable option from the abovementiond merchant.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Giant Rat Ashes | Elden Ring Wiki
+Giant Rat Ashesis aSpiritand Summon inElden Ring.Giant Rat Ashessummons 3 giant rat spirits. The rat spirits appear at a distance from the summoner, swarming upon their victim to start the fight. The number of rats summoned increases with the Ashes upgrade level. At +5, the ashes will summon 4 giant rats. At +10, 5 rats will be summoned.
+Giant Ratscan also be found asEnemiesinElden Ring. For more information, seeGiant Rat.
+NOTE:Patch 1.13Will no longer stagger as easily.
+Ashen remains in which spirits yet dwell.Use to summon the spirits of three giant rats.
+Spirits that do not require FP to summon.The rat spirits appear at a distance from the summoner, swarmingupon their victim to start the fight.Even as spirits, these vermin seem to multiply endlessly.Enhancing these ashes can increase their numbers.
+Located atWest Windmill Pasture, in the middle of the stable with the rats. [Map Link]
+You must be near a rebirth monument to summon spirits from ashes. When you are close to a rebirth monument and able to summon, a monument icon will appear on the left side of the screen.
+Good for causing chaos or a distraction in locations where they can be summoned, and a good option for triggering theCrusade InsigniaandDried Bouquettalismans during bossfights.
+Giant Rat Ashesis aspirit ashinELDEN RING(2022).
+召喚にＦＰを消費しない霊体離れた場所に召喚され、戦いはじめるけだものの群れ霊体となってなお、繁殖力旺盛なのか
+召喚にＦＰを消費しない霊体離れた場所に召喚され、戦いはじめるけだものの群れ霊体となってなお、繁殖力旺盛だったが
+Found on a corpse in the stable just northeast of theWest Windmill Pasture.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Rotten Stray Ashes | Elden Ring Wiki
+Rotten Stray Ashesis aSpiritand Summon inElden Ring.Rotten Stray Ashesis used to summon the spirit of a rotten stray. [Map Link]
+Rotten Straycan also be found asEnemiesinElden Ring. For more information, seeRotten Stray.
+NOTE:Patch 1.13Will no longer stagger as easily.
+Ashen remains in which spirits yet dwell.Use to summon the spirit of a rotten stray.Spirit of a stray dog corrupted by the scarlet rot.Though it is only a small creature, it is as violent as it is nimble, and its fangs fester with poisonous rot.
+Found north of Sellia Under-Stair Site of Grace inside a building with a corpse and a rotten dog nearby.Map Link
+Rotten Stray's attacks apply (25-30)Scarlet Rotbuildup.
+An amazing early-game ash as sources of scarlet rot are relatively scarce and most early-game bosses don't have the health to withstand it.
+Rotten Stray Ashesis aspirit ashinELDEN RING(2022).
+Ashen remains in which spirits yet dwell. Use to
+Spirit of a stray dog corrupted by the scarlet rot.
+Though it is only a small creature, it is as violent as it
+is nimble, and its fangs fester with poisonous rot.
+Found in a building inSellia, Town of Sorcery, north of the Sellia Under-Stair Site of Grace.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Kaiden Sellsword Ashes | Elden Ring Wiki
+Kaiden Sellsword Ashesis aSpiritand Summon inElden Ring.Kaiden Sellsword Ashessummons a powerful mercenary armed with a curved cleaver that can move and attack enemies at melee range.
+The summoned Kaiden Sellsword is a single summon. It's not good to leave him alone fighting, but as a companion, it will fight, dodge, tank, and inflict great amounts of damage.
+NOTE:Patch 1.13Will no longer stagger as easily. Increased HP and physical attack power.
+Ashen remains in which spirits yet dwell.Use to summon the spirit of a Kaiden sellsword.
+Spirit of a mercenary belonging to a horse-riding folk. Skillfullyuses a massive blade made for dismounting other riders, andenhances his already considerable strength with war cries.The sellswords of Kaiden made their prowess known on countlessbattlefields.
+Drops fromErdtree Burial WatchdoginCliffbottom Catacombs. [Map Link]
+He has a moderate health pool, but compensates by being able to block attacks
+He can perform a shout, providing him a buff that increases his damage.
+His attacks can throw enemies out of balance.
+You must be near a rebirth monument to summon spirits from ashes.
+When you are close to a rebirth monument and able to summon, a monument icon will appear on the left side of the screen.
+Kaiden Sellswordcan be commonly found as an Enemy and confronted aroundStormhillandLimgrave.
+Kaiden Sellsword Ashesis aspirit ashinELDEN RING(2022).
+Ashen remains in which spirits yet dwell. Use to summon the spirit of a Kaiden sellsword.
+Spirit of a mercenary belonging to a horse-riding folk.
+Skillfully uses a massive blade made for dismounting other riders, and enhances his already considerable strength with war cries. The sellswords of Kaiden made their prowess known on countless battlefields.
+騎馬の民、カイデンの傭兵の霊体大振りな斬馬刀を縦横に振るい咆哮により、更に攻撃力を高める強兵
+Dropped by theErdtree Burial Watchdogin theCliffbottom Catacombs,Liurnia of the Lakes.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Greatshield Soldier Ashes | Elden Ring Wiki
+Greatshield Soldier Ashesis aSpiritand Summon inElden Ring.Greatshield Soldier Ashesallows players to summon the aid of five greatshield soldier spirits.
+NOTE:Patch 1.13Will no longer stagger as easily.
+Ashen remains in which spirits yet dwell.Use to summon five greatshield soldier spirits.
+Spirits of greatshield soldiers who belonged to the Fallen Hawks, a band of soldiers that once explored the Eternal City. Stout defenders with a steady guard.Though their methods are somewhat crude, they work well as a squadron, and will attract the attention of enemies or lob ghostflame from the rearguard.
+Found on a corpse in a graveyard inNokron, Eternal Cityguarded by aFallen Hawks Soldier.Map Link
+You must be near a rebirth monument to summon spirits from ashes.
+When you are close to a rebirth monument and able to summon, a monument icon will appear on the left side of the screen.
+This spirit tends to fare very well in combat as a defensive unit. They constantly take shelter behind their greatshields, using shield bashes to keep them safe while staggering their target, only dropping their guard to either let out a war cry to draw enemy attention or to throw a Frost inducing pot of ghost fire at their target. Their main weakness are foes that have a way to bypass their greatshields, such as the downward sword swing of a Troll which strikes from above or the ring of flames from a Black Flame Ritual attack cast by the Godskin Noble that damages from below.
+Greatshield Soldier Ashesis aspirit ashinELDEN RING(2022).
+Ashen remains in which spirits yet dwell. Use to summon five greatshield soldier spirits.
+Spirits of greatshield soldiers who belonged to the Fallen Hawks, a band of soldiers that once explored the Eternal City. Stout defenders with a steady guard. Though their methods are somewhat crude, they work well as a squadron, and will attract the attention of enemies or lob ghostflame from the rearguard.
+かつて永遠の都を探索した、落ちる鷹の兵団その大盾兵たちの霊体。ガードの固い壁役敵を引き付けたり、後方から霊火を投じたりと
+Found on a corpse inNokron, Eternal City, south-east of the Nokron, Eternal City Site of Grace.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Battlemage Hugues Ashes | Elden Ring Wiki
+Battlemage Hugues Ashesis aSpiritand Summon inElden Ring.Battlemage Hugues Ashesare used to summon the spirit of Battlemage Hugues.
+Battlemagescan also be found asEnemiesinElden Ring. For more information, seeBattlemage.
+Ashen remains in which spirits yet dwell.Use to summon the spirit of Battlemage Hugues.Hugues came from Sellia to study the Haima Conspectus at the academy, where he became a battlemage.Haima scholars seek to quell conflict with cannon fire and the gavel, but Hugues developed a longing for it.
+Dropped byBattlemage Hugues(boss) located in theSellia Evergaol. The best way to reach the evergaol is to travel south east along the cliff from the Dragonbarrow West site of grace. It will be on top of a plateau overlooking Aeonia Swamp.Elden Ring Map Link
+From the site of grace, head east on the road until you get to the small lake with dragons (just a bit past the map marker) then turn and head south. When you get to the wall, follow it west and the evergaol will be just ahead to the left..
+At range, he attacks withGreat Glintstone ShardandCannon of Haima. At close-range, he usesGavel of Haimaand his stone club.
+Fairly tanky Spirit that can excel at long-range while being able to hold their own at close-range.
+NOTE:Patch 1.13Will no longer stagger as easily. Increased physical attack power and magic attack power.
+Battlemage Huguesis aspirit ashinELDEN RING(2022).
+Ashen remains in which spirits yet dwell. Use to summon the spirit of Battlemage Hugues.
+Hugues came from Sellia to study the Haima Conspectus at the academy, where he became a battlemage. Haima scholars seek to quell conflict with cannon fire and the gavel, but Hugues developed a longing for it.
+ユーグは、サリアの街の出身であり学院でハイマの教室に学び、戦魔術師となった砲と裁きを振るう「戦を鎮める者」は
+Dropped byBattlemage Huguesin theSellia Evergaol.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Albinauric Ashes | Elden Ring Wiki
+Albinauric Ashesis aSpiritand Summon inElden Ring.Albinauric Ashessummons two Second-Generation Albinauric spirits who wield ripple swords.
+Albinauricscan also be found asEnemiesinElden Ring. For more information, see Second-GenerationAlbinauric.
+Ashen remains in which spirits yet dwell.Use to summon the spirits of two Albinaurics.
+A strapping duo of cartwheeling spirits who wield ripple swordsand spew freezing breath.Both are second-generation Albinaurics, with dumpy heads thatresemble those of frogs.
+Albinauric Ashescan be found in the following location:
+Found on a corpse in the graveyard area east ofCaria Manor. This area is accessible only after completing the manor and defeatingRoyal Knight Loretta. [Elden Ring Map Link]
+Will perform cartwheels to attack, evade or reposition themselves.
+Will perform frost breath attacks that causeFrostbitebuildup
+You must be near a rebirth monument to summon spirits from ashes.
+When you are close to a rebirth monument and able to summon, a monument icon will appear on the left side of the screen.
+NOTE:Patch 1.13Will no longer stagger as easily.
+Albinauric Ashesis aspirit ashinELDEN RING(2022).
+Ashen remains in which spirits yet dwell. Use to summon the spirits of two Albinaurics.
+A strapping duo of cartwheeling spirits who wield ripple swords and spew freezing breath. Both are second-generation Albinaurics, with dumpy heads that resemble those of frogs.
+大柄で、側転の得意な霊体のデュオ波紋の剣を振るい、冷たい息を吐く潰れた頭がカエルにも似た彼らは
+Found on a corpse in a cemetery east ofCaria Manor. Only accessible after defeatingRoyal Knight Lorettaas the spot is on the high cliffs behind the Manor.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Vulgar Militia Ashes | Elden Ring Wiki
+Vulgar Militia Ashesis aSpirit SummoninElden Ring.Vulgar Militia Ashesare used to summon the spirits of three vulgar militiamen.
+Vulgar Militiamencan also be found asEnemiesinElden Ring. For more information, seeVulgar Militiamen.
+Ashen remains in which spirits yet dwell.Use to summon the spirits of three vulgar militiamen.Spirits of the vulgar militia who wield long-hafted, serrated hatchets. These brutal weapons are particularly effective at causing blood loss to opponents.In the Lands Between, the small were scorned, and so they formed their vulgar militia as a means to make a living, albeit in ignominy.
+TheVulgar Militia Ashescan be found in the following location:
+Auriza Hero's Grave: In the large Chariot Hall where two Chariots are running almost side by side with a short delay between them, head all the way down to the large pit behind some pillars. Looking down, you can find several wooden beams you can drop down onto. Navigate your way across the beams, heading north to find a hidden area on the right with a statue. Head into the corridor behind the statue and to the right to access a small room where a corpse holding the ashes can be found. [Elden Ring Map Link]
+Vulgar Militia Ashesis aspirit ashinELDEN RING(2022).
+Ashen remains in which spirits yet dwell. Use to
+summon the spirits of three vulgar militiamen.
+Spirits of the vulgar militia who wield long-hafted, serrated
+hatchets. These brutal weapons are particularly effective
+at causing blood loss to opponents. In the Lands Between,
+the small were scorned, and so they formed their vulgar
+militia as a means to make a living, albeit in ignominy.
+長柄のノコギリを振るう小兵の霊体特に、敵を出血させることに長けている狭間では、体小さき者は蔑みの対象であり
+Found in theAuriza Hero's Grave. At the bottom of the hallway with the two chariots, drop down to the wooden beams below and head north to a room containing a statue. Go through the corridor behind the statue and to the right.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Kindred of Rot Ashes | Elden Ring Wiki
+Kindred of Rot Ashesis aSpiritand Summon inElden Ring.Kindred of Rot Ashesare used to summon a spirit of theKindred of Rot, in the form of a crawling pest. Like all normal ashesKindred of Rotare upgraded viaGrave Glovewort.
+Kindred of Rotpests can also be found asEnemiesinElden Ring. For more information, seeKindred of Rot (Pests). Kindred of Rot can also be found as aBoss, for this variant seeKindred of Rot.
+NOTE:Patch 1.13Will no longer stagger as easily.
+Ashen remains in which spirits yet dwell.Use to summon a spirit of the Kindred of Rot.This spirit takes the form of a crawling pest, its chitinous body making a dry rustling sound.Attacks enemies by secreting sticky threads.The Kindred of Rot are the servants of the Goddess of Rot—servants that have been forsaken.
+Dropped by theCemetery Shade(boss) in theCaelid Catacombslocated inCaelideast from theCathedral of Dragon Communion.Map Link
+Its dodge move is optimized for players, so will not be able to dodge the majority of enemy attacks.
+Gains increased damage from Scarlet Rot/Poisoned enemies similar to theKindred of Rot's Exultationtalisman
+Kindred of Rot Ashesis aspirit ashinELDEN RING(2022).
+Ashen remains in which spirits yet dwell. Use to summon a spirit of the Kindred of Rot.
+This spirit takes the form of a crawling pest, its chitinous body making a dry rustling sound. Attacks enemies by secreting sticky threads. The Kindred of Rot are the servants of the Goddess of Rot—servants that have been forsaken.
+Dropped by theCemetery ShadeinCaelid Catacombs.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Mausoleum Soldier Ashes | Elden Ring Wiki
+Mausoleum Soldier Ashesis aSpiritand Summon inElden Ring.Mausoleum Soldier Ashessummons five mausoleum soldier spirits.
+Mausoleum Soldierscan also be found asEnemiesinElden Ring. For more information, seeMausoleum Soldier.
+NOTE:Patch 1.13Will no longer stagger as easily.
+Ashen remains in which spirits yet dwell.Use to summon the spirits of five mausoleum soldiers.Spirits of five headless soldiers who confound foes by disappearing and reappearing at will.The mausoleum is where the bodies of soulless demigods are lain to rest, and these soldiers followed their masters into Death by severing their own heads from their bodies.
+Located at the base of a small dead tree at the edge of a cliff in theDeeproot Depths.From the The Nameless Eternal City site of grace located in theDeeproot Depths, go north until you reach theMausoleum. From there, go north toward the cliff and follow the edge until you reach the northmost location possible. [Map Link]
+You must be near a rebirth monument to summon spirits from ashes.
+When you are close to a rebirth monument and able to summon, a monument icon will appear on the left side of the screen.
+Mausoleum Soldier Ashesis aspirit ashinELDEN RING(2022).
+Ashen remains in which spirits yet dwell. Use to summon the spirits of five mausoleum soldiers.
+Spirits of five headless soldiers who confound foes by disappearing and reappearing at will. The mausoleum is where the bodies of soulless demigods are lain to rest, and these soldiers followed their masters into Death by severing their own heads from their bodies.
+首のない五人の兵士の霊体自在に姿を消し、また現れ、敵を翻弄する霊廟とは、魂無きデミゴッドの霊安室であり
+Found on a corpse on a cliff in the northernmost point of the north-west part ofDeeproot Depths. Straight north of The Nameless Eternal City Site of Grace.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Warhawk Ashes | Elden Ring Wiki
+Warhawk Ashesis aSpiritand Summon inElden Ring.Warhawksummons warhawk spirit. The Warhawk summoned is similar to the ones in Stormveil Castle. It attacks both with the swords attached to its talons and its beak, as well as also being able to breathe fire. It can be upgraded with Grave Glovewort.
+Warhawkscan also be found asEnemiesinElden Ring. For more information, seeWarhawk.
+Ashen remains in which spirits yet dwell.Use to summon the spirit of a warhawk.Spirit of a Stormveil warhawk, the talons of which have been sliced off so that razor-fine swords could be grafted in their place.With its lord vanquished, and its wings wounded, the hawk perished as it solemnly gazed at its former home.The storm is a warhawk's cradle.
+Rewarded upon finding the locationProphecy Paintingdepicts. The location is north of theChurch of Pilgrimageat the northern tip of Weeping Peninsula. (The Area in the South).Map Link
+NOTE:Patch 1.13Increased HP, physical attack power and Fire attack power. Increased Stance status.
+Warhawk Ashesis aspirit ashinELDEN RING(2022).
+Ashen remains in which spirits yet dwell. Use to
+Spirit of a Stormveil warhawk, the talons of which have
+been sliced off so that razor-fine swords could be grafted
+in their place. With its lord vanquished, and its wings
+wounded, the hawk perished as it solemnly gazed at its
+former home. The storm is a warhawk's cradle.
+その爪を斬り落とし、薄刃の剣を接がれたストームヴィルの戦鷹の霊体主が倒れ、自らの翼も傷ついた鷹はじつと故郷を見つめ、死んでいった
+Obtained inWeeping Peninsula, just north of theChurch of Pilgrimage. This is the reward for finding the location depicted on the"Prophecy" Painting, and as such, the painting item must have already been obtained from the sideroom to the big courtyard near the Liftside Chamber Site of Grace inStormveil Castle.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Man-Serpent Ashes | Elden Ring Wiki
+Man-Serpent Ashesis aSpiritand Summon inElden Ring.Man-Serpent Ashesareused to summon the spirit of a man-serpent.
+Men-Serpentscan also be found asEnemiesinElden Ring. For more information, seeMan-Serpent.
+Ashen remains in which spirits yet dwell.Use to summon the spirit of a man-serpent.Spirit of a deformed man-serpent that wields a whip of magma.It is said that long ago, the elder serpent that dwelled on Mt. Gelmir devoured a demigod, and the birth of the man-serpents followed.
+Located by theVolcano Manor site of gracein theVolcano Manorlegacy dungeon onMt. Gelmir. The ashes can be found in a room on a corpse surrounded by red candles and three enemies inside the large open room with two large sets of stairs, spiral pillars, and a large egg guarded by a man-serpent at the top. [Map Link]
+NOTE:Patch 1.13Will no longer stagger as easily.
+Man-Serpent Ashesis aspirit ashinELDEN RING(2022).
+Ashen remains in which spirits yet dwell. Use to summon the spirit of a man-serpent.
+Spirit of a deformed man-serpent that wields a whip of magma. It is said that long ago, the elder serpent that dwelled on Mt. Gelmir devoured a demigod, and the birth of the man-serpents followed.
+Found in the hall containing severalWandering NoblesandMan-SerpentsinVolcano Manor, before the sending gate leading toRykard, Lord of Blasphemy.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Ancient Dragon Knight Kristoff Ashes | Elden Ring Wiki
+Ancient Dragon Knight Kristoff Ashesis aSpiritand Summon inElden Ring.Ancient Dragon Knight Kristoff Ashesare used to summon the spirit of Kristoff, wielding a greatshield and a spear imbued with lightning.
+Leyndell Knightscan also be found asEnemiesinElden Ring. For more information, seeLeyndell Knight.
+Legendary ashen remains.Use to summon the spirit of Kristoff, the Ancient Dragon Knight.
+Spirit of Kristoff, an honorable knight of Leyndell who was also a devout worshipper of the ancient dragons.His skills strike down foes with thunderbolts, the dragons' weapon of choice.
+After the First Defense of Leyndell, Kristoff earned the hero's honor of Erdtree Burial for the feat of capturing Godefroy the Grafted.
+TheAncient Dragon Knight Kristoff Ashescan be found in the following location:
+Dropped by theAncient Hero of Zamorboss inside theSainted Hero’s Gravewest ofLeyndell, Royal Capital. [Elden Ring Map Link]
+A decent spirit ash that plays defensively and will use theThunderboltskill at a distance, but does not retain aggro well.
+NOTE:Patch 1.13Will no longer stagger as easily. Increased Lightning attack power and damage negation against Physical, Lightning, and Holy Attack affinities.
+Ancient Dragon Knight Kristoffis aspirit ashinELDEN RING(2022).
+Legendary ashen remains. Use to summon the spirit of Kristoff, the Ancient Dragon Knight.
+Spirit of Kristoff, an honorable knight of Leyndell who was also a devout worshipper of the ancient dragons. His skills strike down foes with thunderbolts, the dragons' weapon of choice.
+王都ローデイルの名高き騎士にして敬虔な古竜の信徒、クリストフの霊体古竜の武器たる、落雷の戦技を駆使する
+Dropped by theAncient Hero of ZamorinSainted Hero's Grave.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Ashes
+Ashes, also calledSpirit AshesorAshen Remains, areitemsinELDEN RING(2022)that allow the player to summon spirits that can fight alongside them.
+To summon spirits one must have theSpirit Calling Belland be within the radius of aRebirth Monument, then use the wanted ash directly from the inventory. Most ashes needFPorHPto summon, and you can only have one ash summoned at a time.
+Each Ash can be upgraded to a maximum of +10 byRoderikausing eitherGrave Glovewort(Ashes and Warrior & Militiamen Ashes) orGhost Glovewort(Special Ashes and Puppets).
+Upgrading a Spirit Ash improves itsHP,Stamina, flatDefense(though not the percentualDamage Negation), andAttack Powermultiplier.
+They are all immune toBlood LossandFrostbite, all except theLand Squirt Ashesare immune toPoisonandScarlet Rot, about a quarter are immune toSleep, and theMimic Tear Ashesis the only Spirit Ash that isn't immune toMadnessandDeath Blight, in addition to its Sleep vulnerability.
+Rebirth Monuments are small obelisks that appear across the land. They are needed to summon spirits ashes and their presence is notified in the screen with an icon. They are frequently found close to boss fights or dense clusters of enemies.
+The Stormhawk King an ash that can't be summoned by the player. Instead, it's used to progress inNepheli'squest.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Spirit Ashes | Elden Ring Wiki
+Spirit AshesinElden Ringare companions, often mimicking the Lands Between'sEnemies, summoned by theSpirit Calling Bellto aid you inCombat. This page covers how they function, the spirit ashes available, summon costs, and a community-driven list of their relative strength.
+With the release ofShadow of the Erdtree,Spirit Asheshave received a new upgrade called Revered Spirit Ashes, which allows them to become more powerful even if they are already at +10 level. Do note that this only applies while you are on the Realm of Shadow.
+With the release ofShadow of the Erdtree,20new powerfulSpirit Ashesare added to the already stacked64Spirit Ashes in the base game. This leads to a total of 84 Spirit Ashes available between the base game and the new content added with theShadow of the ErdtreeDLC.
+Not only there are moreSpirit Ashesbeing added to the game with Shadow of the Erdtree, but also in the Realm of Shadow, players can use a new item calledRevered Spirit Ash, to make them more powerful. This new upgrade for Spirit Ashes allows them to exceed the power they have, even if they are already at+10level.
+This page is up to date with all this new content. Players will be able to search and find all Shadow of the Erdtree New Spirit Ashes here, as well as to learn about their Stats, Attack Patterns, Requirements, Upgrade requirements, Best uses, and much more regarding the new Spirit Ashes added with the Shadow of the Erdtree DLC! This comprehensive guide will help players optimize their combat strategies utilizing Spirit Ashes.
+NOTE: As of Patch 1.13.2 Multiple spirit ashes stats and stagger values were changed, along with Revered Spirit Ash scalings.
+To useSpirit Ashes, players must first obtain theSpirit Calling BellfromRennaat theChurch of Elleh[Map Link].
+Similar toItems, Spirit Ashes can be equipped to and used from your Quick Slots or Pouch. However, they can only be used while not inMultiplayer Coopand when near aRebirth Monument.
+After summoning in a given area, you are not allowed to summon again in that area until you rest at anySites of Graceor Fast Travel.
+Players may reuse the Spirit Ashes to dismiss a summon.
+Leaving the boundary of a valid summoning area will dismiss any active spirits.
+Spirits may only be summoned once per encounter, so you cannot re-summon them after they die during a boss fight.
+Spirits cannot be summoned while the effects of theFurlcalling Finger Remedyare active. Use the remedy again to cancel its effects.
+Summoning spirits require eitherFPorHPdepending on the summon.
+Players must be near aRebirth Monument, stone obelisks found at many Points of Interest and nearly every boss arena, to use Spirit Ashes.
+A monument icon, depicted below, will appear on the left side of the screen when conditions are met:
+Roderikais the only NPC capable of upgradingSpirit Ashes. She offers her services after a short side quest:
+Talk toRoderikaat theStormhill Shack. [Map Link]
+Travel to theRoundtable Hold, and talk to her and toBlacksmith Hewgseveral times until you exhaust their dialogue options.
+Reload the area by leaving or other means.
+Ashes, also calledSpirit AshesorAshen Remains, areitemsinELDEN RING(2022)that allow the player to summon spirits that can fight alongside them.
+To summon spirits one must have theSpirit Calling Belland be within the radius of aRebirth Monument, then use the wanted ash directly from the inventory. Most ashes needFPorHPto summon, and you can only have one ash summoned at a time.
+Each Ash can be upgraded to a maximum of +10 byRoderikausing eitherGrave Glovewort(Ashes and Warrior & Militiamen Ashes) orGhost Glovewort(Special Ashes and Puppets).
+Upgrading a Spirit Ash improves itsHP,Stamina, flatDefense(though not the percentualDamage Negation), andAttack Powermultiplier.
+They are all immune toBlood LossandFrostbite, all except theLand Squirt Ashesare immune toPoisonandScarlet Rot, about a quarter are immune toSleep, and theMimic Tear Ashesis the only Spirit Ash that isn't immune toMadnessandDeath Blight, in addition to its Sleep vulnerability.
+Rebirth Monuments are small obelisks that appear across the land. They are needed to summon spirits ashes and their presence is notified in the screen with an icon. They are frequently found close to boss fights or dense clusters of enemies.
+The Stormhawk King an ash that can't be summoned by the player. Instead, it's used to progress inNepheli'squest.
+
+---
+

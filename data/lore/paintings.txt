@@ -1,0 +1,122 @@
+area: Limgrave
+chapter: 1
+name: Paintings | Elden Ring Wiki
+PaintingsinElden RingareInfo Itemsscattered all around The Lands Between that act as a form of treasure hunt. TheWandering Artist Spirit'sPaintingsdepict specific locations you'll have to find in order to meet the spirits of the artists themselves. Upon finding and inspecting one of the seven drawings, a ghost of theartistwill manifest at the location from which they were painted, granting a specific reward. Note that the location you must seek is not the structure or landscape depicted itself, but rather the spot the artist would have been when painting it. This page covers a full list of all thePaintingsfound in Elden Ring, including their location, solution, and rewards.
+PaintingsareInfo Itemsthat can be found scattered across the world ofELDEN RING. Once theTarnishedhas discovered and interacted with the artwork, they're then able to perceive the soul of that painting's creator and retrieve unique items from their location. The location of the soul is the location of the perspective depicted by the artwork itself.
+The soul of painters are initially invisible when viewed from a distance but will eventually reveal themselves as the player draws nearer to them. Successfully locating a painter's spirit will make it dissipate before leaving a unique item behind for the player to pick up; the item is usually thematically related to the artwork it is received from.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Homing Instinct Painting | Elden Ring Wiki
+Homing Instinct Paintingis anInfo IteminElden Ring.Tutorialitems provide information about how to addSkillsto yourWeapons,Craftingadvices,Combattips, and more. They can be obtained through exploration and looting, dropped by specificEnemiesorBosses, or purchased fromNPCs.
+Work of a wandering artist.Reminiscence of a painting titled "Homing Instinct."
+This painter is said to have captured the landscapes seen during the last moments of those welcomed into death's embrace.
+The soul of the painter, and vestiges of the dead's last moments can be discovered by visiting the location depicted even now.
+Location:Artist's Shack (Limgrave). See it on theElden Ring Map here.
+Going to this location: A small grave west from Dragon-Burnt Ruins in Limgrave. [Map Link]
+You can hold up to 1 Homing Instinct Painting.
+You cannot store Homing Instinct Painting.
+"Homing Instinct"is aninfo itemandpaintinginELDEN RING(2022).Depicts a distantMinor Erdtree, framed by ancient ruins.
+Work of a wandering artist. Reminiscence of a painting titled "Homing Instinct."
+Allows thePlayerto perceive the soul of a painter and retrieve a unique item from their location.The location being the point of perspective depicted by the painting itself.
+The soul in question can be found near an arch ofAncient Ruinsby the cliffs southeast of theFirst Step(or northwest from theSeaside Ruins)Site of Grace.
+The painter is initially invisible when viewed from a distance but will eventually reveal themselves as the player gets physically closer to them. Successfully locating the spirit will make it dissipate before leaving theIncantation Scarabheadpiecefor the player to pick up from the ground.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Resurrection Painting | Elden Ring Wiki
+Resurrection Paintingis anInfo IteminElden Ring.Tutorialitems provide information about how to addSkillsto yourWeapons,Craftingadvices,Combattips, and more. They can be obtained through exploration and looting, dropped by specificEnemiesorBosses, or purchased fromNPCs
+Work of a wandering artist.Reminiscence of a painting titled "Resurrection."
+This painter is said to have captured the landscapes seen during the last moments of those welcomed into death's embrace.
+The soul of the painter, and vestiges of the dead's last moments can be discovered by visiting the location depicted even now.
+Start at the "Behind Caria Manor" grace location and head slightly southeast until you arrive at a graveyard. When the path forks to the South and SE, take the South path that does not go under the jutting rock. The artist is behind the rock to the right of the South path that juts West. There are albinaurics and undead nearby. The artist will drop aLarval Tear, theJuvenile Scholar Robeand theJuvenile Scholar Cap. [Map Link]
+You can hold up to 1Resurrection Painting.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Redmane Painting | Elden Ring Wiki
+Redmane Painting is anInfo IteminElden Ring.Tutorialitems provide information about how to addSkillsto yourWeapons,Craftingadvices ,Combattips, and more. They can be obtained through exploration and looting, dropped by specificEnemiesorBosses, or purchased fromNPCs.
+Work of a wandering artist.Reminiscence of a painting titled "Redmane."
+This painter is said to have captured the landscapes seen during the last moments of those welcomed into death's embrace.
+The soul of the painter, and vestiges of the dead's last moments can be discovered by visiting the location depicted even now.
+Caelid,Sellia, Town of Sorcery: Partially concealed by some rubble at the southern center of town. Walk up the stairs from theSellia Unders-Stairand take a right, it'll be on your left. [Map Link]
+Caelid: Appears at edge of a cliff after you've looted theRedmane PaintinginSellia, Town of Sorcery. You'll find it down the cliff on a plateau south east of the Minor Erdtree in Dragonbarrow. Once you've made your way down, walk to the edge and you'll briefly see the spirit of a painter. Walk up to the painter, and he will disappear before granting you the theAsh of War. [Map Link]
+First drop is probably the trickiest. Roll forward into the cliff face (don't jump) from position shown on screenshot above. Drop height is just below lethal, so you'll lose some health.  Use theLongtail Cat Talismanto mitigate fall damage.  Performing a plunging attack as you fall should also help you land onto the branch safely.
+Follow this branch down to the end and walk off at the corner between the rock wall and where the branch protrudes out of the cliff face to drop down to a lower branch.
+While on this branch, walk towards the rock face. Facing the cliff face, walk off into the corner to the left between the rock wall and where the branch connects with the cliff. to the top of column.
+Walk along the branch until you are close to its tip. Turn 90 degrees to your left, then roll onto the broken column top
+From here there is a much greater hop down to another branch.  Do this while mounted on Torrent. Make sure you are not holding any weapon that rests on your shoulder as that seems to cause double-jumps to fail.  Move fairly close to the lip of the broken masonary and jump diagonally into the rock wall, double-jumping part of way down onto the branch below.
+While still Torrent, carefully and slowly follow the branch down, followed by a short jump down to a nearby pile of fallen rocks. The golem nearby would not react to you.
+On approach the painter vanishes and leaves behind theAsh of War: Rain of Arrows.
+Note: it is also possible to reach the painter using the spirit spring close to Fort Faroth. See the Ash of War: Rain of Arrows page for details.
+The golem near the Rain of Arrows Ash of War, like all golem which use the halberd as a weapon, has a chance to  drop theGolem's Halberd.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Champion's Song Painting | Elden Ring Wiki
+Champion's Song Paintingis anInfo IteminElden Ring.Tutorialitems provide information about how to addSkillsto yourWeapons,Craftingadvices,Combattips, and more. They can be obtained through exploration and looting, dropped by specificEnemiesorBosses, or purchased fromNPCs
+Work of a wandering artist.Reminiscence of a painting titled "Champion's Song."
+This painter is said to have captured the landscapes seen during the last moments of those welcomed into death's embrace.
+The soul of the painter, and vestiges of the dead's last moments can be discovered by visiting the location depicted even now.
+Found in a small wooden structure on the side of the walls on the east side ofThe Shaded Castle, it cannot be seen from atop the walls as the wooden roof obstructs the view, the player has to walk down the stone pillar to see it. [Map Link]
+From theShaded Castle Ramparts Grace, head SE back down the stairs, then NE along the ramparts. On your left side there will be a broken wall and a stone ramp going down into an acid pool to the West. The painting is in the wooden building next to the stone ramp. Just drop down below the ramp and find the stairs to the North.
+Go to the pictured location inAltus Plateau, up on the cliff. The closest Site of Grace is theRampartside Path.
+After the spirit disappears, you will receive theHarp Bow.
+You can hold up to 1Champion's Song Painting.
+You cannot storeChampion's Song Painting.
+If you have damagedAncient Dragon Lansseaxenough near the Abandoned CoffinSite of Gracein Altus Plateau at the start, it will be near the Rampartside PathSite of Graceyou have to go to receive the reward so be careful of that.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Flightless Bird Painting | Elden Ring Wiki
+Flightless Bird Paintingis anInfo IteminElden Ring. Tutorial items provide information about how to addSkillsto yourWeapons,Craftingadvice,Combattips, and more. They can be obtained through exploration and looting, dropped by specificEnemiesandBosses, or purchased fromNPCs.
+Work of a wandering artist.Reminiscence of a painting titled "Flightless Bird."
+This painter is said to have captured the landscapes seen during the last moments of those welcomed into death's embrace.
+The soul of the painter, and vestiges of the dead's last moments can be discovered by visiting the location depicted even now.
+In the Fortified Manor atLeyndell, Royal Capital. [Map Link]
+Found on the lower level, in the same room as the Site of Grace.
+Note: It is possible to miss this painting if the player killsMaliketh, the Black Blade, causing theLeyndell, Ashen Capitalinstance to appear.
+Travel toWindmill Heightsand head south-by-southeast from there. You will find the painter on a cliff left of the shack, at the end of the road.
+After the spirit disappears, you will receive theFire's Deadly SinIncantation.
+You can hold up to 1Flightless Bird Painting.
+You cannot storeFlightless Bird Painting.
+There is a possible chance the name of this painting and the name of the Prophecy Painting were erroneously swapped and never corrected. The reward of Fire's Deadly Sin directly relates to a prophecy and even refers to the prophecy within its description.
+"Flightless Bird"is aninfo itemandpaintinginELDEN RING(2022).Depicts the outer walls ofLeyndell, Royal Capitalwith theErdtreelooming in the background
+Leads to theFire's Deadly Sinincantation.
+Work of a wandering artist. Reminiscence of a painting titled "Flightless Bird."
+Allows thePlayerto perceive the soul of a painter and retrieve a unique item from their location.The location being the point of perspective depicted by the painting itself.
+The soul in question can be found near the southern cliffs at the top ofDominula, Windmill Village, south of theWindmill HeightsSite of Grace.
+The painter is initially invisible when viewed from a distance but will eventually reveal themselves as the player gets physically closer to them. Successfully locating the spirit will make it dissipate before leaving theFire's Deadly Sinincantation for the player to pick up from the ground.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Prophecy Painting | Elden Ring Wiki
+Prophecy Paintingis anInfo IteminElden Ring.Tutorialitems provide information about how to addSkillsto yourWeapons,Craftingadvices,Combattips, and more. They can be obtained through exploration and looting, dropped by specificEnemiesorBosses, or purchased fromNPCs
+Work of a wandering artist.Reminiscence of a painting titled "Prophecy."
+This painter is said to have captured the landscapes seen during the last moments of those welcomed into death's embrace.
+The soul of the painter, and vestiges of the dead's last moments can be discovered by visiting the location depicted even now.
+Found inside a study room located at the heavily guarded courtyard where theOmenogre is. The nearest checkpoint is the Liftside Chamber site of grace. [Video Location]
+The location is directly north of the Church of Pilgrimage at the northern tip of Weeping Peninsula, next to a broken pillar. [Map Link]The item you get isWarhawk Ashes. You summon a Hawk similar to the ones in Stormveil Castle and it costs 52 FP. It attacks both with the swords attached to its talons and its beak. The summon is also able to breathe fire. It can be upgraded withGrave Glovewort.
+The location is directly north of the Church of Pilgrimage at the northern tip of Weeping Peninsula, next to a broken pillar. [Map Link]
+The item you get isWarhawk Ashes. You summon a Hawk similar to the ones in Stormveil Castle and it costs 52 FP. It attacks both with the swords attached to its talons and its beak. The summon is also able to breathe fire. It can be upgraded withGrave Glovewort.
+There is a possible chance the name of this painting and the name of the Flightless Bird Painting were erroneously swapped and never corrected. The reward of the Warhawk Ashes even goes out of its way to mention its wounded wings within its description, perhaps preventing it from long-distance or prolonged periods of flight.
+"Prophecy"is aninfo itemandpaintinginELDEN RING(2022).Depicts the scene of a distantStormveil Castle.
+Reminiscence of a painting titled "Prophecy."
+Allows thePlayerto perceive the soul of a painter and retrieve a unique item from their location.The location being the point of perspective depicted by the painting itself.
+The soul in question can be found near a cliff edge north of theChurch of Pilgrimage.
+The painter is initially invisible when viewed from a distance but will eventually reveal themselves as the player gets physically closer to them. Successfully locating the spirit will make it dissipate before leaving theWarhawk Ashesfor the player to pick up from the ground.
+
+---
+

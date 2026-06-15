@@ -1,0 +1,7 @@
+area: Limgrave
+chapter: 1
+name: Crafting
+Crafting is a mechanic inELDEN RINGwhere the player can create consumable items using ingredients obtained throughout the Lands Between. This function only becomes available once the player has possession of theCrafting Kit, which provides a few basic recipes. They can obtainCookbooksfrom other merchants or from various corners of the game world to make more crafting recipes available.
+
+---
+

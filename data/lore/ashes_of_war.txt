@@ -1,0 +1,35 @@
+area: Limgrave
+chapter: 1
+name: Ashes of War | Elden Ring Wiki
+Ashes of WarinElden Ringare special items that allow you to grant your armaments (WeaponsandShields) newSkillsandAffinities. They're integral for creatingBuildsand adapting to the manyEnemiesandBossesof The Lands Between.
+Click here to scroll down to the Ash of War List ↓
+CheckUpgradesto learn more about upgrading and modifying your equipment.
+Ashes of Warare allowed inPlayer Tradeonline.
+With the release ofShadow of the Erdtree,25newAshes of Warare added to the already stacked91Ashes of War in the Elden Ring base game. This leads to a total of116Ashes of Waravailable between the base game and the new content added with theShadow of the ErdtreeDLC.
+This page is up to date with all this new content. Players will be able to search and find all Shadow of the Erdtree NewAshes of Warhere, as well as to learn about their Affinity, Attack Patterns, Usable Weapons, Best uses, and much more regarding the newAshes of Waradded with theShadow of the ErdtreeDLC! This comprehensive guide will help players optimize their combat strategies utilizingAshes of War.
+With aWhetstone Knife, you can use Ashes of War to grant your armaments newSkillsandAffinitiesatSites of Grace. Alternatively, players may visitSmithing Master Hewgat theRoundtable Holdwho offers the same services.
+An armament can only have one skill; any skills it previously had will be removed.
+An armament's type determines which skills or affinities it can have. Details on which armaments an ash of war is for can be found in its item description.
+Some special armaments have unique skills and cannot be granted new ones.
+Ashes of War can be repeatedly used without a cost, unlike similar items from previous FromSoftware titles (Embers, Stones, and Gems).
+Ashes of Warcan obtained in the following ways:
+Found throughout the Lands Between; looted from corpses, chests, and other places of interest
+Ashes of Warcan be duplicated bySmithing Master Hewgin exchange forLost Ashes of War.
+Quick Search of All Shadow of the Erdtree Ashes of War
+Physical-type Ashes of War which have theStandardAffinitywith their respectiveSkill.
+See theStandardWeapons Comparison TableandShields Comparison Tableto compare the armaments at their max upgrade.
+Physical-type Ashes of War which have theHeavyAffinitywith their respectiveSkill.
+See theHeavyWeapons Comparison TableandShields Comparison Tableto compare the armaments at their max upgrade.
+Physical-type Ashes of War which have theKeenAffinitywith their respectiveSkill.
+Ashes of Warare specialitemsinELDEN RING(2022)that can be used to replace theSkillsof certainarmaments, and (optionally) infuse them with one of a selection of possibleAffinities. They can be applied to compatible armaments bySmithing Master Hewg; with anyWhetblade, they can also be applied while resting at aSite of Grace.[1][2]
+Ashes of War are not consumed when applied; rather, they are slotted into the armament, and can be removed or transferred between compatible armaments at any time.
+Each Ash of War corresponds to a specific Skill, and can only be applied to armaments compatible with that skill; for instance,Ash of War: Piercing Fangcan only be applied to weapons capable of thrusting attacks, butAsh of War: Kickcan be applied to any melee weapon. Ashes of War also cannot be applied to any weapon that is upgraded usingSomber Smithing Stones.
+Ashes of War also each have a corresponding "native" Affinity; for instance,Ash of War: Bloody Slashhas theBlood affinity. When being applied to an armament, this Affinity can optionally be infused to change the weapon's base damage values, damage scaling, and/or status effect buildups; alternatively, the armament can be left with theStandard affinityto keep the default scaling, and other affinities can be chosen if correspondingWhetbladesare held.[note 1]
+Ashes of War can be freely removed from weapons — refunding the Ash and reverting the weapon to its default Skill — or directly transferred between weapons. They can also be duplicated by Hewg withLost Ashes of War— whether in the inventory or already on a weapon — consuming them in the process.
+Ashes of War are most commonly obtained as a drop fromAsh of War Scarabs; however, they are sometimes contained in chests, sold by merchants, dropped by certain enemies such asNight's Cavalryor the uniqueGodrick KnightinFort Haight, or occasionally are available as potential rewards from bossRemembrances— for example,Ash of War: Waves of Darknessfrom theRemembrance of the Naturalborn.
+Additionally, some weapons have Ashes of War pre-equipped on acquisition, such that they can be applied to other weapons or duplicated from them. For example, theNagakibahas Ash of War: Piercing Fang equipped on acquisition, despite havingUnsheatheas its base skill when Piercing Fang is removed; andBackhand BladehasAsh of War: Blind Spotpre-equipped while simultaneously having Blind Spot as its underlying base skill. This often occurs when the Ash is otherwise impossible to obtain naturally.
+It depends on the Ash of War individually if the Skill it grants scales with the weapon's attack rating, or your character's stats and the weapon's upgrades.
+For example:Ash of War: Lion's Clawwill deal over 1000 damage on a Keen-infused +25Flambergeequipped to a character with 20str/40dex and less than 1000 if the Ash of War's default Heavy-infusion was chosen instead; meanwhile,Ash of War: Ground Slamwill deal less damage if any infusion option other than Heavy is chosen, even if the weapon's attack rating would be higher with something else.
+
+---
+

@@ -1,0 +1,21 @@
+# --- Environment & Credentials ---
+.env
+
+# --- Python & Virtual Environments ---
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# --- Database Files (Local Instances) ---
+chroma_db/
+chroma.sqlite3
+
+# --- Temporary Data & Reports ---
+chromadb_dump.json
+coverage_report.json
+
+# --- OS Generated Files ---
+.DS_Store
+Thumbs.db
