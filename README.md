@@ -1,6 +1,10 @@
-# EldenLore RAG: The Compendium of Grace
+<img width="689" height="740" alt="image" src="https://github.com/user-attachments/assets/5bfbeb41-3d28-4ae2-89c1-7483c91ca3ae" /># EldenLore RAG: The Compendium of Grace
 
 EldenLore RAG is an AI-powered Retrieval-Augmented Generation tool that lets you ask questions about Elden Ring lore and get accurate answers grounded in a custom database of texts. It uses ChromaDB for semantic search, Groq for language generation, and offers multiple character personas to answer in distinct voices.
+
+<img width="835" height="477" alt="image" src="https://github.com/user-attachments/assets/23a18387-4a05-4ccb-ac0c-8eeac2751f4b" />
+<img width="689" height="740" alt="image" src="https://github.com/user-attachments/assets/1a4768e7-038b-4278-a238-010efde4874d" />
+<img width="648" height="592" alt="image" src="https://github.com/user-attachments/assets/127c89b8-7170-47c2-b78d-ed62a55b1ed0" />
 
 ---
 
