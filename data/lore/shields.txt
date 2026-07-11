@@ -1,0 +1,549 @@
+area: Limgrave
+chapter: 1
+name: Shields | Elden Ring Wiki
+ShieldsinElden Ringare pieces of protective equipment which provide defense against the world'sEnemiesandBosses. Typically wielded in the off-hand,Shieldsare capable of guarding, parrying, bashing, or even something unique with their respectiveAshes of War. They can be two-handed for increased stability against incoming attacks. MostBuildscan benefit from having a Shield equipped, even with infrequent use, so long as the stat requirements of the shield are met.
+Requirements: What stats are needed to use the shield effectively.
+Weight: How much the shield weighs, which affects yourEquip Load.
+Guard Boost: The higher the Guard Boost, the less Stamina that's consumed for each attack you block. Upgrading shields increases their Guard Boost every other level (+3, +5, and so on). Guard boost reduces stamina cost from blocking: if an attack would deal 100 stamina damage, 30 guard block reduces it by 30% to 70 stamina.
+Type: While a shield's Guard Boost determines how much stamina is consumed when you block, the shield's Type (small, medium, or great) determines which attacks will bounce off of it, briefly stunning the attacker in a recoil animation (a perfect opportunity for aguard counter). Greatshields will bounce the most attacks, while small shields will only bounce very light attacks. For example,Brass Shieldhas a higher guard boost thanWooden Greatshieldbut will not bounce any attacks from aBanished Knight, while the Wooden Greatshield will bounce most normal attacks from the same enemy.
+Damage Reduction: How much of eachdamage typewill be prevented when you block an attack with the shield. Physical damage reduction applies toStandard,Strike,Slash, andPiercedamage. For example, if a shield with 50%Fire Damagereduction blocks an attack that would normally deal 100 Fire Damage, you'll only take 50 damage.
+Damage:To attack with a shield,two-handit or equip it to your right hand. A shield's damage is also relevant when using the ashes of warShield BashorShield Crash.
+Special Skill:InfusingAsh of War: No Skillonto your shield lets you continue to use the shield to block attacks without losing access to your main weapon's skill.
+Please visitShields Comparison Tablefor a minimalistic view with Max Upgrade stats.
+Guarding(also referred to as "Blocking") is aCombatmechanic in Elden Ring. It allows you to block some or all damage from incoming attacks and return powerful counterattacks.Guarding (Blocking) in Elden RingHow to Guard (Block)In order to guard, you must either have aShieldequipped in your left hand or you must betwo-handinga weapon.While you're guarding, all incoming damage is reduced according to your shield's Guarded Damage Negation stats. Each shield has a separate Guarded Damage Negation stat for eachDamage Type(although Physical damage reduction applies toStandard,Strike,Slash, andPiercedamage). For example, if a shield with 50%Fire Damagereduction blocks an attack that would normally deal 100 Fire Damage, you'll only take 50 damage.Every attack you block while guarding costs you someStamina. How much depends on both how strong the attack is and on your shield's Guard Boost stat: the higher the Guard Boost, the less stamina you lose. If you block an attack that depletes all your stamina while guarding, you will not take increased damage from that attack, but you'll be briefly stunned and vulnerable to acritical hit.Certain weapon types can even attack your enemies while you're simultaneously guarding with your shield, allowing you to remain safe while dishing out damage. AllThrusting Swords,Heavy Thrusting Swords,Spears, andGreat Spearscan do this.Staggering EnemiesWhen an enemy hits your shield while you're guarding, they may stagger backwards briefly. This is a great time to counterattack orguard counter.Whether an enemy staggers depends on how heavy their attack is and howhardyour shield is.Small Shieldsare the least likely to cause attackers to stagger,Greatshieldsare the most likely, andMedium Shieldsare in between. You can also useDragonbolt Blessingto make your skin as hard as a Greatshield for 70 seconds, orBarricade Shieldto make any shield even harder than a Greatshield for 5 seconds.Guard CountersImmediately after blocking an incoming attack, press Heavy Attack to do a special counterattack. SeeGuard Countersfor more information.
+Guarding(also referred to as "Blocking") is aCombatmechanic in Elden Ring. It allows you to block some or all damage from incoming attacks and return powerful counterattacks.
+In order to guard, you must either have aShieldequipped in your left hand or you must betwo-handinga weapon.
+While you're guarding, all incoming damage is reduced according to your shield's Guarded Damage Negation stats. Each shield has a separate Guarded Damage Negation stat for eachDamage Type(although Physical damage reduction applies toStandard,Strike,Slash, andPiercedamage). For example, if a shield with 50%Fire Damagereduction blocks an attack that would normally deal 100 Fire Damage, you'll only take 50 damage.
+Every attack you block while guarding costs you someStamina. How much depends on both how strong the attack is and on your shield's Guard Boost stat: the higher the Guard Boost, the less stamina you lose. If you block an attack that depletes all your stamina while guarding, you will not take increased damage from that attack, but you'll be briefly stunned and vulnerable to acritical hit.
+Certain weapon types can even attack your enemies while you're simultaneously guarding with your shield, allowing you to remain safe while dishing out damage. AllThrusting Swords,Heavy Thrusting Swords,Spears, andGreat Spearscan do this.
+When an enemy hits your shield while you're guarding, they may stagger backwards briefly. This is a great time to counterattack orguard counter.
+Whether an enemy staggers depends on how heavy their attack is and howhardyour shield is.Small Shieldsare the least likely to cause attackers to stagger,Greatshieldsare the most likely, andMedium Shieldsare in between. You can also useDragonbolt Blessingto make your skin as hard as a Greatshield for 70 seconds, orBarricade Shieldto make any shield even harder than a Greatshield for 5 seconds.
+Immediately after blocking an incoming attack, press Heavy Attack to do a special counterattack. SeeGuard Countersfor more information.
+All shields have aHardnessvalue while blocking. If that value is higher than the incoming attack, then the enemy will be deflected. When this happens, the attacker goes into a recovery animation, and is briefly unable to continue attacking. This can create an opening for a counterattack by the shield user. Higher hardness values can be found onGreatshields(in particular theAnt's Skull Plate), and shields buffed by theBarricade Shieldskill.
+Parryingwith a shield can only be done using small or medium shields. Greatshields and thrusting shields cannot parry or be infused with an Ash of War that enables parrying.
+Shields can be enchanted and buffed, but typical weapon enchantments and buffs such as Scholar's Armament or Fire Grease will not work on shields. Only a few buffs can be placed on shields:
+Immutable Shield, an incantation that increases damage negation for non-physical damage types.
+Scholar's Shield, a sorcery enchantment which reduces damage taken and stamina cost of blocking.
+Shield Grease, a consumable which does the same to a lesser degree, but without need for casting.
+Barricade Shield, a skill that temporarily halves stamina cost and boosts hardness to level 4.
+These limitations do not apply toThrusting Shields, which can be buffed as normal weapons. They also have access to a greater variety ofAshes of War.
+Shields is aninventory categoryinELDEN RING(2022). It includesSmall Shields,Medium Shields,Greatshields,Thrusting Shields(as of the release of theShadow of the Erdtreeexpansion), and curiouslyTorchesas well.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Fingerprint Stone Shield | Elden Ring Wiki
+Fingerprint Stone Shieldis aGreatshieldinElden Ring. TheFingerprint Stone Shieldis aShieldthat scales primarily withStrength.Greatshieldsweigh a decent amount and provide the best protection in the game.Greatshieldsprovide a greater value of blocking and protecting oneself from enemy and boss attacks, but greatly increases the weight and reduces the player's mobility. This type of shield works best at reducing damage or guarding instead of parrying.
+A great stone shield with an intricately carved fingerprint design.One of the heaviest of all greatshields.
+Part of the tomb of an ancient god, the Readerless Fingers relayed their message through these imprints, said to be the very seeds from which frenzy first sprouted.
+Cathedral of the Forsaken. [Elden Ring Map here]IMPORTANT: Before you start, you must first defeatMorgott, the Omen King; otherwise a seal will be blocking the final area before the shield.NOTE: This needs 3 platforming jumps down that are a bit difficult.
+After defeatingMohg, the Omenin theCathedral of the Forsakenyou can roll/attack the altar behind the chest and it will move down out of the way revealing a path. The area after Mohg contains a large vertical shaft. After descending the shaft to a certain point, the only way to descend further is by dropping down to various tiny graves sticking out of the walls.
+You'll be at the last wooden beam on the southern side of the shaft. There'll be aNomadon the final southern platform playing a violin. Where this Nomad is is exactly where you need to drop off to start dropping down the gravestones on the eastern shaft wall.
+Carefully drop off of this southeast corner of the shaft onto the first tiny headstone.You'll be able to see the next headstone you need to reach down the shaft's eastern side.
+For the first jump, starting at the southern most part of the first tiny headstone you're standing on, walk forwards, press the jump button, then let go of forward immediately (try not to hug the eastern wall as the geometry will move you out into the shaft). This will usually reach the second headstone.
+On the second headstone, turn to face the southern wall, and do the same thing you did in the previous step (remember not to hug the eastern wall while doing it, or the geometry might push you in a weird direction). This will usually reach the third headstone.
+Finally, from the southernmost part of the third headstone, just walk off the headstone facing the north wall. You'll reach the fourth headstone.There is an item here you can pick up but there's still another step left before getting the shield.
+Enter the alcove that the fourth headstone jutted out of. Turn right then walk down a corridor moving west. The shield is at the end of this corridor, along with aNomad.The Nomad's attacks can be used to destroy the environment at the other end of the corridor where you came from to obtain another item, so be careful about killing it too quickly.[Elden Ring Map here]
+This shield can be infused withAshes of War
+Can be buffed by defensiveMagicorConsumables
+Fingerprint Stone Shieldcan be upgraded by usingSmithing Stones.
+If set to anArcanescaling affinity (Blood, or Poison), the default Madness build up on this weapon will also increase with points spent on Arcane.
+Note: Do not infuse it with Occult, since it will remove its Madness build up
+If Magic infusion is applied, it receives up to 96.25% magic damage reduction at the slight cost of guard boost and physical damage reduction.
+If Fire infusion is applied, it receives up to 100% fire damage reduction at the slight cost of guard boost and physical damage reduction, making this shield very useful against enemies using fire-based attacks as it can completely block fire damages.
+NOTE:As ofPatch 1.09, the scaling values of this weapon were changed. Please refer to theUpgrades Tableof this weapon below.
+Fingerprint Stone Shield can be modified byAshes of War. Click below for a list of all possible Ashes of War that can be applied to the greatshield.
+Only Standard, Heavy, Keen, Quality, Lightning, and Sacred
+TheFingerprint Stone Shieldis ashieldfound inELDEN RING(2022).
+A great stone shield with an intricately carved fingerprint design. One of the heaviest of all greatshields.
+Part of the tomb of an ancient god, theReaderless Fingersrelayed their message through these imprints, said to be the very seeds from which frenzy first sprouted.
+Loot:Subterranean Shunning-Grounds(Leyndell, Royal Capital)
+
+---
+
+area: Limgrave
+chapter: 1
+name: Erdtree Greatshield | Elden Ring Wiki
+Erdtree Greatshieldis aGreatshieldinElden Ring. TheErdtree Greatshieldis aShieldthat scales primarily withStrengthandFaith.Greatshieldsweigh a decent amount and provide the best protection in the game.Greatshieldsprovide a greater value of blocking and protecting oneself from enemy and boss attacks, but greatly increases the weight and reduces the player's mobility. This type of shield works best at reducing damage or guarding instead of parrying.
+Weighty greatshield forged of gold carried by the order of Tree Sentinels, heavily equipped knights. Blessed by an old incantation of protection.The living rampart of the Erdtree, the Tree Sentinels are the standard to which all defenders of the Erdtree aspire.
+TheErdtree Greatshieldcan be found at the following location:
+Can be acquired by KillingTree SentinelDuo. [Elden Ring Map here]
+Tree Sentinel Duo is aFoeBoss found inAltus Plateau, guarding the doors to the the Outer Wall Phantom Tree grace. You must defeat both Tree Sentinels to earn this shield.
+This shield cannot be infused withAshes of War.
+Can be buffed by defensiveMagicorConsumables
+TheErdtree Greatshieldcan be upgraded by usingSomber Smithing Stones.
+NOTE:As ofPatch 1.09, the scaling values of this weapon were changed. Please refer to theUpgrades Tableof this weapon below.
+Patch 1.10adjustedPVP Poise Damageof all Weapons including someSpellsandIncantations. Please take note that these adjustments are exclusive toPVP.
+1H R1 (1/2/3/4/5/6 Attacks): 222/111/120/--/--/--
+2H R1 (1/2/3/4/5/6 Attacks): 288/144/156/--/--/--
+Please see theUpgradespage to understand the weapon bolstering process.
+Requires regular reinforcement withSomber Smithing Stones.
+TheErdtree Greatshieldis ashieldfound inELDEN RING(2022).
+Weighty greatshield forged of gold carried by the order of Tree Sentinels, heavily equipped knights. Blessed by an old incantation of protection.
+The living rampart of the Erdtree, the Tree Sentinels are the standard to which all defenders of the Erdtree aspire.
+黄金で作られた、重厚な大盾ツリーガードと呼ばれる、重騎士の得物古い守りの祈祷が施されている
+
+---
+
+area: Limgrave
+chapter: 1
+name: Crucible Hornshield | Elden Ring Wiki
+Crucible Hornshieldis aGreatshieldinElden Ring. The Crucible Hornshield is aShieldthat scales primarily withStrength.Greatshieldsweigh a decent amount and provide the best protection in the game.Greatshieldsprovide a greater value of blocking and protecting oneself from enemy and boss attacks, but greatly increases the weight and reduces the player's mobility. This type of shield works best at reducing damage or guarding instead of parrying.
+Greatshield of red-tinged gold carried by Crucible Knights.Features a great horn.
+An ancient holiness dwells within. The crucible horn skewers foes when performing shield bashes.
+TheCrucible Hornshieldcan be found at the following location:
+Dropped by theCrucible Knightpatrolling the bridges of theSiofra Aqueduct.Map Link.
+This shield cannot be infused withAshes of War.
+Can be buffed by defensiveMagicorConsumables
+TheCrucible Hornshieldcan be upgraded by usingSomber Smithing Stones.
+NOTE:As ofPatch 1.09, the scaling values of this weapon were changed. Please refer to theUpgrades Tableof this weapon below.
+Patch 1.10adjustedPVP Poise Damageof all Weapons including someSpellsandIncantations. Please take note that these adjustments are exclusive toPVP.
+1H R1 (1/2/3/4/5/6 Attacks): 222/111/120/--/--/--
+2H R1 (1/2/3/4/5/6 Attacks): 288/144/156/--/--/--
+Please see theUpgradespage to understand the weapon bolstering process.
+Requires regular reinforcement withSomber Smithing Stones.
+Crucible Hornshieldis agreatshieldinELDEN RING(2022).
+Greatshield ofred-tinged goldcarried byCrucible Knights. Features agreat horn.
+An ancientholinessdwells within. Thecruciblehorn skewers foes when performingshield bashes.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Haligtree Crest Greatshield | Elden Ring Wiki
+Haligtree Crest Greatshieldis aGreatshieldinElden Ring. TheHaligtree Crest Greatshieldis aShieldthat scales primarily withStrength.Greatshieldsweigh a decent amount and provide the best protection in the game.Greatshieldsprovide a greater value of blocking and protecting oneself from enemy and boss attacks, but greatly increases the weight and reduces the player's mobility. This type of shield works best at reducing damage or guarding instead of parrying.
+Metal greatshield depicting the Haligtree with unalloyed gold.Carried by knights who have vowed to serve Miquella's Haligtree.Possesses high holy damage negation. Yet now, with the Haligtree misshapen, this wondrous rendition is a fleeting fantasy.
+TheHaligtree Crest Greatshieldcan be found at the following location:
+Has a 4% base chance to drop fromone specificHaligtree Knightin the graveyard beside the church at the bottom ofElphael, Brace of the Haligtree. All other Haligtree Knights, regardless of if they wield this Shield, will not drop it.To reach the Knight, go to the Drainage Channel Site of Grace, head outside and follow the roots on your left. Drop down onto the first support beam (a flying buttress) that slopes down to the right. Halfway down the buttress, there is a branch to the left that you need to drop down to. Cross the branch and jump/fall onto another buttress. From here, you can fall to the ground directly while taking some fall damage, or jump to the church balcony first and drop from there. The knight can be found sitting underneath the buttress near its base.Alternatively, from the Haligtree Roots Site of Grace, turn around and go up the elevator. Once you reach the top, run straight until you're outside the Church. Then turn right, and right again once you get past the corner of the building to find the knight.
+To reach the Knight, go to the Drainage Channel Site of Grace, head outside and follow the roots on your left. Drop down onto the first support beam (a flying buttress) that slopes down to the right. Halfway down the buttress, there is a branch to the left that you need to drop down to. Cross the branch and jump/fall onto another buttress. From here, you can fall to the ground directly while taking some fall damage, or jump to the church balcony first and drop from there. The knight can be found sitting underneath the buttress near its base.
+Alternatively, from the Haligtree Roots Site of Grace, turn around and go up the elevator. Once you reach the top, run straight until you're outside the Church. Then turn right, and right again once you get past the corner of the building to find the knight.
+This shield can be infused withAshes of War
+Can be buffed by defensiveMagicorConsumables
+TheHaligtree Crest Greatshieldcan be upgraded by usingSmithing Stones.
+NOTE:As ofPatch 1.09, the scaling values of this weapon were changed. Please refer to theUpgrades Tableof this weapon below.
+Haligtree Crest Greatshield can be infused withAshes of War. Click below for a list of all possible Ashes of War that can be applied to the greatshield.
+Only Standard, Heavy, Keen, Quality, Lightning, and Sacred
+Patch 1.10adjustedPVP Poise Damageof all Weapons including someSpellsandIncantations. Please take note that these adjustments are exclusive toPVP.
+1H R1 (1/2/3/4/5/6 Attacks): 222/111/120/--/--/--
+2H R1 (1/2/3/4/5/6 Attacks): 288/144/156/--/--/--
+Please see theUpgradespage to understand the weapon bolstering process.
+Overview table for all upgrades at max level. Click on the tabs to see individual upgrade paths.
+Requires regular reinforcement withSmithing Stone [1],Smithing Stone [2],Smithing Stone [3],Smithing Stone [4],Smithing Stone [5],Smithing Stone [6],Smithing Stone [7],Smithing Stone [8], andAncient Dragon Smithing Stone.
+This upgrade can be enchanted withMagicor boosted withConsumables.
+Requires regular reinforcement withSmithing Stone [1],Smithing Stone [2],Smithing Stone [3],Smithing Stone [4],Smithing Stone [5],Smithing Stone [6],Smithing Stone [7],Smithing Stone [8], andAncient Dragon Smithing Stone, as well as Heavy AffinityAshes of War.
+Haligtree Crest Greatshieldis ashieldfound inELDEN RING(2022).
+Metal greatshield depicting theHaligtreewith unalloyed gold. Carried by knights who have vowed to serveMiquella's Haligtree. Possesses high holy damage negation.
+Yet now, with the Haligtree misshapen, this wondrous rendition is a fleeting fantasy.
+無垢金の聖樹が描かれた、金属の大盾ミケラの聖樹に仕えた騎士たちの得物聖属性ダメージのカット率が高い
+
+---
+
+area: Limgrave
+chapter: 1
+name: Manor Towershield | Elden Ring Wiki
+Manor Towershieldis aGreatshieldinElden Ring.Greatshieldsprovide a greater value of blocking, even bouncing off and protecting oneself from enemy and boss attacks but greatly increases the weight and reduces the player's mobility. This type of shield works best at reducing damage or guarding instead of parrying.
+An iron greatshield large enough to cover the entire body.Depicts the Roundtable Hold, gathering place of champions.Greatshields boast high damage negation and guard capacity, making enemy attacks easy to repel.
+TheManor Towershieldcan be found at the following location:
+Stormveil Castle: From the Secluded Cell site of grace, backtrack to the west and up the ramp where theLiving Jarsare and turn around towards the wooden platform. At the end of the platform, jump onto the ledge on the wall and follow it to the right towards some archways. Past the archways, enter the storage room on the right and head up the stairs to a walkway above. Head to the left towards a larger storage room full ofCommoners. You can find the shield under the second set of stairs in this room. [Elden Ring Map Link]
+This shield can be infused withAshes of War
+Can be buffed by defensiveMagicorConsumables
+Manor Towershieldcan be upgraded by usingSmithing Stones.
+NOTE:As ofPatch 1.09, the scaling values of this weapon were changed. Please refer to theUpgrades Tableof this weapon below.
+The Manor Towershield can be modified byAshes of War. Click below for a list of all possible Ashes of War that can be applied to the greatshield.
+Only Standard, Heavy, Keen, Quality, Lightning, and Sacred
+Patch 1.10adjustedPVP Poise Damageof all Weapons including someSpellsandIncantations. Please take note that these adjustments are exclusive toPVP.
+1H R1 (1/2/3/4/5/6 Attacks): 222/111/120/--/--/--
+2H R1 (1/2/3/4/5/6 Attacks): 288/144/156/--/--/--
+Please see theUpgradespage to understand the weapon bolstering process.
+Overview table for all upgrades at max level. Click on the tabs to see individual upgrade paths.
+Requires regular reinforcement withSmithing Stone [1],Smithing Stone [2],Smithing Stone [3],Smithing Stone [4],Smithing Stone [5],Smithing Stone [6],Smithing Stone [7],Smithing Stone [8], andAncient Dragon Smithing Stone.
+This upgrade can be enchanted withMagicor boosted withConsumables.
+Requires regular reinforcement withSmithing Stone [1],Smithing Stone [2],Smithing Stone [3],Smithing Stone [4],Smithing Stone [5],Smithing Stone [6],Smithing Stone [7],Smithing Stone [8], andAncient Dragon Smithing Stone, as well as Heavy AffinityAshes of War.
+Requires regular reinforcement withSmithing Stone [1],Smithing Stone [2],Smithing Stone [3],Smithing Stone [4],Smithing Stone [5],Smithing Stone [6],Smithing Stone [7],Smithing Stone [8], andAncient Dragon Smithing Stone, as well as Keen AffinityAshes of War.
+Manor Towershieldis ashieldfound inELDEN RING(2022).
+An iron greatshield large enough to cover the entire body. Depicts theRoundtable Hold, gathering place of champions.
+Greatshields boast high damage negation and guard capacity, making enemy attacks easy to repel.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Spiralhorn Shield | Elden Ring Wiki
+Spiralhorn Shieldis aSmall ShieldinElden Ring. TheSpiralhorn Shieldis aShieldthat scales primarily withStrengthandDexterity.Small Shieldsusually weigh very little and has the least form of protection from attacks. They are often used by players who prefer Parrying rather than Blocking. Its lighter weight also makes it ideal for quick, agile characters with low equipment weight capacity.
+Small shield of antlers arranged in an eddy-like pattern.If used to attack a foe, the shield's antlers inflict blood loss.Once given to a Tarnished warrior who cultivated close ties to the ancestral followers.Though the effect is only slight, it boosts immunity, robustness, and focus.
+TheSpiralhorn Shieldcan be found at the following location:
+Uld Palace Ruinsin northeastLiurnia of the Lakes: From theRuined LabyrinthSite of Grace, head north towards the Walking Mausoleum in the lower lake of the Mausoleum Compound. Turn left along the lake shore, heading uphill. The shield is found off a nearby corpse.[Elden Ring Map here]
+This shield can be infused withAshes of War
+Can be buffed by defensiveMagicorConsumables
+Spiralhorn Shieldcan be upgraded by usingSmithing Stones.
+IncreasesImmunity,RobustnessandFocusby 50 when equipped.
+Inflicts blood loss when attacking with this shield.
+NOTE:As ofPatch 1.09, the scaling values of this weapon were changed. Please refer to theUpgrades Tableof this weapon below.
+Spiralhorn Shield can be infused withAshes of War. Click below for a list of all possible Ashes of War that can be applied to the small shield.
+Only Standard, Heavy, Keen, Quality, Lightning, and Sacred
+Only Standard, Heavy, Keen, Quality, Magic, and Cold
+Patch 1.10adjustedPVP Poise Damageof all Weapons including someSpellsandIncantations. Please take note that these adjustments are exclusive toPVP.
+1H R1 (1/2/3/4/5/6 Attacks): 135/67.5/67.5/135/--/--
+2H R1 (1/2/3/4/5/6 Attacks): 175.5/87.75/87.75/175.5/--/--
+Please see theUpgradespage to understand the weapon bolstering process.
+Overview table for all upgrades at max level. Click on the tabs to see individual upgrade paths.
+Requires regular reinforcement withSmithing Stone [1],Smithing Stone [2],Smithing Stone [3],Smithing Stone [4],Smithing Stone [5],Smithing Stone [6],Smithing Stone [7],Smithing Stone [8], andAncient Dragon Smithing Stone.
+This upgrade can be enchanted withMagicor boosted withConsumables.
+Spiralhorn Shieldis ashieldfound inELDEN RING(2022).
+Small shield of antlers arranged in an eddy-like pattern. If used to attack a foe, the shield's antlers inflictblood loss.
+Once given to aTarnishedwarrior who cultivated close ties to theancestral followers. Though the effect is only slight, it boostsimmunity,robustness, andfocus.
+Loot:Uld Palace Ruins(Liurnia of the Lakes)
+
+---
+
+area: Limgrave
+chapter: 1
+name: Albinauric Shield | Elden Ring Wiki
+Albinauric Shieldis aMedium ShieldinElden Ring. TheAlbinauric Shieldis aShieldthat scales primarily withStrength.Medium Shieldsfeature a good balance between defense and weight, which is great for most situations in combat. Although it may not be as light as aSmall Shieldwhich is good for agility and parrying, the Standard Shield works best at reducing damage and blocking.
+Tall oval shield made of metal carried by young Albinaurics.The ornamentation represents the primordial drop of dew from which they are said to have been created.Boasts exceptional magic damage negation.The Albinaurics' most formidable foes were sorcerers, after all.
+TheAlbinauric Shieldcan be found at the following location:
+Drops fromAlbinauricswielding this shield. There are three on top of the church northwest of theAcademy Gate TownSite of Grace. [Map Link]
+This shield can be infused withAshes of War
+Can be buffed by defensiveMagicorConsumables
+Albinauric Shieldcan be upgraded by usingSmithing Stones.
+This is a really effective shield especially when imbued with magic, 82.5% magic absorption is pretty effective against mages, while also only needing 11 Strength compared to theSilver Mirrorshield(89% needing 12 Strength 10 dex and 10 int) andMagic Carian Knight's Shield88.75% needing 10 Strength, 10 dex and 15 int. Recommended for any Dex, Strength and Faith builds.
+NOTE:As ofPatch 1.09, the scaling values of this weapon were changed. Please refer to theUpgrades Tableof this weapon below.
+Albinauric Shield can be infused withAshes of War. Click below for a list of all possible Ashes of War that can be applied to the medium shield.
+Only Standard, Heavy, Keen, Quality, Lightning, and Sacred
+Only Standard, Heavy, Keen, Quality, Magic, and Cold
+Patch 1.10adjustedPVP Poise Damageof all Weapons including someSpellsandIncantations. Please take note that these adjustments are exclusive toPVP.
+1H R1 (1/2/3/4/5/6 Attacks): 148.5/74.25/74.25/148.5/--/--
+2H R1 (1/2/3/4/5/6 Attacks): 193.05/96.525/96.525/193.05/--/--
+Please see theUpgradespage to understand the weapon bolstering process.
+Overview table for all upgrades at max level. Click on the tabs to see individual upgrade paths.
+Requires regular reinforcement withSmithing Stone [1],Smithing Stone [2],Smithing Stone [3],Smithing Stone [4],Smithing Stone [5],Smithing Stone [6],Smithing Stone [7],Smithing Stone [8], andAncient Dragon Smithing Stone.
+This upgrade can be enchanted withMagicor boosted withConsumables.
+Requires regular reinforcement withSmithing Stone [1],Smithing Stone [2],Smithing Stone [3],Smithing Stone [4],Smithing Stone [5],Smithing Stone [6],Smithing Stone [7],Smithing Stone [8], andAncient Dragon Smithing Stone, as well as Heavy AffinityAshes of War.
+Albinauric Shieldis ashieldfound inELDEN RING(2022).
+Tall oval shield made of metal carried by young Albinaurics.
+The ornamentation represents the primordial drop of dew from which they are said to have been created. Boasts exceptional magic damage negation. The Albinaurics' most formidable foes were sorcerers, after all.
+Drop:Liurnia of the Lakes/Consecrated Snowfield
+
+---
+
+area: Limgrave
+chapter: 1
+name: Banished Knight's Shield | Elden Ring Wiki
+Banished Knight's Shieldis aMedium ShieldinElden Ring. TheBanished Knight's Shieldis aShieldthat scales primarily withStrength.Medium Shieldsfeature a good balance between defense and weight, which is great for most situations in combat. Although it may not be as light as aSmall Shieldwhich is good for agility and parrying, the Standard Shield works best at reducing damage and blocking.
+A tall medium-sized metal shield. Given to knights who, whetherby misfortune or misdeed, were forced to abandon their homes.
+Most of these knights were sent to the fringes, where they wereforced to start anew with only despair for company.
+TheBanished Knight's Shieldcan be found at the following location:
+Chance for it to be looted off of aBanished Knightwielding one of these shields.
+Farming guide available on theBanished Knight Page. A good spot is theCathedral of Dragon Communionsite of grace and continuously attacking the knight by the entrance.
+This shield can be infused withAshes of War
+Can be buffed by defensiveMagicorConsumables
+Banished Knight's Shieldcan be upgraded by usingSmithing Stones.
+Comparable to the best defensive medium shields with a little less weight and strength requirement.
+NOTE:As ofPatch 1.09, the scaling values of this weapon were changed. Please refer to theUpgrades Tableof this weapon below.
+Banished Knight's Shield can be modified byAshes of War. Click below for a list of all possible Ashes of War that can be applied to the medium shield.
+Only Standard, Heavy, Keen, Quality, Lightning, and Sacred
+Only Standard, Heavy, Keen, Quality, Magic, and Cold
+Patch 1.10adjustedPVP Poise Damageof all Weapons including someSpellsandIncantations. Please take note that these adjustments are exclusive toPVP.
+1H R1 (1/2/3/4/5/6 Attacks): 148.5/74.25/74.25/148.5/--/--
+2H R1 (1/2/3/4/5/6 Attacks): 193.05/96.525/96.525/193.05/--/--
+Please see theUpgradespage to understand the weapon bolstering process.
+Overview table for all upgrades at max level. Click on the tabs to see individual upgrade paths.
+Requires regular reinforcement withSmithing Stone [1],Smithing Stone [2],Smithing Stone [3],Smithing Stone [4],Smithing Stone [5],Smithing Stone [6],Smithing Stone [7],Smithing Stone [8], andAncient Dragon Smithing Stone.
+Banished Knight's Shieldis ashieldfound inELDEN RING(2022).
+A tall medium-sized metal shield. Given to knights who, whether by misfortune or misdeed, were forced to abandon their homes.
+Most of these knights were sent to the fringes, where they were forced to start anew with only despair for company.
+Drop:Stormveil Castle/Cathedral of Dragon Communion(Caelid)/Castle Sol(Mountaintops of the Giants)/Crumbling Farum Azula
+
+---
+
+area: Limgrave
+chapter: 1
+name: Blue Crest Heater Shield | Elden Ring Wiki
+Blue Crest Heater Shieldis aMedium ShieldinElden Ring. TheBlue Crest Heater Shieldis aShieldthat scales primarily withStrength.Medium Shieldsfeature a good balance between defense and weight, which is great for most situations in combat. Although it may not be as light as aSmall Shieldwhich is good for agility and parrying, the Standard Shield works best at reducing damage and blocking.
+A medium-sized metal shield. Easier to handle than a kite shield.
+TheBlue Crest Heater Shieldcan be found at the following location:
+Starting Equipment for theConfessorClass.
+Can be purchased from theNomadic Merchantlocated in northwest portion ofLiurnia of the Lakes, near the Bellum Church grace. It costs1500Runes.[Elden Ring Map here]
+This shield can be infused withAshes of War
+Can be buffed by defensiveMagicorConsumables
+TheBlue Crest Heater Shieldcan be upgraded by usingSmithing Stones.
+NOTE:As ofPatch 1.09, the scaling values of this weapon were changed. Please refer to theUpgrades Tableof this weapon below.
+Blue Crest Heater Shield can be modified byAshes of War. Click below for a list of all possible Ashes of War that can be applied to the medium shield.
+Only Standard, Heavy, Keen, Quality, Lightning, and Sacred
+Only Standard, Heavy, Keen, Quality, Magic, and Cold
+Patch 1.10adjustedPVP Poise Damageof all Weapons including someSpellsandIncantations. Please take note that these adjustments are exclusive toPVP.
+1H R1 (1/2/3/4/5/6 Attacks): 148.5/74.25/74.25/148.5/--/--
+2H R1 (1/2/3/4/5/6 Attacks): 193.05/96.525/96.525/193.05/--/--
+Please see theUpgradespage to understand the weapon bolstering process.
+Overview table for all upgrades at max level. Click on the tabs to see individual upgrade paths.
+Requires regular reinforcement withSmithing Stone [1],Smithing Stone [2],Smithing Stone [3],Smithing Stone [4],Smithing Stone [5],Smithing Stone [6],Smithing Stone [7],Smithing Stone [8], andAncient Dragon Smithing Stone.
+This upgrade can be enchanted withMagicor boosted withConsumables.
+Requires regular reinforcement withSmithing Stone [1],Smithing Stone [2],Smithing Stone [3],Smithing Stone [4],Smithing Stone [5],Smithing Stone [6],Smithing Stone [7],Smithing Stone [8], andAncient Dragon Smithing Stone, as well as Heavy AffinityAshes of War.
+Blue Crest Heater Shieldis amelee armamentfound inELDEN RING(2022).
+Purchase:Bellum Highway(Liurnia of the Lakes)
+
+---
+
+area: Limgrave
+chapter: 1
+name: Carian Knight's Shield | Elden Ring Wiki
+Carian Knight's Shieldis aMedium ShieldinElden Ring. TheCarian Knight's Shieldis aShieldthat scales primarily withStrength,IntelligenceandDexterity.Medium Shieldsfeature a good balance between defense and weight which is great for most situations in combat. Although it may not be as light as aSmall Shieldwhich is good for agility and parrying, the Medium Shield works best at reducing damage and blocking.
+A teardrop-shaped shield embedded with blue glintstones.Carried by knights who served the Carian royal family.Excels when facing magic or holy attacks. Just who were theseknights preparing to fight?
+TheCarian Knight's Shieldcan be found at the following location:
+Looted fromMoongrum, the Carian KnightatRaya Lucaria Academyafter defeating the enemy.[Elden Ring Map here]
+This shield can be infused withAshes of War
+Can be buffed by defensiveMagicorConsumables
+Carian Knight's Shieldcan be upgraded by usingSmithing Stones
+Under Magic infusion, it sacrifices physical damage reduction and Guard Boost in exchange for increased magic damage reduction.
+Previously named “Carian Glintstone Shield” with the skill “Sorcerer Hunter” which would later beCarian Retaliation.
+NOTE:As ofPatch 1.09, the scaling values of this weapon were changed. Please refer to theUpgrades Tableof this weapon below.
+The Carian Knight's Shield can be infused withAshes of War. Click below for a list of all possible Ashes of War that can be applied to the medium shield.
+Only Standard, Heavy, Keen, Quality, Lightning, and Sacred
+Only Standard, Heavy, Keen, Quality, Magic, and Cold
+Elden Ring Spellthief Build Written Guide
+Patch 1.10adjustedPVP Poise Damageof all Weapons including someSpellsandIncantations. Please take note that these adjustments are exclusive toPVP.
+1H R1 (1/2/3/4/5/6 Attacks): 148.5/74.25/74.25/148.5/--/--
+2H R1 (1/2/3/4/5/6 Attacks): 193.05/96.525/96.525/193.05/--/--
+Please see theUpgradespage to understand the weapon bolstering process.
+Overview table for all upgrades at max level. Click on the tabs to see individual upgrade paths.
+Requires regular reinforcement withSmithing Stone [1],Smithing Stone [2],Smithing Stone [3],Smithing Stone [4],Smithing Stone [5],Smithing Stone [6],Smithing Stone [7],Smithing Stone [8], andAncient Dragon Smithing Stone.
+Carian Knight's Shieldis ashieldfound inELDEN RING(2022).
+A teardrop-shaped, medium-sized shield embedded with blue glintstones. Carried by knights who served the Carian royal family.
+Excels when facing magic or holy attacks. Just who were these knights preparing to fight?
+Guaranteed drop:Academy of Raya Lucaria(Liurnia of the Lakes)
+
+---
+
+area: Limgrave
+chapter: 1
+name: Eclipse Crest Greatshield | Elden Ring Wiki
+Eclipse Crest Greatshieldis aGreatshieldinElden Ring. TheEclipse Crest Greatshieldis aShieldthat scales primarily withStrength.Greatshieldsweigh a decent amount and provide the best protection in the game.Greatshieldsprovide a greater value of blocking and protecting oneself from enemy and boss attacks but greatly increases the weight and reduces the player's mobility. This type of shield works best at reducing damage or guarding instead of parrying.
+Metal greatshield painted with a sun in eclipse. Carried by the headless mausoleum knights.
+The eclipsed sun, drained of color, is the protective star of soulless demigods. It aids the mausoleum knights by keeping Destined Death at bay.
+TheEclipse Crest Greatshieldcan be found at the following location:
+Chance to drop fromMausoleum Knightswielding it inLiurnia of the Lakes[Elden Ring Map here]
+Better farmed from the Knight in front ofBlack Knife Catacombs.
+This shield can be infused withAshes of War
+Can be buffed by defensiveMagicorConsumables
+Eclipse Crest Greatshieldcan be upgraded by usingSmithing Stones.
+Provides a flat +50 boost toImmunity,RobustnessandFocus. Keep in mind the new resistances will have to tick down if you swap to it.
+NOTE:As ofPatch 1.09, the scaling values of this weapon were changed. Please refer to theUpgrades Tableof this weapon below.
+The Eclipse Crest Greatshield can be infused withAshes of War. Click below for a list of all possible Ashes of War that can be applied to the greatshield.
+Only Standard, Heavy, Keen, Quality, Lightning, and Sacred
+Patch 1.10adjustedPVP Poise Damageof all Weapons including someSpellsandIncantations. Please take note that these adjustments are exclusive toPVP.
+1H R1 (1/2/3/4/5/6 Attacks): 222/111/120/--/--/--
+2H R1 (1/2/3/4/5/6 Attacks): 288/144/156/--/--/--
+Please see theUpgradespage to understand the weapon bolstering process.
+Overview table for all upgrades at max level. Click on the tabs to see individual upgrade paths.
+Requires regular reinforcement withSmithing Stone [1],Smithing Stone [2],Smithing Stone [3],Smithing Stone [4],Smithing Stone [5],Smithing Stone [6],Smithing Stone [7],Smithing Stone [8], andAncient Dragon Smithing Stone.
+This upgrade can be enchanted withMagicor boosted withConsumables.
+Eclipse Crest Greatshieldis ashieldfound inELDEN RING(2022).
+The eclipsed sun, drained of color, is the protective star of soulless demigods. It aids the mausoleum knights by keepingDestined Deathat bay.
+Drop:Liurnia of the Lakes/Deeproot Depths/Consecrated Snowfield
+
+---
+
+area: Limgrave
+chapter: 1
+name: Shields
+Shields is aninventory categoryinELDEN RING(2022). It includesSmall Shields,Medium Shields,Greatshields,Thrusting Shields(as of the release of theShadow of the Erdtreeexpansion), and curiouslyTorchesas well.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Inverted Hawk Heater Shield | Elden Ring Wiki
+Inverted Hawk Heater Shieldis aMedium ShieldinElden Ring. TheInverted Hawk Heater Shieldis aShieldthat scales primarily withStrength.Medium Shieldsfeature a good balance between defense and weight, which is great for most situations in combat. Although it may not be as light as aSmall Shieldwhich is good for agility and parrying, the Standard Shield works best at reducing damage and blocking.
+A medium-sized metal shield.Easier to handle than a kite shield.The inverted hawk is the emblem of the company of slaves ordered to explore the Eternal City.
+TheInverted Hawk Heater Shieldcan be found at the following location:
+Siofra River. Southeast of Siofra River Bank site, up a hill and past 3 enemies on a body. The base of the hill is right next to the stairs to Hallowhorn Grounds. [Elden Ring Map here]
+This shield can be infused withAshes of War
+Can be buffed by defensiveMagicorConsumables
+Inverted Hawk Heater Shieldcan be upgraded by usingSmithing Stones.
+NOTE:As ofPatch 1.09, the scaling values of this weapon were changed. Please refer to theUpgrades Tableof this weapon below.
+Inverted Hawk Heater Shield can be modified byAshes of War. Click below for a list of all possible Ashes of War that can be applied to the medium shield.
+Only Standard, Heavy, Keen, Quality, Lightning, and Sacred
+Only Standard, Heavy, Keen, Quality, Magic, and Cold
+Patch 1.10adjustedPVP Poise Damageof all Weapons including someSpellsandIncantations. Please take note that these adjustments are exclusive toPVP.
+1H R1 (1/2/3/4/5/6 Attacks): 148.5/74.25/74.25/148.5/--/--
+2H R1 (1/2/3/4/5/6 Attacks): 193.05/96.525/96.525/193.05/--/--
+Please see theUpgradespage to understand the weapon bolstering process.
+Overview table for all upgrades at max level. Click on the tabs to see individual upgrade paths.
+Requires regular reinforcement withSmithing Stone [1],Smithing Stone [2],Smithing Stone [3],Smithing Stone [4],Smithing Stone [5],Smithing Stone [6],Smithing Stone [7],Smithing Stone [8], andAncient Dragon Smithing Stone.
+This upgrade can be enchanted withMagicor boosted withConsumables.
+Requires regular reinforcement withSmithing Stone [1],Smithing Stone [2],Smithing Stone [3],Smithing Stone [4],Smithing Stone [5],Smithing Stone [6],Smithing Stone [7],Smithing Stone [8], andAncient Dragon Smithing Stone, as well as Heavy AffinityAshes of War.
+Inverted Hawk Heater Shieldis ashieldfound inELDEN RING(2022).
+A medium-sized metal shield. Easier to handle than a kite shield.
+The inverted hawk is the emblem of the company of slaves ordered to explore theEternal City.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Jellyfish Shield | Elden Ring Wiki
+Jellyfish Shieldis a uniqueGreatshieldinElden Ring. TheJellyfish Shieldis aShieldthat scales withStrength.Greatshieldsweigh a lot but provide the best protection in the game.Greatshieldsprovide a greater value of blocking and protecting oneself from enemy and boss attacks, but greatly increases the weight and reduces the player's mobility. This type of shield works best at reducing damage or guarding instead of parrying.
+TheJellyfish Shieldcan be found at the following location:
+On a broken wagon next to a corpse surrounded by fourJellyfish, directly north of theFoot of the Four BelfriesSite of Grace inLiurnia of the Lakes. [Elden Ring Map here]
+ShieldSkill:Contagious Furyboosts all damage by 12.5% for 30 seconds as long as the shield is not put away.
+boosts all damage by 12.5% for 30 seconds as long as the shield is not put away.
+This shield cannot be infused withAshes of War.
+Can be buffed by defensiveMagicorConsumables
+Jellyfish Shieldcan be upgraded by usingSomber Smithing Stones.
+It is the lightest Greatshield in the game, tied with theWooden Greatshield.
+Despite its description stating it provides "Absolutely no protection from piercing attacks", it does offer a 100% physical block rate against piercing/thrusting attacks.
+You can surprisingly stack the buff with a jellyfish shield in each hand if you two-hand the left one, use Contagious Fury, then switch to holding both shields and use the ash of war again, this time using the right-hand shield. Of course, you can't use any weapons while holding two jellyfish shields but it does boost the damage of consumables if you want to be cheeky and kill a boss with throwing knives.
+NOTE:As ofPatch 1.09, the scaling values of this weapon were changed. Please refer to theUpgrades Tableof this weapon below.Bug: Can two-hand any weapon and keep the Contagious Fury buff active. Can also switch out the shield for anything else in the left-hand and retain the buff.)
+Bug: Can two-hand any weapon and keep the Contagious Fury buff active. Can also switch out the shield for anything else in the left-hand and retain the buff.)
+NOTE:As ofPatch 1.09.1, the above bug has been fixed.
+Elden Ring Black Guard Build Written Guide
+Patch 1.10adjustedPVP Poise Damageof all Weapons including someSpellsandIncantations. Please take note that these adjustments are exclusive toPVP.
+1H R1 (1/2/3/4/5/6 Attacks): 222/111/120/--/--/--
+2H R1 (1/2/3/4/5/6 Attacks): 288/144/156/--/--/--
+Please see theUpgradespage to understand the weapon bolstering process.
+Requires regular reinforcement withSomber Smithing Stones.
+TheJellyfish Shieldis ashieldfound inELDEN RING(2022).
+The head of a spirit jellyfish, commonly found floating above sacred ground throughout the Lands Between, wielded without modification as a shield.
+The see-through head is extremely light, but its flesh is supple, providing absolutely no protection from piercing attacks.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Messmer Soldier Shield | Elden Ring Wiki
+Messmer Soldier Shieldis aMedium ShieldinElden Ring. It is a brand new Medium Shield in theShadow of the Erdtree DLC. TheMessmer Soldier Shieldis aShieldthat scales primarily withStrength.Medium Shieldsfeature a good balance between defense and weight, which is great for most situations in combat. Although it may not be as light as aSmall Shieldwhich is good for agility and parrying, the Standard Shield works best at reducing damage and blocking.
+Worn roundshield carried by soldiers loyal to Messmer, the Impaler. The largest of all metal shields in their class.
+TheMessmer Soldier Shieldcan be found at the following location:
+Has a 2.00% chance to be dropped byMessmer Soldiers, from shield-wielding Messmer Soldiers. Found in camps across Gravesite Plain and Scadu Altus, and insideCastle EnsisandShadow Keep.
+This shield can be infused withAshes of War
+Can be buffed by defensiveMagicorConsumables
+Messmer Soldier Shieldcan be upgraded withSmithing Stones.
+Messmer Soldier Shield can be modified byAshes of War. Click below for a list of all possible Ashes of War that can be applied to the medium shield.
+Only Standard, Heavy, Keen, Quality, Lightning, and Sacred
+Only Standard, Heavy, Keen, Quality, Magic, and Cold
+ER Shadow of the Erdtree Messmer Soldier's Spear Build - Storm Blessed Build
+ER Shadow of the Erdtree Night Claws Build Written Guide
+Please see theUpgradespage to understand the weapon bolstering process.
+Overview table for all upgrades at max level. Click on the tabs to see individual upgrade paths.
+Requires regular reinforcement withSmithing Stone [1],Smithing Stone [2],Smithing Stone [3],Smithing Stone [4],Smithing Stone [5],Smithing Stone [6],Smithing Stone [7],Smithing Stone [8], andAncient Dragon Smithing Stone.
+This upgrade can be enchanted withMagicor boosted withConsumables.
+Requires regular reinforcement withSmithing Stone [1],Smithing Stone [2],Smithing Stone [3],Smithing Stone [4],Smithing Stone [5],Smithing Stone [6],Smithing Stone [7],Smithing Stone [8], andAncient Dragon Smithing Stone, as well as Heavy AffinityAshes of War.
+Requires regular reinforcement withSmithing Stone [1],Smithing Stone [2],Smithing Stone [3],Smithing Stone [4],Smithing Stone [5],Smithing Stone [6],Smithing Stone [7],Smithing Stone [8], andAncient Dragon Smithing Stone, as well as Keen AffinityAshes of War.
+TheMessmer Soldier Shieldis ashieldinShadow of the Erdtree.
+1.12Source:Messmer Soldier ShieldWorn roundshield carried by soldiers loyal to Messmer, the Impaler.
+The largest of all metal shields in their class.
+1.12Source:メスメル兵の盾串刺し公、メスメルに仕える兵士たちの得物使い込まれた金属製の円盾
+
+---
+
+area: Limgrave
+chapter: 1
+name: Rickety Shield | Elden Ring Wiki
+Rickety Shieldis aSmall ShieldinElden Ring. The Rickety Shield is aShieldthat scales primarily withStrength. Small Shields usually weigh very little and give the least protection from attacks. They are often used by players who prefer parrying rather than blocking. Its lighter weight also makes it ideal for quick, agile characters with low equipment weight capacity.
+A creaky old wooden shield, circular in shape. Roughly reinforced with vines or some such.
+There are countless other shields available of better make. This piece of scrap isn't worth the effort of equipping.
+TheRickety Shieldcan be found at the following locations:
+Dropped byDemi-Humansthat wield it. A good location to find them is going north from South of the Lookout Tower site of grace in theWeeping Peninsula. There should be a group of four of them carrying this shield.
+This shield can be infused withAshes of War
+Can be buffed by defensiveMagicorConsumables
+Rickety Shieldcan be upgraded by usingSmithing Stones.
+The lightest shield of the Small Shield class. While the shield has below average damage reduction and guard boost, it is handy for parrying and applying shield-type Ashes of War with bare minimum weight.
+NOTE:As ofPatch 1.09, the scaling values of this weapon were changed. Please refer to theUpgrades Tableof this weapon below.
+The Rickety Shield can be modified byAshes of War. Click below for a list of all possible Ashes of War that can be applied to the small shield.
+Only Standard, Heavy, Keen, Quality, Lightning, and Sacred
+Only Standard, Heavy, Keen, Quality, Magic, and Cold
+Patch 1.10adjustedPVP Poise Damageof all Weapons including someSpellsandIncantations. Please take note that these adjustments are exclusive toPVP.
+1H R1 (1/2/3/4/5/6 Attacks): 135/67.5/67.5/135/--/--
+2H R1 (1/2/3/4/5/6 Attacks): 175.5/87.75/87.75/175.5/--/--
+Please see theUpgradespage to understand the weapon bolstering process.
+Overview table for all upgrades at max level. Click on the tabs to see individual upgrade paths.
+Requires regular reinforcement withSmithing Stone [1],Smithing Stone [2],Smithing Stone [3],Smithing Stone [4],Smithing Stone [5],Smithing Stone [6],Smithing Stone [7],Smithing Stone [8], andAncient Dragon Smithing Stone.
+This upgrade can be enchanted withMagicor boosted withConsumables.
+Rickety Shieldis ashieldinELDEN RING(2022).
+A creaky old wooden shield, circular in shape. Roughly reinforced with vines.
+Drop:Limgrave/Weeping Peninsula/Liurnia of the Lakes/Mt. Gelmir/Altus Plateau
+
+---
+
+area: Limgrave
+chapter: 1
+name: Shield of the Guilty | Elden Ring Wiki
+Shield of the Guiltyis aSmall ShieldinElden Ring. TheShield of the Guiltyis aShieldthat scales primarily withStrength. Small Shields usually weigh very little and have the least form of protection from attacks. They are often used by players who prefer parrying rather than blocking. Its lighter weight also makes it ideal for quick, agile characters with low equipment weight capacity.
+Shield made to venerate a maiden whose eyes were crushed by Briars of Sin before being reborn in these lands.
+Venerating the repose of the soul, this shield boosts focus. The briars can be used to attack foes.
+TheShield of the Guiltycan be found at the following location:
+In the cellar area of theDemi-Human Forest Ruinson theWeeping Peninsula, before the main building with the Demi-Human Queen mini-boss. You will need to jump over a wall to access the stairs leading into the cellar. [Elden Ring Map here]
+This shield can be infused withAshes of War
+Can be buffed by defensiveMagicorConsumables
+Shieldof the Guiltycan be upgraded by usingSmithing Stones.
+Causes blood loss when attacking with this shield.
+NOTE:As ofPatch 1.09, the scaling values of this weapon were changed. Please refer to theUpgrades Tableof this weapon below.
+Known asSinner's Shieldin the 1.00 version of the game.
+Shield of the Guiltycan be infused withAshes of War. Click below for a list of all possible Ashes of War that can be applied to thisSmall Shield.
+Only Standard, Heavy, Keen, Quality, Lightning, and Sacred
+Only Standard, Heavy, Keen, Quality, Magic, and Cold
+Patch 1.10adjustedPVP Poise Damageof all Weapons including someSpellsandIncantations. Please take note that these adjustments are exclusive toPVP.
+1H R1 (1/2/3/4/5/6 Attacks): 135/67.5/67.5/135/--/--
+2H R1 (1/2/3/4/5/6 Attacks): 175.5/87.75/87.75/175.5/--/--
+Please see theUpgradespage to understand the weapon bolstering process.
+Overview table for all upgrades at max level. Click on the tabs to see individual upgrade paths.
+Requires regular reinforcement withSmithing Stone [1],Smithing Stone [2],Smithing Stone [3],Smithing Stone [4],Smithing Stone [5],Smithing Stone [6],Smithing Stone [7],Smithing Stone [8], andAncient Dragon Smithing Stone.
+Shield of the Guiltyis ashieldinELDEN RING(2022).
+Shield made to venerate a maiden whose eyes were crushed byBriars of Sinbefore being reborn in these lands.
+Loot:Demi-Human Forest Ruins(Weeping Peninsula)
+
+---
+
+area: Limgrave
+chapter: 1
+name: Smoldering Shield | Elden Ring Wiki
+Smoldering Shieldis aSmall ShieldinElden Ring. The Smoldering Shield is aShieldthat scales primarily withStrengthandFaith. Small Shields usually weigh very little and give the least protection from attacks. They are often used by players who prefer parrying rather than blocking. Its lighter weight also makes it ideal for quick, agile characters with low equipment weight capacity.
+Small shield made upon Mt. Gelmir forged from uncooling lava.Resists frost with its heat, and can even be used to deal fire damage if wielded as a weapon.
+From the Prison Town Church site of grace, exit the building and turn right, walking west until dropping down onto the first rooftop, just behind the long-necked serpent. Immediately turn left, face south and head toward the corner of the adjacent rooftop, and safely drop down onto the rocky ground below. Once there, continue downhill to the east, and drop down to the big roof to the southwest (NOT the small hexagonal rooftop). From there, make a running jump to the rocky ground to the northwest, and continue onward to the graveyard. The Smoldering Shield is found here on a corpse [Map link]
+This shield cannot be infused withAshes of War
+Can be buffed by defensiveMagicorConsumables
+Smoldering Shieldcan be upgraded by usingSmithing Stones.
+Attacking with this shield causesFire Damage.
+NOTE:As ofPatch 1.09, the scaling values of this weapon were changed. Please refer to theUpgrades Tableof this weapon below.
+Patch 1.10adjustedPVP Poise Damageof all Weapons including someSpellsandIncantations. Please take note that these adjustments are exclusive toPVP.
+1H R1 (1/2/3/4/5/6 Attacks): 135/67.5/67.5/135/--/--
+2H R1 (1/2/3/4/5/6 Attacks): 175.5/87.75/87.75/175.5/--/--
+Please see theUpgradespage to understand the weapon bolstering process.
+Requires regular reinforcement withSmithing Stone [1],Smithing Stone [2],Smithing Stone [3],Smithing Stone [4],Smithing Stone [5],Smithing Stone [6],Smithing Stone [7],Smithing Stone [8], andAncient Dragon Smithing Stone.
+TheSmoldering Shieldis ashieldfound inELDEN RING(2022).
+Small shield made uponMt. Gelmirforged from uncooling lava.
+Resistsfrostwith its heat, and can even be used to deal fire damage if wielded as a weapon.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Twinbird Kite Shield | Elden Ring Wiki
+Twinbird Kite Shieldis aMedium ShieldinElden Ring. TheTwinbird Kite Shieldis aShieldthat scales primarily withStrength.Medium Shieldsfeature a good balance between defense and weight, which is great for most situations in combat. Although it may not be as light as aSmall Shieldwhich is good for agility and parrying, the Standard Shield works best at reducing damage and blocking.
+Shield featuring a vividly painted twinbird.The twinbird is said to be the envoy of an outer god, and mother of the Deathbirds.
+At dwindling levels of HP, this shield slightly boosts both attack and defense.
+TheTwinbird Kite Shieldcan be found at the following location:
+Dropped by theDeathbirdwhich spawns at night inLeyndellto the east of theHermit Merchant's ShackSite of Grace overlooking the Minor Erdtree near some skeletal snail enemies. [Elden Ring Map Link]
+This shield can be infused withAshes of War
+Can be buffed by defensiveMagicorConsumables
+TheTwinbird Kite Shieldcan be upgraded by usingSmithing Stones.
+NOTE:As ofPatch 1.09, the scaling values of this weapon were changed. Please refer to theUpgrades Tableof this weapon below.
+When the wearer is at 20% of their max HP or less, they gain a +5% attack power and -10% damage taken.This stacks withRed-Feathered BranchswordandBlue-Feathered Branchsword.Attack and negation boost have the same behavior in PvE and PvP.
+This stacks withRed-Feathered BranchswordandBlue-Feathered Branchsword.
+Attack and negation boost have the same behavior in PvE and PvP.
+Twinbird Kite Shield can be infused withAshes of War. Click below for a list of all possible Ashes of War that can be applied to the medium shield.
+Only Standard, Heavy, Keen, Quality, Lightning, and Sacred
+Only Standard, Heavy, Keen, Quality, Magic, and Cold
+Patch 1.10adjustedPVP Poise Damageof all Weapons including someSpellsandIncantations. Please take note that these adjustments are exclusive toPVP.
+1H R1 (1/2/3/4/5/6 Attacks): 148.5/74.25/74.25/148.5/--/--
+2H R1 (1/2/3/4/5/6 Attacks): 193.05/96.525/96.525/193.05/--/--
+Please see theUpgradespage to understand the weapon bolstering process.
+Overview table for all upgrades at max level. Click on the tabs to see individual upgrade paths.
+TheTwinbird Kite Shieldis ashieldfound inELDEN RING(2022).
+Shield featuring a vividly paintedtwinbird. The twinbird is said to be the envoy of anouter god, and mother of theDeathbirds.
+At dwindling levels ofHP, this shield slightly boosts both attack and defense.
+色鮮やかな双鳥が描かれた盾それは、外なる神の使いであり死の鳥たちの母でもあるという
+Guaranteed drop:Capital Outskirts(Altus Plateau)
+
+---
+

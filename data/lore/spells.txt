@@ -1,0 +1,1883 @@
+area: Limgrave
+chapter: 1
+name: Ranni's Dark Moon | Elden Ring Wiki
+Ranni's Dark Moonis aSorceryinElden Ring.Ranni's Dark Mooncreates a dark moon projectile that dispels sorceries it hits and temporarily reduces enemies magic damage negations. Updated toPatch 1.13.
+Where to findRanni's Dark Moon:
+NOTE:Patch 1.07:FPconsumption has been decreased (62>57).
+The followingBuffscan be used to maximize the performance ofRanni's Dark Moon. Note that all increases are multiplicative unless stated otherwise.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Comet Azur | Elden Ring Wiki
+Comet Azuris aSorceryinElden Ring.Comet Azur spellcreates a giant comet that deals very high damage from a great distance.
+Hermit VillageinMt. Gelmir: Acquired fromPrimeval Sorcerer Azursitting near the cliffs northeast of the village. [Map Link]
+Use theseBuffsto maximize the performance of the Comet Azur spell. Note that increases in attack power are multiplicative unless stated otherwise.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Stars of Ruin | Elden Ring Wiki
+Stars of Ruinis aSorceryinElden Ring.Stars of Ruin spellis a homing projectile spell that targets nearby foes and deals damage. Updated toPatch 1.07.
+Use theseBuffsto maximize the performance of Stars of Ruin. Note that increases in attack power are multiplicative unless stated otherwise.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Founding Rain of Stars | Elden Ring Wiki
+Founding Rain of Starsis aSorceryinElden Ring. TheFounding Rain of Stars spellcasts a rain of star bolts for a short period. Updated toPatch 1.07.
+Where to findFounding Rain of Stars:
+
+---
+
+area: Limgrave
+chapter: 1
+name: Eternal Darkness | Elden Ring Wiki
+Eternal Darknessis aSorceryinElden Ring. The Eternal Darkness spell creates a black sphere that draws in other spells. Can work as a defensive measure against other spellcasters.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Shattering Crystal | Elden Ring Wiki
+Shattering Crystalis aSorceryinElden Ring.Shattering Crystal spellcreates a crystal that explodes firing a burst of projectiles. Updated toPatch 1.07.
+Where to findShattering Crystal:
+Looted off a corpse on the second floor, west side, of the Church of the Cuckoo inRaya Lucaria Academy. The only way to reach this is going through the broken glass window of the church via the rooftops. [Map Coordinates]
+
+---
+
+area: Limgrave
+chapter: 1
+name: Crystal Torrent | Elden Ring Wiki
+Crystal Torrentis aSorceryinElden Ring.Crystal Torrent spellfires multiple Crystal masses out in a very narrow cone in front of you. It seems to be an upgraded version of Crystal Barrage.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Explosive Ghostflame | Elden Ring Wiki
+Explosive Ghostflameis aSorceryinElden Ring.Explosive Ghostflame spellcauses burning to surrounding area when cast. Updated toPatch 1.07.
+Where to findExplosive Ghostflame:
+
+---
+
+area: Limgrave
+chapter: 1
+name: Elden Stars | Elden Ring Wiki
+Elden Starsis anIncantationinElden Ring.Elden Stars spellconjures a stream of projectiles that devastate the area. Updated toPatch 1.07.
+In theDeeproot Depths, head west from the Great Waterfall Crest grace until you reach some roots. From there look to the north-west to see a root going up to a cave and follow it. Note that this is a different entrance than the one where the remains containing the spell is visible (with the ledge below it with two ants).
+Enter the cave and fight through the packs ofGiant Antsuntil the end and  you'll findElden Starson a body facing the cave exit. [Map Link]
+
+---
+
+area: Limgrave
+chapter: 1
+name: Scarlet Aeonia | Elden Ring Wiki
+Scarlet Aeoniais anIncantationinElden Ring.Scarlet Aeonia spellcreates a giant flower that explodes with scarlet rot. Updated toPatch 1.07.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Ekzykes's Decay | Elden Ring Wiki
+Ekzykes's Decayis anIncantationinElden Ring.Ekzykes's Decayspell conjures head of Ekzykes to spray a rot-inducing cloud from above. Updated toPatch 1.10.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Placidusax's Ruin | Elden Ring Wiki
+Placidusax's Ruinis anIncantationinElden Ring.Placidusax's Ruinspell conjures the heads of Placidusax to unleash a devastating breath empowered by primordial energies in a large area of effect.
+Where to findPlacidusax's Ruin:
+NOTE:Patch 1.09:Roar Medallionnow increases this incantation's damage by10%(5%in PVP).
+
+---
+
+area: Limgrave
+chapter: 1
+name: Fortissax's Lightning Spear | Elden Ring Wiki
+Fortissax's Lightning Spearis anIncantationinElden Ring.Fortissax's Lightning Spear spellstabs from above with two red lightning spears in tandem when cast. Updated toPatch 1.07.
+Where to findFortissax's Lightning Spear:
+
+---
+
+area: Limgrave
+chapter: 1
+name: Lansseax's Glaive | Elden Ring Wiki
+Lansseax's Glaiveis anIncantationinElden Ring.Lansseax's Glaivecreates a red lightning glaive before sweeping it and unleashing a lightning wave. Updated toPatch 1.07.
+Where to findLansseax's Glaive:
+NOTE:Patch 1.07: FP cost has been reduced (28 > 22).
+
+---
+
+area: Limgrave
+chapter: 1
+name: Radagon's Rings of Light | Elden Ring Wiki
+Radagon's Rings of Lightis anIncantationinElden Ring.Radagon's Rings of Light spelldeals damage in a large AoE. Updated toPatch 1.07.
+Where to findRadagon's Rings of Light:
+
+---
+
+area: Limgrave
+chapter: 1
+name: Triple Rings of Light | Elden Ring Wiki
+Triple Rings of Lightis anIncantationinElden Ring.Triple Rings of Light spellconjures three rings of light that deals damage in straight lines. Updated toPatch 1.07.
+TheTriple Rings of Lightspell can be found in the following location:
+
+---
+
+area: Limgrave
+chapter: 1
+name: Litany of Proper Death | Elden Ring Wiki
+Litany of Proper Deathis anIncantationinElden Ring.Litany of Proper Death spellis used to create an offensive patch of light that deals holy damage.
+Where to findLitany of Proper Death:
+
+---
+
+area: Limgrave
+chapter: 1
+name: Black Flame Ritual | Elden Ring Wiki
+Black Flame Ritualis anIncantationinElden Ring.Black Flame Ritual spellis a ritual that can summon a circle of black flame pillars around caster.
+TheBlack Flame Ritualincantation can be found in the following location:
+
+---
+
+area: Limgrave
+chapter: 1
+name: Fire's Deadly Sin | Elden Ring Wiki
+Fire's Deadly Sinis anIncantationinElden Ring.Fire's Deadly Sin spellcovers both the player and the area with flames.
+Where to findFire's Deadly Sin:
+Reward from completing the "Flightless Bird" painting puzzle.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Frenzied Burst | Elden Ring Wiki
+Frenzied Burstis anIncantationinElden Ring.Frenzied Burst spellreleases concentrated blasts of the flame of frenzy. When charged, the blast can easily penetrate the enemy's guard. Updated toPatch 1.07.
+Dropped by aTeardrop Scarabin theLiurnia of the Lakesregion, South of theChurch of Inhibitionnear some frenziedrats. [Elden Ring Interactive Map Link]
+
+---
+
+area: Limgrave
+chapter: 1
+name: Greyoll's Roar | Elden Ring Wiki
+Greyoll's Roaris anIncantationinElden Ring.Greyoll's Roarspell conjures a thundering shriek of Greyoll that debuffs enemies, temporarily decreasing their defenses and attack power. Updated toPatch 1.12.2.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Agheel's Flame | Elden Ring Wiki
+Agheel's Flameis anIncantationinElden Ring.Agheel's Flamespell conjures head of Agheel to spew fire from above.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Theodorix's Magma | Elden Ring Wiki
+Theodorix's Magmais anIncantationinElden Ring. TheTheodorix's Magmaspell conjures head of Theodorix to drown enemies in deadly magma. Updated toPatch 1.12.2.
+Where to findTheodorix's Magma:
+
+---
+
+area: Limgrave
+chapter: 1
+name: Gelmir's Fury | Elden Ring Wiki
+Gelmir's Furyis aSorceryinElden Ring.Gelmir's Fury spellmakes magma come out from the ground covering a large area. Updated toPatch 1.07.
+TheGelmir's Furyspell can be found in the following location:
+
+---
+
+area: Limgrave
+chapter: 1
+name: Bloodboon | Elden Ring Wiki
+Bloodboonis anIncantationinElden Ring.Bloodboonspell scatters bloodflame pools before caster to set area aflame. Updated toPatch 1.07.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Swarm of Flies | Elden Ring Wiki
+Swarm of Fliesis anIncantationinElden Ring.Swarm of Fliesspell releases a swarm of frenzied bloodflies that seek their target and inflictHemorrhage.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Mohg's Shackle | Elden Ring Wiki
+Mohg's Shackleis aToolinElden Ring.Toolsare unique, reusable items which assist the player during various facets of gameplay ranging from basic communication to assisting in boss encounters.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Messmer's Orb | Elden Ring Wiki
+Messmer's Orbis anIncantationinElden Ring. It was added with theShadow of the Erdtree DLC.Messmer's Orbmakes the caster jump in the air andcreate a giant floating orb in their hand, soaring towards foes before exploding after a short time.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Impenetrable Thorns | Elden Ring Wiki
+Impenetrable Thornsis aSorceryinElden Ring. It was added with theShadow of the Erdtree DLC.Impenetrable Thornswounds the caster to unleash trails of Scadutree's impenetrable thorns from the ground.
+Where to findImpenetrable Thorns:
+NOTE:Patch 1.13: Heavily changed the Spell:
+
+---
+
+area: Limgrave
+chapter: 1
+name: Midra's Flame of Frenzy | Elden Ring Wiki
+Midra's Flame of Frenzyis anIncantationinElden Ring. It was added with theShadow of the Erdtree DLC.Midra's Flame of Frenzyconjures an apparition of the Lord of Frenzied Flame's head that spews its frenzied flame as long as the caster withstands.
+NOTE: SincePatch 1.14, attack speed has been increased, frenzy buildup range agaisnt enemies has been increased and frenzy status buildup while using this skill has been decreased.
+Where to findMidra's Flame of Frenzy:
+
+---
+
+area: Limgrave
+chapter: 1
+name: Bayle's Flame Lightning | Elden Ring Wiki
+Bayle's Flame Lightningis anIncantationinElden Ring. It was added with theShadow of the Erdtree DLC.Bayle's Flame Lightningchannels the talon bone of the dread dragon and smashes enemies with right arm coursing with flame lightning.
+NOTE: SincePatch 1.14, attack power has been increased.
+Where to findBayle's Flame Lightning:
+
+---
+
+area: Limgrave
+chapter: 1
+name: Ancient Lightning Spear | Elden Ring Wiki
+Ancient Lightning Spearis aSkillinElden Ring.Ancient Lightning Spearis a unique skill that can be used on theBolt of Gransax. Updated toPatch 1.12
+NOTE:As ofPatch 1.12: The damage of the skill has been decreased in PVP.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Black Flame | Elden Ring Wiki
+Black Flameis anIncantationinElden Ring.Black Flame spellthrows a fireball of black flame that can be charged to deal additional damage and explode on impact. It also does damage over time after hitting a target. Updated toPatch 1.07.
+A black flame incantation of the Godskin Apostles.
+Throws a ball of raging black fire.Charging enhances potency and causes the fireball to explode.
+Black flame is weighty. After dealing damage it continues to sapfoes' HP for a very short time.
+This incantation is unlocked for purchase after giving aGodskin PrayerbooktoBrother CorhynorMiriel, Pastor of Vows.
+If Miriel does not have Black Flame but you are certain you have given away the Godskin Prayerbook, check first if Corhyn has it in his shop inventory. This is also the case for Corhyn's Bell Bearing shop with the Twin Maiden Husks if Corhyn's questline has been fully completed.
+From the Rampart Tower site of grace, go out the door to the outside (where the birds are). Take a running jump onto the roof across from the door.
+On the left side of the roof, there will be two separate areas you can drop down to. Drop down to the one without stairs on it, and drop down again. You'll land by a set of steps going down.
+Go down the steps to find some rats and a white fog wall.
+You'll need aStonesword Keyto pass through the fog wall, and inside will be two chests. One contains the Godskin Prayerbook, the other contains theGodslayer's Seal.
+Alternatively, from the Liftside Chamber Site of Grace, exit from the door to the courtyard and turn right. Hug the right side wall past all the enemies. You'll find the set of stairs going down on the wall on the other side.
+Deals (Seal Scaling x1,87) fire damage before resistances, with an additional 2,5% of the enemy's max health, charging increases damage by +30%
+Deals fire damage on the initial impact, then applies a black flame effect to enemies that deals -2,5% of of their total health over 2 seconds. The initial damage is improved with Incant Scaling, but the damage-over-time effect cannot be improved.
+Charging the spell increases the initial fire damage, and also causes the fireball to explode on impact, potentially hitting more than one enemy or hitting an enemy that you would otherwise have missed
+Very effective against bosses and enemies with large health pools.
+This potency of this incantation is enhanced by theGodslayer's Seal.
+The damage over time effect does not scale with anything, which means it can be effective even at low levels of Faith in order to deal damage from afar to high-health enemies.
+Compared toScouring Black Flame, this spell is weaker in damage, however it has better range and charging it makes it equall to a charged Scouring Black Flame
+NOTE:SincePatch 1.07Stamina Attack Power against guarded enemies has been Increased.
+Black Flame'is anincantationspellinELDEN RING(2022). It is one of theGodslayer Incantations.
+Ablack flameincantation of theGodskin Apostles.
+Throws a ball of raging blackfire. Charging enhances potency and causes the fireball to explode.
+Black flame is weighty. After dealing damage, it continues to sap foes'HPfor a very short time.
+Purchase:Roundtable Hold/Liurnia of the Lakes/Altus Plateau/Leyndell, Royal Capital/Mountaintops of the Giants
+Create a small ball ofBlackflameto throw, hitting withFireAttack Powerequal to 244% ofIncantation Scalingand inflicting a Blackflame effect that deals damage equal to 2% of target's maximumHP+ 20, over the course of 2 seconds.
+Charging the spell increases the Attack Power to 300% of Incantation Scaling.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Howl of Shabriri | Elden Ring Wiki
+Howl of Shabririis anIncantationinElden Ring. TheHowl of Shabririspell creates madness buildup in nearby foes. Updated toPatch 1.07.
+Incantation originating from the maddening Three Fingers.
+Releases a maddening shriek that causes madness buildup in foesnearby.This incantation also causes madness buildup in the caster andmakes enemies more likely to target them.
+It is said that the sickness of the flame of frenzy began withShabriri, the most reviled man in all history.
+TheHowl of Shabririspell can be found in the following location:
+Found in a chest on the second level of theFrenzy-Flaming Tower. [Elden Ring Map Link]From the Grand Lift of Dectus grace site, move South through a mountain path and follow the path. You will come upon a small incline going towards a tall stone tower, use the nearby rocks as cover from the flaming orb above the tower as you make your way towards it. Take a left to climb onto a set of rocks, to your left will be the tower with some small rats and a large rat at the base. Climb 2 ladders and turn around to see a chest containing theHowl of Shabririincantation.
+From the Grand Lift of Dectus grace site, move South through a mountain path and follow the path. You will come upon a small incline going towards a tall stone tower, use the nearby rocks as cover from the flaming orb above the tower as you make your way towards it. Take a left to climb onto a set of rocks, to your left will be the tower with some small rats and a large rat at the base. Climb 2 ladders and turn around to see a chest containing theHowl of Shabririincantation.
+Causes severeMadnessbuildup (35 per tick) in enemies in an area of effect around the caster, as well as slight (6 per tick) madness buildup in the caster.The amount ofMadnessdealt doesnotappear to change with incant scaling or the seal used.Note that all but a handful of enemies in PVE are immune to Madness.
+The amount ofMadnessdealt doesnotappear to change with incant scaling or the seal used.
+Note that all but a handful of enemies in PVE are immune to Madness.
+Deals slight damage, but not enough for the spell to be useful offensively against enemies immune toMadness.However, this damage can be useful to prevent low-poise enemies from attacking.
+However, this damage can be useful to prevent low-poise enemies from attacking.
+When cast, the caster receives simultaneous buffs and debuffs:Damage +25%Damage Taken +30%Enemies are more likely to attack the casterDuration: 40 secs. Increased to 52 secs. withOld Lord's Talisman
+Enemies are more likely to attack the caster
+Duration: 40 secs. Increased to 52 secs. withOld Lord's Talisman
+This is aBodyBuffand will not stack with other buffs of the same type.SeeBuffs and Debuffsfor more information on stacking buffs.Damage stacks multiplicatively withGolden Vowor theweapon skill version.Works similar to Power Within from theDark Soulsseries.
+SeeBuffs and Debuffsfor more information on stacking buffs.
+Damage stacks multiplicatively withGolden Vowor theweapon skill version.
+Works similar to Power Within from theDark Soulsseries.
+Note:This Spell was changed withPatch 1.07as follows: Effect duration has been extended from 20 to 40 seconds.
+As ofPatch 1.09,Roar Medallionincreases the damage of the howl area of effect about approx. 2% in Player vs. Player.  No change in the increase of the damage buff from this incantation.
+Updated to patch1.07. SeePatch Notesfor details.
+Howl of Shabririis anincantationspellinELDEN RING(2022). It is one of theThree Fingers Incantations.
+Incantation originating from the maddeningThree Fingers.
+Releases a maddening shriek that causesmadnessbuildup in foes nearby. This incantation also causes madness buildup in the caster and makesenemiesmore likely to target them.
+It is said that the sickness of theflame of frenzybegan withShabriri, the most reviled man in all history.
+狂気の叫びをあげ、周囲に発狂を蓄積する発狂は自術者自身にも蓄積しまた、敵から狙われやすくなる
+Loot:Frenzy-Flaming Tower(Liurnia of the Lakes)
+The caster covers their face as they yell in pain while the flames of frenzy fill their eyes. While screaming, all enemies within a 3.8 meter radius are hit up to 18 times withStandardAttack Powerequal to 22% ofIncantation Scalingand inflicted 35Madnessbuild-up per tick. The caster also takes 6 Madness build-up per tick (108 build-up in total). Afterwards, the caster is granted aBody Bufffor 40 seconds where they deal 25% more damage but also take 30% more damage (50% more damage taken during cast of the spell) and draw enemy attention more than usual.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Erdtree Heal | Elden Ring Wiki
+Erdtree Healis anIncantationinElden Ring.Erdtree Heal spellgrants superior healing for you and your allies.
+Heals a vast amount of HP for the caster and nearby allies.
+Hold to continue praying and delay activation.
+The Erdtree once flourished with abundance - yet it was only fora fleeting moment. Such is the course of all life.
+Can be found in Queen's Bedchamber inLeyndell, Ashen CapitalAfter igniting theForge of the Giantsand defeatingMaliketh, Black Blade of DeathinCrumbling Farum Azula, return to Leyndell and it will be in ruins of ash. Travel to the Queen's Bedchamber and it's in the same spot asBlessing of the Erdtreewas. [Map Link]
+After igniting theForge of the Giantsand defeatingMaliketh, Black Blade of DeathinCrumbling Farum Azula, return to Leyndell and it will be in ruins of ash. Travel to the Queen's Bedchamber and it's in the same spot asBlessing of the Erdtreewas. [Map Link]
+Heals (5.9x Faith Incantation Scaling) HP to self and heals (4.2x Faith Incantation Scaling) HP to nearby friendly entities. This scaling is using theErdtree Seal.
+Incantation Scaling from sources other than Faith is unused in calculating the HP healed.
+In order to receive the same amount of healing from a +12 flask of crimson tears, faith portion incantation scaling must be equal to 137.3. Since most seals will offer this amount of incant scaling with the required 42 faith without any upgrades to the seal, this incantation; once obtained; is more efficient than a +12 flask of crimson tears - provided your character has 130FP or more so that 2 heals can be done before FP must be restored.A cerulean flask will give 220FP restoration, meaning that at absolute minimum levels; where one Erdtree heal is equal to 1 crimson tear flask heal; healing via this incantation will provide 3.38 times more healing than flasks (as 220FP/65FP is equal to 3.38. This is assuming the player has 220FP or more.Therefore by allocating all 14 flasks to cerulean tears, the player could expect, at minimum(14 x 3)42 crimson tears flasks worth of healing.At higher faith levels and higher upgrade levels on the players sacred seal; the player can expect to refill most if not all of their health bar, even from well below 20% health. This makes the aforementioned efficiency rating of 3.38:1 swing even more in favour of Erdtree healing, as it can take 2 or even more crimson tears flasks to heal the player completely. Given this, it would not be far fetched to expect an efficiency ratio of something more like 10:1 or even 15:1 depending on player faith levels and they type of seal used.The downside to this method is that it takes slightly longer to heal via this method than it does to heal via a flask and will take time to develop the muscle memory in order to do this type of healing effectively in high stress situations. The player may find that they get killed either by fumbling the button sequence needed to execute the prayer, or by not having enough time and space to finish the prayer before the enemy lands a final lethal blow. Knowing this it would be wise to still carry 3 to 5 flasks of crimson tears, so that they can be used quickly in an emergency situation to prevent death when time is a factor - Skill and intuition will be needed to know when the right time is for the right type of heal.Other downsides to this, is it requires more investment into mind and faith, with a recommendation of at least 130FP, and a minimum of 42 faith, meaning that it might not suit all build types.Lastly, this incantation would be very tricky to pull off in some Boss Fights, and in PvP - and it would be recommended for boss fights to put flask back in favour of crimson tears, perhaps only having between 3 to 5 cerulean tears for healing. (more if your build requires a larger pre-buff and re-buff routine)
+Erdtree Healis anincantationspellinELDEN RING(2022). It is one of theErdtree incantations.
+Heals a vast amount ofHPfor the caster and nearby allies. Hold to continue praying and delay activation.
+The Erdtree once flourished withabundance—yet it was only for a fleeting moment. Such is the course of all life.
+The caster kneels in prayer, healing HP equal to 590% of theirFaith-basedIncantation Scaling, and heals nearby allies for 390% of the same.
+NearbyRevenantsandRevenant Followerstake damage equal to 50% of their maximumHPplus an additional 300 HP. This attack also breaks theirStance, causing them to become staggered.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Flame of the Fell God | Elden Ring Wiki
+Flame of the Fell Godis anIncantationinElden Ring.Flame of the Fell God spellfires a ball of fire that explodes on contact leaving a patch of fire. Updated toPatch 1.07.
+This legendary incantation is one of several that draws directlyfrom the power of the Fire Giants.Releases a ball of raging fire said to be inhabited by a fell god.The fireball floats toward enemies and explodes,setting the area ablaze.Arghanthy, the chief guardian of the Flame,had kept this incantation a well-kept secret until it was stolen by Adan.The fell god still lurks within the Fire Giants.
+Liurnia of the Lakes: Dropped byAdan, Thief of Fireupon defeating him in his evergaol.Elden Ring Interactive Map Link
+Can knock back enemies upon exploding, useful against bosses likeMalenia.
+High FP cost and only moderate damage make it not a spell to be thrown out casually. However, it can be a good setup tool when used skillfully
+Following the projectile while it tracks your target can make it difficult for other players to pressure you. If you're next to it when it begins to explode, this can give you time to cast another incantation, such as a heal or buff, while protected by the threat of the blast and lingering flames.
+This spell is extremely effective against Erdtree Avatars, they're weak to fire damage and have low mobility, often standing in the lingering flames for the whole duration.
+The very slow projectile speed can be a boon in certain cases as well, casting it when an enemy is unawares can allow you to cast another slow or a fully charged incantation, which will combo into the explosion of the flame.
+Note:Multiple buffs inPatch 1.07- FP cost reduced from 42 to 34, stamina damage against guarding enemies is increased and the damage detection time of residual flames was shortened. (Patch Notes were corrected in Patch 1.07.1 as this spell could not be charged as it was stated in 1.07 official Patch Notes.)
+ER Shadow of the Erdtree Staff of the Great Beyond Guide
+Updated to patch1.07. SeePatch Notesfor details.
+Was previously calledSoul of Flamein version 1.00.
+Flame of the Fell Godis anincantationspellinELDEN RING(2022). It is one of theGiants' Flame incantations.
+Thislegendary incantationis one of several that draws directly from the power of theFire Giants.
+Releases a ball of ragingfiresaid to be inhabited by afell god. The fireball floats toward enemies and explodes, setting the area ablaze.
+Arghanthy, the chiefguardianof theFlame, had kept this incantation a well-kept secret until it was stolen byAdan. The fell god still lurks within the Fire Giants.
+悪神が宿るとされる、燃え盛る火球を放つそれは対象に向かってゆっくりと飛び爆発により、周囲を炎上させる
+Summons a raging fireball that explodes shortly after coming close to an enemy, withFireAttack Powerequal to 415% ofIncantation Scalingand that hits in a 3.5 meter radius, leaving lingering fire spots for 7 seconds that appear to be able to hit about once per second with Fire Attack Power equal to 35% of Incantation Scaling and a 1 meter effect radius.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Black Blade | Elden Ring Wiki
+Black Bladeis anIncantationinElden Ring.Black Bladecreates a magical black blade to unleash waves of Destined Death. Updated toPatch 1.07.
+Power gleaned from the remembrance of Maliketh.
+Caster creates an illusory black blade, then leaps forward todeliver a spinning slash that emits a wave of light.This can be followed up with one additional attack.
+This blade was once imbued with Destined Death. In addition todealing damage, it reduces foes' maximum HP and continues tosap their current HP for a very short time.
+TradeRemembrance of the Black BladewithEniaatRoundtable Hold.
+Conjures a Black Blade before performing a vertical spinning slash which emits a wave projectile.Blade hitbox deals (Incant Scaling x2.25)Holy Damageand9Stancedamage.Ranged wave deals (Incant Scaling x1.62)Holy Damageand4Stancedamage.
+Blade hitbox deals (Incant Scaling x2.25)Holy Damageand9Stancedamage.
+Ranged wave deals (Incant Scaling x1.62)Holy Damageand4Stancedamage.
+Allows for a slightly stronger follow-up attack, spinning the blade diagonally while emitting a wave projectile.Blade hitbox deals (Incant Scaling x2.32)Holy Damageand9Stancedamage.Ranged wave deals (Incant Scaling x1.69)Holy Damageand4Stancedamage.
+Blade hitbox deals (Incant Scaling x2.32)Holy Damageand9Stancedamage.
+Ranged wave deals (Incant Scaling x1.69)Holy Damageand4Stancedamage.
+The wave projectile applies aDestined DeathDebuffto hit enemies which reduces theirMax HPby10%for15seconds while also sapping theirHPby (0.1%Max HP) +1by10ticks/s for2seconds.Saps health by a total of (2%Max HP) +20.Note thatonlythe projectile applies the Debuff, not the Weapon Hitbox.
+Saps health by a total of (2%Max HP) +20.
+Note thatonlythe projectile applies the Debuff, not the Weapon Hitbox.
+Debuff stacks with either theDestined DeathorBlade of Deathfor a20%MaxHPreduction butNOTboth.SeeBuffs and Debuffsfor more information on stacking debuffs.
+SeeBuffs and Debuffsfor more information on stacking debuffs.
+Has anaccumuValof18(Weapon Hitbox only) towards multi-hit boosts.
+NOTEPatch 1.07: Reduced stamina cost (51 > 44), improved turning performance and shortened recovery time. The sword and the wave attack have been changed so that they hit at the same time. Attack power, stamina attack power and poise damage of each part have been decreased. Decreased the number of times the wave part hits large enemies.
+Updated to patch1.07. SeePatch Notesfor details.
+You can add this toBlack Knife Assassinbuild to dual stack buffs.
+Black Bladeis anincantationspellinELDEN RING(2022). It is one of theErdtree Incantations.
+Power gleaned from theremembranceofMaliketh.
+Caster creates an illusoryblack blade, then leaps forward to deliver a spinning slash that emits a wave of light. This can be followed up with one additional attack.
+This blade was once imbued withDestined Death. In addition to dealing damage, it reduces foes' maximumHPand continues to sap their current HP for a very short time.
+Trade theRemembrance of the Black Blade, dropped byMaliketh, the Black Blade, withFinger Reader Enia.
+Alternatively, use one of theWandering Mausoleumsto duplicate one (can only obtain one per playthrough using either method).
+Summons a red, spectral version ofMaliketh's Black Blade, then jumps and spins forwards with the blade to hit forHolyAttack Power equal to 225% ofIncantation Scalingwhile also sending out a wave with Holy Attack Power equal to 162% of Incantation Scaling.
+If the incantation is used again immediately afterwards, the second sword's Attack Power is increased to 232% of Incantation Scaling while the beam's Attack Power is increased to 169% of Incantation Scaling for the second cast.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Golden Order Totality
+Golden Order Totalityis aGestureinELDEN RING(2022).
+Locks the player character in place during the animation.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Destined Death | Elden Ring Wiki
+Destined Deathis aSkillinElden Ring.Destined Deathallows the user to create a myriad of ethereal blade attacks to deal damage and inflicts a penalizing debuff onto enemies. Updated toPatch 1.07.
+This Skill cannot beParriedThis Skill can beParriedif performed with no Focus
+This Skill can beParriedif performed with no Focus
+When triggered, the weapon art causes the user to do a right-to-left horizontal slash (hitbox 1), after which the blade is stabbed into the ground (hitbox 2), which then releases the blade vortex after a brief delay (hitbox 3).
+Reduces enemy max HP by 10% for 45 seconds.
+Damage scales with weapon AR and deals split physical and holy damage. The amount of physical and holy damage depends on stat investment, with Faith increasing Holy damage and Strength and Dexterity increasing physical damage.
+The debuff stacks with theBlack Bladeincantation but not theBlade of Deathweapon skill.SeeBuffs and Debuffsfor more information on stacking debuffs.
+Destined Death does triggerWinged Sword Insignia,Rotten Winged Sword Insignia,Millicent's ProsthesisandThorny Cracked Tear.
+Note:This Skill was changed withPatch 1.07as follows:
+Duration of the effect that reduces maximum HP has been extended.
+Updated to patch1.07. SeePatch Notesfor details.
+Formerly calledDestined Death Unboundin the 1.00 version.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Heal from Afar | Elden Ring Wiki
+Heal from Afaris anIncantationinElden Ring. It was added with theShadow of the Erdtree DLC.Heal from Afarallows the caster to fire a projectile that heals allies on contact.
+An Erdtree incantation discovered in the realm of shadow.
+Fires a projectile toward distant allies that greatly restores HP on contact.
+Even when far beyond, far out of sight, the Erdtree will surely give us its blessing.
+Can be looted on the ground by the foot of an underground golden tree. It is located in a cave path to the base of theRauh Ruins, north-northeast of theMoorth RuinsinScadu Altus. [Map Link]
+The caster first emmits a glowing projectile, when it makes contact with something, it will heal allies in an area around it.Heals (4.2xFaith Incantation Scaling)HPto self and (3.36xFaith Incantation Scaling)HPto alliesDamagesWraithsandRevenantsby (0.5%Max HP) +300HP on top of causing an immediateStancebreak.NOTE:This does not draw their aggression towards the caster.Has a6meter radiusHas a max range it can travel, after which it will activate the AoE even without any contact.Can be aimed at the ground for an immediate heal, faster than any other in the game.Can be used to heal the enemies in a host's world as an invader.
+Heals (4.2xFaith Incantation Scaling)HPto self and (3.36xFaith Incantation Scaling)HPto allies
+DamagesWraithsandRevenantsby (0.5%Max HP) +300HP on top of causing an immediateStancebreak.NOTE:This does not draw their aggression towards the caster.
+NOTE:This does not draw their aggression towards the caster.
+Has a max range it can travel, after which it will activate the AoE even without any contact.
+Can be aimed at the ground for an immediate heal, faster than any other in the game.
+Can be used to heal the enemies in a host's world as an invader.
+Compared toLord's Heal, this incantation heals allies by60%more and costs10FPless, also keeping the same effect radius and self healing amount.
+Only non-hostile incantation that can't be casted in protected areas likeRoundtable Hold.
+Heal from Afaris anincantationspellinShadow of the Erdtree. It is one of theErdtree incantations.
+AnErdtreeincantation discovered in therealm of shadow.
+Fires a projectile toward distant allies that greatly restoresHPon contact.
+Throws out a golden orb that detonates on impact with a surface or character.
+If the caster is caught in the blast, they are healed for 420% of their Seal'sFaith-basedIncantation Scaling, while any allies affected are healed for 336% of the Faith-based Incantation Scaling.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Divine Bird Feathers | Elden Ring Wiki
+Divine Bird Feathersis anIncantationinElden Ring. It was added with theShadow of the Erdtree DLC.Divine Bird Feathers spellrelases a flurry of feathers that inflict damage.
+NOTE: SincePatch 1.14, the minumum delated between consecutive hits has been decreased and the range has been increased.
+A technique of the divine bird warriors, the very first of all horned warriors, wielded as an incantation.
+Spread the arms wide like wings to release a flurry of feathers. This incantation can be cast while in motion. Hold to continue releasing feathers.
+The divine bird warriors, and indeed this technique, are said to bear resemblance to the golden Crucible.
+Ancient Ruins of Rauh: From the "Church of the Bud, Main Entrance" Site of Grace, head north into the building, east down the central stairway and then south to go outside. Go past the gazebo and look at the corpse in the middle of the water which contains the incantation.[See Shadow of the Erdtree Map] [Video Link]
+Spiral Tower IncantationNot boosted by theSpiraltree Seal
+DealsPierce Damageand1Stancedamage per projectile
+Holding the cast button continuously shoots feathers while draining3FP per tick
+Divine Bird Feathersis anIncantationSpellinShadow of the Erdtree. It is one theDivine Beast incantations.
+Atechniqueof thedivine bird warriors, the very first of allhorned warriors, wielded as an incantation.
+Thedivine birdwarriors, and indeed this technique, are said to bear resemblance to the goldenCrucible.
+Divine Bird Feathers is looted from a body at theAncient Ruins of Rauh. It is found in a body of water just east of theChurch of the Bud, Main Entrancesite of grace. To reach it, head north from the grace and keep to the right in the temple to arrive at the pool, where it's on a body just past a stone gazebo.
+The user spreads their arms and then points them forward to launch a barrage of sharp feathers, hitting withPierceAttack Power equal to 42% ofIncantation Scalingper hit. Launches and can hit ("ticks") every 0.1 seconds.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Comet | Elden Ring Wiki
+Cometis aSorceryinElden Ring.Comet spellcasts a magical comet that you can fire at enemies. Updated toPatch 1.07.
+One of the glintstone sorceries of the Academy of Raya Lucaria.Fires a great magical comet.
+This sorcery can be cast repeatedly and while in motion. Chargingenhances potency.
+The greatest of the Karolos Conspectus's sorceries, that only avery few sorcerers have ever mastered.
+Found inRaya Lucariathrough an Illusory Wall just before the Site of Grace at Debate Parlor. It can be identified as the bookshelf without books on it. [Elden Ring Map Link]
+Can pierce through multiple enemies in a line.
+Can be charged for up to approximately 20-22% increased damage.
+Damage can be boosted by 10% by wearingAzur's Glintstone Crown. This comes at the cost of a 15% increase in ALL sorcery costs
+Note:InPatch 1.07, FP cost was reduced from 26 to 24, damage was increased slightly, and stamina damage against guarding enemies was increased. In addition, while not mentioned in the patch notes, the stamina cost was reduced from 35 to 31.
+Compared toGlintstone Pebble, Comet costs about 230% more FP, travels a significant amount farther (20-25%), and deals about 95-105% more damage.
+Compared toGlintstone Cometshard, Comet costs about 38% more FP, travels slightly farther, and deals about 12-15% more damage.
+The Illusory Wall can be found between a candle stand and a table, here's a picture for better reference.
+Use theseBuffsto maximize the performance of Comet. Note that increases in attack power are multiplicative unless stated otherwise.
+Updated to patch1.07. SeePatch Notesfor details.
+Cometis aspellinELDEN RING(2022). It is one of theGlintstone Sorceries.
+One of the glintstone sorceries of theAcademy of Raya Lucaria.
+Fires a great magical comet. This sorcery can be cast repeatedly and while in motion. Charging enhances potency.
+The greatest of the Karolos Conspectus's sorceries, that only a very few sorcerers have ever mastered.
+魔力の大彗星たる、ほうき星を放つ足を止めずに使用でき、連続でも使用できるまた、タメ使用で強化される
+The caster fires a powerful glinstone projectile withMagicAttack Powerequal to 292% ofSorcery Scalingat their foe. The spell can be charged to increase itsMagicAttack Powerto equal 365% ofSorcery Scaling, and adds an explosion with equal damage with a 1.2 meter radius that hits nearby enemies.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Great Glintstone Shard | Elden Ring Wiki
+Great Glintstone Shardis aSorceryinElden Ring.Great Glintstone Shard spellfires a magic projectile.
+One of the glintstone sorceries of the Academy of Raya Lucaria.The glintstone serves as a conduit, launching large magical projectiles at foes.This sorcery can be cast repeatedly and while in motion.Those unworthy of the stone crown typically end their brief journey into sorcery here.
+The spell can be purchased for 2,000Runesafter you deliver theAcademy ScrolltoMiriel Pastor of Vows,Sorceress Sellen, orPreceptor Seluvis.
+Can be purchased fromCount Ymirat theCathedral of Manus Metyrfor2,000Runes[Map Link]
+Inflicts (Sorcery Scaling x 2.11) magic damage before resistances.
+Useful for fighting big enemies in mid-range combat, or defeating smaller foes in a single hit.
+Compared toGlintstone Pebble, Great Glintstone Shard costs about 63% more FP, travels a small amount farther (5-10%) and moves at the same speed.Prior to patch 1.03, Great Glintstone Shard travelled a shorter distance (~75% of Glintstone Pebble's range) and moved significantly slower.
+Prior to patch 1.03, Great Glintstone Shard travelled a shorter distance (~75% of Glintstone Pebble's range) and moved significantly slower.
+ER Shadow of the Erdtree Carian Sovereignty Build Written Guide
+Great Glintstone Shardis aspellinELDEN RING(2022).
+One of the glintstone sorceries of theAcademy of Raya Lucaria.
+The glintstone serves as a conduit, launching large magical projectiles at foes. This sorcery can be cast repeatedly and while in motion.
+Those unworthy of the stone crown typically end their brief journey into sorcery here.
+Purchase:Limgrave/Liurnia of the Lakes/Academy of Raya Lucaria/Roundtable Hold
+The caster fires a glintstone projectile withMagicAttack Powerequal to 211% ofSorcery Scalingat their foe.
+Great Glintstone Shard can be can cast repeatedly.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Glintstone Pebble | Elden Ring Wiki
+Glintstone Pebbleis aSorceryinElden Ring.Glintstone Pebble spellis cast to produce offensive magic projectiles that attacks enemies from range. Updated toPatch 1.07.
+The most basic glintstone sorcery of the Academy of Raya Lucaria.
+The glintstone serves as a conduit, launching magical projectiles at foes.This sorcery can be cast repeatedly and while in motion.
+This is a universal first step on the journey to true knowledge of sorcery.
+Can be purchased fromSorceress Sellenfor1,000Runesat theLimgrave:Waypoint Ruins. [Map Link]
+Can be purchased fromThopsat theChurch of Irithfor1,000Runes. [Map Link]
+Can be purchased from theTwin Maiden Husksat theRoundtable Holdfor 1,000 Runes, after giving themThops's Bell Bearing.
+Can be purchased fromCount Ymirat theCathedral of Manus Metyrfor1,000Runes[Map Link]
+Inflicts (Sorcery Scaling x 1.52) magic damage before resistances.
+This is the basic go-to sorcery for any player starting out on their journey to become a sorcery caster. It has a low Intelligence requirement (10 INT), a low casting cost (7 FP), tracks its target slightly, and has a comfortable range. All these traits make it a fine starting sorcery to obtain until stronger options can be acquired later on.
+SincePatch 1.06, the range ofGlintstone Pebblehas been increased, but the damage and stager power have been decreased.
+NOTE:ThisGlintstone Sorcerywas changed withPatch 1.07as follows: The Attack Power was increased.
+Can be dodged on its own by moving directly perpendicular to the attacker. Sprinting is not necessary.
+Updated to patch1.07. SeePatch Notesfor details.
+Glintstone Pebbleis aspellinELDEN RING(2022). It is one of theGlintstone Sorceries.
+The most basic glintstone sorcery of theAcademy of Raya Lucaria.
+The glintstone serves as a conduit, launching magical projectiles at foes. This sorcery can be cast repeatedly and while in motion.
+Purchase:Limgrave/Liurnia of the Lakes/Academy of Raya Lucaria/Scadu Altus
+The caster fires a glintstone projectile withMagicAttack Powerequal to 152% ofSorcery Scalingat their foe.
+Glintstone Pebble can be cast repeatedly.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Glintstone Arc | Elden Ring Wiki
+Glintstone Arcis aSorceryinElden Ring.Glintstone Arc spellis cast to produce an offensive horizontal wave that deals damage to multiple enemies. Updated toPatch 1.07.
+One of the glintstone sorceries of the Academy of Raya Lucaria.
+Fires a horizontal arc of magic that spreads outward.This sorcery can be cast repeatedly and while in motion.
+Granted to sorcerers who depart from the academy to embark onjourneys, in order to fend off large groups of would-be adversaries.Fools often roam in packs.
+Can be purchased fromSorceress Sellenfor1,500Runes. Sellen is located inLimgrave:Waypoint Ruins. [Map Link]
+Can be purchased fromThopsat theChurch of Irith1,500Runes. [Map Link]
+Can be purchased fromTwin Maiden Husksat theRoundtable Holdafter giving themThops's Bell Bearing.
+Deals (Sorcery Scaling x 1.48 ) magic damage before resistances.
+Low Cost Sorcery (9 Focus Points per cast)
+Can be chain-casted as long as player has enough stamina and FP
+NOTE:SincePatch 1.07FP Consumption has been Decreased from 10 to 9.
+Updated to patch1.07. SeePatch Notesfor details.
+Glintstone Arcis aspellinELDEN RING(2022).
+One of the glintstone sorceries of theAcademy of Raya Lucaria.
+Granted to sorcererers who depart from the academy to embark on journeys, in order to fend off large groups of would-be adversaries. Fools often roam in packs.
+Purchase:Limgrave/Liurnia of the Lakes/Academy of Raya Lucaria/Roundtable Hold
+The caster fires a glintstone arc that slowly expands outward until it reaches its maximmum range. The arc is capable of penetrating enemies.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Glintstone Stars | Elden Ring Wiki
+Glintstone Starsis aSorceryinElden Ring. TheGlintstone Starsspell produces three magic projectiles to attack enemies at range. Updated toPatch 1.07.
+One of the glintstone sorceries of the Academy of Raya Lucaria.
+Fires three magic shooting stars that pursue the target.This sorcery can be cast while in motion. Charging enhancespotency.
+A sorcery of the Olivinus Conspectus, which attracts sorcerers from Sellia, Town of Sorcery.
+Can be purchased fromSorceress Sellenfor3000Runes.
+Can be purchased fromGowryfor3000Runesafter completing his quest line.
+Damage can be boosted by 10% by wearingLusat's Glintstone Crown. This comes at the cost of a 15% increase in ALL sorcery costs
+Glintstone Stars, like many other multi-projectile spells, suffers in damage output in the early/mid game, due to the way absorption and defenses work. The higher level and scaling you reach, the better results you will get out of this spell
+Glintstone Stars has extremely good tracking, even at long ranges. In addition, there is a slight delay between the cast time and when the projectiles begin moving.This makes Glintstone Stars excellent against enemies that typically dodge spells, like NPC phantomsThe good tracking also makes it an excellent choice in mounted combat, allowing you hit fast moving targets
+This makes Glintstone Stars excellent against enemies that typically dodge spells, like NPC phantoms
+The good tracking also makes it an excellent choice in mounted combat, allowing you hit fast moving targets
+Effectively a lower-cost version ofStar Shower.  Star Shower fires more projectiles, but the projectiles themselves behave identically.
+NOTE:SincePatch 1.07FP Consumption has been Decreased from 14 to 12, and attack power has been increased.
+Use theseBuffsto maximize the performance of Glintstone Stars. Note that increases in attack power are multiplicative unless stated otherwise.
+Updated to patch1.07. SeePatch Notesfor details.
+Glintstone Starsis aSpellinELDEN RING(2022).
+One of the glintstone sorceries at theAcademy of Raya Lucaria.
+Fires three magic shooting stars that pursue the target. This sorcery can be cast while in motion. Charging enhances potency.
+A sorcery of the Olivinus Conspectus, which attracts sorcerers fromSellia, Town of Sorcery.
+対象に向かって飛ぶ、三つの流星を放つ足を止めずに使用することができタメ使用で強化される
+Purchase:Limgrave/Liurnia of the Lakes/Academy of Raya Lucaria/Caelid/Roundtable Hold
+The caster fires three glintstone projectiles that wait a brief moment before traveling outward, homing in enemies and hitting with 87%, 78%, and 66% ofSorcery Scaling(roughly 233% of Sorcery Scaling in total). Each of the projectiles fire in quick succession. While each projectile also slightly decrease in attack power, they do have exceptional tracking.
+When charged the projectiles' Attack Power increases to 99%, 90%, and 80% of Sorcey Scaling (roughly 269% of Sorcery Scaling in total).
+
+---
+
+area: Limgrave
+chapter: 1
+name: Loretta's Greatbow | Elden Ring Wiki
+Loretta's Greatbowis aSorceryinElden Ring.Loretta's Greatbow spellcreates a bow that fires a projectile. Can be charged to further increase damage. Updated toPatch 1.07.
+Sorcery used by Royal Knight Loretta.Creates a magic greatbow and fires a great arrow.Charging enhances potency. Hold to keep the great arrow nocked.It is said that the bow was Loretta's favored weapon.
+Caria Manor: Dropped byRoyal Knight Lorettaupon defeat. [Map Link]Video Location
+Hold R1 to charge this Spell up. Once full charged it will flash for a second for increased damage.
+NOTE:SincePatch 1.07FP Consumption has been Decreased from 28 to 24.
+This spell is immune to theThops's Barrier Ash of War, and will penetrate the spell parry attempt.
+This spell cannot be boosted byArrow's Sting Talisman
+When fully charged, this spell is affected byGodfrey Icon.
+The spell does no bonus damage from charging unless fully charged.
+If fully charged, it does roughly 22% more damage.
+Spell has exceptionally high range, making it an excellent opening move against bosses, or as a tool for hitting hard to deal with enemies from a distance.
+Updated to patch1.07. SeePatch Notesfor details.
+Use theseBuffsto maximize the performance of Loretta's Greatbow spell. Note that increases in attack power are multiplicative unless stated otherwise.
+Loretta's Greatbowis aspellinELDEN RING(2022).
+Creates a magic greatbow and fires a great arrow. Charging enhances potency. Hold to keep the great arrow nocked.
+It is said that the bow was Loretta's favored weapon.
+魔力の大弓を生じ、大矢を放つタメ使用で強化され、長押している間は大矢を放たず、引き絞った状態を保つ
+The caster conjures a magical greatbow and prepares a magic great arrow, pulling on the magic bow string. Afterwards, the caster releases and fires the magic great arrow at high speeds. Charging increases the damage, which is indicated by a blue flash from the middle of the magical greatbow.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Loretta's Mastery | Elden Ring Wiki
+Loretta's Masteryis aSorceryinElden Ring.Loretta's Mastery spell,unlike theLoretta's Greatbowthat shoots one arrow from a magic greatbow, this Sorcery fires four great arrows at once. Updated toPatch 1.07.
+Sorcery used by Loretta, Knight of the Haligtree.Creates a magic greatbow and fires four great arrows simultaneously.Charging enhances potency. Hold to keep the great arrows nocked.Developed by Loretta after her long, bloody journey to seek out a place where the Albinaurics could live in peace.
+Dropped byLoretta, Knight of the Haligtreeupon defeat. [Map Link]Video Location
+Deals 1.08 * Sorcery Scaling of Magic Damage and 5 Stance damage, per projectile.If all 4 projectiles hit, this amounts to 25 Stance damage in total.
+If all 4 projectiles hit, this amounts to 25 Stance damage in total.
+When shooting at locked-on enemies or body parts close to the ground, the lower arrow generated has a tendency to hit the ground, reducing the potential damage output. It is recommended to either aim at a body part located higher up, or shoot from a higher elevation such as on horseback.Alternatively, once could manually aim the spell, but due how the projectiles spread and arc at first, to then converge at the point of impact, it becomes hard to accurately judge the correct angle.
+Alternatively, once could manually aim the spell, but due how the projectiles spread and arc at first, to then converge at the point of impact, it becomes hard to accurately judge the correct angle.
+When being casted, the usercannotmove, cancel the spell, or perform any other action until the arrows are released, or the spell has finished charging. Once fully charged, the caster can opt to either release the arrows, or cancel the spell into a roll.From the moment its casted until the arrows are released, at max cast speed, it takes 3 seconds until the user can perform another action.
+From the moment its casted until the arrows are released, at max cast speed, it takes 3 seconds until the user can perform another action.
+NOTE:SincePatch 1.07FP Consumption has been Decreased from 43 to 39.
+This spellcannotbe boosted byArrow's Sting Talisman
+Charging the spell takes approximately 1.5 seconds. The user can interrupt the charging early and release the arrows if needed.The spell does not receive bonus damage from partially charging it. Only completely charging it will boost its damage.The moment the spell is fully charged, a small blue flash accompanied by a sharp sound will be emitted from the tip of the bow.When fully charged, this spell is affected byGodfrey Icon.
+The spell does not receive bonus damage from partially charging it. Only completely charging it will boost its damage.
+The moment the spell is fully charged, a small blue flash accompanied by a sharp sound will be emitted from the tip of the bow.
+When fully charged, this spell is affected byGodfrey Icon.
+If fully charged, deals 1.27 * Sorcery Scaling of Magic Damage and 9.25 Stance damage, per projectile.If all 4 projectiles hit, this amounts to 37 Stance damage in total.
+If all 4 projectiles hit, this amounts to 37 Stance damage in total.
+Has noticeably longer range thanLoretta's Greatbow.This might make it the spell with the longest range in the entire game.
+This might make it the spell with the longest range in the entire game.
+Use theseBuffsto maximize the performance of Loretta's Mastery spell. Note that increases in attack power are multiplicative unless stated otherwise.
+Loretta's Masteryis aspellinELDEN RING(2022).
+Sorcery used byLoretta, Knight of the Haligtree.
+Creates a magic greatbow and fires four great arrows simultaneously. Charging enhances potency. Hold to keep the great arrows nocked.
+Developed by Loretta after her long, bloody journey to seek out a place where the Albinaurics could live in peace.
+魔力の大弓を生じ、四本の大矢を同時に放つタメ使用で強化され、長押している間は大矢を放たず、引き絞った状態を保つ
+The caster conjures a magical greatbow and prepares 4 magic great arrows, pulling on the magic bow string. Afterwards, the caster releases and fires the magic great arrows, briefly curving outwards before homing in on their target at high speeds. Charging increases the damage, which is indicated by a blue flash from the middle of the magical greatbow.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Carian Slicer | Elden Ring Wiki
+Carian Sliceris aSorceryinElden Ring.Carian Slicercreates a magical sword to perform continuous sweeping slashes.
+One of the sorceries of the Carian royal family.
+Conjures a magic sword and delivers a swift sweeping slash.This sorcery can be used without delay after performing another action.
+Even among the Carian sword sorceries, this is a notably effective technique.
+After giving theRoyal House ScrolltoMiriel Pastor of Vows,Sorceress Sellen, orPreceptor Seluvis, the spell can be purchased for1,500Runes.
+Deals (Sorcery Scaling x1.80)Magic Damageper swing and3Stancedamage.
+Functions mostly like a melee attack:Can be parried.Can perform running, jumping, rolling, and backstep attacks, where it has the same animation, but a significantly faster startup than a regular cast.Can not perform ripostes or backstabs.
+Can perform running, jumping, rolling, and backstep attacks, where it has the same animation, but a significantly faster startup than a regular cast.
+If properly optimized, this spell is one of the highest DPS outputs in the game, coming at the cost of poise damage and moveset variety.  These weaknesses can be easily offset by many of the otherCarian Glintswordspell attacks.
+Has the highestMagic DamageperFPratio out of all spells.
+Can be used while riding. Unlike other spells, it will not slow down Torrent.
+Has anaccumuValof4towards multi-hit boosts.
+Carian Glintstone Staff.boosts its damage by15%
+NOTE:Patch 1.08: (PVP only) reduced damage multiplier against players (1.0 > 0.8).
+Carian Sliceris aspellinELDEN RING(2022).
+It is one of theCarian Sword Sorceries, a subset of theCarian Sorceries.
+One of the sorceries of theCarian royal family.
+Conjures a magic sword and delivers a swift sweeping slash. This sorcery can be used without delay after performing another action.
+Purchase:Limgrave/Liurnia of the Lakes/Academy of Raya Lucaria/Roundtable Hold
+The caster conjures a magic sword and swiftly performs a sweeping motion from one side to the other. Further input performs the same motion from the other side. Casting the spell after attacking with a weapon, jumping, dodging, running, creates the magic sword without delay.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Carian Phalanx | Elden Ring Wiki
+Carian Phalanxis aSorceryinElden Ring.Carian Phalanx spellcreates numerous swords over your head which attack enemies when they get close enough. Updated toPatch 1.07.
+One of the sorceries of the Carian royal family.
+Creates a defensive arch of numerous magic glintblades overhead,which automatically attack nearby foes.This sorcery can be used cast while in motion.
+An enhanced version of the glintblade sorcery used by enchantedknights.
+Sold byPreceptor SeluvisatSeluvis's Rise, after completing steps of his questline (at least after the handing ofAmber Starlightto him, Phalanx appears in his store).
+Can be obtained post-mortem viaSeluvis's Bell Bearing. (fromTwin Maiden Husksat theRoundtable Hold)
+Can be purchased fromCount Ymirat theCathedral of Manus Metyrfor12,000Runes[Map Link]
+Carian SorceryCan be boosted by the Carian Gintblade Staff.
+Can be boosted by the Carian Gintblade Staff.
+Deals magic damageEach individual gintblade deals (Sorcery Scaling x 0.48) magic damage.Fires 9 gintblades for a total of (Sorcery Scaling x 4.32) magic damage.
+Each individual gintblade deals (Sorcery Scaling x 0.48) magic damage.
+Fires 9 gintblades for a total of (Sorcery Scaling x 4.32) magic damage.
+Features an additional four blades over the baseGlintblade Phalanxspell, offering more damage, as well as damage to an enemy's stance.
+Phalanx spells are a good way for mages to whittle down an enemy's stance.
+The blades will break upon coming into contact with any geometry, including enemies. This unfortunately means one cannot prep themselves with phalanx before passing through a boss fog gate, and must take care after casting to not accidentally break the blades on any surfaces to not waste any damage.
+NOTE:SincePatch 1.07FP Consumption has been Decreased from 26 to 24.
+Updated to patch1.07. SeePatch Notesfor details.
+Carian Phalanxis aspellinELDEN RING(2022).
+It is one of theCarian Blade Sorceries, a subset of theCarian Sorceries.
+One of the sorceries of theCarian royal family.
+Creates a defensive arch of numerous magic glintblades overhead, which automatically attack nearby foes. This sorcery can be used cast while in motion.
+An enhanced version of the glintblade sorcery used byenchanted knights.
+多数の魔力の輝剣で、円陣を展開する輝剣は、自動的に近い敵に向かい飛ぶ足を止めずに使用できる
+Purchase:Liurnia of the Lakes/Roundtable Hold
+The caster raises their staff and conjures an arch of 9 magic glintblades that hover over the caster. The glintblades hover above the caster until an opponent approaches close to melee range, at which point they shoot forward to each do a single hit.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Carian Greatsword | Elden Ring Wiki
+Carian Greatswordis aSorceryinElden Ring.Carian Greatswordcreates a magic greatsword to slice enemies with sideways swipes. Updated toPatch 1.07.
+One of the sorceries of the Carian royal family.Conjures a magic greatsword and then delivers a sweeping blow.This sorcery can be cast repeatedly.Armed with this spell, sorcerers gain the strength of knights, their loyalty sworn to the moon.
+Can be purchased fromMiriel, Pastor of Vowsat theChurch of Vowsfor10,000Runes. [Map Link]
+Carian SorceryCan be boosted by theCarian Glintstone Staff
+Can be boosted by theCarian Glintstone Staff
+Deals (Sorcery Scaling x2.68)Magic Damageper swing and10.175Stancedamage.
+Has a faster recovery when chain casting another spell afterwards, compared to other actions.
+Can be used in conjunction withCarian Piercerto expand the moveset, by performing a thrust after the horizontal slash.
+Can be used while riding. Torrent walks swiftly.
+Has anaccumuValof10towards multi-hit boosts.
+Carian Glintstone Staff.boosts its damage by15%
+NOTE:Patch 1.07: FP cost was reduced (14 > 12) and damage was increased slightly, as well as Stamina Damage against guarding enemies.
+Updated to patch1.07. SeePatch Notesfor details.
+Very effective againstBlack Knife Assassinenemies. Their side leaps are unable to evade the Greatsword's arc and staggers them on hit. With proper timing and enough FP/Stamina for chain casting, it's possible for a mage to stun-lock these enemies.
+Carian Greatswordis aspellinELDEN RING(2022).
+It is one of theCarian Sword Sorceries, a subset of theCarian Sorceries.
+One of the sorceries of theCarian royal family.
+Conjures a magic greatsword and then delivers a sweeping blow. This sorcery can be cast repeatedly.
+Purchase:Liurnia of the Lakes/Roundtable Hold
+The caster conjures a large magic sword and performs a wide sweeping motion from one side to the other at a slight angle. Second input performs a similar motion from the other side at a slight angle as well. Third input performs a similar motion from the other side at a completely horizontal axis. Further inputs loop the second and third inputs in order.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Carian Retaliation | Elden Ring Wiki
+Carian Retaliationis aSorceryinElden Ring.Carian Retaliation spellcan be used to cancel enemy spells while attacking them back with a projectile.
+SeeAsh of War: Carian Retaliationfor the Ash of War variant
+One of the sorceries of the Carian royal family.
+Swing your staff to dispel incoming sorceries and incantations,using their power to retaliate with glintblades.
+This was the Carian royal family's secret means to prepare againstthe disloyalty of the academy. The moon and stars would one daygo their separate ways.
+Sold byPreceptor Seluvisfor 9000atSeluvis' Rise
+Can be obtained post-mortem viaSeluvis's Bell Bearing. (fromTwin Maiden Husksat theRoundtable Hold)
+Can be purchased fromCount Ymirat theCathedral of Manus Metyrfor9,000Runes[Map Link]
+Carian SorceryBoosted by the Carian Glintblade StaffBoosted by main hand magic and status buffs. Seemingly the entire buff value gets added to each individual sword.These doesn't not seem applicable to the AoW variant.Applicable buffs include:Moonlight GreatswordRuinous GhostflameScholar's ArmamentMagic GreaseFreezing GreasePoison GreaseProbably all the others buffs
+Boosted by main hand magic and status buffs. Seemingly the entire buff value gets added to each individual sword.These doesn't not seem applicable to the AoW variant.Applicable buffs include:Moonlight GreatswordRuinous GhostflameScholar's ArmamentMagic GreaseFreezing GreasePoison GreaseProbably all the others buffs
+These doesn't not seem applicable to the AoW variant.
+Applicable buffs include:Moonlight GreatswordRuinous GhostflameScholar's ArmamentMagic GreaseFreezing GreasePoison GreaseProbably all the others buffs
+Casting it dispels the first enemy spell to hit the blue aura, and forms three magic gintblades.
+Deals magic damageGlintblades deal a total of (Sorcery Scaling x 1.15) magic damage. (Needs further testing)
+Glintblades deal a total of (Sorcery Scaling x 1.15) magic damage. (Needs further testing)
+It's often more viable to use the ash of war variant.
+ER Shadow of the Erdtree Carian Knight Build Written Guide
+Carian Retaliationis aspellinELDEN RING(2022).
+One of the sorceries of theCarian royal family.
+Swing your staff to dispel incoming sorceries and incantations, using their power to retaliate with glintblades.
+This was the Carian royal family's secret means to prepare against the disloyalty ofthe academy. The moon and stars would one day go their separate ways.
+Purchase:Liurnia of the Lakes/Roundtable Hold
+The caster swipes their staff from one side to the other, creating a brief magical aura that dispels bothSorceriesandIncantations. If successful, the first incoming spell will be transformed into an arch of 3 magic glintblades that hover over the caster until an opponent approaches close to melee range, at which point they shoot forward to each do a single hit.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Carian Piercer | Elden Ring Wiki
+Carian Pierceris aSorceryinElden Ring.Carian Piercerconjures a long magic sword before thrusting it forward. Updated toPatch 1.07.
+One of the sorceries of the Carian royal family.Conjures a magic greatsword to impale foes.Charging lengthens the initial step in.
+This sorcery forms a counterpart to Carian Greatsword.Highly lethal when used against single foes riding alone.
+Carian Piercercan be found in the following location:
+Caria Manor: Dropped by aTeardrop Scarabin an area behind the gardens, to the east. [Map Link] [Video Location]
+Deals (Sorcery Scaling x2.87)Magic Damageuncharged and (Sorcery Scaling x3.55) when charged.Deals10.175Stancedamage (12.95charged).
+Will knockdown enemies when fully charged.Repeated casting of this spell, even charged, can keep player-modeled enemies stunlocked to the ground.
+Repeated casting of this spell, even charged, can keep player-modeled enemies stunlocked to the ground.
+Has a lingering Hitbox that is useful for roll catching.
+Has anaccumuValof14towards multi-hit boosts.
+Can be used in conjunction withCarian Greatswordto expand the moveset, by performing a thrust after the horizontal slash.
+Can be used while riding. Torrent stops completely.
+Carian Glintstone Staffboosts its damage by15%
+Godfrey Iconboosts its charged damage by15%
+NOTE:Patch 1.07: FP cost has been reduced (19 > 17), damage increased slightly and the stamina damage against guarding enemies has been increased. Recovery time has also been reduced.
+Updated to Patch1.07. SeePatch Notesfor details.
+Carian Pierceris a spell inELDEN RING(2022).
+It is one of theCarian Sword Sorceries, a subset of theCarian Sorceries.
+One of the sorceries of theCarian royal family.
+Conjures a magic greatsword to impale foes. Charging lengthens the initial step in.
+This sorcery forms a counterpart toCarian Greatsword. Highly lethal when used against single foes riding alone.
+The caster conjures a large magic sword and performs a powerful thrust towards their opponent. Charging the spell increases the size and range of the magic sword, and will also knock down certain enemies.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Magic Glintblade | Elden Ring Wiki
+Magic Glintbladeis aSorceryinElden Ring.Magic Glintblade spellcreates a sigil that will create a glintblade that targets nearby enemies. Updated toPatch 1.07.
+An old sorcery of the Carian Royal Family.
+Creates a sigil overhead, from which an enemy-seeking glintblade appears after a brief delay. This sorcery can be used while in motion.Charging increases the delay.Said to be the prototype of the sword-phalanx sorceries wielded by royal enchanted knights.
+Can be purchased fromMiriel, Pastor of Vowsat theChurch of Vowsfor3,000Runes. [Map Link]
+Deals (Sorcery Scaling x 1.82) Magic Damage uncharged and (Sorcery Scaling x 2.30) when charged
+Holding the input to cast Magic Glintblade will increase the damage. However, this both increases the initial casting time, as well as the time it takes for the spell to fire.
+A full charged cast can be followed up by a cast without a charge and they will hit at roughly the same time.
+Magic Glintblade can be very useful to cheese many types of ranged enemies. Most enemies will fire their projectiles for center mass. This sorcery, however, fires from above the caster. This allows you to cast over barriers that can block enemy projectiles while not impeding your own, such as guard rails, barricades, and walls.
+The stamina cost for casting Magic Glintbladeisapplied at the time of the initial cast, but it won't begin costing stamina if you cast it several times in a row before entering combat. You can take advantage of this to rapidly queue up several without issue.
+This spell is a suitable alternative to Ambush Shard for dealing with shielded enemies, particularly those that move slowly. Queuing up one or more of the spells and then rotating positions around the target will cause them to turn and expose their back.
+Back-pedaling is also effective for some speedier enemies, as they will generally move beyond the sigil that will release the glintblade and be hit in the back.
+Magic Glintblade is excellent for killing NPC Invaders and other enemies that dodge, because they dodge when the spell finishes casting and not when the blade fires, and usually get hit by the spell.
+Note:As ofPatch 1.07, Poise damage, Attack power, and Stamina Attack Power against guarded enemies when charged has been Increased.
+Updated to patch1.07. SeePatch Notesfor details.
+Magic Glintbladeis aspellinELDEN RING(2022).
+It is one of theCarian Blade Sorceries, a subset of theCarian Sorceries.
+An old sorcery of theCarian Royal Family.
+Creates a sigil overhead, from which an enemy-seeking glintblade appears after a brief delay. This sorcery can be used while in motion. Charging increases the delay.
+Said to be the prototype of the sword-phalanx sorceries wielded by royalenchanted knights
+頭上に魔法陣を描き、時間差で敵に向かい飛ぶ輝剣を生じる足を止めずに使用することができタメ使用で、輝剣の生じが遅くなる
+Purchase:Liurnia of the Lakes/Roundtable Hold
+The caster raises their staff and conjures the Carian sigil. After a delayed period of time, it forms into a magic glintblade that homes in on enemies. When charging the spell, the amount of time from formation to firing is increased.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Glintblade Phalanx | Elden Ring Wiki
+Glintblade Phalanxis aSorceryinElden Ring.Glintblade Phalanx spellcreates a defensive arch of magic glintblades.
+Please visitAsh of War: Glintblade PhalanxandGlintblade Phalanx (Skill)for the Skill variant. Updated toPatch 1.07.
+One of the sorceries of the Carian royal family.
+Creates a defensive arch of magic glintblades overhead, whichautomatically attack nearby foes.This sorcery can be cast while in motion.
+Bestowed upon the enchanted Carian knights, who combined thisart with their swordsmanship to maintain pressure upon theirfoes, striking in waves of steel and sorcery.
+The spell can be purchased for2,500Runes, after giving theRoyal House ScrolltoMiriel Pastor of Vows,Sorceress Sellen, orPreceptor Seluvis.
+TheAsh of War: Glintblade Phalanxis obtained by defeatingGodrick the GraftedinStormveil Castleand speaking toRogierinRoundtable Hold. It's on hisRapier. Simply slot anotherAshes of Warthere or select it and Remove Enchantment to free it up to use on a differentWeapon.
+Can be purchased fromCount Ymirat theCathedral of Manus Metyrfor2,500Runes[Map Link]
+Each individual glintblade deals (Sorcery Scaling x 0.60) magic damage.
+Fires 5 glintblades for a total of (Sorcery Scaling x 3.00) magic damage.
+Able to track invisible enemies as well, what makes Phalanx a good choice to track invisibleTeardrop Scarabs.
+Phalanx spells are a good way for mages to whittle down an enemy's stance.
+This spell is generally outperformed by the Ash of War of the same name, but it can be useful in builds that use a weapon that can't be infused withAshes of War.
+The blades will break upon coming into contact with any geometry, including enemies. This unfortunately means one cannot prep themselves with phalanx before passing through a boss fog gate, and must take care after casting to not accidentally break the blades on any surfaces to not waste any damage.
+NOTE:SincePatch 1.07FP Consumption has been Decreased from 20 to 18.
+Updated to patch1.07. SeePatch Notesfor details.
+Glintblade Phalanxis aspellinELDEN RING(2022).
+It is one of theCarian Blade Sorceries, a subset of theCarian Sorceries.
+One of the sorceries of theCarian royal family.
+Creates a defensive arch of magic glintblades overhead, which automatically attack nearby foes.This sorcery can be cast while in motion.
+Bestowed upon theenchanted Carian knights, who combined this art with their swordsmanship to maintain pressure upon their foes, striking in waves of steel and sorcery.
+魔力の輝剣で、円陣を展開する輝剣は、自動的に近い敵に向かい飛ぶ足を止めずに使用できる
+Purchase:Limgrave/Liurnia of the Lakes/Academy of Raya Lucaria/Roundtable Hold
+The caster raises their staff and conjures an arch of 5 magic glintblades that hover over the caster. The glintblades hover above the caster until an opponent approaches close to melee range, at which point they shoot forward to each do a single hit.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Night Comet | Elden Ring Wiki
+Night Cometis aSorceryinElden Ring. TheNight Cometspell allows casters to fire a semi-invisible magic comet to deal damage to opponents. Updated toPatch 1.07.
+One of the night sorceries of Sellia, Town of Sorcery.
+Fires a semi-invisible magic comet.This sorcery can be cast repeatedly and while in motion. Charging enhances potency.
+The Sellian sorcerers were assassins, and it is said that they often hunted their fellows.
+Night Cometcan be found in the following location:
+Sellia, Town of Sorcery: Found in a chest in the central section of town. This location is initially sealed by a barrier that can be dispelled by lighting a brazier atop a tower in the southwest of town. [Map Link]
+Deals (Sorcery Scaling x 2.3 ) magic damage before resistances.When charged, deals (Sorcery Scaling x 2.76) magic damage.
+When charged, deals (Sorcery Scaling x 2.76) magic damage.
+Staff of Lossboosts its potency by30%This effect stacks when wielding twoStaff of Loss, making Night Comet effectively the strongest of the comet-type spells (even compared toCometcast withLusat's Glintstone Staffwhile wearingAzur's Glintstone Crown.
+This effect stacks when wielding twoStaff of Loss, making Night Comet effectively the strongest of the comet-type spells (even compared toCometcast withLusat's Glintstone Staffwhile wearingAzur's Glintstone Crown.
+Moderate cost Sorcery (21 Focus Points per cast)
+Can be chain-cast as long as player has enough stamina and FP.
+This spell, like other comet spells, will penetrate targets until it hits a barrier or maximum range.
+NPC enemies will not dodge this spell, making it arguably superior option against bosses who consistently dodge attacks (like Malenia).
+Note:This Skill was changed withPatch 1.07as follows:FP Consumption has been reduced from 24 to 21.
+FP Consumption has been reduced from 24 to 21.
+ER Shadow of the Erdtree Staff of the Great Beyond Guide
+One of the night sorceries ofSellia, Town of Sorcery.
+Fires a semi-invisible magic comet. This sorcery can be cast repeatedly and while in motion. Charging enhances potency.
+見え難い、魔力の彗星を放つ足を止めずに使用でき、連続でも使用できるまた、タメ使用で強化される
+The caster fires a semi-invisible magic projectile that travels towards foes, dealingMagicAttack Powerequal to230%of staff'sSorcery Scaling.
+Charging increases theMagicAttack Powerof each projectile to276%of the staff'sSorcery Scaling. the projectile grows in size, increasing the amount ofMagicDamagedealt.
+As aNight Sorcery, enemies are incapable of dodging the projectile.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Night Maiden's Mist | Elden Ring Wiki
+Night Maiden's Mistis aSorceryinElden Ring. TheNight Maiden's Mistspell creates a dense mist before the caster, which deals damage to everything within it.
+One of the night sorceries of Sellia, Town of Sorcery.
+Releases a life-sapping silver mist before the caster, dealing damage to all caught within, including the caster.This sorcery can be cast while in motion.
+Below Sellia, the Eternal City of Nokron sleeps. This sorcery originates from the maiden of that place.
+Can be purchased fromGowryfor 5,000Runesafter completing his quest line.
+Casting the spell will initially shoot a ball of mist, which will generate a cloud of mist over an area if it comes into contact with a wall, floor, enemy, or object. It will also generate the mist after it travels a few seconds in the air without touching anything.
+From the time the spell strikes to the time the mist clears is 15 seconds. It may continue to damage briefly after the spell itself ends.It also continues dealing damage for a few more ticks even if the target has left the radius of the spell.
+It also continues dealing damage for a few more ticks even if the target has left the radius of the spell.
+Can be charged, increasing the radius of the cloud, but not the damage or duration.The radius increase is roughly double of the normal radius. It may be slightly less.Godfrey Icondoes notaffect this spell in any way, even if charged.
+The radius increase is roughly double of the normal radius. It may be slightly less.
+Godfrey Icondoes notaffect this spell in any way, even if charged.
+This spell deals damage to all targets, including yourself. The sole exception appears to be friendly players in co-op. Use with caution!However it cannot destroy physical objects, nor can it destroy skull-like deposits onWalking Mausoleums.
+However it cannot destroy physical objects, nor can it destroy skull-like deposits onWalking Mausoleums.
+The mist can attack enemies through walls and objects. It can be used to kill hosts glitched under terrain or inside walls during invasions.
+The mist lingers for its full duration even after death (until the loading screen), so if a boss has low health but you think you might not make it, you can cast it at your feet, or run into an existing mist and hopefully it will bring down the boss with you.The boss has to actually be defeated and give you its rewards, otherwise this is pointless.
+The boss has to actually be defeated and give you its rewards, otherwise this is pointless.
+Can be cast as a level 1 (Wretch) character with enough intelligence boosting gear and low requirement staves:Headgear:Karolos Glintstone Crown,Olivinus Glintstone CrownorTwinsage Glintstone Crown.Talismans:Marika's Scarseal,Marika's SoresealorStargazer Heirloom.Staves:Glintstone Staff,Demi-Human Queen's StafforDigger's Staff.Early options:Olivinus Glintstone Crown,Marika's Scarseal, andGlintstone Staff. These can be all obtained with little effort involved other than traveling and running past enemies.
+Headgear:Karolos Glintstone Crown,Olivinus Glintstone CrownorTwinsage Glintstone Crown.
+Talismans:Marika's Scarseal,Marika's SoresealorStargazer Heirloom.
+Staves:Glintstone Staff,Demi-Human Queen's StafforDigger's Staff.
+Early options:Olivinus Glintstone Crown,Marika's Scarseal, andGlintstone Staff. These can be all obtained with little effort involved other than traveling and running past enemies.
+This spell is very effective for guarding ladders. The direct impact area (about the size of an uncharged spell radius or smaller) will knock enemies down, but the mist will also slowly sap their HP.
+Multiple clouds of Night Maiden Mist do not stack:In single-player and multiplayer, the person casting a cloud after one is already present will cancel the previous cloud.If multiple players on co-op are casting this spell, they will not make each other's clouds dissapear. However, the damagewill notstack even if multiple clouds are in one place.Each player casting a cloud over a wide area does effectively extend the Area of Effect of the spell, even if the damage does not stack.
+In single-player and multiplayer, the person casting a cloud after one is already present will cancel the previous cloud.
+If multiple players on co-op are casting this spell, they will not make each other's clouds dissapear. However, the damagewill notstack even if multiple clouds are in one place.Each player casting a cloud over a wide area does effectively extend the Area of Effect of the spell, even if the damage does not stack.
+Each player casting a cloud over a wide area does effectively extend the Area of Effect of the spell, even if the damage does not stack.
+Unlike the Dark Souls 3 variant of this spell (Pestilent Mist), this spellcanaggro enemy mobs, making it unsuitable for stealth, even if usingUnseen Form.
+Night Maiden's Mistis aspellinELDEN RING(2022). It is one of theNight Sorceries.
+One of the night sorceries ofSellia, Town of Sorcery.
+Releases a life-sapping silver mist before the caster, dealing damage to all caught within, including the caster. This sorcery can be cast while in motion.
+Below Sellia, theEternal City of Nokronsleeps. This sorcery originates from the maiden of that place.
+前方に、命を蝕む銀の霧を生じ術者を含め、触れる者にダメージを与える足を止めずに使用できる
+The caster fires a dark mist that saps the life of anyone or anything in caught in it, including the caster. Night Maiden's Mist dealsStandard Damage. Charging the spell enlarges the radius of the mist from2.8meters to5meters.
+Night Maiden's Mist will normally deal a fixed amount of damage; about 1,500 in total over the course of 17 seconds.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Night Shard | Elden Ring Wiki
+Night Shardis aSorceryinElden Ring.Night Shard spellswiftly fires a semi-invisible magic projectile. Updated toPatch 1.07.
+One of the night sorceries of Sellia, Town of Sorcery.
+Swiftly fires a semi-invisible projectile. This sorcery can be used without delay after performing another action.
+The Sellian sorcerers were assassins, and it is said that they often hunted their fellows.
+Can be purchased fromGowryfor 4,000Runesafter completing his quest line.
+Inflicts (Sorcery Scaling x 1.11) magic damage before resistances and boosts.
+NPC enemies will not dodge this spell, making it arguably superior option against bosses who consistently dodge attacks (like Malenia).
+NOTE:SincePatch 1.07FP Consumption has been Decreased.
+Updated to patch1.07. SeePatch Notesfor details.
+One of the night sorceries ofSellia, Town of Sorcery.
+The caster fires a small, short-ranged, semi-invisible magic projectile. It travels quickly, but deals relatively little damage. What the spell lacks in fire power, it makes up for it in flexibility, and can also be cast out of certain animations, such as jumping, running, and attacking.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Ambush Shard | Elden Ring Wiki
+Ambush Shardis aSorceryinElden Ring.Ambush Shard spelllaunches a projectile that strikes enemies from behind. Updated toPatch 1.07.
+One of the night sorceries of Sellia, Town of Sorcery.Launches a projectile from a distance removed from the caster, so as to strike the enemy from behind.This sorcery can be cast repeatedly.The Sellian sorcerers were assassins, and it is said that they often hunted their fellows.
+Ambush Shardcan be found at the following location:
+Weeping Peninsula: Found on a corpse in the underground jail of theWitchbane Ruins.Elden Ring Interactive Map Link
+Considered aNight Sorcery.The spell's damage is not increased by aStaff of Loss.
+The spell's damage is not increased by aStaff of Loss.
+This sorcery shoots a projectile from behind an enemy, making it useful for enemies with shields.
+Due to the nature of Night Sorceries, enemies will not dodge Ambush Shards.
+It is a viable strategy to use this against shield-bearing enemies, since the sorcery will always try to strike its target from behind.
+This is one of a handful of unexpected things whose range is increased from wearing the Arrow's Reach Talisman.
+Note:This Spell was changed withPatch 1.07as follows:FP consumption has been reducied from 16 to 13.
+FP consumption has been reducied from 16 to 13.
+Use theseBuffsto maximize the performance of the Ambush Shard spell. Note that increases in attack power are multiplicative unless stated otherwise.
+Ambush Shardis aspellinELDEN RING(2022). It is one of theNight Sorceries.
+One of the night sorceries ofSellia, Town of Sorcery.
+Launches a projectile from a distance removed from the caster, so as to strike the enemy from behind. This sorcery can be cast repeatedly.
+The Sellian sorcerers were assassins, and it is said that they often hunted their fellows.
+The caster fires a dark projectile that always comes from behind the opponent. This projectile dealsMagicAttack Power. Just like withNight ShardandNight Comet, Ambush Shard is not "seen" by enemies, and thus, they will never dodge it.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Collapsing Stars | Elden Ring Wiki
+Collapsing Starsis aSorceryinElden Ring.Collapsing Stars spellis a gravity manipulating spell that directly affects foes in range.
+One of the glintstone sorceries that manipulates gravitational forces.
+Fires numerous gravitational projectiles. Any foes struck will be pulled toward the caster. Charging enhances potency.
+A gravitational technique mastered by the young Radahn. "I thank you for your tutelage, for now I can challenge the stars."
+Looted from a chest located at theWar-Dead Catacombs. In the initial room with the enemies fighting each other, drop down to the lower level filled with scarlet rot and look for the chest, it will be in the center of the floor of the West most wall.
+This catacomb is located in the northmost edge ofStarscourge Radahnarena after beating him, just south of Lenne's Rise. [Map Link]
+Gravity SorceryBoosted by theMeteorite StaffAlso boosted byMagic Scorpion Charm
+Sends out nine gravity orbs towards an enemy which deal magic damage.Each orb does (Sorcery Scaling x 0.44) magic damage, for a total of (Sorcery Scaling x 3.96) damage across all orbs.
+Each orb does (Sorcery Scaling x 0.44) magic damage, for a total of (Sorcery Scaling x 3.96) damage across all orbs.
+ER Shadow of the Erdtree Gravity Sorcerer Build Written Guide
+Collapsing Starsis aspellinELDEN RING(2022). It is one of theGravity sorceries.
+A gravitational technique mastered by the youngRadahn. "I thank you for your tutelage, for now I can challenge the stars."
+The caster fires nine gravity orbs at their foe. Enemies struck by the gravity orbs will be pulled towards the caster, with each successive orb pulling them closer and closer. The damage of the orbs are based off the user'sIntelligence-basedSorcery Scaling.
+Charging Collapsing Stars causes the gravity orbs to deal more damage.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Gravity Well | Elden Ring Wiki
+Gravity Wellis aSorceryinElden Ring.Gravity Well spellfires a projectile that pulls enemies closer when hit.
+One of the glintstone sorceries that manipulates gravitational forces.Fires a projectile of condensed gravitational force. Those struck by it will be pulled toward the caster.Charging enhances potency.A gravitational technique studied by the young Radahn. His master was an Alabaster Lord with skin of stone.
+Nearest Site of Grace: Church of the Cuckoo or Schoolhouse Classroom
+Dropped by theLesser Alabaster Lordthat appears from a gravity portal. The section is near the graveyard and the large rotating lift of Raya Lucaria Academy. [Map Link]
+Deals magic damage. Affected byMagic Scorpion Charm.
+One of the glintstone sorceries that manipulates gravitational forces.
+Fires a projectile of condensed gravitational force. Those struck by it will be pulled toward the caster. Charging enhances potency.
+A gravitational technique studied by the youngRadahn. His master was anAlabaster Lordwith skin of stone.
+The caster raises their staff into the air, and then strikes it to the ground with the bottom, firing a singular gravity orb that quickly accelerates towards its target. Upon contact, it dealsMagicAttack Powerequal to148%of the staff'sSorcery Scaling, while also pulling foes towards its caster.
+ChargingGravity Wellincreases the Attack Power of the orb to180%of the staff'sSorcery Scaling.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Meteorite | Elden Ring Wiki
+Meteoriteis aSorceryinElden Ring.Meteorite spellis cast to create 3 offensive meteorites that fall from the sky.
+One of the glintstone sorceries that manipulates gravitational forces.
+Summons a void that emits a rain of small meteorites.Hold to continue the effect.
+The sorcery originates from the Onyx Lords,who had skin of stone,and were called lords in reverential fear of their destructive power.
+TheMeteoritespell can be found in the following location:
+Royal Grave Evergaol: Dropped by theOnyx Lordupon defeat. [Map Link]
+Deals standard Physical Damage andMagic Damage.The magic portion is affected byMagic Scorpion Charm. The boost is barely noticeable, however.Flame Grant me Strengthaffects the physical portion.
+The magic portion is affected byMagic Scorpion Charm. The boost is barely noticeable, however.
+Flame Grant me Strengthaffects the physical portion.
+Can be chain-casted as long as player has enoughFP
+When combined with theCerulean Hidden Tear, this spell can last indefinitely until your FP runs out.
+Summons a void that emits a rain of small meteorites. Hold to continue the effect.
+The sorcery originates from theOnyx Lords, who had skin of stone, and were called lords in reverential fear of their destructive power.
+The caster raises their staff into the air, and then strikes it to the ground with the bottom, calling down a barrage of meteorites from a gravitational void that crash down on enemies. The meteorites summoned deal bothPhysicalDamageequal to180%of the staff'sSorcery Scaling, andMagicDamageequal to100%of the staff'sSorcery Scaling. They also produce an small AoE effect that deals the same amount of damage as the meteors themselves.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Rock Sling | Elden Ring Wiki
+Rock Slingis aSorceryinElden Ring.Rock Sling spelllaunches projectile rocks from the ground that can damage nearby enemies.
+One of the glintstone sorceries that manipulates gravitational forces.
+Pulls a clump of rocks from the earth and sends them flying. This sorcery can be cast while in motion.
+A gravitational technique studied by the young Radahn. His master was an Alabaster Lord with skin of stone.
+Found in a chest in an underground cellar just north of theStreet of Sages Ruins. It is surrounded byServants of Rot, but otherwise is free to be picked up. [Map Link]
+Gravity Sorcery, therefore boosted by theMeteorite Staff.
+Range of this spell is affected byArrow's Reach Talisman, but damage is not affected byArrow's Sting Talisman.
+Damage:StandardOne of few spells that is affected by buffs/talismans that boosts Physical damage likeBlue Dancer CharmorFlame Grant me Strength
+One of few spells that is affected by buffs/talismans that boosts Physical damage likeBlue Dancer CharmorFlame Grant me Strength
+Cannot be charged, channeled or chain casted.
+Delay in cast makes Rock Sling somewhat good choice to fight enemies that dodge spells likeNPC Invaders(on long/medium range), as they react to cast itself, not what this cast created.
+Tracks very well on enemies directly below the player, as the projectiles can travel directly downwards.
+The projectiles will travel in a light rightwards curve after launching, so the player should account for intervening map geometry.
+Generally inaccurate for close range as the rocks will shoot past the target. However if the rocks are summoned behind the target because they are so close, the rocks will fling backwards and hit the target.
+Inappropriate for tight spaces, as the 3 projectiles are large and will disintegrate on contact with geometry. There is also considerable spread, and effective DPS is significantly reduced if any projectiles do not make contact. On horseback, this can be mitigated by turning perpendicular to the target (causing all 3 projectiles to travel in an approximately straight line towards the target).
+So long as this spell is cast from the left hand, and a foe is targeted upon casting, both the center and right-most projectile have infinite range. The left-most rock will drop off as normal.This was fixed inPatch 1.07
+Rock Sling is the only Gravity Sorcery to use the standard casting animation, giving it the fastest start up at out of all the sorceries in the sub-category.
+ER Shadow of the Erdtree Gravity Sorcerer Build Written Guide
+ER Shadow of the Erdtree Staff of the Great Beyond Guide
+A gravitational technique studied by the youngRadahn. His master was anAlabaster Lordwith skin of stone.
+The caster holds the staff close to their face, using gravitational magic to pull up three rocks from the earth. Afterwards, the caster will fling the rocks on an arced trajectory. Each rock dealsPhysicalDamageequal to102%of the staff'sSorcery Scaling, adding up to a total of306%of the staff'sSorcery Scaling.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Meteorite of Astel | Elden Ring Wiki
+Meteorite of Astelis aSorceryinElden Ring.Meteorite of Astel spellallows you to call a hail of small meteorites from the void.
+One of the glintstone sorceries that manipulates gravitational forces.
+Summons a void that emits a hail of meteorites.Hold to continue the effect.
+A manifestation of the power with which Astel leveled the Eternal City.
+Consecrated Snowfield: Dropped byAstel, Stars of Darkness, found withinYelough Anix Tunnel. [Elden Ring Map Link]
+Deals standard Physical Damage and Magic Damage.The magic portion is affected byMagic Scorpion Charm. The boost is barely noticeable, however.Flame Grant me Strengthaffects the physical portion.
+The magic portion is affected byMagic Scorpion Charm. The boost is barely noticeable, however.
+Flame Grant me Strengthaffects the physical portion.
+When combined with theCerulean Hidden Tear, this spell can last indefinitely until your FP runs out.
+This spell can be useful against groups of enemies or large bosses such asPlacidusax, who can be hit with multiple meteors are once.
+This spell can be useful against large enemies that are otherwise resistant to magic and thus cannot be easily defeated withComet Azur, such asGlintstone Dragon,Glintstone Dragon AdulaandGlintstone Dragon Smarag.
+ER Shadow of the Erdtree Gravity Sorcerer Build Written Guide
+Meteorite of Astelis aspellinELDEN RING(2022).
+Summons a void that emits a hail of meteorites. Hold to continue the effect.
+A manifestation of the power with whichAstelleveled theEternal City.
+The caster raises their staff into the air, and then strikes it to the ground with the bottom, calling down a violent hail of meteorites from several gravitational voids that crash down on enemies. The meteorites summoned deal bothPhysicalDamageequal to185%of the staff'sSorcery Scaling, andMagicDamageequal to105%of the staff'sSorcery Scaling. They also produce an small AoE effect that deals the same amount of damage as the meteorites themselves.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Terra Magica | Elden Ring Wiki
+Terra Magicais aSorceryinElden Ring.Terra Magica spellcreates a spherical zone that increases magic damage when damage is dealt while the user is in the zone.
+One of the glintstone sorceries of the Academy of Raya Lucaria.Draws an academy sigil upon the ground, raising the magic strength of those within.
+Once, the sigil would be cast from the highest belfry of the academy, covering the entire institution's grounds.
+This spell allows such vivid experience of spell—casting success, it turns many a fledgling into a true sorcerer in a flash of newfound understanding.
+Creates a spherical zone centered on a sigil, giving those within it a magic buff, increasingMagic Damagefrom any source by 22.5% lasting 30 seconds.
+Must be within the spell radius when damage is dealt to receive the buff.
+Requires completion of theAcademy Crystal Cavedungeon and taking the elevator behind theCrystaliansbosses. This leads to a tower inside the academy, on the top of which a chest containing the spell can be found. [Map Link]
+Buffsmagic potency while standing inside of the sphere by 22.5% (15% in PVP)The buff applies to magic damage regardless of origin (spell, innate weapon damage, etc.).
+The buff applies to magic damage regardless of origin (spell, innate weapon damage, etc.).
+Stacks with theMagic-Shrouding Cracked Tear, as these two are considered to be separate buffs.
+Scholar's Armamentwill not be buffed by this spell if the user of Scholar's Armament moves out of the sphere.
+Any spell or effect with magic damage will not be buffed if the user is not in the sphere when damage is dealt. The user need not be in the sphere while casting, only when damage resolves.
+Delayed spells/effects may be cast before Terra Magica; so long as the user casts Terra Magica before they deal damage, they will be effected if the user is in the radius when damage is dealt.
+The magic damage buff lasts for 1.5 seconds when outside the sphere's radius, and will be regained upon re-entering the zone.
+Zone reaches into boss rooms if cast just outside the fog wall.
+Zone is a sphere slightly larger than the sigil implies.
+Zone is cast on a fixed sphere in space, determined at the time the spell resolves (I.E. it can be cast while on a moving lift, but will be left behind as the lift continues motion)
+Note:As ofPatch 1.09, the spell enhancement effect of this spell has been reduced from 35% to 20% in PVP
+Note:As ofPatch 1.12, the spell enhancement effect of this spell has been reduced from 35% to 22.5% in PVE and 20% to 15% in PVP
+One of the glintstone sorceries of theAcademy of Raya Lucaria.
+Draws an academy sigil upon the ground, raising the magic strength of those within.
+Once, the sigil would be cast from the highest belfry of the academy, covering the entire institution's grounds. This spell allows such vivid experience of spell—casting success, it turns many a fledgling into a true sorcerer in a flash of newfound understanding.
+Creates a large, stationary sigil inside of a 4.2 meter radius circle centered on where the caster stands that lasts for 30 seconds. While standing in this circle, allMagicDamagedealt by the caster and their allies is increased by+22.5%(+15%in PvP).
+
+---
+
+area: Limgrave
+chapter: 1
+name: Crystal Barrage | Elden Ring Wiki
+Crystal Barrageis aSorceryinElden Ring.Crystal Barrage spellfires a volley of glintstone crystal shards.
+One of the glintstone sorceries of the Academy of Raya Lucaria.
+Fires a volley of glintstone crystal shards.Charging increases potency.
+A sorcery of the Crystal Cadre, a group of sorcerers who pursue the wisdom of stone - the secrets locked in the faint cogitation of the Crystalians.
+Can be purchased fromSorceress Sellenfor1,500Runes. Sellen is located inLimgrave:Waypoint Ruins. [Map Link]
+Crystal Barrageis aspellinELDEN RING(2022).
+One of the glintstone sorceries of theAcademy of Raya Lucaria.
+Fires a volley of glintstone crystal shards. Charging increases potency.
+A sorcery of the Crystal Cadre, a group of sorcerers who pursue the wisdom of stone — the secrets locked in the faint cogitation of theCrystalians.
+Purchase:Limgrave/Liurnia of the Lakes/Academy of Raya Lucaria/Roundtable Hold
+The caster rapidly fires a volley of small glintstone bolts towards their opponent that each dealMagicAttack Powerequal to 36% of the staff'sSorcery Scaling. While the description says that this spell can be charged, it only extends it for up to 17 extra bolts total, with no change to the timing to the firing of the spell.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Rotten Breath | Elden Ring Wiki
+Rotten Breathis anIncantationinElden Ring.Rotten Breathspell allows the caster to conjure a cloud of rot and decay. Updated toPatch 1.07.
+One of the incantations of Dragon Communion.
+Transforms caster into a dragon to spew scarlet rot breath.Charging extends duration.
+Those extraordinary individuals who perpetuate Dragon Communion are called the dragon-hearted.
+Can be purchased at the Dragon Communion Altar at theCathedral of Dragon CommunioninCaelidfor 1Dragon Heart.[Elden Ring Map Link]
+InflictsScarlet Rot(65buildup per tick, upto10ticks on fully charged cast) on opponents.
+Scarlet Rotinflicted by this spell deals (0.33% Max HP) + 13 per second for90seconds, for a total of 29.7% Max HP + 1170 damage over its full duration.Scarlet Roton weapons inflicts (0.18% Max HP) + 15 per second for 90 seconds, for a total of 16.2% Max HP + 1350 damage over its full duration.
+Scarlet Roton weapons inflicts (0.18% Max HP) + 15 per second for 90 seconds, for a total of 16.2% Max HP + 1350 damage over its full duration.
+Like other generic Breath incantations, this spell has long wind-up time of2seconds.
+Covers wide area and can occasionally ricochet from walls and non-destructible objects.
+Duration can be extended to breathe again, and you can swivel your character while casting to spew in different directions.
+Full cast costs104FP, but if the player has fewer FP remaining, it may be cast for as little as60 FP.
+It takes on average5seconds including initial wind-up to complete the full cast.
+Unlike the named Breath spells, cannot be cast while jumping.
+NOTE: As ofPatch 1.07, theScarlet Rotbuildup this spell causes has been reduced from110per tick to65per tick.
+ER Shadow of the Erdtree Dragon God Build Written Guide
+Updated to patch1.07. SeePatch Notesfor details.
+Rotten Breathis anincantationspellinELDEN RING(2022). It is one of theDragon Communion Incantations.
+One of the incantations ofDragon Communion.
+Transforms caster into adragonto spewscarlet rotbreath. Charging extends duration.
+Those extraordinary individuals who perpetuate Dragon Communion are called thedragon-hearted.
+The caster floats up into the air and summons a dragon head, before breathing out a heavy, rotting mist, dealingStandarddamage equal to 131% ofIncantation Scalingand causing 65Scarlet Rotbuild-up up to 3 times (i.e. damage for 393% of the same and 195 build-up cumulatively) if the entire wave hits.Continue channeling the spell to let loose a second breath, also hitting up to 3 times.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Dragonfire | Elden Ring Wiki
+Dragonfireis anIncantationinElden Ring.Dragonfirespell is used to conjure a dragon head that exhales offensive flames.
+One of the incantations of Dragon Communion.
+Transforms caster into a dragon to spew flaming breath. Charging extends duration.
+Incantation of those who have hunted dragons and feasted upon their hearts. Theirs is a pure and overwhelming power.
+Can be purchased at the Dragon Communion Altar at theChurch of Dragon CommunioninLimgraveor at the Cathedral of Dragon Communion in Caelid for 1Dragon Heart.[Elden Ring Map Link]
+Like other generic Breath incantations, this spell has long wind-up time of2seconds.
+Covers wide area and can occasionally ricochet from walls and non-destructible objects.
+Duration can be extended to breathe again, and you can swivel your character while casting to spew in different directions.
+Full cast requires at least52FPbut will use up to96FP with no additional benefit before any FP-conservating buffs.
+It takes on average5seconds including initial wind-up to complete the full cast.
+Unlike the named Breath spells, cannot be cast while jumping.
+Dragonfireis anincantationspellinELDEN RING(2022). It is one of theDragon Communion Incantations.
+One of the incantations ofDragon Communion.
+Transforms caster into adragonto spewflamingbreath. Charging extends duration.
+Incantation ofthosewho have hunted dragons and feasted upon theirhearts. Theirs is a pure and overwhelming power.
+Dragon Communion:Limgrave/Caelid/Jagged Peak
+Creates a dragon head before breathing out a wave of flames, dealingFiredamage equal to 144% ofIncantation Scalingup to 3 times (i.e., 432% of the same cumulatively) if the entire wave hits.
+Continue channeling the spell to let loose a second breath, also hitting up to 3 times.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Dragonice | Elden Ring Wiki
+Dragoniceis anIncantationinElden Ring.Dragonicespell allows the caster to transform into a dragon to spew a chilling icy breath. Overall it’s a very nice spell for proccing frostbite on build that normally wouldn’t be able to do so.
+One of the incantations of Dragon Communion.
+Transforms caster into a dragon to spew icy breath.Charging extends duration.
+Those extraordinary individuals who perpetuate Dragon Communion are called the dragon-hearted.
+Can be purchased at the Dragon Communion Altar at theCathedral of Dragon CommunioninCaelidfor 1Dragon Heart.[Elden Ring Map Link]
+InflictsFrostbite(110per tick) on opponents.
+Like other generic Breath incantations, this spell has long wind-up time of2seconds.
+Covers wide area and can occasionally ricochet from walls and non-destructible objects.
+Duration can be extended to breathe again, and you can swivel your character while casting to spew in different directions.
+Full cast requires at least60FPbut will use up to104FP with no additional benefit before any FP-conservating buffs.
+It takes on average5seconds including initial wind-up to complete the full cast.
+Unlike the named Breath spells, cannot be cast while jumping.
+Dragoniceis anincantationspellinELDEN RING(2022). It is one of theDragon Communion Incantations.
+One of the incantations ofDragon Communion.
+Transforms caster into adragonto spewicybreath. Charging extends duration.
+Those extraordinary individuals who perpetuate Dragon Communion are called thedragon-hearted.
+Creates a dragon head, before breathing out a wave of frozen mist, dealingMagicdamage equal to 135% ofIncantation Scalingand inflicting 110Frostbitebuild-up up to 3 times (i.e. damage for 405% of the same and 330 Frostbite build-up cumulatively) if the entire wave hits.Continue channeling the spell to let loose a second breath, also hitting up to 3 times.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Dragonmaw | Elden Ring Wiki
+Dragonmawis anIncantationinElden Ring. TheDragonmawchannels a dragon head to bite foes in front of the caster. Updated toPatch 1.12.2.
+One of the incantations of Dragon Communion.
+Transforms caster into a dragon to bite enemies before them.
+Incantations of those who have hunted dragons and feasted upon their hearts. Theirs is a pure and overwhelming power.
+Can be purchased at the Dragon Communion Altar at theChurch of Dragon CommunioninLimgravefor1Dragon Heart. [Map Link]Available by default, does not require defeating any greater Dragon.
+Available by default, does not require defeating any greater Dragon.
+Deals (Incant Scaling x6.28)Standard Damageand45Stancedamage, knocks down enemies.
+Your character will slightly float in the air during casting.
+You can swivel your character while casting to strike in a different direction, being able to rotate by about135degrees.
+The full cast takes on average3seconds, with the bite being registered around the2.2-second mark.
+Grants hyper-armor, but only during the mid-air animation onwards.
+Can headshot, but rarely occurs with smaller enemies.
+Has anaccumuValof20towards multi-hit boosts.
+Dragon Communion Sealboosts its damage by15%
+Rock Heartboosts its damage by20%for60seconds.
+NOTE:Patch 1.07: FP cost has been reduced significantly (46 > 34). Stamina Damage against guarding enemies has been increased. The hitbox around the dragon's neck has been enlarged to make it easier to hit an enemy at close range.
+NOTE:Patch 1.10: (PvPexclusive) Increased poise when attacking with some skills, spells, incantations and some types of weapon attacks that generates poise.
+NOTE:Patch 1.12: Fixed a bug that caused unexpected behaviors when other Dragon Incantations were used in quick succession.
+ER Shadow of the Erdtree Dragon God Build Written Guide
+Updated toPatch 1.10.2. SeePatch Notesfor details.
+Deals more damage and has more hyper-armor thanDragonclaw, but the latter has a follow-up attack and can be chained into itself when power-stancing seals.
+A well-timed Dragonmaw can dodge enemies with ground attacks such as Godfrey and Radagon.
+Dragonmawis anincantationspellinELDEN RING(2022). It is one of theDragon Communion Incantations.
+One of the incantations ofDragon Communion.
+Transforms caster into adragonto bite enemies before them.
+Incantation ofthose who have hunted dragonsand feasted upon theirhearts. Theirs is a pure and overwhelming power.
+Dragon Communion:Limgrave/Caelid/Jagged Peak
+The caster lifts up into the air and creates a large dragon head to bite down hard withStandardAttack Powerequal to 628% ofIncantation Scaling.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Borealis's Mist | Elden Ring Wiki
+Borealis's Mistis anIncantationinElden Ring.Borealis's Mistspell conjures the head of Borealis to unleash a torrent of razor ice from above. Updated toPatch 1.10.
+Superior incantation of Dragon Communion.Channels the power of Borealis, the Freezing Fog.
+Transforms caster into a dragon to spew icy breath from above.Charging extends the duration. This incantation can be cast whilejumping.
+The ice dragons were once lords of the mountaintops long ago,until they were defeated by the Fire Giants and chased from thepeak.
+Can be purchased at the Dragon Communion Altar at theCathedral of Dragon Communionin Caelid for 2Dragon Hearts. Players need to defeatBorealis the Freezing Fogin order to unlock thisIncantation. [Elden Ring Map Link]
+InflictsFrostbite(110per tick) on opponents.
+Like other named Breath incantations, this spell has a long wind-up time of2seconds.
+Deals18%more damage thanDragonice, with a slightly longer range but a narrower spread.
+Duration can be extended to breathe again, and you can swivel your character while casting to spew in different directions.
+The full cast requires at least90FPbut will use up to156FP with no additional benefit before any FP-conservating buffs.
+It takes on average5seconds including the initial wind-up to complete the full cast.
+Can be cast while jumping, and your character hovers slightly while using the spell.
+As ofPatch 1.09,Roar Medallionincreases the damage of this incantation by approx. 5%. Tested in PVP.
+Updated toPatch 1.10. SeePatch Notesfor details.
+In the Colosseum, if the opponent is spacing the dragon breath out of its range or putting pressure by interrupting your dragon breath, useSwarm of Flies. Most opponents will run away from the attack, causing them to lose stamina and give you space to do a dragon breath.
+To prevent the opponent from constantly interrupting your dragon breath, useEndure. With all dragon breaths having a 2.5-second wind-up andEndurehaving a 3-second duration it will give you enough time to do a dragon breath in the air. However, you will not have enough time to swap into aDragon Communion Sealon both hands if you want the full wind-up duration to be protected byEndure.
+Borealis's Mistis anincantationspellinELDEN RING(2022). It is one of theDragon Communion Incantations.
+Superior incantation ofDragon Communion. Channels the power ofBorealis the Freezing Fog.
+Transforms caster into adragonto spewicybreath from above. Charging extends duration. This incantation can be cast while jumping.
+The ice dragons were once lords of themountaintopslong ago, until they were defeated by theFire Giantsand chased from thepeak.
+The caster floats up into the air and summons a dragon head, before breathing out a wave of frozen mist, dealingMagicdamage equal to 158% ofIncantation Scalingand inflicting 110Frostbitebuild-up up to 3 times (i.e. 474% of Incantation Scaling and 330 Frostbite build-up cumulatively) if the entire wave hits.
+Continue channeling the spell to let loose a second breath, also hitting up to 3 times.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Adula's Moonblade | Elden Ring Wiki
+Adula's Moonbladeis aSorceryinElden Ring.Adula's Moonbladecreates a cold magic greatsword to slice enemies sideways while launching ranged slash frost projectiles. Updated toPatch 1.07.
+Conjures a cold magic greatsword, then delivers a sweeping blowthat launches a blade-like projectile of frost.
+Adula, a devourer of sorcerers, was bested by Ranni andsubsequently swore a knightly oath to her Dark Moon.
+Dropped byGlintstone Dragon Adulalocated at their second location inCathedral of Manus Celes. [Map Link] [Video Location]
+Deals (Sorcery Scaling x1.33)Magic Damageper swing,8.5Stancedamage and inflicts120Frostbitebuildup.Projectile deals (Sorcery Scaling x1.89)Magic Damage,3.5Stancedamage and inflicts35Frostbitebuildup.Initial cast can hit a target with both parts, however, subsequent chain castsdo notand only one part hits at a time.
+Projectile deals (Sorcery Scaling x1.89)Magic Damage,3.5Stancedamage and inflicts35Frostbitebuildup.
+Initial cast can hit a target with both parts, however, subsequent chain castsdo notand only one part hits at a time.
+Shares animation withCarian Greatswordand can be chain-casted with it.
+Can be used while riding. Torrent walks slowly.
+Has anaccumuValof10towards multi-hit boosts (Sword Hitbox only).
+Carian Glintstone Staffboosts its damage by15%
+NOTE:Patch 1.07: Frostbite buildup applied to guarding enemies has been increased. FP consumption has been reduced (26 > 22).
+Use theseBuffsto maximize the performance of Adula's Moonblade spell. Note that increases in attack power are multiplicative unless stated otherwise.
+Updated to patch1.07. SeePatch Notesfor details.
+Adula's Moonbladeis aspellinELDEN RING(2022).
+It is one of theCarian Sword Sorceries, a subset of theCarian Sorceries.
+Conjures a cold magic greatsword, then delivers a sweeping blow that launches a blade-like projectile of frost.
+Adula, a devourer of sorcerers, was bested byRanniand subsequently swore a knightly oath to herDark Moon.
+冷たい魔力の大剣を形作り斬り払うと同時に、冷気の刃を放つ連続で使用することができる
+The caster conjures a large magic sword imbued withfrost, and performs a wide sweeping motion from one side to the other at a slight angle. Second input performs a similar motion from the other side at a slight angle as well. Third input performs a similar motion from the other side at a completely horizontal axis. Further inputs loop the second and third inputs in order. Each input fires off a frost projectile.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Smarag's Glintstone Breath | Elden Ring Wiki
+Smarag's Glintstone Breathis anIncantationinElden Ring.Smarag's Glintstone Breathspell conjures head of Smarag to drown enemies in primordial magic.
+Superior incantation of Dragon Communion.Channels the power of Smarag, the Glintstone Dragon.
+Transforms caster into a dragon to spew magic breath from above.Charging extends duration. This incantation can be used while jumping.
+Smarag was a devourer of sorcerers, and over time, his body became corrupted by their glintstones.
+Can be purchased at the Dragon Communion Altar at theCathedral of Dragon Communionin Caelid for 2Dragon Hearts. Players need to defeatGlintstone Dragon Smaragin order to unlock thisIncantation. [Elden Ring Map Link]
+Like other named Breath incantations, this spell has long wind-up time of2seconds.
+Deals18%more damage thanGlintstone Breath, with slightly longer range but narrower spread.
+Duration can be extended to breathe again, and you can swivel your character while casting to spew in different directions.
+Full cast requires at least78FPbut will use up to144FP with no additional benefit before any FP-conservating buffs.
+It takes on average5seconds including initial wind-up to complete the full cast.
+Can be cast while jumping, and your character hovers slightly while using the spell.
+As ofPatch 1.09,Roar Medallionincreases the damage of this incantation by approx. 5% .Tested in PVP.
+Updated toPatch 1.10. SeePatch Notesfor details.
+In the Colosseum, if the opponent is spacing the dragon breath out of its range or putting pressure by interrupting your dragon breath, useSwarm of Flies. Most opponents will run away from the attack, causing them to lose stamina and give you space to do a dragon breath.
+To prevent the opponent from constantly interrupting your dragon breath, useEndure. With all dragon breaths having a 2.5-second wind-up andEndurehaving a 3-second duration it will give you enough time to do a dragon breath in the air. However, you will not have enough time to swap into aDragon Communion Sealon both hands if you want the full wind-up duration to be protected byEndure.
+Smarag's Glintstone Breathis anincantationspellinELDEN RING(2022). It is one of theDragon Communion Incantations.
+Superior incantation ofDragon Communion. Channels the power ofSmarag, the Glintstone Dragon.
+Transforms caster into adragonto spewmagicbreath from above. Charging extends duration. This incantation can be cast while jumping.
+Smarag was a devourer ofsorcerers, and over time, his body became corrupted by theirglintstones.
+The caster floats up into the air and summons a dragon head, before breathing out a wave of blue flames, dealingMagicdamage equal to 188% ofIncantation Scalingup to 3 times (i.e. 564% of the same cumulatively) if the entire wave hits. Continue channeling the spell to let loose a second breath, also hitting up to 3 times.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Golden Vow | Elden Ring Wiki
+Golden Vowis aSkillinElden Ring.Golden Vowis a skill found on theGolden Halberdwhich boosts attack and defense powers during combat. Golden Vow has sacred affinity and is usable with all Melee Weapons.
+For other buffs of the same name, seeGolden Vow (Spell)andGolden Vow (Item). InShadow of the Erdtree, theBattlefield Priest's Cookbook (3)can be used to craft the item.
+The Golden Vow is the Default skill of theGolden Halberd.
+Limgrave: The Golden Vow is dropped by a mountedGodrick Knight, above theDeathtouched Catacombs, when defeated [Map Link].
+SeeBuffs and Debuffsfor more information on stacking buffs.
+This version of the Golden Vow is part of the similarly namedspell,consumableand this skill that performs the same functions of providing a buff when casted. The main point of differences between these three are varying degrees of buffs and damage negation rates. Some are more powerful than others.
+Beyond the numerical advantage, the biggest difference between these three versions of Golden Vow is that requirements of  cost, attributes, FP cost and duration.
+This specific skill is used primarily for builds that would like to sidestep the Faith requirement on the spell version of the Golden Vow. Though this version is far more weaker than than the one that requires a 25 in faith, it is however far more accessible.
+TheToolversion if compared does look like the better version of the Golden Vow compared to this skill. However, the items used to craft them. Specifically,Blessed Bone ShardandShadow Sunflowerare extremely difficult to gather. The less than 5% drop rates fromBlack KnightsandMessmer Soldiersgives the full mathematical.
+Due to the Cancellation effect, platyers should note which version of the Golden Vow is being used. If someone already used the Spell and tool versio, it should be avoided to use this specific version as this version is the weaker of the 2 and using it will cancel the other version creating overall a much more weaker party.
+Below shows recommended builds by fextralife in utilizing and working with the Golden Vow, ash of skill version. The Templar and Paladin Builds by Fextralife use this Skill for example.
+Elden Ring Gold Breaker Build Written Guide
+ER Shadow of the Erdtree Dark Paladin Build Written Guide
+ER Shadow of the Erdtree Piercing Paladin Build Written Guide
+Golden Vowis anincantationspellinELDEN RING(2022). It is one of theErdtree Worship Incantations.
+Increasesattack poweranddefensefor the caster and nearby allies. Hold to continue praying and delay activation.
+This incantation has been taught toknightsof theroyal capitalfor generations, and knights sent ondistant expeditionslean on it as a source of courage.
+Grants anAura Buffto the caster and allies within a 6-meter radius that increases all damage dealt by 15% (7.5% in PvP) and decreases all damage taken by 10% (5% in PvP) for 80 seconds.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Flame Grant me Strength | Elden Ring Wiki
+Flame, Grant Me Strengthis anIncantationinElden Ring. TheFlame, Grant Me Strengthspell raises physical and fire-affinity attack power in addition to stamina recovery speed.
+Creates an invigorating fire within that enhances physical and fire-affinity attack power.
+This incantation does not burn the caster, and so it is considered forbidden by the guardians of the Flame.
+The location of Flame, Grant Me Strength can be found behindFort Gael, on a body between twoFlame Chariots. [Map link]
+Duration: 30 seconds (39 withOld Lord's Talisman).
+The physical damage increase also affects physical-related spells, such as the sorceriesRock SlingandMeteorite, as well as incantations, such asBeast ClawandBestial Sling.This even affects consumables, such asKukris,Throwing Daggers, and Gravity Stones (FanandChunk).
+This even affects consumables, such asKukris,Throwing Daggers, and Gravity Stones (FanandChunk).
+This is aBodyBuffand will not stack with other buffs of the same type.SeeBuffs and Debuffsfor more information on stacking buffs
+SeeBuffs and Debuffsfor more information on stacking buffs
+Elden Ring Vanquisher Build Written Guide
+Elden Ring Gold Breaker Build Written Guide
+Elden Ring Blazing Blackblade Build Written Guide
+Elden Ring Black Guard Build Written Guide
+ER Shadow of the Erdtree Carian Twinblade Build Written Guide
+ER Shadow of the Erdtree Pyromancer Perfumer Build Written Guide
+ER Shadow of the Erdtree Dragon God Build Written Guide
+ER Shadow of the Erdtree Fire Knight Impaler Build Written Guide
+ER Shadow of the Erdtree Twin Axe Death Knight Build Written Guide
+ER Shadow of the Erdtree Gravity Sorcerer Build Written Guide
+ER Shadow of the Erdtree Messmer's Flam Written Guide
+Flame, Grant Me Strengthis anincantationspellinELDEN RING(2022). It is one of theFire Monk incantations.
+Creates an invigorating fire within that enhancesphysicalandfire-affinityattack power.
+This incantation does not burn the caster, and so it is considered forbidden by theguardiansof theFlame.
+Flame, Grant Me Strength applies aBody Buffwith a duration of 30 seconds:
+
+---
+
+area: Limgrave
+chapter: 1
+name: Lightning Spear | Elden Ring Wiki
+Lightning Spearis anIncantationinElden Ring.Lightning Spearcreates a lightning projectile and throws it forward. Updated toPatch 1.07.
+One of the incantations of the capital's ancient dragon cult. Summons a lightning spear and hurls it before the caster.
+Charging causes a lightning bolt to strike the point of impact.
+Long ago, Godwyn the Golden defeated the ancient dragon Fortissax, and befriended his fallen foe — an event that gave rise to the ancient dragon cult in the capital.
+Purchase fromBrother CorhynorMiriel, Pastor of Vowsafter giving either theDragon Cult Prayerbookwhich is dropped by aLeyndell Knightpatrolling south of Artist's Shack.
+Deals (Incant Scaling x2.34)Lightning Damageuncharged and (Incant Scaling x2.93) charged.Water AoE deals additional (Incant Scaling x0.50)Lightning Damageand2Stancedamage.
+Water AoE deals additional (Incant Scaling x0.50)Lightning Damageand2Stancedamage.
+Lightning Spearuncharged has16scasting frames and45frames charged. For comparison,Knight's Lightning Spearuncharged has25frames and also45frames charged.
+Enemies seem to ignore this incantation in terms of dodging, meaning under most circumstances Lightning Spear will generally make a successful hit against the enemy. This applies to both charged and uncharged variations.
+Can be cast while riding. Torrent walks slowly.
+Death Knight Setboosts its damage by8%(2%each piece)
+Godfrey Iconboosts its charged damage by15%.
+NOTE:Patch 1.07: Attack power when charged has been increased
+Updated to patch1.07. SeePatch Notesfor details.
+Lightning Spear can be paired withStone of Gurranqsince it has a faster cast time, recovery time, and similar range in distance. If you land aStone of Gurranqon an enemy you can do a follow-up with Lightning Spear to get a true combo.
+ER Shadow of the Erdtree Dragon Priestess Build Written Guide
+Lightning Spearis anincantationspellinELDEN RING(2022). It is one of theDragon Cult Incantations.
+One of the incantations of thecapital'sancient dragon cult.
+Summons alightningspear and hurls it before the caster. Charging causes alightning boltto strike the point of impact.
+Long ago,Godwyn the Goldendefeated theancient dragonFortissax, and befriended his fallen foe — an event that gave rise to the ancient dragon cult in the capital.
+Purchase:Roundtable Hold/Liurnia of the Lakes/Altus Plateau/Leyndell, Royal Capital/Mountaintops of the Giants
+Creates a small, golden spear in hand to throw, withLightningAttack Power equal to 234% ofIncantation Scaling.
+Charging the incantation increases the Attack Power to 293% of Incantation Scaling.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Wrath of Gold | Elden Ring Wiki
+Wrath of Goldis anIncantationinElden Ring.Wrath of Gold spellknocks back nearby enemies when cast. Can be charged to increase range. Updated toPatch 1.07.
+Superior Erdtree Worship incantation.Produces a golden shockwave that knocks back nearby foes.Charging increases the size of the shockwave.This incantation was discovered when the Elden Ring was shattered,and it was feared as a sign of the Erdtree's wrath.
+Found in the southernmost section ofWoodfolk Ruins. It's the part directly northeast of Altus Tunnel. Among the wormface enemies, there is a staircase that goes down and leads to a chest that contains thisIncantation.[Map Link].
+DealsHoly Damage,12Stancedamage uncharged and17fully charged.Has4meter radius uncharged and5charged.
+Can be cast while riding. Torrent walks slowly.
+NOTE:Patch 1.07: Stamina damage against guarded enemies has been increased.
+Updated to Patch1.07. SeePatch Notesfor details.
+Wrath of Goldis anincantationspellinELDEN RING(2022). It is one of theErdtree Worship Incantations.
+Produces a golden shockwave that knocks back nearby foes. Charging increases the size of the shockwave.
+This incantation was discovered when theElden Ringwasshattered, and it was feared as a sign of the Erdtree's wrath.
+Quickly lets loose a golden shockwave, withHolyAttack Power equal to 350% ofIncantation Scalingand affects enemies within a 4-meter radius of the caster.
+Charging the spell increasesAttack Powerto 420% ofIncantation Scalingand the attack radius to 5 meters.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Order Healing | Elden Ring Wiki
+Order Healingis anIncantationinElden Ring.Order Healingspell relieves the buildup ofDeath Blight.
+One of the incantations of the Golden Order fundamentalists.Used by hunters of Those Who Live in Death.
+The noble Goldmask lamented what had become of the hunters.How easy it is for learning and learnedness to be reduced to theravings of fanatics; all the good and the great wanted, in theirfoolishness, was an absolute evil to contend with.
+Does such a notion exist in the fundamentals of Order?
+Dropped by aTeardrop Scarabfound in the middle of a circular section of theSiofra Aqueduct. Accessible only after unlocking upper areas of Siofra Aqueduct. See it on theElden Ring Interactive Map Link.
+Fast travel to the Aqueduct-Facing Cliffs Site of Grace and follow the path east until you have to jump down a narrow walkway to cross into circular buildings. Head to the right and you will find the scarab inside the hanging building.
+Order Healingis anincantationspellinELDEN RING(2022). It is one of theGolden Order Incantations.
+One of the incantations of theGolden Order fundamentalists. Used byhuntersofThose Who Live in Death.
+The nobleGoldmasklamented what had become of the hunters. How easy it is for learning and learnedness to be reduced to the ravings of fanatics; all the good and the great wanted, in their foolishness, was an absolute evil to contend with.
+Does such a notion exist in the fundamentals ofOrder?
+Removes allDeath Blightbuild-up on the user.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Law of Regression | Elden Ring Wiki
+Law of Regressionis anIncantationinElden Ring. Law of Regression dispels mostSorceryandIncantationeffects, standardStatus Effects, unique effects (such asDeath Flare), and effects fromConsumablesand other items, from all nearby targets, both friendly and hostile. This spell also dispels illusory walls, and has other uses outside of combat (spoiler, see below).
+Incantation of the Golden Order fundamentalists.One of the key fundamentals.
+Heals all negative statuses, dispels special effects, and reveals mimicry in all its forms.
+The fundamentalists describe the Golden Order through the powers of regression and causality. Regression is the pull of meaning; that all things yearn eternally to converge.
+Purchase fromBrother CorhynorMiriel, Pastor of Vows, after giving either theGolden Order Principiaprayerbook.
+Part ofBrother Corhyn'sandGoldmask'squest.
+Removes allBuffs and Debuffswithin range.
+Removes buildup and fullStatus Effects(such asScarlet RotandFrostbite).
+Nullifies anySorceriesorIncantationsthat are already active, like aLightning Spearthat's mid-flight.
+Sacred Sealrequirements do not have to be met in order to cast this spell.
+This incantation has an additional use (puzzle and story spoiler ahead, highlight to read):At the statue of Radagon in Leyndell, Royal Capital, there is a message that reads "Regression Alone Reveals Secrets." Casting this incantation near the message will cause the statue to change into a statue of Marika, and reveal another message that reads "Radagon is Marika."
+If your character has a lowIntelligence, you may still be able to use the Law of Regression spell to progressGoldmask'squest, by using the following stat-boosting items:
+Twinsage Glintstone Crown(+6 Intelligence)
+Intelligence-knot Crystal Tear(+10 Intelligence)
+Godrick's Great Rune(+5 Intelligence,requiresRune Arc)
+Grafted Blade GreatswordskillOath of Vengeance(+5 Intelligence)
+That adds up to +36 Intelligence, so even if you somehow managed to start with 1 Intelligence, it is still possible to meet the requirement. This prevents players from having to waste time and twoLarval Tearsto respec into Intelligence and back.
+Law of Regressionis anincantationspellinELDEN RING(2022). It is one of theGolden Order Incantations.
+Incantation of theGolden Order fundamentalists. One of the key fundamentals.
+Heals all negativestatuses, dispels special effects, and reveals mimicry in all its forms.
+The fundamentalists describe theGolden Orderthrough the powers of regression andcausality. Regression is the pull of meaning; that all things yearn eternally to converge.
+Purchase:Roundtable Hold/Liurnia of the Lakes/Altus Plateau/Leyndell, Royal Capital/Mountaintops of the Giants
+Removes theStatus Effects,Buffs, and debuffs from the caster and allies and enemies within a radius of 15 meters and also dispels all active spells within that effect radius.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Giantsflame Take Thee | Elden Ring Wiki
+Giantsflame Take Theeis anIncantationinElden Ring.Giantsflame Take Theespell launches a massive ball of primordial fire. Updated toPatch 1.07.
+One of the incantations that draws directly from the power of theFire Giants.
+Charging enhances potency and causes the ball of fire to explode.There is no record of this incantation in common prayerbooks.Only a select few prelates know of its existence.
+Purchase fromBrother CorhynorMiriel, Pastor of Vowsafter giving them theGiant's Prayerbook.
+Can be charged for additional damage (+10%) and bigger explosion radius.
+Provides a powerful knockback against medium-sized enemies.
+One of the highest damaging ranged attacks in the game, coming at the very high FP cost as a trade-off.
+This spell's large AoE when charged can make quick work of large groups of enemies.
+NOTE:SincePatch 1.07FP Consumption has been Decreased from 32 to 30.
+Updated to patch1.07. SeePatch Notesfor details.
+Giantsflame Take Theeis anincantationspellinELDEN RING(2022). It is one of theGiants' Flame incantations.
+One of the incantations that draws directly from thepowerof theFire Giants.
+Hurls a massive ball of ragingfire. Charging enhances potency and causes the ball of fire to explode.
+There is no record of this incantation in commonprayerbooks. Only a select fewprelatesknow of its existence.
+Purchase:Roundtable Hold/Liurnia of the Lakes/Altus Plateau/Leyndell, Royal Capital/Mountaintops of the Giants
+Hurls a massive ball of fire withFireAttack Power equal to 325% ofIncantation Scalingand that explodes on impact, hurting enemies within a 2.5 meter radius.
+Charging the spell increases the Attack Power to 389% of Incantation Scaling and the explosion radius to 3.5 meters.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Burn O Flame! | Elden Ring Wiki
+Burn O Flame!is anIncantationinElden Ring.Burn O Flame! spellcreates several fire pillars around your character. Updated toPatch 1.07.
+One of the incantations that draws directly from the power of theFire Giants.
+Raises a series of flame pillars around the caster.Charging further increases the number of flame pillars.
+The Fire Giants borrowed from the power of a fell god,and stillthey were defeated.Yet their failure released them from theirsolitary curse:to serve as keepers of the Flame for eternity.
+TradeRemembrance of the Fire GiantwithEniaatRoundtable Hold.
+This enchantment allows users to raise a series of pillars of flame around themselves.
+Damage can be extremely high against large enemies when multiple pillars hit, though even a single pillar deals a significant amount of damage.
+Uncharged, this spell has a fairly quick startup, making it a very useful crowd control option if you can afford the high FP cost.
+Note:As ofPatch 1.07, FP cost reduced from 30 to 26, and shortened the time it takes for a flame pillar to be generated.
+Updated to patch1.07. SeePatch Notesfor details.
+Burn, O Flame!is anincantationspellinELDEN RING(2022). It is one of theGiants' Flame incantations.
+Raises a series offlamepillars around the caster. Charging further increases the number of flame pillars.
+The Fire Giants borrowed from the power of afell god, and still they weredefeated. Yet their failure released them from their solitary curse: to serve as keepers of theFlamefor eternity.
+Trade theRemembrance of the Fire Giant, gained by defeating theFire Giant, withFinger Reader Enia.
+Alternatively, use one of theWandering Mausoleumsto duplicate one (can only obtain one per playthrough using either method).
+Crouch down to raise a series of pillars of flame around the caster, hitting withFireAttack Powerequal to 288% ofIncantation Scaling.
+Charging increases the number of flame pillars.[citation needed]
+
+---
+
+area: Limgrave
+chapter: 1
+name: Black Flame's Protection | Elden Ring Wiki
+Black Flame's Protectionis anIncantationinElden Ring.Black Flame's Protection Incantationincreases physical damage negation.
+A black flame incantation of the Godskin Apostles.
+Summons black fire within, increasing physical damage negation.However, sacred flasks and other such forms of HP restoration areimpaired.
+The Apostles were all embraced by the Gloam-Eyed Queen, andthe black flame was their armor within.
+Received fromGideon Ofnir, after selecting the "about the secret medallion" dialogue option. In order for this question to appear, you will first needHaligtree Secret Medallion (Left)andHaligtree Secret Medallion (Right). The dialogue option is unlocked upon reaching Miquella's Haligtree.
+If not received by Gideon Ofnir, it can be purchased atTwin Maiden Husksafter reachingLeyndell, Ashen Capital.
+Increases physical damage negation by 35% (15% PVP)
+Stacks multiplicatively withGolden Vow (Spell)/Rallying Standard.
+The reduction in healing to Flask of Crimson Tears can be negated by equipping theCrimson Seed Talisman. (Note that other sources of healing still suffer the penalty.)
+This is aBodyBuffand will not stack with other buffs of the same type.SeeBuffs and Debuffsfor more information on stacking buffs.
+SeeBuffs and Debuffsfor more information on stacking buffs.
+NOTE:As ofPatch 1.12: The physical damage negation has been decreased in PVP.
+Black Flame's Protectionis anincantationspellinELDEN RING(2022). It is one of theGodslayer Incantations.
+Ablack flameincantation of theGodskin Apostles.
+Summons blackfirewithin, increasingphysicaldamage negation. However,sacred flasksand other such forms ofHPrestoration are impaired.
+The Apostles were all embraced by theGloam-Eyed Queen, and the black flame was theirarmorwithin.
+Grants aBody Buffthat decreasesPhysicaldamage taken by 35% (15% in PvP) while also decreasing all healing received by 20% for 70 seconds.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Bloodflame Blade | Elden Ring Wiki
+Bloodflame Bladeis anIncantationinElden Ring.Bloodflame Bladespell enhances your weapon with festering bloodflame. After dealing damage, weapons imbued with bloodflame apply a debuff to their enemy that continues to build up onset ofHemorrhagefor a very short time.
+A Blood Oath incantation, granted by the Lord of Blood.
+Engulfs armament held in the right hand with bloodflame.This incantation can be cast while in motion.
+After dealing damage, bloodflame continues to build up onset of blood loss for a very short time.
+Liurnia of the Lakes: Dropped by aTeardrop Scarabin the marshes northwest toRose Church, southwest of the lake.[Map Link]
+Duration: 60 seconds (78 seconds withOld Lord's Talisman)
+Fire damage: 0.40 * Faith based Incantation scaling.
+WhileBloodflame Bladecan grant theHemorrhagestatus effect to any weapon it is applied to, it is most effective on (buffable) weapons that already have the effect, such as theUchigatana.
+Afflicts the target with a bloodflame debuff effect that stacks a total of 40 bleed over the course of 2 seconds after striking an enemy.
+The bloodflame debuff can stack by striking an enemy repeatedly or applying the same debuff from other sources. Doesnotscale withArcaneeven when casting with theDragon Communion Seal.
+As it is fire damage, it is buffed by theFire Scorpion CharmandFlame-Shrouding Cracked Tearand will set theFingercreeperenemies on fire, rendering them incapacitated while dealing tons of damage to them.
+Although it can be used on a weapon that already has passive Hemorrhage effects (as noted above), it can't be used on somber weapons or applied elemental infusion. It can however be applied on infusible weapons with innate elemental damage.
+Can get the most out of Bleed procs with this spell by pairing it with Ashes of War such asBlood TaxorStormcaller(skills that can hit a target(s) multiple times.
+Bloodflame Bladeis anincantationspellinELDEN RING(2022). It is one of theBlood Oath Incantations.
+A Blood Oath incantation, granted by theLord of Blood.
+Engulfsarmamentheld in the right hand withbloodflame. This incantation can be cast while in motion.
+After dealing damage, bloodflame continues to build up onset ofblood lossfor a very short time.
+Grants the right-hand weapon aWeapon Buffgiving bonusFireAttack Powerequal to 40% of theFaith-basedIncantation Scalingof theSacred Sealused to cast it for 60 seconds.
+Each hit also applies a bloodflame effect that inflicts 40 blood loss buildup over 2 seconds.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Bloodflame Talons | Elden Ring Wiki
+Bloodflame Talonsis anIncantationinElden Ring.Bloodflame Talonsspell lacerates the air and creates bloodflame bombs that explode after a short delay. Updated toPatch 1.07.
+A Blood Oath incantation, granted by the Lord of Blood.Creates bloodflame lacerations before the caster, which explode inan instant.This incantation can be cast repeatedly.After dealing damage, bloodflame continues to build up onset ofblood loss for a very short time.
+Dropped byMohg, the Omenin Forsaken Depths,Subterranean Shunning-Grounds, underLeyndell.[Elden Ring Map Here]
+Bloodflame inflictsHemorrhage95 bleed over 2 seconds.
+This incantation has two parts: The initial swipe and the subsequent explosion; once the swipe animation is finished the explosionwillhappen, even if the caster gets staggered.
+Similar to the way Mohg uses the attack, the actual claw sweep deals no damage, only the explosion deals damage to the target.
+Canbe chain-cast with itself as long as the player has enough FP and/or Stamina.
+NOTE:SincePatch 1.07FP Consumption has been Decreased from 14 to 12.
+Updated to patch1.07. SeePatch Notesfor details.
+Bloodflame Talonsis anincantationspellinELDEN RING(2022). It is one of theBlood Oath Incantations.
+A Blood Oath incantation, granted by theLord of Blood.
+Createsbloodflamelacerations before the caster, which explode in an instant. This incantation can be cast repeatedly.
+After dealing damage, bloodflame continues to build up onset ofblood lossfor a very short time.
+Guaranteed Drop:Subterranean Shunning-Grounds
+Slash in the air to create a claw pattern that then explodes, hitting withFireAttack Powerequal to 236% ofIncantation Scalingand applying a bloodflame effect that inflicts 100Blood Lossbuild-up over 2 seconds.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Rejection | Elden Ring Wiki
+Rejectionis anIncantationinElden Ring.Rejection spellis cast to create a shockwave that pushes enemies away. Updated toPatch 1.07.
+Incantation of the Two Fingers' faithful.
+Produces a shockwave that knocks back nearby foes.Charging increases the size of the shockwave.
+Hark, Tarnished! If you truly walk in faith, you must be prepared to reject all else.
+Sold byBrother Corhynat theRoundtable Holdfor 1,500
+One of offensive spells, that deals 0 damage to target
+Can be charged for a stronger push or vs shielded enemiesCharging seems to affect the range of spell, not stance damage (testing needed)
+Charging seems to affect the range of spell, not stance damage (testing needed)
+May break enemy stanceThis makes Rejection a good spell against Crystalians, as it knocks them even before 1st stance break.
+This makes Rejection a good spell against Crystalians, as it knocks them even before 1st stance break.
+Can be chain-casted as long as player has enough  FP
+Does not seem to awaken/alert sleeping or unaware enemies.(Requires further testing, but at least on the sleeping Albinaurics on the Palace Approach Ledge Road, the incantation knocks them down and moves them, then they stand up but do not move or appear to be awake.)
+NOTE:SincePatch 1.07Stamina Attack Power against guarded enemies has been Increased
+Updated to patch1.07. SeePatch Notesfor details.
+Rejectionis anincantationspellinELDEN RING(2022). It is one of theTwo Fingers incantations.
+Produces a shockwave that knocks back nearby foes. Charging increases the size of the shockwave.
+Hark,Tarnished! If you truly walk infaith, you must be prepared to reject all else.
+Purchase:Roundtable Hold/Altus Plateau/Leyndell, Royal Capital/Mountaintops of the Giants
+Rejection produces a shockwave, knocking back enemies within a 2-meter radius and inflicting heavyStaminadamage to guarding enemies—180 in PvE and 220 in PvP—while also dealing 10Stancedamage.
+Charging the spell increases the radius to 4 meters, Stamina damage to 220 in PvE and 275 in PvP, and Stance damage to 14.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Assassin's Approach | Elden Ring Wiki
+Assassin's Approachis anIncantationinElden Ring. TheAssassin's Approach spellcan be cast to temporarily silence the footsteps of the caster, increasing their stealth. It also negatesFall Damagefor non-lethal falls. Updated toPatch 1.07.
+Incantation of the Two Fingers' servants, who once served as the assassins of the Roundtable Hold.
+Completely silences the footsteps of the caster. Additionally, reduces fall damage and the sound produced by falling.This incantation can be cast while in motion or crouching.
+The assassins were charged with eliminating Tarnished who had strayed from guidance.
+Starting Incantation for theConfessorClass
+Purchase fromBrother CorhynorMiriel, Pastor of Vowsafter giving either theAssassin's Prayerbook.
+Assassin's Approach, theLongtail Cat Talisman, andSoft Cottonare three items that preventFall Damagefrom being taken. However they do not change the height at which falls become lethal, which remains fixed at 20 meters. Using one of these means that the fall damage that is normally incurred from 16 m to ~19.9 m isn't taken at all.
+Soft Cottonand Assassin's Approach will overwrite each other.
+NOTE:SincePatch 1.07Duration has been extended from 20 to 30 seconds.
+Updated to patch1.07. SeePatch Notesfor details.
+Assassin's Approachis anincantationspellinELDEN RING(2022). It is one of theTwo Fingers incantations.
+Incantation of theTwo Fingers'servants, who once served as theassassinsof theRoundtable Hold.
+Completely silences the footsteps of the caster. Additionally, reduces fall damage and the sound produced by falling. This sorcery can be cast while in motion or crouching.
+The assassins were charged with eliminatingTarnishedwho had strayed fromguidance.
+術者の足音を完全に消すまた、落下ダメージと落下音も軽減する足を止めずに、またしゃがんだままでも使用できる
+Purchase:Roundtable Hold/Liurnia of the Lakes/Altus Plateau/Leyndell, Royal Capital/Mountaintops of the Giants
+Assassin's Approach applies aBuffthat silences footsteps and prevents all non-lethal fall damage for 30 seconds.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Beloved Stardust | Elden Ring Wiki
+Beloved Stardustis aTalismaninElden Ring. It is a brand-new Talisman in theShadow of the Erdtree DLC.Beloved Stardustshortens casting speed for sorcery and incantations by the utmost, but increases damage taken. Players can useTalismansin Elden Ring to boost a variety ofStats.
+A talisman depicting a wizened hand gently gripping a glintstone.
+Shortens casting speed for sorcery and incantations by the utmost, but increases damage taken. Count Ymir was known for his recitations.
+"One need only envision the romance of the stars above with adoration for stardust in one's heart to become a great sorcerer. Do so, and you will know love."
+Given byCount Ymirafter completing the first part of his quest line. [Elden Ring Shadow of the Erdtree Map]
+Gives 99 virtual Dexterity, exclusively towards spellcasting, at the cost of -30% damage absorption
+Casting speed is increased by 99 but damage taken is increased by 30%
+Players who prefer to cast spells while being far from their opponents will benefit from this Tailsman more than the Radagon Icon due to its greater speed when casting spells
+Bug: Unlike other talismans that gives negative damage absorption (e.g. Soreseals), player can't check total damage negation without equipping it beforehand.For ease reproduction, have 1 soreseal and Beloved Stardust not equipped. Enter Equipment > Pick Talisman > Switch right view > Highlight Soreseal, then Stardust
+For ease reproduction, have 1 soreseal and Beloved Stardust not equipped. Enter Equipment > Pick Talisman > Switch right view > Highlight Soreseal, then Stardust
+Beloved Stardustis atalismaninShadow of the Erdtree.
+A talisman depicting a wizened hand gently gripping a glintstone. Shortens casting speed for sorcery and incantations by the utmost, but increases damage taken. Count Ymir was known for his recitations. "One need only envision the romance of the stars above with adoration for stardust in one's heart to become a great sorcerer. Do so, and you will know love."
+Increases casting speed ofSorceriesandIncantationsto the maximum possible, but increases damage taken by 30%.
+
+---
+
+area: Limgrave
+chapter: 1
+name: O Flame! | Elden Ring Wiki
+O, Flame!is anIncantationinElden Ring.O, Flame! spellallows the user to be able to emit flames from the hands, charging enhances potency.
+Momentarily sparks roaring flame from the caster's hand.Charging enhances potency.
+The Giants' Flame still smolders upon the distant northernmountaintop, and the Fire Monks are its guardians.
+Purchase fromBrother CorhynorMiriel, Pastor of Vowsafter giving either theFire Monks' Prayerbook
+A much stronger version ofCatch Flame. However, unlike Catch Flame, O, Flame! is slower to cast, can't be chain-casted, spell cannot be used out of jumps, rolls or sprinting, making it considerably less useful.  Its high damage, and decent AOE can still find a niche as a sidearm spell for less spell-dedicated faith users.
+O, Flame!is anincantationspellinELDEN RING(2022). It is one of theFire Monk incantations.
+Momentarily sparks roaringflamefrom the caster's hand. Charging enhances potency.
+TheGiants' Flamestill smolders upon thedistant northern mountaintop, and the Fire Monks are itsguardians.
+Purchase:Roundtable Hold/Liurnia of the Lakes/Altus Plateau/Leyndell, Royal Capital/Mountaintops of the Giants
+Summons a large, short-ranged burst of flame in hand, withFireAttack Power equal to 280%Incantation Scaling.
+Charging the spell increases Attack Power to 385% of Incantation Scaling.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Frenzied Flame Incantations | Elden Ring Wiki
+Frenzied Flame Incantationsare a group ofIncantationsinElden Ringthat share a crest, characteristics, or a specific type of buff criteria.Frenzied Flame Incantationsoriginate from the maddeningThree Fingers, and revolve around creating chaos and inflictingmadnessto deal damage. The yellowflame of frenzyis dangerous to both the user and enemies.
+There are a total of6Frenzied Flame Incantationsavailable for players.Frenzied Flame Incantationscan be found throughout the Land Between and the Land of Shadow.
+Shadow of the Erdtreeadds only1Frenzied Flame Incantation,Midra's Flame of Frenzy.
+The Flame of Frenzy: Found on a corpse insideCallu Baptismal ChurchinWeeping Peninsulaby theAiling Village.Map Link.
+Frenzied Burst: Obtained from aTeardrop Scarabsouth ofChurch of InhibitioninLiurnia of the Lakes.Map Link.
+Howl of Shabriri: Found in a chest on the second level of theFrenzy-Flaming Tower.Beast-Repellent Torchis recommended for the rats.Map Link.
+Inescapable Frenzy: Past theCathedral of the Forsakendescend down onto some stone coffins to reach the spell. See its page for details.
+Unendurable Frenzy: Found in a chest in an underground room on the western side ofYelough Anix Ruinsin theConsecrated Snowfield.Map Link.
+Midra's Flame of Frenzy: Obtained fromRemembrance of the Lord of Frenzied Flame.
+As is the case with allIncantations, you must have a catalyst equipped in order to be able to castFrenzied Flame Incantations.
+Inheriting theFrenzied Flameis not necessary to use these incantations, nor provides any additional buff.
+Frenzied Flame IncantationsrequireFaithto use.
+Frenzied Flame SealboostsFrenzied Flame Incantationsdamageby20%.
+Frenzied Flame Incantationsdealfire damageand receive damage buffs from theFire Scorpion Charm(12%), theFlame-Shrouding Cracked Tear(20%), and theFlame, Grant Me Strengthspell (20%).
+AllFrenzied Flame IncantationscauseMadnessbuildup, but their madness dealt only scales with theArcanescaling from theDragon Communion Seal.
+Madness also builds up on the user, most notably withHowl of Shabriri. This can be used to trigger damage buffs from theBlack Dumpling(10%for 60 seconds),Aged One's Exultation(20%for 30 seconds), andMadding Hand(7.5%for 30 seconds).
+It is not to be meddled with.It is chaos, devouring life and thought unending.
+-Melina— warning theTarnishedover the dangers of the Frenzied Flame.
+TheFrenzied Flame(狂い火,Kurui Hi), also calledYellow Flame of Frenzy(黄色い狂い火,Kiiroi Kurui Hi)[1][2][3][4][5]andYellow Flame of Chaos(混沌の黄色い火,Konton no Kiiroi Hi),[6]is a force that manifests in the eyes of those stricken by maddening grief and suffering. It is feared by many for its uncanny ability to destroy individuality, capable of melting away even eternal spirits. Those deeply stricken by its folly develop an insatiable need to spread its influence further, willingly seeking to infect others with it. These patients known by some asChaos Followers, yearn for the arrival of theirlordso that they may incinerate all that divides and distinguishes.
+One of the unique properties of the flame, destroying individuality, manifests mainly in its ability to seemingly brainwash those it has afflicted. Many patients are capable repeating the same crys and phrases as each other despite never having interacted with one another (the most notable of these phrases being"Melt it all away..."and"May chaos take the world!"repeated ad nauseam). Seemingly blending their minds into a single, hivemind-like state.
+A chosen few of those afflicted are capable of transforming into the Lord of Frenzied Flame after death. The strength of a lord can seemingly vary depending on who its original host was, with several having proven to be capable of becoming one, however many of them were either too non-committal or physically feeble to accomplish anything, causing them to be considered frauds and failures in the eyes of their followers. Once a Lord of Frenzied Flame manifests, the head of the original host is replaced by a black hole with yellow flames spewing out of its core, completely erasing any trace of the original host's identity.
+The origins of the flame is unclear, as the flame itself is said to have made its first appearance in the empty eye sockets ofShabriri, after his eyes were gouged out in punishment for slander. However, its incantations, the most powerful means that the flame manifests itself through, are also said to have come from theThree Fingers. It is also the clasp of Three Fingers that appoints a specific subject to become a Lord of Frenzied Flame.
+Even without direct influence of the Three Fingers, the flame is capable of appearing on its own in sites of great suffering, such as the ninth campsite ofMt. Gelmir, where it has appeared in the eyes ofLeyndell Soldierssuffering from the trauma of a particularly appalling battle. It has also appeared in the eyes of the surface-dwellingNomadic Merchants, and while they are unable to settle and are forced to move around the lands constantly, their relative freedom gives them enough comfort to endure only minor symptoms, enabling some them the ability to have fairly normal conversations with average passerby. Uttering the mantras of the Chaos Followers only when attacked or dying at the hands of murderous highwaymen.
+Some have willingly pursued the Frenzied Flame in an attempt to use it as a powerful weapon, however every attempt to control the flame has ended in failure and left the people who pursued it with irreparable psychological damage.
+In a cruel twist of fate, the fear the world has for the flame has only supported its growth, as any attempt to quell it through the punishment and subjugation of its subjects has only intensified and worsened their symptoms, allowing the flame to fester more deeply into its hosts, becoming more powerful and widespread as their own suffering increases. Primary example of this being theGolden Order'spunishment of theGreat Caravan, after they were accused of heretical beliefs and theHornsent'sdamnation ofMidraand his entourage, after their attempt of studying of the flame. Both events would eventually lead to the near-or-complete successful manifestation of theLord of Frenzied Flame.
+One of the unalloyed gold needles thatMiquellacrafted to ward away the meddling ofouter godsiscapable of subduing the flame of frenzy if inherited, allowing one to cheat fate and avoid becoming Lord of Frenzied Flame. However, the needle is as yet unfinished and can only be used in the heart of the storm beyond time said to be found inFarum Azula.[7]
+Items related to or referencing the Frenzied Flame
+
+---
+
+area: Limgrave
+chapter: 1
+name: The Flame of Frenzy | Elden Ring Wiki
+The Flame of Frenzyis anIncantationinElden Ring.The Flame of Frenzy spellis cast to conjure multiple offensive flames that travel forward.
+Incantation originating from the maddening Three Fingers.
+Causes the yellow flame of frenzy to burst forth from the caster's eyes.Charging increases the range of the burst.
+The flame of frenzy deals damage and causes buildup of madness. This incantation also causes buildup of madness in the caster, and is only effective against Tarnished.
+Callu Baptismal Churchin theWeeping Peninsula. Found on a corpse by a pillar on the left side of the church. See it on theElden Ring Interactive Map Link.
+Low Cost Incantation (16 Focus Points per cast)
+Deals 5Stancedamage per uncharged flame and 9 per charged flame, for a total of 20 when uncharged and 56 when charged if all flames hit.
+InflictsMadnessbuildup on both the caster (4 per flame) and targets (21 normal/28 charged per hit)Note that all but a handful of enemies in PVE are immune to Madness.
+Note that all but a handful of enemies in PVE are immune to Madness.
+When Madness bar is filled, the player will lose FP and take health damage.
+Charging up the skill will create more flames.
+While charging up the spell, the spread of the flame can be manually adjusted by locking off and moving the camera. By aiming the camera upward while charging, one can scatter the flames to a wider radius, and by aiming the camera downward while charging, the flames become more concentrated in a close range.
+The Flame of Frenzyis anincantationinELDEN RING(2022). It is one of theThree Fingers Incantations.
+Incantation originating from the maddeningThree Fingers.
+The flame of frenzy deals damage and causes buildup ofmadness.
+This incantation also causes buildup of madness in the caster, and is only effective againstTarnished.
+Loot:Callu Baptismal Church(Weeping Peninsula)
+The caster shrieks in pain and fires bursts of frenzy flames out of their eyes after a short delay, hitting withFireAttack Powerequal to 107% ofIncantation Scalingand inflicting 21Madnessbuild-up on the enemy and and 4Madness build-up on the caster per bolt sent out.
+Charging the spell increases Fire Attack Power to 124% of Incantation Scaling and theMadness build-up on enemies to 28.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Inescapable Frenzy | Elden Ring Wiki
+Inescapable Frenzyis anIncantationinElden Ring.Inescapable Frenzy spellattaches to an enemy. Other enemies that are close will get madness buildup. Updated toPatch 1.08.
+Incantation originating from the maddening Three Fingers.Causes the yellow flame of frenzy to blaze from the caster's eyes.The caster then latches onto foes, spreading the madness.This incantation also causes buildup of madness in the caster, andis only effective against Tarnished.To gaze into one another's eyes is truly the most intimate form ofhuman contact.
+After making your way pastSubterranean Shunning-Groundsand defeatingMohg, The Omen, attack the altar at the front of the boss room. It should lower revealing a new area. Continue through here until you are forced to platform downwards using stone coffins as platforms. Near the bottom you will see a corpse that hasInescapable Frenzyon it. [Map Link]
+Deals fire damage and causes madness buildup in the caster and the target. This incantation is boosted by effects and items that increase incantation damage (Faithful's Canvas Talisman and Flock's Canvas Talisman), and is also boosted by effects and items that increase fire damage (Fire Scorpion Charm, Flame Shrouded Cracked Tear, etc.).
+This incantation only scales with faith, so the spell buff is only affected by faith.
+Can only be used on Tarnished, and therefore must be used onother players,NPC invaders, ornamed human enemies.
+As of V1.09, the spell effectiveness in damage and angle of attack in PVP has increased. Additional 25% in damage and increased grab angle from 60° to 80°)
+This spell can be used on theFlame Guardiansin theGuardian's Garrisonfort, allowing players to test damage with it before going online.
+Note:Significantly buffed inPatch 1.07- FP cost reduced from 32 to 22 (fixed in patch 1.07.1), recovery time has been shortened. In addition, grapple range has been increased.
+Note:As ofPatch 1.08a bug where the attack power of the right hand weapon was sometimes applied when casting the Inescapable Frenzy Incantation with a two-handed Sacred Seal in the left hand has been fixed.
+Note:As ofPatch 1.09, the Inescapable Frenzy incantation power and grab angle have been increased inPVP only.(Power increased by 25% and angle increased from 60° to 80°)
+Updated to patch1.07. SeePatch Notesfor details.
+Inescapable Frenzyis anincantationspellinELDEN RING(2022). It is one of theThree Fingers Incantations.
+Incantation originating from the maddeningThree Fingers.
+Causes the yellowflame of frenzyto blaze from the caster's eyes. The caster then latches onto foes, spreading themadness. This incantation also causes buildup of madness in the caster, and is only effective againstTarnished.
+To gaze into one another'seyesis truly the most intimate form of human contact.
+その瞳に黄色い狂い火を燃やし対象に掴みかかり、発狂を伝染させる発狂は自術者自身にも蓄積する褪せ人にだけ、効果がある
+Loot:Subterranean Shunning-Grounds(Leyndell, Royal Capital/Leyndell, Ashen Capital)
+The caster shrieks in pain as they grab their head and the flames of frenzy fill their eyes. Afterwards, the caster will then try to latch onto an enemy. If the grab is successful, the caster will stare deep into the enemy's eyes, hitting 8 times withFireAttack Powerequal to 180% ofFaith-basedIncantation Scalingand 50Madnessbuild-up. The grab does not work on enemies unless they areTarnished. The caster takes 14 Madness build-up when the grab lands, and then takes 9 build-up for every tick of damage (72 build-up in total, or 86 with the initial tick from the grab).
+While the grab itself will still do damage on non-Tarnished enemies, it will only be withStandardAttack Power equal to 70% of Incantation Scaling and 50 Madness build-up while the caster takes 14 Madness build-up, and the full effect of the incantation will not play out.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Unendurable Frenzy | Elden Ring Wiki
+Unendurable Frenzyis anIncantationinElden Ring.Unendurable Frenzy spellgrants a violent burst of yellow flame of frenzy from eyes. Updated toPatch 1.07.
+Incantation originating from the maddening Three Fingers.
+Causes the yellow flame of frenzy to violently burst forth from the caster's eyes.Hold to continue channeling the flame. This incantation can be used while in motion.
+It is the maddening pain and unstoppable tears of those afflicted with the flame of frenzy brought into being.
+Unendurable Frenzycan be found in the following location:
+Yelough Anix Ruins: Found in a chest inside an underground treasure room in the central section of the ruins. [Elden Ring Interactive Map Link]In a four walled ruins on the western side. Reachable by double jumping with Torrent from the central building with the sleeping giant.
+In a four walled ruins on the western side. Reachable by double jumping with Torrent from the central building with the sleeping giant.
+Inflicts Madness buildup (40) to opponents and (3) to self.Note that all but a handful of enemies in PVE are immune to Madness.
+Note that all but a handful of enemies in PVE are immune to Madness.
+Continuously shoots semi-random, upward arcing projectiles in an area in front of the caster, and can be continued until the user has no more FP.
+Cerulean Hidden Tearcan be used to cast this spell indefinitely for up to 15 seconds or until the Madness meter is filled completely, andSpeckled Hardtearcan be used to temporarily increase Madness resistance, further raising the casting duration.
+The user has some resistance to stagger when using this spell, so it can trade hits with smaller enemies quite well.
+The wide range of the attack makes it somewhat less effective against smaller, high health enemies.This can be mitigated by free aiming the camera slightly lower than it would otherwise be aiming at a locked on target.  This will cause the projectiles to be fired straight into the target, rather than the normal upward arc.
+This can be mitigated by free aiming the camera slightly lower than it would otherwise be aiming at a locked on target.  This will cause the projectiles to be fired straight into the target, rather than the normal upward arc.
+Madness damage continues to build if the spell is channeled for longer.This limits is effectiveness when coupled with theCerulean Crystal Tearand/orCerulean Hidden Tear, since the spell will be interrupted if the madness meter is filled completely.This also makes it the best item for inflicting Madness on the user, allowing one to trigger theBlack Dumplingeffect more reliably.  However, it takes a considerable FP investment, or low focus to trigger madness in a single use of the spell. The FP investment can be mitigated by usingCerulean Hidden Tear.
+This limits is effectiveness when coupled with theCerulean Crystal Tearand/orCerulean Hidden Tear, since the spell will be interrupted if the madness meter is filled completely.
+This also makes it the best item for inflicting Madness on the user, allowing one to trigger theBlack Dumplingeffect more reliably.  However, it takes a considerable FP investment, or low focus to trigger madness in a single use of the spell. The FP investment can be mitigated by usingCerulean Hidden Tear.
+If madness is NOT triggered by this spell, when the spell ends (either voluntarily, or by consuming all available FP), it will trigger an additional attack, causing the user to throw their head back and shoot projectiles randomly in an area 360 degrees around the caster.  This additional attack is used even if the user has no FP.This makes the spell useful as a crowd clearing tool even if you don't spend huge amounts of FP on itHowever, this makes the spell dangerous to use close to threatening enemies, since the additional attack cannot be interrupted, so you almost ensure that anything that survives the initial attack will be able to counter-attack.
+This makes the spell useful as a crowd clearing tool even if you don't spend huge amounts of FP on it
+Updated to patch1.07. SeePatch Notesfor details.
+In the 1.00 version, Unendurable Frenzy was calledFrenzied Firestorm.
+Unendurable Frenzyis anincantationspellinELDEN RING(2022). It is one of theThree Fingers Incantations.
+Incantation originating from the maddeningThree Fingers.
+Causes the yellowflame of frenzyto violently burst forth from the caster's eyes. Hold to continue channeling the flame. This incantation can be used while in motion.
+It is themaddeningpain and unstoppable tears of those afflicted with the flame of frenzy brought into being.
+Loot:Yelough Anix Ruins(Consecrated Snowfield)
+The caster covers their eyes before continuously sending out a spray of bolts as long as the spell is held, withFireAttack Powerequal to 125% ofincantation Scalingand inflicting 40Madnessbuild-up, and inflicting 4 Madness build-up on the caster per bolt sent out.
+When the spell is no longer held, the caster staggers back and another, short series of bolts is send out around them.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Spira | Elden Ring Wiki
+Spirais anIncantationinElden Ring. It was added with theShadow of the Erdtree DLC.Spiracontinuously conjures spirals of light that erupts at the enemy's feet.
+Superior sorcery of the tower priests,wielded as an incantation of the spiral.
+Wrap one's arms together and hold them up to the heavensto summon a spiral of light that erupts at the enemy's feet.Column of light persists for as long as the button is pressed.
+The spiral is a normalized Crucible current that, one day,will form a column that stretches to the gods.
+Enir-Ilim: From the "First Rise" Site of Grace, head to the west door into the area crowded with Inquisitors, to the upper left is a staircase going up with two Inquisitors. Take it and follow its path, turning right towards the tree. Drop down into the lower branches and follow the right one which takes you into a small platform with a single Inquisitor praying to a statue. The Incantation is in front of it. [Map Link] [Video Link]
+Deals (Incant Scaling x1.6)Holy Damageand3Stancedamage per spiral.
+The caster stands still, assuming a stance and conjuring spiral bursts from below enemies.While in stance, the caster can change targets and the spirals will track the new target.Although being cast below the target, the spirals do not bypass walls.
+While in stance, the caster can change targets and the spirals will track the new target.
+Although being cast below the target, the spirals do not bypass walls.
+Holding cast continuously conjures spirals untilFPor Stamina are depleted.
+Can be used while riding. Torrent stands still.
+Spirais aspellinShadow of the Erdtree. It's one of theSpiral Incantations.
+Superior sorcery of thetowerpriests, wielded as an incantation of the spiral.
+Wrap one's arms together and hold them up to the heavens to summon a spiral of light that erupts at the enemy's feet. Column of light persists for as long as the button is pressed.
+The spiral is a normalizedCruciblecurrent that, one day, will form a column that stretches to the gods.
+捩り結んだ両手を天に掲げ対象の足元から、螺旋の光柱を生じる長押ししている間、光柱は生じ続ける
+Clasp hands in prayer and then raise them to create a sigil that explodes after a moment, with the explosion havingHolyAttack Powerequal to 160% ofIncantation Scaling.
+Continue channeling the incantation to keep the hands raised and send out more pillars, but with less delay between them.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Bayle's Tyranny | Elden Ring Wiki
+Bayle's Tyrannyis anIncantationinElden Ring. It was added with theShadow of the Erdtree DLC.Bayle's Tyrannyis one of the most powerfulDragon Communion Incantations, emiting a mighty roar followed by a heatwave burst.
+One of the greatest Dragon Communion incantations.Harnesses the fearsome power of Bayle the Dread.
+Channels the form of the dread dragon to emit a mighty roar accompanied by a heatwave burst, causing violent eruptions of fire in the area.
+Even after being consumed, the throbbing heart of Bayle continues to resist its subjugation, never weakening. One day, the fire within will consume the very body and soul of its Communion devourer. One day.
+TradeHeart of Bayleat theGrand Altar of Dragon CommunionforBayle's Flame LightningorBayle's Tyranny. [See Shadow of the Erdtree Map]
+Deals mostlyFire Damageand partlyLightning Damage.Start-up lightning deals2Stancedamage.Explosion deals25Stancedamage and knocks down enemies.
+Explosion deals25Stancedamage and knocks down enemies.
+Talisman of the Dreadboosts its damage by15%
+Dragon Communion Sealboosts its damage by15%
+ER Shadow of the Erdtree Dragon God Build Written Guide
+ER Shadow of the Erdtree All Magic Incantations
+ER Shadow of the Erdtree Bayle the Dread Boss Guide
+Bayle's Tyrannyis anincantationspellinShadow of the Erdtree. It is one of theDragon Communion Incantations.
+One of the greatestDragon Communionincantations. Harnesses the fearsome power ofBayle the Dread.
+Channels the form of the dreaddragonto emit a mighty roar accompanied by a heatwave burst, causing violent eruptions offirein the area.
+Even after being consumed, the throbbingheart of Baylecontinues to resist its subjugation, never weakening. One day, the fire within will consume the very body and soul of itsCommuniondevourer. One day.
+Summons the head ofBayleto unleash a shockingly fiery roar, dealingFiredamage equal to 325% ofIncantation ScalingandLightningdamage equal to 210% of the same, and creating patches of heat a short distance away from the caster that can hit up to 7 times for Fire damage equal to 50% of Incantation Scaling and Lightning damage equal to 20% of the same per hit.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Roar of Rugalea | Elden Ring Wiki
+Roar of Rugaleais anIncantationinElden Ring. It was added with theShadow of the Erdtree DLC.Roar of Rugalea spellemits a powerful roar that deals damage.
+An incantation of what is jokingly called "the bear communion."Channels the power of Rugalea, the great red bear.
+Transform oneself into a great red bear and emit a mighty roar.Charging increases potency.
+An incantation that is more akin to the divine invocation of the hornsent than it is to the Dragon Communion.Only through desperate battle with the feral wild can one discover a god unique to oneself.
+Dropped byRugalea the Great Red Bear, located northwest of the "Ravine North" Site of Grace, in the wooded area with many Runebears onRauh Base. [See Shadow of the Erdtree Map]
+Related to theSpiral Tower Incantationsbased on description.Not boosted by theSpiraltree Seal.
+DealsStandard Damage,14Stancedamage uncharged and42fully charged.Uncharged deals (Incant Scaling x1.1) damageFully charged hits12+1times, dealing12x(Incant Scaling x0.45) +1x(Incant Scaling x1.62) damage before defenses.
+Uncharged deals (Incant Scaling x1.1) damage
+Fully charged hits12+1times, dealing12x(Incant Scaling x0.45) +1x(Incant Scaling x1.62) damage before defenses.
+Can be cast while riding. Torrent stands still.
+Roar Medallionboosts damage by10%Doesnotbenefit fromHighland Axe.
+NOTE:Patch 1.13Increased poise damage and attack power.
+Roar of Rugaleais anincantationspellinShadow of the Erdtree. It is the onlyBear Communion Incantation.
+An incantation of what is jokingly called "thebearcommunion." Channels the power ofRugalea, the great red bear.
+Transform oneself into agreat red bearand emit a mighty roar. Charging increases potency.
+An incantation that is more akin to thedivine invocationof thehornsentthan it is to theDragon Communion. Only through desperate battle with the feral wild can one discover agodunique to oneself.
+Guaranteed drop:Rugalea the Great Red Bear
+Creates a red bear's head to roar, causingStandarddamage equal to 355% ofIncantation Scalingin a forwards cone.
+Charging the spell lets out a weaker roar dealing Standard damage equal to 250% of Incantation Scaling, but will also let the user continue to roar for another 12 hits dealing damage equal to 30% Incantation Scaling each and finishing with a roar dealing damage equal to 200% of Incantation Scaling.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Pest Threads | Elden Ring Wiki
+Pest Threadsis anIncantationinElden Ring.Pest Threads spellconjures sticky threads that deal damage to enemies.
+Secretes countless sticky threads, launching them forwards.
+A technique of the pale pests who crawl through the lands afflicted by scarlet rot; the abandoned children of the goddess."Do you have an interest in rot incantations?"
+Sold bySage Gowryfor 7500 Runes after progressingMillicent's quest line and giving her theValkyrie's Prosthesis.
+DealsStandard Damageand 1Stancedamage per hit
+Can hit as few as 6 times on smaller enemies to as many as 30 times for larger enemies
+Does NOT triggerWinged Sword Insignia,Rotten Winged Sword Insignia,Millicent's Prosthesis, or Thorny Cracked Tear
+Very good tracking, therefore can be useful against smaller targets.
+This incantation can do extremely high damage to large boss enemies, even without a significant amount of optimizationThis is because the projectiles do damage to every piece of geometry they pass though, and the wings/arms/legs of larger bosses are counted separately.
+This is because the projectiles do damage to every piece of geometry they pass though, and the wings/arms/legs of larger bosses are counted separately.
+Pest Threadsis anincantationspellinELDEN RING(2022). It is one of theServants of Rot Incantations.
+A technique of the palepestswho crawl through the lands afflicted byscarlet rot; the abandoned children of thegoddess. "Do you have an interest in rot incantations?"
+Quest Item / Purchase:Gowry's Shack(Caelid)
+Send out 6 clusters of thread withStandardAttack Powerequal to 60% ofIncantation Scaling(360% in total) that can penetrate through enemies.
+For larger targets, such asDragons, the threads can hit twice (720% Attack Power in total), and for even larger targets such asFire GiantandDragonlord Placidusaxthey can hit up to three times each (1,080% Attack Power in total).
+
+---
+
+area: Limgrave
+chapter: 1
+name: Watchful Spirit | Elden Ring Wiki
+Watchful Spiritis anIncantationinElden Ring. It was added with theShadow of the Erdtree DLC.Watchful Spiritsummons a Skull Spirit above the caster's head, shooting several projectiles towards foes.
+An entreaty received from the hornsent grandam.
+Summon a guardian spirit above the caster's head.The spirit never strays far from the caster, conjuring several apparitions before dissipating.
+"Take vengeance upon Messmer and his lot.They who betrayed us, aye, they who burned us...Let them face in thy wrath their just deserts."
+Belurat Tower Settlement: Given byHornsent Grandamafter defeating theDivine Beast Dancing Lion. Talk to her twice while wearing theDivine Beast Headto receive this Incantation. [Map Link] [Video Link]
+Spiral Tower IncantationNot boosted by theSpiraltree Seal
+Summons a Skull Spirit which shoots4projectiles every few seconds.Each one deals (Incant Scaling x1.0)Holy Damageand5Stancedamage each (20total).
+Each one deals (Incant Scaling x1.0)Holy Damageand5Stancedamage each (20total).
+Casting takes about2seconds, after which takes more4seconds for the Skull to start firing.
+Can be cast while riding. Torrent walks slowly then stops completely.
+NOTE:Patch 1.13: Improved enemy tracking.
+Watchful Spiritis anincantationspellinELDEN RING(2022). It is one of theDivine Beast incantations.
+An entreaty received from thehornsent grandam.
+Summon a guardian spirit above the caster's head. The spirit never strays far from the caster, conjuring several apparitions before dissipating.
+"Take vengeance uponMessmerand his lot.They who betrayed us, aye, they who burned us...Let them face in thy wrath their just deserts."
+Slowly summons a floating skull above the caster's head, which then shoots 4 projectiles withHolyAttack Power equal to 100% ofIncantation Scalingeach, one after another.
+
+---
+

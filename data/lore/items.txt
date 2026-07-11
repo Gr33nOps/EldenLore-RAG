@@ -1,0 +1,991 @@
+area: Limgrave
+chapter: 1
+name: Elden Ring Wiki
+Elden Ring Wiki Guide: Walkthrough, Multiplayer, Bosses, Secrets, Riding, Skills and more for Elden Ring! The latest From Software RPG in collaboration with George. R.R. Martin!
+ELDEN RING FILM: EVERYTHING SO FAR!
+NightreignStandalone Co-op Spin-off is announced!
+Read:Bandai Namco Unveils Elden Ring Nightreign
+In a recent interview, game directorJunya Ishizakishared key insights into the development ofElden Ring Nightreign. The game draws from the lore and setting ofElden Ring, offering a unique spin-off that takes place in a parallel world, diverging after theFracture War. The game introduces new gameplay elements, including a 3-day cycle, 3-player co-op, and an emphasis on challenge without an easy mode.
+Key gameplay mechanics revealed in the interview include "Relics" for character progression, a randomized map with dynamic changes, and a focus on cooperative play with no PvPvE or battle royale modes. While bosses may become stronger after being defeated, small enemies won’t respawn, and players will face a dynamic world with different weapons, items, and bosses each time. The game also introduces a new currency, "Marks," which can be used to obtain powerfulRelics, which are items that permanently enhance character abilities, as well as cosmetic items like gestures and skins.
+The development team prioritized a balanced, condensed RPG experience, where players can explore character backstories and enjoy a multiplayer dynamic that offers fresh challenges. Junya Ishizaki also emphasized the decision to focus on 3-player co-op, ensuring a rewarding experience that deviates from traditional multiplayer RPGs. Nightreign is also being developed as a standalone, one-time purchase game, with FromSoftware confident that its fun and rewarding gameplay will resonate with players, regardless of the current trends in live-service games.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Erdtree | Elden Ring Wiki
+TheErdtreeis an enormous, luminous tree located in the Lands Between. InElden Ring, it serves a central purpose in the game's story andlore. TheErdtreelies inLeyndell, Royal Capital, and housesQueen Marika the Eternal. Players must reach it in order to become Elden Lord. TheErdtreewill change depending on the achievedending. SeeErdtree Incantationsfor the related spell class.
+The Erdtree governs all. The choice is thine. Become one with the Order. Or divest thyself of it."
+The Erdtree's primordial form was theCrucibleof life, but it began to take shape after Queen Marika's ascension to godhood as anEmpyreanchosen by theTwo Fingers. She became a god at the Gate of Divinity inEnir-Ilimlong ago. She planted theGolden Seedsometime during the War against the Fire Giants, ushering in a new age named after the Erdtree once the Giants were defeated. This new age was led byGodfrey, First Elden Lord. Many opposed the Erdtree and its rule, but through countless victories in war, it became the embodiment of Order according to theProtection of the Erdtreedescription. This would align it with theElden Beast, a vassal of theGreater Willand living incarnation of the concept of Order. The age was marked with abundance, as the Erdtree offered numerous blessings to valiant warriors who would fight on its behalf, given out by Queen Marika herself. Some of these warriors would form a pact with the Erdtree to be reborn asGuardiansafter death. To many, dying a true death meant returning to the Erdtree in spirit. Evendemigodsand great champions are hewn by the Erdtree upon their end and turned into remembrances. It was once thought that the bounty of the Erdtree would last forever, but that age of plenty would not last, and with time the Erdtree became more an object of faith.
+A transition of power arose when Godfrey and his men were stripped of the grace of gold andRadagon of the Golden Orderbecame the second Elden Lord. Things escalated whenthe Night of the Black Knivesoccurred andGodwyn the Goldenwas unjustly slain. He would be buried beside the Erdtree's roots, andDeathrootwould run rampant across the catacombs in the Lands Between. The Erdtree was irrevocably ravaged when the Elden Ring was shattered into shards by Queen Marika, and Radagon sealed the Erdtree with protective thorns while attempting to repair the Ring. Golden seeds dispersed from the Erdtree because of this event, as if life itself knew that its end had come. Some of these seeds grew into Minor Erdtrees defended byErdtree Avatars. Perhaps through the Erdtree Avatars andUlcerated Tree Spirits, the Erdtree let its wrath be known. The shardbearing demigods would wage a war known asthe Shatteringin the wake of Marika's betrayal. During this timeMorgott, the Omen Kingwould protect Leyndell in Queen Marika and Lord Radagon's absence, and would remain there to deter any who would approach the Erdtree.Gideonwould discover the truth about the Erdtree, that it had been broken long ago. In a land veiled in shadow, the Scadutree is said to be theShadow of the Erdtreeand shines with its grace.
+Source fromEdge Magazine(#367Boss EncounterbyJason Killingsworth)
+Source fromIGN(Elden Ring: The Big Hidetaka Miyazaki Interview - Summer of GamingbyMitchell Saltzman)
+
+---
+
+area: Limgrave
+chapter: 1
+name: Golden Seed | Elden Ring Wiki
+Golden Seedsare anUpgrade Materialand optionalKeepsakeinElden Ring. Upgrade Materials can be acquired through exploration, looting from specific areas, dropped by anEnemyorBoss, given by anNPC, or sold by aMerchant.
+Golden Seeds are very special items that allow the user to upgrade the number ofCrimsonandCeruleanFlask charges (but not the amount ofFlask of Wondrous Physickuses).
+You can get far more than 30 Seeds in your first play-through (without going intoNew Game Plus) so you don't have to find all of them to upgrade your flasks to max level.
+Golden Seedlocations: Golden Seeds are found near errant golden branches of the Erdtree:
+
+---
+
+area: Limgrave
+chapter: 1
+name: Sacred Tear | Elden Ring Wiki
+Sacred Tearsare anUpgrade MaterialinElden Ring. Sacred Tears are very special items that allow the user to upgrade theCrimsonandCeruleanFlask Potency to +12 (but not the potency of theFlask of Wondrous Physick).
+A total of 12 Sacred Tears are found at churches, generally in front of the statue or altar.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Stonesword Key | Elden Ring Wiki
+Stonesword Keyis aKey Itemand optionalKeepsakeinElden Ring.Stonesword Keycan be used to break one imp statue seal.Key ItemsinElden Ringinclude a wide variety of items found in specific locations or are given by a relatedNPCswhich are used to unlock areas, quests, and to further progress the game's story.
+Stoneword Keyscan be used to open Imp Statues which contain loot.Stonesword Keysare consumed upon use.
+Here is a complete list of all Imp Statues that can be opened withStonesword Keys:
+
+---
+
+area: Limgrave
+chapter: 1
+name: Larval Tear | Elden Ring Wiki
+Larval TearsareKey ItemsinElden Ring. A Larval Tear is a material needed byRennalato grantrebirth. Key Items in Elden Ring include a wide variety of items found in specific locations or given by a relatedNPC, which are used to unlock areas, quests, and to further progress the game's story.
+Larval Tears in the Realm of Shadow can be found in the middle of a ring of glowing gravestones that glow blue. These locations and the Larval Tears within only appear during nighttime.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Remembrance of the Grafted | Elden Ring Wiki
+Remembrance of the Graftedis aConsumable IteminElden Ring. MostConsumablesgrant various effects such as restorative properties for recovering HP, removing certain negative status effects or applying temporary buffs and debuffs, while others can be thrown at enemies to deal damage.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Remembrance of the Full Moon Queen | Elden Ring Wiki
+Remembrance of the Full Moon Queenis aConsumable IteminElden Ring. MostConsumablesgrant various effects such as restorative properties for recovering HP, removing certain negative status effects or applying temporary buffs and debuffs, while others can be thrown at enemies to deal damage.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Remembrance of the Starscourge | Elden Ring Wiki
+Remembrance of the Starscourgeis aConsumable IteminElden Ring. MostConsumablesgrant various effects such as restorative properties for recovering HP, removing certain negative status effects or applying temporary buffs and debuffs, while others can be thrown at enemies to deal damage.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Remembrance of the Omen King | Elden Ring Wiki
+Remembrance of the Omen Kingis aConsumable IteminElden Ring. MostConsumablesgrant various effects such as restorative properties for recovering HP, removing certain negative status effects or applying temporary buffs and debuffs, while others can be thrown at enemies to deal damage.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Remembrance of the Fire Giant | Elden Ring Wiki
+Remembrance of the Fire Giantis aConsumable IteminElden Ring. MostConsumablesgrant various effects such as restorative properties for recovering HP, removing certain negative status effects or applying temporary buffs and debuffs, while others can be thrown at enemies to deal damage.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Remembrance of the Black Blade | Elden Ring Wiki
+Remembrance of the Black Bladeis aConsumable IteminElden Ring. MostConsumablesgrant various effects such as restorative properties for recovering HP, removing certain negative status effects or applying temporary buffs and debuffs, while others can be thrown at enemies to deal damage.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Remembrance of the Naturalborn | Elden Ring Wiki
+Remembrance of the Naturalbornis aConsumable IteminElden Ring. MostConsumablesgrant various effects such as restorative properties for recovering HP, removing certain negative status effects or applying temporary buffs and debuffs, while others can be thrown at enemies to deal damage.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Remembrance of the Rot Goddess | Elden Ring Wiki
+Remembrance of the Rot Goddessis aConsumable IteminElden Ring. MostConsumablesgrant various effects such as restorative properties for recovering HP, removing certain negative status effects or applying temporary buffs and debuffs, while others can be thrown at enemies to deal damage.
+•In 日本語, they are described as being:
+脆 = brittle, frail, sentimental, easy to beat (i.e.the body is easy to enter, whether it's pathogens... or overly sentimental)
+> So it can be seen why the official translation would go with: "cursed"Yet, for anyone that's heard "I am Malenia. Blade of Miquella,"...for the 100th time... knows that at least one of the twins is far... far... from "weak" or "easy to beat."
+
+---
+
+area: Limgrave
+chapter: 1
+name: Remembrance of the Blood Lord | Elden Ring Wiki
+Remembrance of the Blood Lordis aConsumable IteminElden Ring. MostConsumablesgrant various effects such as restorative properties for recovering HP, removing certain negative status effects or applying temporary buffs and debuffs, while others can be thrown at enemies to deal damage.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Remembrance of the Blasphemous | Elden Ring Wiki
+Remembrance of the Blasphemousis aConsumable IteminElden Ring. MostConsumablesgrant various effects such as restorative properties for recovering HP, removing certain negative status effects or applying temporary buffs and debuffs, while others can be thrown at enemies to deal damage.
+Remembrance of the Blasphemouscan be found in the following location:
+
+---
+
+area: Limgrave
+chapter: 1
+name: Remembrance of the Dragonlord | Elden Ring Wiki
+Remembrance of the Dragonlordis aConsumable IteminElden Ring. MostConsumablesgrant various effects such as restorative properties for recovering HP, removing certain negative status effects or applying temporary buffs and debuffs, while others can be thrown at enemies to deal damage.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Miquella's Needle | Elden Ring Wiki
+Miquella's Needleis aKey IteminElden Ring.Key ItemsinElden Ringinclude a wide variety of items found in specific locations or are given by a relatedNPCswhich are used to unlock areas, quests, and to further progress the game's story.
+Miquella's Needleis obtained after reaching one of the two possible conclusions toMillicent'squestline, and returning theUnalloyed Gold Needleto the Scarlet Aeonia left afterMalenia, Blade of Miquella'sfight.
+Miquella's Needleis used atDragonlord Placidusax'sarena atCrumbling Farum Azulato reverse theThree Fingers' flame of frenzy. This is the only way to undo the Lord of Frenzied Flameending. To use it, simply select it from your inventory anywhere in the arena. Fighting Placidusax is NOT necessary to use the needle, simply being at the boss arena will do. The Dragon's area can also be accessed after defeated, so players can access the area even if they kill it to use the needle
+
+---
+
+area: Limgrave
+chapter: 1
+name: Frenzied Flame Seal | Elden Ring Wiki
+Frenzied Flame Sealis aSacred SealinElden Ring. It is the mark of the future Lord ofFrenzied Flame. TheFrenzied Flame Sealscales primarily withFaithin addition to three other stats and is a goodWeaponfor Frenzied Flame incantations.
+The Frenzied Flame Seal weapon can be found at the following location:
+Patch 1.10adjustedPVP Poise Damageof all Weapons including someSpellsandIncantations. Please take note that these adjustments are exclusive toPVP.
+Please see theUpgradespage to understand the weapon bolstering process.
+Requires regular reinforcement withSomber Smithing Stones.
+The Incantation Scaling displayed on this table shows Int / Fai / Dex / Str 45 as xx. Will experience scaling fall off past 45, and must be very high level for more investment.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Erdtree's Favor | Elden Ring Wiki
+Erdtree's Favoris aTalismaninElden Ring.Erdtree's Favorraises user's maximumHP,Stamina, andEquip Load. Players can use talismans in Elden Ring to boost a variety ofStats.
+Erdtree's FavorincreasesHP(3%),Stamina(7%), andEquip Load(5%).
+The variants of theErdtree's Favorprovide the following effect per rank (increasing):
+Erdtree's Favorcan be found atFringefolk Hero's Grave: To get there, use twoStonesword Keyson the double Imp Keystone next to theStranded GraveyardSite of Grace. This will lead to a mini-dungeon with traps. Head down until you see the path narrow on both sides and drop drown at the edge to get access to the secret area. Proceed past the imps and a fire trap to find the item resting at an altar. Two Grafted Scions wait hanging above, so be sure to avoid them when they land and grab it quickly. [Map link]
+Where to findErdtree's Favorvariants:
+
+---
+
+area: Limgrave
+chapter: 1
+name: Two Fingers Heirloom | Elden Ring Wiki
+Two Fingers Heirloomis aTalismaninElden Ring. Two Fingers Heirloom raisesFaithby 5. Players can use talismans in Elden Ring to boost a variety ofStats.
+Two Fingers Heirloom raisesFaithby 5.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Blessed Dew Talisman | Elden Ring Wiki
+Blessed Dew Talismanis aTalismaninElden Ring. Players can use talismans in Elden Ring to boost a variety ofStats.
+Blessed Dew Talisman restores 2HPper second.
+Where to find Blessed Dew Talisman:
+
+---
+
+area: Limgrave
+chapter: 1
+name: Radagon Icon | Elden Ring Wiki
+Radagon Iconis aTalismaninElden Ring. Radagon Icon shortens the casting time ofSpells. Players can use talismans in Elden Ring to boost a variety ofStats.
+Radagon Icon shortens the casting time ofSpells.
+InRaya Lucaria Academy, the talisman is found inside a treasure chest on the second floor near theDebate ParlorSite of Grace. From the Site of Grace, head north into the courtyard.
+Make two hard rights, hugging the building's wall, and then jump over the fence -- you should see a ladder in front of you.
+Climb up the ladder and head through the broken glass window.
+The treasure chest is in the north section. [Map link] [Video location]
+
+---
+
+area: Limgrave
+chapter: 1
+name: Marika's Soreseal | Elden Ring Wiki
+Marika's Soresealis aTalismaninElden Ring. Marika's Soreseal raisesMind,Intelligence,Faith, andArcaneby 5 each, but increases damage taken by 15%. Easily confused with the separate talisman:Marika's Scarseal. Players can use talismans in Elden Ring to boost a variety ofStats.
+Marika's Soreseal raisesMind,Intelligence,Faith, andArcaneby 5 each, but increases damage taken by 15%.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Radagon's Soreseal | Elden Ring Wiki
+Radagon's Soresealis aTalismaninElden Ring. Radagon's Soreseal raisesVigor,Endurance,Strength, andDexterityby 5 each, but increases damage taken by 15%. Easily confused with the separate talisman:Radagon's Scarseal. Players can use talismans in Elden Ring to boost a variety ofStats.
+Radagon's Soreseal raisesVigor,Endurance,Strength, andDexterityby 5 each, but increases damage taken by 15%
+From theFort FarothSite of Grace, run into the fort and pass the bats and harpies. Climb up the ladder, make a right and jump down the scaffolding onto the roof. Run past the first two big holes on the floor; go down the ladder of the third one. Facing away from the ladder, follow the wall to your immediate right until it ends and you find some planks resting on it. Break the planks and jump to the room they were hiding. Continue past the big rat and jump down where the ladder is. Facing away from the ladder, turn left twice and you'll find the Talisman on the corpse.
+DISCLAIMER: The data and test below WHILE VALID ignore the simple fact that Radagon's Soreseal reduces all dmg negation by 15% FLAT. There fore the damage taken will always be proportional to your REMAINING DEFENSIVE STATS, AND THUS REDUCED WITH HIGHER STATS AND ARMOR.
+Below are test results to determine the damage increase received by Radagon’s Soreseal. Method was to receive a certain type of attack twice, once with the talisman equipped, one unequipped, with a full heal in between. The enemies were chosen to represent a variety from early game to end game, and to get as wide a range of numbers as possible. PLEASE NOTE THAT THIS TESTING IS NOT CATEGORICALLY REPRESENTATIVE OF ALL POSSIBILITES.  Just as in all things Elden Ring, factor your build into determining if this talisman is right for you.
+-With Soreseal: Phys. Defense/Dmg. Negation = 131/5.594 Max HP = 1216
+-Without Soreseal: 124/17.908 Max HP = 994
+Godrick Swordsman, Light right swing
++4 damage taken. 8.88% damage increase.
+Godrick Swordsman, Charged heavy swing
++20 damage taken. 12.9% damage increase.
+Secluded Cell Troll, Hand swipe
++36 damage taken. 13.333% damage increase.
+Grand Lift of Dectus Stone Golem, Reaching halberd smash
++61 damage taken. 13.73% damage increase.
+Black Blade Kindred, Sword Thrust (as written in wiki page)
++119 damage taken. 15.0% damage increase.
+Observations: As expected, this talisman operates very similarly to Radagon’s Scarseal, just with increased numbers. Low base attack damage results in a lower percentage of damage increase, where higher base attack damage results in a higher percentage of damage increase. Note, however, that not all of the percentage increase in these tests comes from the talisman - Some is coming from the way Elden Ring calculates received damage.
+It seems safe to estimate that Radagon’s Soreseal increases received damage by around 12-13%, with some outliers; inconsistencies are inevitable. Importantly, though, is that your Hits to KO stays the same, or even increases with the talisman equipped; Therefore, paired with its other stat-boosting effects, survivability is increased considerably with Radagon’s Scarseal/Soreseal.
+NEW TEST RESULTS reveal that going past the vigor softcap (40) gives diminishing returns for effective health (Hits to KO). Past 40 VIG, this talisman's efficacy in regards to character durability may decrease drastically.
+23% DMG NEG TEST- With Soreseal: Phys Def/Dmg Neg = 130/23.032 Max HP 1216
+- Without Soreseal: 123/33.071 Max HP 994
+Godrick Swordsman, Light right swing
+40 VIG TEST-With Soreseal: Phys Def/Dmg Neg = 130/5.594 Max HP 1581 (Vigor 40+5)
+-Without Soreseal: Phys Def/Dmg Neg = 123/17.908 Max HP 1450
+Godrick Swordsman, Light right swing
+COMBINED TESTWith Soreseal: Phys Def/Dmg Neg = 130/23.032 Max HP 1581
+Without Soreseal: Phys Def/Dmg Neg = 123/33.071 Max HP 1450
+Godrick Swordsman, Light right swing
+
+---
+
+area: Limgrave
+chapter: 1
+name: Moon of Nokstella | Elden Ring Wiki
+Moon of Nokstellais aTalismaninElden Ring.Moon of NokstellaincreasesMemory Slotsby 2. Players can useTalismansin Elden Ring to boost a variety ofStats.
+Moon of NokstellaincreasesMemory Slotsby 2.
+Where to findMoon of Nokstella:
+
+---
+
+area: Limgrave
+chapter: 1
+name: Rune Arc | Elden Ring Wiki
+Rune Arcis aConsumable IteminElden Ring.Rune Arc is a special consumablethat activates the effects of your equippedGreat Rune. If you don't use a Rune Arc, your rune is dormant and its effects aren't applied to your character. Rune Arc boost is lost upon death. They cannot be crafted, but they can be farmed.They can only be used offline or by the host of fingers in multiplayer.
+Giant Ratshave a small chance to drop Rune Arcs
+Earthbore Cavehas 7 small Giant Rats and 1 large Giant Rat.  It takes just over a minute to kill them all and reset at the Grace.
+The Rampart Gaol inCastle Mornehas 4 Giant Rats that can be farmed and reset in just under 30 seconds.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Smithing Stones | Elden Ring Wiki
+Smithing StonesareUpgrade MaterialsinElden Ring.Smithing Stonesare used to upgrade regularWeaponsandShields. This page covers a full list of all theSmithing StonesinElden Ringwhich includes information regarding description, location, and usage.
+You can visit theUpgradespage to learn more about the Upgrade Mechanics ofElden Ring.
+The best place to find regular Smithing Stones in bulk are in tunnels around the world. Once you’ve opened a map to a new place, you can find new tunnels by looking for a small black semi-circles surrounded by a faint orange outline on the map. It isn't possible to get a +24 weapon without clearing some dungeons (namelyLeyndell), but you can get at least up to a +15 right at the beginning of the game just through exploration and avoiding enemies.
+Starting fromLimgrave, head up north toStormhilland go to the cliffside southeast of theWarmaster’s Shackwhere a bunch ofTrollsare hanging out. Make one destroy the stone statue in the area to get 5Smithing Stone (1)and aSmithing Stone (2). Next head south to theLimgrave Tunnelsto find 8 moreSmithing Stone (1). In tunnels, Smithing Stones can be found on the walls or floors where enemy miners are currently mining, as yellow crystals on the ground, or on corpses lying around.
+Exit the tunnel and follow the road going up north toStormhill. When you get to the end of the collapsed bridge, jump down to the cliffside on the left and follow the path up toLiurnia of the Lakes. Head northwest to find 3Smithing Stone (2)in a gazebo southwest of theTemple Quarter. In the southwestern part of theAcademy Gate Town, you’ll find another 3Smithing Stone (2)on a corpse near aGiant Crab. Head southeast to find a gazebo with 3Smithing Stone (3)in it and slightly further north is a corpse on a chair with another 3Smithing Stone (3). Make your way up north to theRaya Lucaria Crystal Tunnelto collect the rest of your Smithing Stone (2) and (3). You can find 5Smithing Stone (2)and 8Smithing Stone (3)there. You can also obtain theSmithing-Stone Miner's Bell Bearing (1)by defeating the boss here to buy unlimited Smithing Stone (1) and (2) at the Twin Maiden Husk if you wish.
+Head up north to theRuin-Strewn Precipiceto find 9Smithing Stone (4)and 2Smithing Stone (5). Teleport back to Limgrave and take the teleporter chest at theDragon-Burnt Ruinsto get to theSellia Crystal Tunnel. There, you will find 8Smithing Stone (5). Head west and enter theGael Tunnelto find 8 moreSmithing Stone (4). You’ll have to interact with the Site of Grace near the end to leave. You can find the last 2Smithing Stone (5)atRedmane Castle.
+Upgrading your weapon past +15 will require you to progress in the game. Finding higher level Smithing Stones in tunnels is harder and you may have to rely on the unlimited stock you get from finding their respective Bell Bearing. You can obtain the two halves of the medallion for theGrand Lift of Dectuswithout fighting to take you toAltus Plateau. TheSealed Tunnelhouses 3Smithing Stone (6)and theSmithing-Stone Miner's Bell Bearing (2)for an unlimited stock of Smithing Stone (3) & (4). You'll find theSmithing-Stone Miner's Bell Bearing (3)atZamor Ruinsin theMountaintops of the Giantsfor unlimited Smithing Stone (5) & (6). TheYelough Anix TunnelinConsecrated Snowfieldhas 8Smithing Stone (8)and you can obtain theSmithing-Stone Miner's Bell Bearing (4)for unlimited Smithing Stone (7) & (8) by defeating theGodskin DuoatCrumbling Farum Azula.
+The earliestAncient Dragon Smithing Stoneyou can acquire is from helpingJerrenat the end ofSellen'squestline. You'll have to progress far enough to defeatRennalaat theAcademy of Raya LucariaandRadahnduring the festival at Redmane Castle to be able to finish this quest and obtain the stone.
+Smithing-Stone Miner's Bell BearingsareKey Itemsin Elden Ring that play a crucial role in upgrading your equipment. These can be offered to theTwin Maiden Husksat theRoundtable Hold, unlocking the ability to purchase an unlimited supply of Smithing Stones. Obtaining these smithing stone bell bearings will enhance the weapon of your choice, helping the player progress through the challenging bosses and enemies they will encounter.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Scadutree Fragment | Elden Ring Wiki
+Scadutree Fragmentis anUpgrade MaterialinElden Ring,debuting in theShadow of the ErdtreeDLC. Scadutree Fragments are optional consumables that can be used to simultaneously enhance offensive and defensive capabilities at anySites of Grace, acting like a permanent boost to your damage dealt and damage negation in theLand of Shadow.
+With the calibration update 1.12.2 attack and damage negation curve scaling of theScadutree Blessinghave been revised. The attack and damage negation has been increased for the first half of the maximum amount of Blessing enhancements, and the second half will be more gradual. The attack and damage negation granted by the final level of Blessing enhancements has been slightly increased.
+As you journey through the Realm of Shadow, you'll come across Scadutree Fragments. After finding one, rest at anySite of Graceto access the new Shadow Realm Blessing tab. In this menu, you can spend your Scadutree Fragments to level up your character in a unique way. Enhancing yourScadutree Blessingincreases the damage you deal and reduces the damage you take. However, the cost inScadutree Fragmentsrises with each level. Keep in mind that your Scadutree Blessing only applies while inside the Realm of Shadow and has no effect in the Lands Between (the base game).
+Although this mechanic is optional, enemies and bosses in the Realm of Shadow are extremely challenging without them. If you're struggling with damage output or survivability, consider exploring to level up your Scadutree Blessing before facing more bosses. You don't need to max out your Scadutree Blessing; while it continues to increase your stats, the first 12 levels provide the most significant boost, with diminishing returns afterward. You can review the exact effects of each Scadutree Blessing level below.
+You can find all of these items in our Shadow of the Erdtree Map, however there are 10 Scadutree Fragments you easily acquire in the first region before facing a singleBoss. This guide will get you to Scadutree Blessing level 5 with one additional fragment left over. If you need more, there is a second part to this guide that details how to get into the next region early and get to Scadutree Blessing level 10.
+This next section involves getting into the next region early. If you do not want to explore past Gravesite Plain at this moment, you can stop reading until you reach this region through normal boss progression.
+From the Castle Front site of grace, run south until you see theRuined Forge Lava Intake. There is a path leading downwards to the left of this dungeon, follow it and it will take you to a poison swamp. Traverse the swamp and you will find a sealed spirit spring to the east, going past theElder's Hovelon the way. There is a pile of rocks nearby that you have to break before jumping up. After doing so, jump up the second spirit spring, but aim directly northeast while doing so to land outside the fort (alternatively, land on the fort and activate the Back ofFort of ReprimandGrace, then fight your way out). Run around the fort to the front entrance and go through the cave to the north. This path will take you toScadu Altuswhere you can collect some more easy fragments. Head north past theGhostflame Dragonto findMoorth Ruinsfor the next few fragments.
+You should have collected 20 Scadutree Fragments if you followed the guide fully. This gets you up to Scadutree Blessing level 10, which should be more than enough for the first few bosses. You can find a list of all Scadutree Fragments at the bottom of this page.
+Users are able to upgrade theShadow Realm Blessingby usingScadutree Fragmentat anySites of Grace. (as of patch 1.12.2):
+Where to Find All Scadutree Fragments: Scadutree Fragmentin the newShadow of the ErdtreeDLC is somewhat similar toGolden SeedsorSacred Tears. It can be found in key locations and is scattered everywhere, often off the beaten path. Exploring off the beaten path is crucial to fully maximizing yourShadow Realm Blessingand increasing your chances of successfully completing the DLC. For example, if you find an encampment of knights with a mini-boss, there is likely to be aScadutree Fragmentnot too far away. Therefore, diligently exploring and venturing off the main paths will be essential to uncovering these blessings and optimizing your gameplay experience.There are 50 Scadutree Fragments found in Elden Ring Shadow of the Erdtree.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Revered Spirit Ash | Elden Ring Wiki
+Revered Spirit Ashis anUpgrade MaterialinElden Ring,debuting in theShadow of the ErdtreeDLC. These special items are optionalUpgrade Materialsthat can be used at anySites of Graceto boost summoned spirits and the spectral steed's abilities to deal and negate damage.
+As players progress through their journey, they will encounterRevered Spirit Ash. Upon amassing a sufficient number of these items, they will have the opportunity to rest at anySites of Grace, where a new option becomes available to enhance theShadow Realm Blessing. This blessing bolsters both summoned spirits and the spectral steed's abilities to deal and negate damage. It's important to note that this process is entirely voluntary and can be ignored if desired.
+In essence, this mechanic (Shadow Realm Blessing)allows for a more strategic approach to gameplay, offering players the flexibility to tailor their experience according to their preferences and playstyle. By highlighting the importance of damage management, it ensures a dynamic and engaging gaming experience without compromising existing mechanics and character development options.
+Do note that the benefits of theShadow Realm Blessing ONLYwork in the Realm of Shadows. When players return to the Lands Between (which is the base game), these blessings won't have any effect.
+Users are able to upgrade theShadow Realm Blessingby usingRevered Spirit Ashat anySites of Grace.  (as of Patch 1.12)
+Get these Revered Spirit Ashes by simply running to these locations:
+Where to Find Revered Spirit Ashes in Elden Ring: Revered Spirit Ashin the newShadow of the ErdtreeDLC is somewhat similar to theScadutree Fragments,Golden SeedsorSacred Tears. It can be found in key locations and is scattered everywhere, often off the beaten path. Exploring off the beaten path is crucial to fully maximizing yourShadow Realm Blessingand increasing your chances of successfully completing the DLC. It can also be obtained as random loot from enemies.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Remembrance of the Impaler | Elden Ring Wiki
+Remembrance of the Impaleris aConsumable IteminElden Ring. It is a brand-newRemembrancein theShadow of the Erdtree DLC. MostConsumablesgrant various effects such as restorative properties for recovering HP, removing certain negative status effects or applying temporary buffs and debuffs, while others can be thrown at enemies to deal damage.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Remembrance of the Dancing Lion | Elden Ring Wiki
+Remembrance of the Dancing Lionis aConsumable IteminElden Ring. It is a brand-newRemembrancein theShadow of the Erdtree DLC. MostConsumablesgrant various effects such as restorative properties for recovering HP, removing certain negative status effects or applying temporary buffs and debuffs, while others can be thrown at enemies to deal damage.
+Remembrance of the Dancing Lion
+
+---
+
+area: Limgrave
+chapter: 1
+name: Remembrance of the Twin Moon Knight | Elden Ring Wiki
+Remembrance of the Twin Moon Knightis aConsumable IteminElden Ring. It is a brand-newRemembrancein theShadow of the Erdtree DLC. MostConsumablesgrant various effects such as restorative properties for recovering HP, removing certain negative status effects or applying temporary buffs and debuffs, while others can be thrown at enemies to deal damage.
+Remembrance of the Twin Moon Knight
+
+---
+
+area: Limgrave
+chapter: 1
+name: Remembrance of the Saint of the Bud | Elden Ring Wiki
+Remembrance of the Saint of the Budis aConsumable IteminElden Ring. It is a brand-newRemembrancein theShadow of the Erdtree DLC. MostConsumablesgrant various effects such as restorative properties for recovering HP, removing certain negative status effects or applying temporary buffs and debuffs, while others can be thrown at enemies to deal damage.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Remembrance of the Mother of Fingers | Elden Ring Wiki
+Remembrance of the Mother of Fingersis aConsumable IteminElden Ring. It is a brand-newRemembrancein theShadow of the Erdtree DLC. MostConsumablesgrant various effects such as restorative properties for recovering HP, removing certain negative status effects or applying temporary buffs and debuffs, while others can be thrown at enemies to deal damage.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Remembrance of a God and a Lord | Elden Ring Wiki
+Remembrance of a God and a Lordis aConsumable IteminElden Ring. It is a brand-newRemembrancein theShadow of the Erdtree DLC. MostConsumablesgrant various effects such as restorative properties for recovering HP, removing certain negative status effects or applying temporary buffs and debuffs, while others can be thrown at enemies to deal damage.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Miquella's Cross | Elden Ring Wiki
+Miquella's Crossesare points of interestinElden Ringdebuting in theShadow of the ErdtreeDLC. Miquella's Crosses are scattered throughout the Realm of Shadow, which mark locations where the EmpyreanMiquellashed his flesh. This page covers all the locations of Miquella's Crosses in Elden Ring's Shadow of the Erdtree expansion.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Rune of Death
+"The Rune of Death goes by two names; the other is Destined Death. The forbidden shadow, plucked from the Golden Order upon its creation..."
+TheRune of Death(死のルーン,Shi no Rūn), also known asDestined Death(運命の死,Unmei no Shi), is a rune of theElden Ring.The Golden Orderwas created by confining the Rune of Death.[1][2]
+Prior to the creation of the Golden Order, the power of the Rune of Death was the source of the power of the god-slaying black flames,[3]which were channeled by theEmpyreanknown as theGloam-Eyed Queenfrom herGodslayer Greatsword.[4]She led theGodskin Apostles, who served Destined Death, until her defeat byMaliketh, the Black Blade, the loyalshadowofQueen Marika the Eternal. Following this, the Rune of Death was sealed away and the true power of the black flame was lost.[3][5]The sealing away of the Rune of Death was the beginning of the Golden Order,[2]and its power was harbored withinMaliketh's black greatsword.
+The sealing of the Rune of Death involved removing the fated deaths of thedemigodsfrom the Elden Ring, granting them immortality.[6]However, at a later point in history, during theNight of Black Knives, a fragment of the Rune of Death was stolen from Maliketh byRanni the Witch, who used it to create the godslaying black knives through fearsome rite.[7]On that night, theBlack Knife Assassinsused the black knives to murderGodwyn the Golden, the first death of a demigod in all history.[8]However, due to Ranni the Witch carving the cursemark of Destined Death into her flesh at the same moment as Godwyn's death, he was unable to die a proper death and perished in soul alone, becoming the Prince of Death.[9][10]Meanwhile, Ranni's flesh perished and her soul continued to live.[10]
+Godwyn was buried below the capital at the Erdtree's roots.[11]The fragment of the Rune of Death spread through the great underground roots of the Erdtree, sprouting in the form ofDeathroot,[12]and leading to the birth ofThose Who Live in Death.[13]
+After the Night of Black Knives, Maliketh bound his sword within his own flesh in order to ensure that none would ever steal Death again.[14]In the guise ofGurranq, the Beast Clergyman, he would attempt to reassemble the Rune of Death by consuming Deathroot.[15]To this end, he employed the likes ofD, Hunter of the Dead, and later,the Tarnishedto retrieve Deathroot for him from throughout theLands Between.
+The Rune of Death was later unbound by the Tarnished defeating Maliketh inCrumbling Farum Azula, in their attempt to burn the impenetrable thorns blocking the entrance to theErdtree, in order to becomeElden Lord.[16]
+
+---
+
+area: Limgrave
+chapter: 1
+name: Cursemark of Death | Elden Ring Wiki
+Cursemark of Deathis aKey IteminElden Ring.Key ItemsinElden Ringinclude a wide variety of items found in specific locations or are given by a relatedNPCwhich are used to unlock areas, quests, and to further progress the game's story.
+Cursemark carved into the discarded flesh of Ranni the Witch.Also known as the half-wheel wound of the centipede.
+This cursemark was carved at the moment of Death of the first demigod,and should have taken the shape of a circle.
+However, two demigods perished at the same time,breaking the cursemark into two half-wheels.
+Ranni was the first of the demigods whose flesh perished,while the Prince of Death perished in soul alone.
+Found onRanni'sdiscarded corpse lying at the top of theDivine Tower of Liurnia. [Map Link]
+TheCursemark of Deathmust be given toFiaatDeeproot Depthsafter progressing her questline to the point she departs from theRoundtable Hold, and it is required to fight theLichdragon Fortissaxand obtain theMending Rune of the Death-Prince.
+This mark is similar to the wounds inflicted on the Fingers at the end ofRanni'squestline.
+Cursemark of Deathis aKey IteminElden Ring.
+This item is part ofFia, Deathbed Companion's questline.
+This cursemark was carved at the moment of Death of the first demigod, and should have taken the shape of a circle.
+However, two demigods perished at the same time, breaking the cursemark into two half-wheels.
+Ranni was the first of the demigods whose flesh perished, while the Prince of Death perished in soul alone.
+Area: on the remains ofRanni the Witch's original body atop of the Tower, alongside theStargazer Heirloom. This area can only be reached from theCarian Study Hall, after placing theCarian Inverted Statue,received from Ranni in exchange for theFingerslayer BladeofNokron, Eternal City, on the altar at the entrance.
+Give it to Fia and, after reloading the area, interact with her to enter the Deathbed Dream, whereLichdragon Fortissaxcan be challenged. After defeating thisboss, retrieve theMending Rune of the Death-Princefrom Fia's corpse: you will now be able to attain theAge of the Duskbornending after defeating thefinal boss.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Amber Starlight | Elden Ring Wiki
+Amber Starlightis aKey IteminElden Ring.Amber Starlightis used inPreceptor Seluvis'questline after he mentions his scheme to you.Key ItemsinElden Ringinclude a wide variety of items found in specific locations or are given by a relatedNPCswhich are used to unlock areas, quests, and to further progress the game's story.
+An ephemeral sliver that gives off a pale amber glow.What remains of a passing flash of starlight.
+If the stars command our fates,then amber-hued stars must command the fates of the gods.Such is the belief that inspired the use of these shards to prepare a most special draught.
+Amber Starlight can be found closest to the Altus Highway Junction Site of Grace in theAltus Plateauregion. Directly east from the Altus Highway Junction Site of Grace, the road will break off north into an open cave, in the cave the Amber Starlight will be sitting below a statue surrounded by severalLand OctopusesandSacramental Buds. [Map Link]
+Amber Starlightcan be used in Preceptor Seluvis' questline after purchasing a puppet spirit from him. After retrieving it, he will reward you with theMagic Scorpion Charm, and fill you in on a scheme he has been planning.
+The amber starlight is located in front of a statue ofMaleniaandMiquella.
+Seluvis's dialogue states that "it was the very fate of a demigod".
+This item is part ofPreceptor Seluvis's questline.
+If the stars command our fates, then amber-hued stars must command the fates of the gods.Such is the belief that inspired the use of these shards to prepare a most special draught.
+Area: at the foot of the statue of Malenia and Miquella, found north-east of theSite of Grace.
+Give it to Preceptor Seluvis to obtain theAmber Draught, upon reloading the area.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Fingerslayer Blade | Elden Ring Wiki
+Fingerslayer Bladeis aKey IteminElden Ring. TheFingerslayer Bladeis required to progressRanni'squestline.Key ItemsinElden Ringinclude a wide variety of items found in specific locations or are given by a relatedNPCswhich are used to unlock areas, quests, and to further progress the game's story.
+The hidden treasure of the Eternal City of Nokron;a blade said to have been born of a corpse.
+This blood-drenched fetish is proof of the high treasoncommitted by the Eternal City and symbolizes its downfall.
+Cannot be wielded by those without a fate,but is said to be able to harm the Greater Will and its vassals.
+Found in a chest under the massive skeleton statue inNight's Sacred Ground. [Map Link]Video Location
+Fingerslayer Bladeis used to progress inRanni'squestline. This is the 'Hidden treasure of Nokron' she asks you to find. After giving this item to her, she gives you theCarian Inverted Statueas a reward.
+The chest cannot be opened unless you have talked to Ranni and entered her service.
+Handing this item to Ranni results in the end ofSeluvis'squestline. Be sure to obtain theMagic Scorpion Charmfrom Seluvis before handing this item to Ranni, otherwise the talisman would become unobtainable.
+This item bears similarities to two weapons in Elden Ring:It's shape is similar to that of theBlack Knife, being that of a curveddagger. The cross guard of the Fingerslayer Blade lines up with two of the three spikes of the Black Knife, but it is missing the Black Knife's additional spike.It shares its double helix blade with theSacred Relic Sword, which, similarly to this item's description, was fashioned from a corpse. The description of the Sacred Relic Sword states it is considered to be an omen of the end of era and a beginning that might bring ruin or prosperity. Similarly, this item brought about the doom of the society inhabiting the Eternal Cities, as it caused theGreater Willto banish them underground, which made way for the Age of the Golden Order.
+It's shape is similar to that of theBlack Knife, being that of a curveddagger. The cross guard of the Fingerslayer Blade lines up with two of the three spikes of the Black Knife, but it is missing the Black Knife's additional spike.
+It shares its double helix blade with theSacred Relic Sword, which, similarly to this item's description, was fashioned from a corpse. The description of the Sacred Relic Sword states it is considered to be an omen of the end of era and a beginning that might bring ruin or prosperity. Similarly, this item brought about the doom of the society inhabiting the Eternal Cities, as it caused theGreater Willto banish them underground, which made way for the Age of the Golden Order.
+Fingerslayer Bladeis aKey IteminElden Ring.
+This item is part ofRanni the Witch's questline.
+The hidden treasure of theEternal CityofNokron; a blade said to have been born of acorpse.
+This blood-drenched fetish is proof of thehigh treasoncommitted by the Eternal City and symbolizes itsdownfall.
+Cannot be wielded by those without a fate, but is said to be able to harm theGreater Willand itsvassals.
+Area: inside the treasure chest at the end of the Silver Tear-infested path.
+Give it toRannito receive theCarian Inverted Statuethat opens the path from theCarian Study Hallto theDivine Tower of Liurnia, where Ranni's corpse holding both theCursemark of Deathsought byFia, Deathbed Companionand theStargazer Heirloomis found.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Celestial Dew | Elden Ring Wiki
+Celestial Dewis aConsumable IteminElden Ring. MostConsumablesgrant various effects such as restorative properties for recovering HP, removing certain negative status effects or applying temporary buffs and debuffs, while others can be thrown at enemies to deal damage.
+A hidden Tear found in the Eternal City.Also known as a Night Tear.
+Allows one to carry out an Absolution at the Church of Vows, reversing all antagonizations.
+Once upon a time, the stars of the night sky guided fate, and this is a recollection of those times.
+Can be purchased from theHermit MerchantinAinsel Riverfor7500Runes. [Map Link]
+Sold byPidia, Carian ServantatCaria Manor: on a balcony above the Manor Lower Level Site of Grace. Only accessible by dropping down the cliffs from the southwestern side of theThree Sisterssub-area.
+Found on corpse hanging off a ledge overlooking theUhl Palace Ruins. [Map Link]
+Found on a corpse in the corner at the very bottom of a ruin inNokron, Eternal City. [Map Link] [Video Location]
+Found on a corpse by the side of the road inNight's Sacred Ground. [Map Link] [Video Location]
+Found on a corpse sitting under some ruins inNokstella, Eternal City. [Map Link]
+Found North of theNokstella, Eternal City Site of Grace, next to some snails. [Map Link]
+Found on a corpse leaning against the inner side of theRaya Lucaria Academylocked gate. [Map Link]Video Location
+Found on a corpse on a ledge between the buildings inNight's Sacred Ground, reachable from theAncestral Woods Site of Grace[Video Location] [Map Link]
+On the upper floor in Erdtree Sanctuary on the corpse by the ladder. [Map Link]
+Celestial Dewallows players to carry out an Absolution at theChurch of Vows, reversing all antagonizations.
+ThisWILL NOTresurrect any of the Traveling or Isolated Merchants.
+Celestial Dew, also known as aNight Tear, is aKey IteminELDEN RING(2022).
+A hidden Tear found in theEternal City. Also known as a Night Tear.
+Allows one to carry out anAbsolutionat theChurch of Vows, reversing all antagonizations.
+NOTE: only 10x Celestial Dew can be acquired per playthrough.
+Interact with the statue in the basin of theChurch of Vowsin Liurnia and selectAtoneto turn all angeredNPCsfriendly again and restore their questline progression at the cost of one of these items.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Deathroot | Elden Ring Wiki
+Deathrootis aKey IteminElden Ring.Gurranq Beast Clergymanseeks and devours these. Key Items in Elden Ring include a wide variety of items found in specific locations or given by a relatedNPC, which are used to unlock areas, quests, and to further progress the game's story.
+A source that gives rise to Those Who Live in Death.
+The beast clergyman, found at Bestial Sanctum in the distant east, collects and devours these roots.
+On the night of the dire plot the stolen Rune of Death enabled the first Death of a demigod. Later, the Rune of Death spread across the Lands Between through the underground roots of the Greattree, sprouting in the form of Deathroot.
+Limgrave, chest behind theBlack Knife Assassinin theDeathtouched Catacombs. [Map link]
+Limgrave, killTibia MarineratSummonwater Village. [Map link]
+Liurnia of the Lakes, chest behind theCemetery Shadein theBlack Knife Catacombs. [Map link]
+Liurnia of the Lakes, killTibia Marinerat East Liurnia of the Lakes. [Map link]
+Altus Plateau,killTibia MarineratWyndham Ruins. [Map link]
+Mt. Gelmir, chest behind theRed Wolf of the ChampionatGelmir Hero's Grave. [Map link]
+Mountaintops of the Giants, killTibia Marineron a ledge betweenCastle Sol Main Gateand Snow Valley Ruins Overlook. [Map link]
+Mountaintops of the Giants, chest after defeating theStray Mimic Tearin the secret catacombs underneath theHidden Path to the Haligtree. See the dungeon page for details on how to reach the boss. [Map link]
+Mountaintops of the Giants, chest after defeating theUlcerated Tree Spiritboss inside theGiants' Mountaintop Catacombs. [Map link]
+Can be traded toGurranq, Beast Clergymanfor diverse items. See his page for a list of rewards.
+TheTibia MarineratSummonwater Villageis the weakest one, so it is recommended that you fight this one first if you want a Deathroot early on. [Map link]
+Deathrootsare a key item inELDEN RING(2022). They can be given toGurranq, Beast Clergyman, who will eat them and reward the player with a variety of items in return.
+A source that gives rise toThose Who Live in Death.
+The Beast Clergyman, found atBestial Sanctumin thedistant east, collects and devours these roots.
+On thenight of the dire plotthe stolenRune of Deathenabled thefirst Death of a demigod. Later, the Rune of Death spread across theLands Betweenthrough the underground roots of theGreattree, sprouting in the form of Deathroot.
+Deathroot can be acquired in the following places:
+
+---
+
+area: Limgrave
+chapter: 1
+name: Seedbed Curse | Elden Ring Wiki
+Seedbed Curseis aKey IteminElden Ring.Seedbed Curseis grown on a body defiled by a Dung Eater. They are used in theDung Eater'squestline in which five must be given to him to complete.
+Curse grown on a corpse killed and defiled by the Dung Eater. A tender pox afflicted with omen horns.
+The Dung Eater cultivates the seedbed curse on corpses.
+By doing so he prevents dead souls returning to the Erdtree, leaving them forever cursed. One of the most loathsome things found in the Lands Between.
+Leyndell Royal Capital: After you exit the room with East Capital Rampart grace, continue south past theOracle Envoysand into the building. Inside, head down the stairs and face west to take the elevator. After the elevator continue west into the next building. Climb up the ladder to your right and go up the stairs. On the highest floor you will find the Seedbed Curse on a corpse sitting in a chair. [Map Link]
+Leyndell Royal Capital: In the alternate version of Roundtable Hold located near the Fortified Manor grace, inside the equivalent of the Dung Eater's room. You will find it on a body that is strapped to a chair. [Map Link]Video Location
+Leyndell Royal Capital: On the body of theBlackguardat the end of his questline, in the outer moat near the Capital Ramparts grace, where the Dung Eater invades. If you did not do Blackguard's quest before Dung Eater's invasion, you will not be able to receive this particular Curse and you will need to provide the other five to Dung Eater instead.
+Volcano Manor: FromTemple of Eiglay, proceed until you reach the teleporter to Rykard, Lord of Blasphemy, then go back into the building and up the stairs to find a fog door that requires a Stonesword Key. Carefully drop down in the dark room using the hanging cages. The item will be on a body that is sitting on a chair guarded by enemies. To the opposite side of the room there's a path leading back to the door in the Volcano Manor lobby that can now be opened. [Map Link]
+Elphael, Brace of the Haligtree: From the Prayer Room Grace, head forwards until the end of stairs with two crossbowman above you. Jump on to the arch to the right and hop on to the platform to the left with the Crimson Teardrop Scarab. To the left should be a room with a Cleanrot Knight and a chest containing Cleanrot Knight Finlay Ashes. Hop onto the arch to the north-west and follow it up to a balcony. Follow the balcony to its end and the item will be found on a body sitting in a chair above the ballistae and the Putrid Avatar. [Map Link]Video Location
+Elphael, Brace of the Haligtree: From the Prayer Room grace, keep heading forwards, going down every staircase you come across. Drop down and head towards the room with two Cleanrot Knights inside but instead of entering, jump over the railing to the right and drop down one level. Turn around, enter the dark room right under the railing and you will find it on a body that is sitting in a chair.Video Location
+Alternate Seedbed Curse:If  the Erdtree has been set ablaze, the Seedbed Curse in the alternate Roundtable Hold can be found in a different location, on a corpse underneath a wooden shack protected by a gargoyle found outside of the alternate Roundtable Hold.
+TheSeedbed Curseis used as part of the Dung Eater's questline which can be started by talking to him atRoundtable Holdwhile holding at least one Seedbed Curse. Upon interaction all seedbed curses in possession will be used. See theDung Eater'sarticle for more info.
+Seedbed Curseis aKey IteminELDEN RING(2022).
+This item is part of theDung Eater's questline.
+By doing so he prevents dead souls returning to the Erdtree, leaving them forever cursed. One of the most loathsome things found in all the Lands Between.
+Area: past the first lift, on a corpse on the top floor of the building with the cracked ceiling.
+Area: inside the room of the Fortified Manor where the Dung Eater is found in theRoundtable Hold.
+Drop:Big Boggart, after freeing the Dung Eater from the Subterranean Shunning Grounds and exhausting the Blackguard's dialogues.
+Area: on the ground floor of the area located opposite to the Sending Gate to the Audience PathwaySite of Grace.
+Area: on a balcony on the western wall overlooking the courtyard with ballistas andPutrid Avatar.
+Area: in a dark room directly below the one with twoCleanrot Knights.
+After defeating the invading Dung Eater in the outer moat of Leyndell, return to his cell and use five Seedbed Curses to retrieve theMending Rune of the Fell Cursefrom his corpse: you will now be able to attain theBlessing of Despairending after defeating thefinal boss.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Golden Order Seal | Elden Ring Wiki
+Golden Order Sealis aSacred SealinElden Ring. TheGolden Order Sealscales primarily withIntelligenceandFaithand is a goodWeaponfor enhancing incantations of hybrid Intelligence/Faith casters. As it relates toGolden Order Fundamentalism, theGolden Order Sealboosts Golden Order Fundamentalist incantations.
+A formless sacred seal depicting the ceremonial observation of Order. Enhances Golden Order Fundamentalist incantations.
+Fundamentalism is scholarship in all but name. Scales incantation using both intelligence and faith.
+The Golden Order Seal weapon can be found at the following location:
+On a corpse next to theMinor Erdtree ChurchSite of Grace in theCapital Outskirts.[Elden Ring Map here]
+This weapon cannot be infused withAshes of War
+Golden Order Sealcan be upgraded by usingSomber Smithing Stones.
+BuffsGolden Order Incantationsby 10% when equipped.
+This and all other multi-scaling seals only apply their faith scaling portion for weapon buffs and healing incantations.
+Golden Order IncantationsincludeDiscus of Light,Radagon's Rings of Light,Triple Rings of Light, andLitany of Proper Death.
++10 Incantation Scaling at 40 Int/40 Fth 323
++10 Incantation Scaling at 50 Int/50 Fth 348
++10 Incantation Scaling at 60 Int/60 Fth 362
++10 Incantation Scaling at 70 Int/70 Fth 376
++10 Incantation Scaling at 80 Int/80 Fth 392
++10 Incantation Scaling at 75 Int/25 Fth 305
++10 Incantation Scaling at 25 Int/75 Fth 305
+It has the potential to provide the highest incantation boost plus the bonus for Golden Order incantations, but it requires a lot of level investment to reach its full potential. The Erdtree Seal is more beneficial for pureFaithand less investment. You need 60 Int / 60 Faith just to surpass theErdtree Sealat 80 Faith.
+NOTE:As ofPatch 1.08a bug that prevented the follow-up attack from occurring when the Black Sword Incantation was activated with a Sacred Seal in the left hand has been fixed.
+NOTE:As ofPatch 1.09, the scaling values of this weapon were changed. Please refer to theUpgrades Tableof this weapon below.
+Golden Order Sealis acatalystfound inELDEN RING(2022).
+Fundamentalism is scholarship in all but name. Scales incantations using both intelligence and faith.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Shabriri's Woe | Elden Ring Wiki
+Shabriri's Woeis aTalismanand optionalKeepsakeinElden Ring. Shabriri's Woe constantly attractsEnemies'aggression. Players can use talismans in Elden Ring to boost a variety ofStats.
+Disturbing likeness of a man whose eyes have been gouged out.The corners of his mouth are upturned in an almost flirtatious manner.
+It is said that the man, named Shabriri, had his eyes gouged out as punishment for the crime of slander, and, with time, the blight of the flame of frenzy came to dwell in the empty sockets.
+Shabriri's Woe constantly attracts enemies' aggression.
+Can be found on a body sitting atop the south-facing steps of a building inFrenzied Flame Village. The building is in the far northwest. [Map link]
+You can select Shabriri's Woe asKeepsakeduringCharacter Creation.
+Does not prevent spirit summons or other players from drawing aggression. The player is still required to do aggro-drawing actions such as attacking. The talisman simply makes those actions more effective by raising your target priority by default.
+Shabriri's Woe is useful in boss fights for taking aggro off of your summoned spirit to help keep it alive.
+When summoningMimic Tear, the talisman is copied to the mimic. Removing it from the player afterwards will cause enemies to fixate on the mimic instead.
+Refers to the NPCShabriri, who shares the same name and link to theFrenzied Flame, but is found in-game inhabiting the body ofBloody Finger Hunter Yura.
+Shabriri's Woeis atalismaninELDEN RING(2022).
+Disturbing likeness of a man whoseeyeshave been gouged out.
+The corners of his mouth are upturned in an almost flirtatious manner.
+It is said that the man, namedShabriri, had his eyes gouged out as punishment for the crime of slander, and, with time, the blight of theflame of frenzycame to dwell in the empty sockets.
+Makes the wearer more likely to draw attention of enemies.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Seluvis's Potion | Elden Ring Wiki
+Seluvis's Potionis aKey IteminElden Ring.Seluvis's PotionSmall flask received fromPreceptor Seluvis.Key ItemsinElden Ringinclude a wide variety of items found in specific locations or are given by a relatedNPCswhich are used to unlock areas, quests, and to further progress the game's story.
+Small flask received from Preceptor Seluvis containing a cloudy tonic of bluish black.
+"Find Nepheli, and ensure she drinks it."
+Acquired fromSeluvisatSeluvis's Riseafter being asked byRanni the Witchto speak with him. [Elden Ring Map Link]
+Seluvis's Potionis aKey IteminElden Ring.
+This item is part ofPreceptor Seluvis,Dung EaterandNepheli Loux, Warrior's questlines.
+Quest: Preceptor Seluvis. Talk to him at his rise selectingAccept the task.
+This item can be given to the following NPCs:
+Whichever path is followed, Seluvis's questline will progress all the same.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Fia's Mist | Elden Ring Wiki
+Fia's Mistis aSorceryinElden Ring.Fia's Mistreleases a mist of Deathblight before the caster.
+Creates a deathly mist before the caster, which inflicts Death blight upon those who enter.This sorcery can be cast while in motion. Charging enhances range of the mist.
+This sorcery was developed to oppose the Roundtable Hold, and is effective only against the Tarnished.
+Deeproot Depths: Obtained by defeatingFia's Champions. After unlocking the "Across the Roots" Grace, head north and defeat the boss. [Map Link] [Video Location]
+The caster conjures a black mist that slowly inflicts enemies with Death.Inflicts20Death Blightwhich ticks2.5/sfor a total of15ticks over6seconds (300total). Does not scale withArcane.Charging increases area from2.8meters to5meters.Does not cause any damage nor draws enemy attention.Does not affect the caster.
+Inflicts20Death Blightwhich ticks2.5/sfor a total of15ticks over6seconds (300total). Does not scale withArcane.
+Charging increases area from2.8meters to5meters.
+Does not cause any damage nor draws enemy attention.
+NOTE:TheDeath BlighteffectONLYWORKSagainstplayersandplayer-modeled enemies(NPCs, hostileNPCs). Every other enemy and Boss is immune and unaffected by it, similar toMadness.AllNPCsand hostileNPCshave+999Death Blightresistance, meaning you'd need to cast the spell at least4times to proc the effect, not accounting the passive status reduction. Some examples:999(Esgar Priest of Blood, Knights of the Great Jar, Necromancer Garris, Bloody Finger Nejirus...)112(Spirit Summons like Mimic Tear, Jarwight Puppet, Dolores the Sleeping Arrow...)Also note enemy resistances increase eachNG+cycle.
+AllNPCsand hostileNPCshave+999Death Blightresistance, meaning you'd need to cast the spell at least4times to proc the effect, not accounting the passive status reduction. Some examples:999(Esgar Priest of Blood, Knights of the Great Jar, Necromancer Garris, Bloody Finger Nejirus...)112(Spirit Summons like Mimic Tear, Jarwight Puppet, Dolores the Sleeping Arrow...)
+999(Esgar Priest of Blood, Knights of the Great Jar, Necromancer Garris, Bloody Finger Nejirus...)
+112(Spirit Summons like Mimic Tear, Jarwight Puppet, Dolores the Sleeping Arrow...)
+Also note enemy resistances increase eachNG+cycle.
+NOTE:Prince of Death's Staffhas no effect when using this spell.
+Fia's Mistis aspellinELDEN RING(2022). It is one of theDeath Sorceries.
+Creates a deathly mist before the caster, which inflictsDeath blightupon those who enter. This sorcery can be cast while in motion. Charging enhances range of the mist.
+This sorcery was developed to oppose theRoundtable Hold, and is effective only against theTarnished.
+前方に、死の霧を生じる霧は死の状態異常効果を持つ足を止めずに使用することができタメ使用で、霧の範囲が大きくなる
+The caster fires a cloud of black, deadly mist that inflictsDeath Blightbuild-up. Charging the spell enlarges the radius of the mist from2.8meters to5meters.
+Fia's Mist inflicts 20 Death Blight build-up which ticks 2.5/s (with 15 ticks in total) and lasts for 6 seconds, meaning it inflicts up to 320 Death Blight build-up (since it also hits once when spawned) if the enemy stays within the mist and/or does not let the build up decay.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Flask of Crimson Tears | Elden Ring Wiki
+Flask of Crimson Tearsis aConsumable IteminElden Ring.Flask of Crimson TearsrestoresHPupon use and can be replenished by visiting any of theSites of Grace.
+The Flask of Crimson Tears can also be used to summon the player's mountTorrentafter he's recently been killed in battle, after a confirmation prompt to confirm the consumption of one flask.
+A sacred flask modelled after a golden holy chalice that was once graced by a tear of life.
+Filled with crimson tears, this flask restores HP with use.Rest at a site of grace to replenish.
+The one washed up on the gravesite was sure to die, until this flaskoffered its gift of rejuvenation. To seek the Elden Ring.
+Obtained at the beginning of the game inStranded Graveyard.
+Users are able to upgradeFlask of Crimson Tearsby usingGolden SeedsandSacred Tears.The maximum uses of a particular flask is 14, assuming no charges are allocated to its counterpart. For multiplayer as an invader/helper phantom, the number of flasks is halved for a maximum of 7.The highest potency of the restorative effect is +12.
+Golden Seedsare used to increaseFlask of Crimson Tears'andFlask of Cerulean Tearsnumber of uses:
+You need 1 Seed for upgrades increasing to 6 total Flasks.
+You need 2 Seeds for upgrades increasing to 8 total Flasks.
+You need 3 Seeds for upgrades increasing to 10 total Flasks.
+You need 4 Seeds for upgrades increasing to 12 total Flasks.
+You need 5 Seeds for upgrades increasing to 14 total Flasks.
+Sacred Tearscan be used to increase the potency ofFlask of Crimson Tears:
+The chart below lists the minimum Vigor necessary for a flask to heal no more than a given percentage of your health bar. For example, a +6 flask heals for 670 HP, which heals over 100% of your health bar at 20 Vigor (652 max HP), but not at 21 Vigor (680 max HP). Thus, for a +6 flask, 21 Vigor is listed as the threshold for ≤ 100% HP. This does not take into account HP boosting effects, such as those fromMorgott's Great Runeor fromErdtree's Favor.
+The Healing Potion is also known as the Flask of Crimson Tears in Elden Ring. This one is the red flask in your inventory. The blue flask will help with replenishing FP. This flask can be upgraded and will replenish after resting at aSite of Grace. To use this, players will need to have this item equipped where it can be accessed from the D-pad on the controller. The Use Item button is usually the square button on the PlayStation or the X button on the X box.
+Flask Upgrades can be done while resting at a Site of Grace. You should be able to access theFlaskoption which will bring up more menu options and will allow you toAdd charge to flask, Increase amount replesnished by flasks, and allocate flask charges.
+Golden Seedsare required in order to add charges to your flask. Allocating Flask Charges will allow you to adjust how many charges will go in either the red flask or the blue flassk.
+The default way to look for your flask would be to cycle through your inventory items displayed on the bottom slot of your items towards the lower left corner of your screen. It is recommended that you instead equip the flask to your Pouch to be able to access it through quick access. This also allow you to then allocate the flask to the desired slot which will also bind it to a quick access button without having through cycle through the inventory.
+Whether your character is a mage or not, even at low Faith (such as 12 forBestial Vitality), Cerulean flasks are significantly more efficient at healing HP than Crimson are. However, Crimson flasks are much faster at healing. With this in mind, a Faith dip is worth considering for any build as a way to stretch flask usage.
+Also known as Red Flask. Blue Flask is for FP.
+Flask of Crimson Tearsis a refillabletoolinELDEN RING(2022).
+1.07Source:Flask of Crimson TearsA sacred flask modelled after a golden holy chalice that was
+Filled with crimson tears, this flask restores HP with use.
+The one washed up on the gravesite was sure to die, until this
+flask offered its gift of rejuvenation. To seek the Elden Ring.
+1.07Source:緋雫の聖杯瓶かつて恵みの雫を受領したという黄金の聖杯を模した瓶
+1.07Source:红露滴圣杯瓶据说黄金圣杯承接过恩惠露滴，此为参考黄金圣杯制成的瓶子。
+1.07Source:Flasche mit PurpurtränenEine Heiligflasche, die nach dem Modell des goldenen heiligen Grals gefertigt wurde, der einst eine Träne des Segens enthielt.
+Diese Flasche ist mit Purpurtränen gefüllt und stellt bei der Verwendung LP wieder her.
+Ruht Euch an einem Ort der Gnade aus, um sie wieder aufzufüllen.
+1.07Source:Fiole de larmes pourpresFiole sacrée modelée selon un calice sacré doré qui fut autrefois béni par une sainte larme.
+Cette fiole contenant des larmes pourpres restaure des PV à l'utilisation.
+Reposez-vous auprès d'un Site de grâce pour la remplir.
+MeadhainnighSource:Flask of crimson tearsA sacred flask modelled after a sacred golden chalice which once was graced by a holy tear.
+This flask containing crimson tears restores HP on use. Rest near a Site of grace to refill it.
+1.07Source:Ampolla di lacrime cremisiAmpolla ispirata a un sacro calice d'oro che un tempo custodiva una lacrima di benedizione.
+Contiene lacrime cremisi in grado di ripristinare i PV.
+Può essere riempita riposando presso un luogo di grazia.
+1.07Source:붉은 물방울의 성배병옛날에 은혜의 물방울을 받았다는황금 성배를 모방한 병.
+붉은 물방울을 채워서 사용해 HP를 회복한다.또한, 축복에서 쉬면 보충된다.
+1.07Source:Butelka szkarłatnych łezŚwięta butelka stworzona na podobieństwo złotego świętego kielicha, który niegdyś zawierał łzę błogosławieństwa.
+Butelka ta, wypełniona szkarłatnymi łzami, przywraca PŻ po użyciu.
+Odpocznij w miejscu łaski, by ją napełnić.
+1.07Source:Frasco de Lágrimas CarmesinsUm frasco sagrado feito com base em um cálice dourado que já foi agraciado por uma lágrima da bênção.
+Cheio de lágrimas carmesins, este frasco restaura os PV.
+Descanse em um local da graça para reabastecer.
+1.07Source:Фляга багровых слёзСвященная фляга, созданная по образу святой золотой чаши, некогда благословлённой слезой блаженства.
+Эта фляга с багровыми слезами восстанавливает ОЗ.
+Чтобы наполнить её, отдохните в месте благодати.
+1.07Source:Vial de lágrimas carmesíUn vial sagrado inspirado en un cáliz sacro dorado que una vez fue consagrado por una lágrima bendita.
+Repleto de lágrimas carmesí, este vial restaura PS al usarlo.
+Descansa en un lugar de Gracia para rellenarlo.
+1.07Source:จอก​ศักดิสิทธิ​หยาด​นํา​สี​ชาดขวด​ที​สร้าง​เลียน​แบบ​จอก​ศักดิสิทธิ​สี​ทอง​ที​ว่า​กัน​ว่า​ครัง​หนึง​เคย​บรรจุ​หยาด​พระพร
+​หาก​เติม​หยาด​สี​ชาด​แล้ว​ใช้ ​จะ​ฟนฟู HP​เติม​ได้​โดย​การ​พัก​ผ่อน​ที​พร
+1.07Source:紅露滴聖杯瓶據說黃金聖杯承接過恩惠露滴，此為參考黃金聖杯製成的瓶子。
+1.07Source:Flask of Crimson TearsA sacred flask modelled after a golden holy chalice that was once graced by a tear of blessing.
+Filled with crimson tears, this flask restores HP with use. Though currently empty, simply rest at a site of grace to replenish.
+The one washed up on the gravesite was sure to die, until this flask offered its gift of rejuvenation. To seek the Circle of Elden.
+Diese Flasche ist mit Purpurtränen gefüllt und stellt bei der Verwendung LP wieder her. Momentan ist sie leer, doch Ihr könnt Euch an einem Ort der Gnade ausruhen, um sie wieder aufzufüllen.
+Cette fiole contenant des larmes pourpres restaure des PV à l'utilisation. Bien qu'elle soit actuellement vide, il vous suffit de vous reposer auprès d'un Site de grâce pour la remplir.
+This flask containing crimson tears restores HP on use. Though it is currently empty, you need only rest near a Site of grace to fill it.
+Contiene lacrime cremisi in grado di ripristinare i PV. Al momento è vuota, ma può essere riempita riposando presso un luogo di grazia.
+붉은 물방울을 채워서 사용해 HP를 회복한다.지금은 비었지만, 축복에서 쉬면 보충된다.
+Butelka ta, wypełniona szkarłatnymi łzami, przywraca PŻ po użyciu. Choć obecnie jest pusta, możesz odpocząć w miejscu łaski, by ją napełnić.
+Cheio de lágrimas carmesins, este frasco restaura os PV. Apesar de vazio no momento, basta descansar em um local da graça para reabastecer.
+Эта фляга с багровыми слезами восстанавливает ОЗ. Сейчас она пуста. Чтобы наполнить её, отдохните в месте благодати.
+1.07Source:Vial de lágrimas carmesíUn vial sagrado inspirado en un cáliz sagrado dorado que una vez fue bendecido por una lágrima de bendición.
+Repleta de lágrimas carmesí, este vial restaura los PS al usarlo. Descansa en un lugar de Gracia para rellenarlo.
+1.07Source:จอก​ศักดิสิทธิ​หยาด​นํา​สี​ชาดขวด​ที​สร้าง​เลียน​แบบ​จอก​ศักดิสิทธิ​สี​ทองที​ว่า​กัน​ว่า​ครัง​หนึง​เคย​บรรจุ​หยาด​พระพร
+​หาก​เติม​หยาด​สี​ชาด​แล้ว​ใช้ ​จะ​ฟนฟู HPขณะ​นี​ว่าง​เปล่า ​แต่​เติม​ได้​โดย​การ​พัก​ผ่อน​ที​พร
+Quest Reward:Stranded Graveyard(Limgrave)
+It is said that a Finger Maiden will bestow two such chalice
+
+---
+
+area: Limgrave
+chapter: 1
+name: Flask of Cerulean Tears | Elden Ring Wiki
+Flask of Cerulean Tearsis aConsumable IteminElden Ring.Flask of Cerulean TearsrestoresFPupon use and can be replenished by visiting any of theSites of Grace.
+A sacred flask modelled after a golden holy chalice that was once graced by a tear of life.
+Filled with cerulean tears, this flask restores FP with use.Rest at a site of grace to replenish.
+The one washed up on the gravesite was sure to die, until this flaskoffered its gift of rejuvenation. To seek the Elden Ring.
+Players obtain x1Flask of Cerulean Tears after being defeated by theGrafted Scionduring the game's tutorial.
+Users are able to upgradeFlask of Cerulean Tearsby usingGolden SeedsandSacred Tears.The maximum uses of a particular flask is 14, assuming no charges are allocated to its counterpart.The highest potency of the restorative effect is +12.
+Golden Seedsare used to increaseFlask of Cerulean Tears'andFlask of Crimson Tears'number of uses.
+You need 1 Seed for upgrades increasing to 6 total Flasks.
+You need 2 Seeds for upgrades increasing to 8 total Flasks.
+You need 3 Seeds for upgrades increasing to 10 total Flasks.
+You need 4 Seeds for upgrades increasing to 12 total Flasks.
+You need 5 Seeds for upgrades increasing to 14 total Flasks.
+Sacred Tearscan be used to increase the potency ofFlask of Cerulean Tears:
+The chart below lists the minimum Mind necessary for a flask to restore no more than a given percentage of your FP bar. For example, a +6 flask restores 160 FP, which heals over 100% of your FP bar at 27 Mind (158 max FP), but not at 28 Mind (163 max FP). Thus, for a +6 flask, 28 Mind is listed as the threshold for ≤ 100% FP. This does not take into account FP boosting effects, such as those fromRadahn's Great Runeor from theCerulean Amber Medallion.
+If your character is not a mage, it's useful to have one or two flasks so that it can be restored after killing a group of enemies or powerful enemies.
+If your character is a mage, it may be helpful to pre-emptively use a flask charge before clearing out a group of enemies, to have it be refilled upon their demise.
+Whether your character is a mage or not, even at lowFaith(such as 12 forBestial Vitality), Cerulean flasks are significantly more efficient at healing HP than Crimson are. However, Crimson flasks are much faster at healing. With this in mind, a Faith dip is worth considering for any build as a way to stretch flask usage.
+The flask will restore some or all of it's uses after defeating a group of enemies or killing a powerful enemy like aTroll.
+Can be also restored when killingTeardrop Scarabs.
+Players will receive 3 flasks during the Duel mode inColosseumfights, and 1 flask during the United Combat and Combat Ordeal modes, regardless of flask allocation.
+Flask of Cerulean Tearsis a refillabletoolinELDEN RING(2022).
+1.07Source:Flask of Cerulean TearsA sacred flask modelled after a golden holy chalice that was once graced by a tear of blessing.
+Filled with cerulean tears, this flask restores FP with use.
+The one washed up on the gravesite was sure to die, until this flask offered its gift of rejuvenation. To seek the Elden Ring.
+1.07Source:青雫の聖杯瓶かつて恵みの雫を受領したという黄金の聖杯を模した瓶
+1.07Source:蓝露滴圣杯瓶据说黄金圣杯承接过恩惠露滴，此为参考黄金圣杯制成的瓶子。
+1.07Source:Flasche mit HimmelstränenEine Heiligflasche, die nach dem Modell des goldenen heiligen Grals gefertigt wurde, der einst eine Träne des Segens enthielt.
+Diese Flasche ist mit Himmelstränen gefüllt und stellt bei der Verwendung FP wieder her.
+Ruht Euch an einem Ort der Gnade aus, um sie wieder aufzufüllen.
+1.07Source:Fiole de larmes céruléennesFiole sacrée modelée selon un calice sacré doré qui fut autrefois béni par une sainte larme.
+Cette fiole contenant des larmes céruléennes restaure des PC à l'utilisation.
+Reposez-vous auprès d'un Site de grâce pour la remplir.
+1.07Source:Ampolla di lacrime ceruleeAmpolla ispirata a un sacro calice d'oro che un tempo custodiva una lacrima di benedizione.
+Contiene lacrime cerulee in grado di ripristinare i PA.
+Può essere riempita riposando presso un luogo di grazia.
+1.07Source:푸른 물방울의 성배병옛날에 은혜의 물방울을 받았다는황금 성배를 모방한 병.
+푸른 물방울을 채워서 사용해 FP를 회복한다.또한, 축복에서 쉬면 보충된다.
+1.07Source:Butelka modrych łezŚwięta butelka stworzona na podobieństwo złotego świętego kielicha, który niegdyś zawierał łzę błogosławieństwa.
+Butelka ta, wypełniona modrymi łzami, przywraca PS po użyciu.
+Odpocznij w miejscu łaski, by ją napełnić.
+1.07Source:Frasco de Lágrimas CerúleasUm frasco sagrado feito com base em um cálice dourado que já foi agraciado por uma lágrima da bênção.
+Cheio de lágrimas cerúleas, este frasco restaura os PF.
+Descanse em um local da graça para reabastecer.
+1.07Source:Фляга лазурных слёзСвященная фляга, созданная по образу святой золотой чаши, некогда благословлённой слезой блаженства.
+Эта фляга с лазурными слезами восстанавливает ОК.
+Чтобы наполнить её, отдохните в месте благодати.
+1.07Source:Vial de lágrimas cerúleasUn vial sagrado inspirado en un cáliz sacro dorado que una vez fue consagrado por una lágrima bendita.
+Repleto de lágrimas cerúleas, este vial restaura PC al usarlo.
+Descansa en un lugar de Gracia para rellenarlo.
+1.07Source:จอก​ศักดิสิทธิ​หยาด​นํา​สี​ครามขวด​ที​สร้าง​เลียน​แบบ​จอก​ศักดิสิทธิ​สี​ทอง​ที​ว่า​กัน​ว่า​ครัง​หนึง​เคย​บรรจุ​หยาด​พระพร
+​หาก​เติม​หยาด​สี​คราม​แล้ว​ใช้ ​จะ​ฟนฟู FP​เติม​ได้​โดย​การ​พัก​ผ่อน​ที​พร
+1.07Source:藍露滴聖杯瓶據說黃金聖杯承接過恩惠露滴，此為參考黃金聖杯製成的瓶子。
+Filled with cerulean tears, this flask restores FP with use. Though currently empty, simply rest at a site of grace to replenish.
+Diese Flasche ist mit Himmelstränen gefüllt und stellt bei der Verwendung FP wieder her. Momentan ist sie leer, doch Ihr könnt Euch an einem Ort der Gnade ausruhen, um sie wieder aufzufüllen.
+Cette fiole contenant des larmes céruléennes restaure des PC à l'utilisation. Bien qu'elle soit actuellement vide, il vous suffit de vous reposer auprès d'un Site de grâce pour la remplir.
+Contiene lacrime cerulee in grado di ripristinare i PA. Al momento è vuota, ma può essere riempita riposando presso un luogo di grazia.
+푸른 물방울을 채워서 사용해 FP를 회복한다.지금은 비었지만, 축복에서 쉬면 보충된다.
+Butelka ta, wypełniona modrymi łzami, przywraca PS po użyciu. Choć obecnie jest pusta, możesz odpocząć w miejscu łaski, by ją napełnić.
+Cheio de lágrimas cerúleas, este frasco restaura os PF. Apesar de vazio no momento, basta descansar em um local da graça para reabastecer.
+Эта фляга с лазурными слезами восстанавливает ОК. Сейчас она пуста. Чтобы наполнить её, отдохните в месте благодати.
+Repleto de lágrimas cerúleas, este vial restaura PC al usarlo. Aunque ahora mismo está vacío, puedes descansar en un lugar de Gracia para rellenarlo.
+​หาก​เติม​หยาด​สี​คราม​แล้ว​ใช้ ​จะ​ฟนฟู FP​ขณะ​นี​ว่าง​เปล่า ​แต่​เติม​ได้​โดย​การ​พัก​ผ่อน​ที​พร
+Obtained after reaching theStranded Graveyardat the start of the game.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Flask of Wondrous Physick | Elden Ring Wiki
+Flask of Wondrous Physickis aConsumable IteminElden Ring. This special flask can be customized usingCrystal Tearsto produce significant effects, but is only usable once per rest and can only have two at a time.Golden SeedandSacred Tearitems have no effect on this flask's uses. Most of the buffs granted from this flask will stack with additional buffs that can be applied to your character. SeeBuffs and Debuffspage for more about applying other buffs.
+A relic of the physick chemists, priests of the Erdtree.Harnesses the powers of crystal tears, which only form after the passage of many moons.
+Various special effects are bestowed upon the drinker, dependent on the specific mixture of crystal tears.Rest at a site of grace to replenish.
+Basins are placed at the feet of Minor Erdtrees throughout the Lands Between in order to collect their crystallized tears.
+At theThird Church of MarikaSite of Grace, laying on the ground in front to the statue. [Map Link]
+From theTwin Maiden Huskin theRoundtable Hold(trigger believed to be after killing twoShardbearersand enteringLeyndell). You can still find it at the original location, unlike theSpirit Calling Bell.
+You can combine the followingCrystal Tearsto apply different effects to yourFlask of Wondrous Physick:
+Crimson Crystal Tear(2 available) - Restores 50% HP
+Crimsonspill Crystal Tear- Boosts max HP for 3 minutes
+Crimsonburst Crystal Tear- Restores 7 HP for 3 minutes
+Cerulean Crystal Tear(2 available) - Restores 50% FP
+Greenspill Crystal Tear- Boosts max Stamina for 3 minutes
+Greenburst Crystal Tear- Boosts Stamina recovery for 3 minutes
+Strength-knot Crystal Tear- Boosts Strength for 3 minutes
+Dexterity-knot Crystal Tear- Boosts Dexterity for 3 minutes
+Intelligence-knot Crystal Tear- Boosts Intelligence for 3 minutes
+Faith-knot Crystal Tear- Boosts Faith for 3 minutes
+Opaline Hardtear- Boosts damage negation for 3 minutes
+Speckled Hardtear- Boosts resistances and heals status for 3 minutes
+Leaden Hardtear- Boosts Poise for 10 seconds
+Flask of Wondrous Physickis a refillabletoolinELDEN RING(2022).
+It allows you to combine twoCrystal Tearsinto a potion that can be used once per rest at asite of grace. There are a total of 32 Crystal Tears in the game, with 3 of those being duplicates.
+A relic of the physickchemists, priests of theErdtree. Harnesses the powers ofcrystal tears, which only form after the passage of many moons.
+Various special effects are bestowed upon the drinker, dependent on the specific mixture of crystal tears.Rest at asite of graceto replenish.
+Basins are placed at the feet ofMinor Erdtreesthroughout theLands Betweenin order to collect their crystallized tears.
+Found in a basin in theThird Church of Marika, together with one of the twoCrimson Crystal Tears.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Tarnished's Furled Finger | Elden Ring Wiki
+Tarnished's Furled Fingeris aMultiplayer IteminElden Ring.Multiplayer Itemsallow players to interact with each other in various ways, including leaving messages for other players to read, co-operative gameplay and competitve gameplay like PVP.
+Item for online play.(Can also be used from the Multiplayer menu.)
+Creates a summon sign for cooperative multiplayer.Arrive as a cooperator (Furled Finger) with the objective of defeating the area boss of the world to which you were summoned.
+A finger of corpse wax, furled like a hook.It is a relic of those who came before, left to help those who would come after.
+Stranded Graveyard site of grace. To the right of the lift entrance, you will find a corpse containing it, alongside aFinger Severer.
+You can leave a gold summon sign to play cooperative multiplayer.
+This sign will appear in other players' worlds and allow them to summon you as a Furled Finger for cooperative multiplayer.
+Multiplayer begins once you are summoned. (Your goal will be to defeat the area boss.)
+If you leave a second summon sign, the older sign will vanish.
+Tarnished's Furled Fingeris a reusable tool inELDEN RING(2022).
+1.07Source:Tarnished's Furled FingerItem for online play. (Can also be used from the Multiplayer menu.)
+Creates a summon sign for cooperative multiplayer. Arrive as a cooperator (Furled Finger) with the objective of defeating the area boss of the world to which you were summoned.
+A finger of corpse wax, furled like a hook. It is a relic of those who came before, left to help those who would come after.
+1.07Source:オンラインプレイ専用アイテム （マルチプレイメニューからも使用できる）
+協力マルチプレイのための召喚サインを書く 協力者（鉤指）として召喚され その世界のエリアボスの撃破が目的となる
+1.07Source:Doigt crochu de Sans-éclatObjet de jeu en ligne. (Cet objet peut aussi être utilisé dans le menu Multijoueur.)
+Crée une marque d'invocation de multijoueur coopératif.
+Votre objectif en tant qu'allié (Doigt crochu) est de vaincre le boss de zone du monde dans lequel vous apparaissez.
+MeadhainnighSource:Shineless's Hooked fingerOnline game item. (This item can also be used in the Multiplayer menu.)
+Create a summoning mark for cooperative multiplayer.
+Your objective as an ally (Hooked finger) is to defeat the boss of the world area in which you appeared.
+Can be looted near the exit lift out of theStranded Graveyard
+
+---
+
+area: Limgrave
+chapter: 1
+name: Phantom Bloody Finger | Elden Ring Wiki
+Phantom Bloody Fingeris aMultiplayer IteminElden Ring.Multiplayer Itemsallow players to interact with each other in various ways, including leaving messages for other players to read, co-operative gameplay and competitive gameplay like PVP.
+Item for online play.Obtained after invading another world.Consumed upon use.
+Attempts another invasion of the most recently invaded world.This may come in handy should separation from the Host of Fingers force a temporary retreat.
+3xPhantom Bloody Fingerswill be added to a player's inventory upon invading another world. They will be automatically lost upon returning to the player's own world.
+The Phantom Bloody Finger can be used by an invading player to rejoin the host's world. It will place the invading player in another suitable location upon loading back in.In other words, using this item allows you to attempt to reposition into a more favorable spot, or attempt to make a retreat.
+In other words, using this item allows you to attempt to reposition into a more favorable spot, or attempt to make a retreat.
+The Phantom Bloody Finger is based upon the Host of Finger's position, not the position of either of their cooperators.
+The Phantom Bloody Finger will attempt to reposition you, but may sometimes place you in a completely unfavorable spot, such as somehow being further away from the host, or being right next to the host and their cooperators when you intended to reposition away from them.It also will not account for the verticality of the level. For example, if a host is up by the Full-Grown Fallingstar Beast in Mt. Gelmir, the finger may instead place you near where the Ulcerated Tree Spirit resides. Or further down in the valley with heat geysers.
+It also will not account for the verticality of the level. For example, if a host is up by the Full-Grown Fallingstar Beast in Mt. Gelmir, the finger may instead place you near where the Ulcerated Tree Spirit resides. Or further down in the valley with heat geysers.
+Despite being fundamentally flawed, it is still a decent tool for an invader
+If invading as a Recusant, it will be named the Phantom Recusant Finger. It is only aesthetically different
+Phantom Bloody FingerandPhantom Recusant Fingerare consumabletoolsinELDEN RING(2022).
+Attempts another invasion of the most recently invaded world.This may come in handy should separation from theHost of Fingersforce a temporary retreat.
+Automatically and temporarily acquired when invading another world.Which Phantom Finger gets obtained depends on what invasion-item was being used to invade said world.
+Using this item will make the player kneel down for a second before teleporting to a random spawn location somewhat close to theHost of Fingers'X & Z coordinates.However it does not take the Y coordinates into account, leading to a high likelihood of the player spawning at the bottom of a steep cliff with the only way of approaching the host on foot being taking a long tour around whatever rocky mountain they might be positioned on.It is still useful if the first spawn-point wasn't desirable, if the user is cornered and in dire need of escaping to some other potentially unseen location or if they've somehow pulled the host's co-operators away from them, allowing the invader to quickly get to the host while they're isolated from their friends. (How quickly you can teleport depends on the platform you're playing on, as the game is forced to enter aLoading Screenwhen using this item.)
+
+---
+
+area: Limgrave
+chapter: 1
+name: Bloody Finger | Elden Ring Wiki
+Bloody Fingeris aMultiplayer IteminElden Ring.Multiplayer Itemsallow players to interact with each other in various ways, including leaving messages for other players to read, co-operative gameplay and competitve gameplay like PVP.
+Item for online play.(Can also be used from the Multiplayer menu.)
+Attempts an invasion of another player's world.If successful, you will arrive as an invader (Bloody Finger) with the objective of defeating the Host of Fingers of that world.
+Glistening blood has been siphoned into the nail of this finger. Its sickly pale skin feels nothing now, but the nail still aches with sweetest pain.
+Travel toRose Churchafter defeating any shardbearer and talking toEniain theRoundtable Holdfor the first time.
+Speak withWhite Mask Varréin front of the church.
+White Mask Varréwill give you fiveFestering Bloody Fingersand ask you to invade other worlds.
+There are multiple ways to complete this step;If offline, invadeMagnus The Beast Clawlocated inWritheblood Ruinsleast 3 times, simply killing him works too.If online, invade at least 3 times. You do not need to successfully defeat the host; simply leaving with theFinger Severeris enough.
+If offline, invadeMagnus The Beast Clawlocated inWritheblood Ruinsleast 3 times, simply killing him works too.
+If online, invade at least 3 times. You do not need to successfully defeat the host; simply leaving with theFinger Severeris enough.
+Return to theRose Church. Varré will give you theLord of Blood's Favorand instruct you to soak the cloth with a maiden's blood.
+There are multiple ways to complete this step;Option #1 - Chapel of AnticipationTravel Northwest toThe Four Belfries.The highest belfry will have aImbued Sword Keyin a chest.The second highest belfry will transport you to the Precipice of Anticipation.After defeating theGrafted Scion, travel further to theChapel of Anticipation. There, you will find the corpse of a maiden.Interact with her corpse to soak theLord of Blood's Favorin her blood.Option #2 - Church of InhibitionTravel Northeast, shy of the Grand Lift, to theChurch of Inhibition.In the Church of Inhibition will be a dead maiden.Interact with her corpse to soak the Lord of Blood's Favor in her blood.Option #3 - Killing a MaidenFind and kill Hyetta.Soak the Lord of Blood's Favor in her blood.
+Option #1 - Chapel of AnticipationTravel Northwest toThe Four Belfries.The highest belfry will have aImbued Sword Keyin a chest.The second highest belfry will transport you to the Precipice of Anticipation.After defeating theGrafted Scion, travel further to theChapel of Anticipation. There, you will find the corpse of a maiden.Interact with her corpse to soak theLord of Blood's Favorin her blood.
+The highest belfry will have aImbued Sword Keyin a chest.
+The second highest belfry will transport you to the Precipice of Anticipation.
+After defeating theGrafted Scion, travel further to theChapel of Anticipation. There, you will find the corpse of a maiden.
+Interact with her corpse to soak theLord of Blood's Favorin her blood.
+Option #2 - Church of InhibitionTravel Northeast, shy of the Grand Lift, to theChurch of Inhibition.In the Church of Inhibition will be a dead maiden.Interact with her corpse to soak the Lord of Blood's Favor in her blood.
+Travel Northeast, shy of the Grand Lift, to theChurch of Inhibition.
+In the Church of Inhibition will be a dead maiden.
+Bloody Fingeris a reusable, online-only tool inELDEN RING(2022).This item can be used as many times as the player wishes, unlikeFestering Bloody Fingerswhich are consumed upon use and need to be replenished.
+Attempts an invasion of another player's world.If successful, your objective will be to defeat the Host of Fingers of the world to which you were summoned.
+The nail of this finger is shot through with streaks of fresh, glistening blood. The finger's sickly pale skin feels nothing now, but the nail still aches with sweetest pain.
+Obtained after givingVarrétheBlood-Soaked Favorand joiningMohg'sBloody Fingers.
+Using this item will make the player attempt toinvadethe world of another player, should they manage to connect then they will spawn in the other player's world as aBloody Fingerwith threePhantom Bloody Fingersto use in that session.The practical and cosmetic effects are the exact same as the theFestering Bloody Finger.Differences are only found when compared against theRecusant Finger, such as the invader's title being "Bloody Finger" instead of "Recusant", the afformentioned Bloody Finger variant of thePhantom Finger, as well as a unique background song playing when the Bloody Finger engages the Host.
+If the player has activatedMohg's Great Runethrough the use of aRune Arcthey will also receive threePhantom Great Runesfor use while invading through the Bloody Finger.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Festering Bloody Finger | Elden Ring Wiki
+Festering Bloody Fingeris aMultiplayer ItemandConsumableinElden Ring.Multiplayer Itemsallow players to interact with each other in various ways, including leaving messages for other players to read, co-operative gameplay and competitive gameplay like PVP.
+Item for online play.(Can also be used from the Multiplayer menu.)Consumed upon use.
+Attempts an invasion of another player's world.If successful, you will arrive as an invader (Bloody Finger) with the objective of defeating the Host of Fingers of that world.
+This furled finger is blackened with blood congestion. It seems to have been chopped off rather unceremoniously.
+Can be bought from theNomadic MerchantinEast Limgravefor1000Runes. [Map Link]
+Sold byPatchesatMurkwater Caveafter he sets up shop.Video Location
+Can be purchased fromTwin Maiden Husksat theRoundtable Holdafter giving themPatches' Bell Bearing
+White Mask Varre, either given by him when met  for the second time at theRose ChurchinLiurnia[Map Link]ORby killing him and plundering his corpse.
+10 are sold by theImprisoned Merchantinside theMohgwyn Dynasty Mausoleumfor2,000Runeseach. [Map Link]
+Can be found x3 Festering Bloody Finger atStormveil Castleon a rooftop, in the courtyard. [Map Link]
+The Hermit Merchant atHermit Merchant's Shackin the Capital Outskirts sells an infinite amount for 3000 runes each.
+Sold by theIsolated Merchantin Raya Lucaria.Video Location
+CompletingWhite Mask Varre's questline grants theBloody Finger, a reusable item that allows for unlimited invasions attempts.
+You can hold up to 99Festering Bloody Fingers.
+You can not storeFestering Bloody Fingers.
+You can not tradeFestering Bloody Fingersto other players.
+Festering Bloody Fingeris a consumable tool inELDEN RING(2022).
+
+---
+
+area: Limgrave
+chapter: 1
+name: Furlcalling Finger Remedy | Elden Ring Wiki
+Furlcalling Finger Remedyis aMultiplayer ItemandConsumableinElden Ring.Multiplayer Itemsallow players to interact with each other in various ways, including leaving messages for other players to read, co-operative gameplay and competitive gameplay like PVP.
+Item for online play.(Can also be used from the Multiplayer menu.)Craftable item.
+Reveals cooperative and competitive multiplayer signs.Co-op summoning signs will be shown in gold, while hostile summoning signs will be shown in red.
+Multiplayer begins when you summon a player from another world through their sign.
+Scorched Ruins: Take the stairs up, and once you are outside again, turn back and on the rooftop of the building you just came for a dead body contains this item. Beware of the ranged shadow enemies on the other building. [See Shadow of the Erdtree Map]
+Fort of Reprimand: On the smaller hanging row, to one of the sides of the wall. [See Shadow of the Erdtree Map] [Video Location]
+Castle Ensis: x1 Furlcalling Finger Remedy can be looted off a body. The body is on a roof, go outside the armory room and check behind it. [See Shadow of the Erdtree Map] [Video Location]
+Temple Town Ruins: After the Scadutree Fragment, fall to the lower level and continue advancing, it will be on the side of a set of stairs you will come eventually. [See Shadow of the Erdtree Map]
+Right below and or directly under the 2nd to the last Archway heading west. [See Shadow of the Erdtree Map]
+Shadow Keep: From the middle area, take the set of stairs to the next floor. Move to the eastern side and on the bridge you'll find a corpse with this item. [See Shadow of the Erdtree Map] [Video Location]
+Shadow Keep: Can be found on a corpse on the roof where you fight the Fire Knight. [See Shadow of the Erdtree Map]
+Shadow Keep: After you fall from the big hole, take down the next hole down. Continue forward past the Fire Knight enemy, and you'll find this on the left side of the room on a corpse. [See Shadow of the Erdtree Map]
+Behind a lonely lookout Messmer Soldier near the edge. [Map Link]
+Dragon's Pit: Found insideDragon's Pit. Before entering the fog door to face the boss, turn back and to find this item on the other side of the room. [Map Link]
+Moorth Ruins: Drop down to the area in which there are two dogs, and at the end of the hallway you will find this item. Might need a torch to light the area. [Map Link]
+Enir-Ilim: After dealing with the Horned Warrior, you will see a platform on the northern side with a tree shaman and an item. You can drop down to the tree branches below if you want to go there. Immediately after dropping down, you can loot x3 Furlcalling Finger Remedy behind you. [See Shadow of the Erdtree Map] [Video Link]
+Dropped byBloody Finger Nerijus. [Map Link]
+Dropped by Hosts of Fingers when invading.
+Dropped byRecusant Henricuswhen invading. North-East ofStormhill Shack. [Map Link]
+Dropped byAnastasia, Tarnished-Eaterwhen invading. [Map Link]
+You can hold up to 999Furlcalling Finger Remedies.
+You can't storeFurlcalling Finger Remedies.
+You cannot dropFurlcalling Finger Remedyfor other players during multiplayer. If you or a co-op partner needs a Furlcalling Finger Remedy, instead drop themErdleaf Flowers, then craft a remedy.
+Furlcalling Finger Remedyis a craftable, consumable tool inELDEN RING(2022).
+
+---
+
+area: Limgrave
+chapter: 1
+name: Rold Medallion | Elden Ring Wiki
+Rold Medallionis aKey IteminElden Ring.Rold Medallionactivates theGrand Lift of Rold, connecting Leyndell to theMountaintops of the Giants.Key ItemsinElden Ringinclude a wide variety of items found in specific locations or are given by a relatedNPCswhich are used to unlock areas, quests, and to further progress the game's story.
+Conjoined split medallion depicting the Flame Peak.
+Brandishing the medallion activates the Grand Lift of Rold, connecting Leyndell to the Mountaintops of the Giants.
+The forge of the flame of ruin is said to be found upon their peaks, and it is here Melina wishes to travel in resuming your journey together.
+Given byMelinaafter you defeatMorgott, The Omen King. Talk to her in the Site of Grace on the battlefield, after failing to enter the Erdtree. Once you do, she will give it to you. [Map Link]
+Rold Medallioncan be used to activate theGrand Lift of Rold, connecting Leyndell to theMountaintops of the Giants.
+Quest:Melina. Received by her upon resting at theSite of Grace, after interacting with the wall of thorns.
+Operates the Grand Lift of Rold connecting theForbidden Landsto theMountaintops of the Giants.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Dark Moon Ring | Elden Ring Wiki
+Dark Moon Ringis aKey IteminElden Ring.Dark Moon Ringis required to finishRanni'squest.Key ItemsinElden Ringinclude a wide variety of items found in specific locations or are given by a relatedNPCswhich are used to unlock areas, quests, and to further progress the game's story.
+Ring depicting a leaden full moon.Symbolic of a cold oath,the ring is supposed to be given by Lunar Princess Ranni to her consort.
+Ranni is an Empyrean, meaning her consort would by rights earn the title of lord.
+A warning is engraved within;"Whoever thou mayest be,take not the ring from this place,the solitude beyond the night is better mine alone."
+Found in a locked chest next to the Raya Lucaria Grand Library Site of Grace - which is available after you defeat Rennala. Unlocked using theDiscarded Palace Key. [Map Link]Video Location
+Dark Moon Ringallows passage through an otherwise sealed pathway behindAstel Naturalborn of the Void, leading towards theCathedral of Manus Celes. Can be used onRanni'sbody in theCathedral of Manus Celesto finish her questline.
+Dark Moon Ringis aKey IteminELDEN RING(2022).
+This item is part ofRanni the Witch's questline.
+Ring depicting a leaden full moon. Symbolic of a cold oath, the ring is supposed to be given by Lunar Princess Ranni to her consort.
+A warning is engraved within; "Whoever thou mayest be, take not the ring from this place, the solitude beyond the night is better mine alone."
+Area: inside the chest nearRennala, Queen of the Full Moonthat requires theDiscarded Palace Keyto open.
+Firstly, it dispells the seal found afterAstel Naturalborn of the Voidthat leads to theMoonlight Altarof Liurnia, then it allows the player to marry Ranni below the Cathedral of Manus Celes, unlocking her summon sign after thefinal bosswhich triggers theAge of the Starsending.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Ghost Glovewort
+Ghost Glovewortis a type ofbolstering materialinELDEN RING(2022), of which 10 variants exist. After progressingRoderika's questline, she can use them to incrementally upgrade specialSpirit Ashes, up to a maximum level of +10; however, for normal ashes,Grave Glovewortis used instead.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Starlight Shards | Elden Ring Wiki
+Starlight Shardsare aConsumable IteminElden Ring. MostConsumablesgrant various effects such as restorative properties for recovering HP, removing certain negative status effects, or applying temporary buffs and debuffs. There is only a finite number ofStarlight Shardsper playthrough.
+An ephemeral sliver that gives off a pale blue glow.What remains of a passing flash of starlight.
+A prized item that was once used in the Eternal City as an ingredient in intoxicating draughts.
+Can be consumed to restore 2FPper sec for 60 secs (120FPTotal).
+Can be traded forSpirit AsheswithPreceptor Seluvis.
+Castle Ensis: x1 Starlight Shards can be looted off a corpse. The body can be found on the roof of a building. [See Shadow of the Erdtree Map] [Video Location]
+Starlight Shards are commonly found in front of stone astrolabes.
+x1 Found at a stone astrolabe near a cliff inWeeping Peninsula. [Map Link] From the Castle Morne Rampart site of grace, go East to the spirit spring. Jump with Torrent and continue East to the astrolabe.
+x1 in found at a Stone Astrolobe south of the Waypoint Ruins behind an encampment where theRoyal House ScrollandGreat Épéeis found inLimgrave. Head southeast from the Agheel Lake South Site of Grace, take the spiritsrping jump to the top of a cliff, and you'll see the astrolabe directly in front of you. [Map Link]
+x1 Found at a stone astrolabe to the very west ofStormhillat the edge of the cliff, almost directly south from the Stormhill ShackSite of Grace[Map Link]
+x1 Gifted in theWaypoint Ruinscellar, rewarded bySorceress Sellenduring her questline if prompted to ask about Master Lusat and choosing to ask about him after locating him inCaelid.
+x1 Found in front of a stone astrolabe located in northeastCaelid. Close to Bestial Sanctum. [Map Link]
+x1 Found a short distance east ofChurch of the Plague, near a small pond directly in front of the stone monument, in Caelid. [Map Link]
+x1 Found at a stone astrolabe in the southwestern area of Caelid. West of the Caelid Highway South Site of Grace. [Map Link]
+x1 Found at a stone astrolabe at the top ofMt. Gelmirat the edge of theFull-Grown Fallingstar Beastboss arena above the Ninth Mt. Gelmir CampsiteSite of Grace. [Map Link]
+x1 Found at a stone astrolabe on one the cliffs in the east side of theLiurnia of the Lakesregion, south of the Artist's Shack overlooking the fog-coveredAcademy Gate Townand Gate Town Bridge. [Map Link]
+x1 Found at a stone astrolabe behindThe Shaded Castle. [Map Link]
+x1 Found at a stone astrolabe by the cliffs on the east side ofFlame Peak. [Map Link]
+x1 Found at a stone astrolabe by the cliffs on the west side ofCastle Sol Main GateSite of Grace, near theDeath Rite Bird.
+x10 Starlight Shards can be found all around the Site of Grace at the center of theCathedral of Manus Celesand x1 more at the cliff nearby. [Map Link]
+This item is allowed inPlayer Tradeonline.
+Starlight Shardsis a consumable tool inELDEN RING(2022).
+An ephemeral sliver that gives off a pale blue glow.
+What remains of a passing flash of starlight.
+A prized item that was once used in the Eternal City
+as an ingredient in intoxicating draughts.
+Can be farmed from non-boss typeDemi-Human Swordmasters. One of these swordmasters is found in theCerulean Coast, and another can be found inCharo's Hidden Grave. A limited supply of shards can also be found in certain locations throughout the Lands Between and the Land of Shadow.
+
+---
+

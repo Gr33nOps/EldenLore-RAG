@@ -1,0 +1,688 @@
+area: Limgrave
+chapter: 1
+name: Ancient Dragon Lansseax | Elden Ring Wiki
+Ancient Dragon Lansseaxis aGreat Enemy BossinElden Ring. This ancient, four-wingedancient dragonis the sister ofFortissaxand had connections to the people of the Golden Order as her brother did. This is an optional boss, as players don't need to defeat it in order to advance inElden Ring.
+Lichdragon FortissaxandAncient Dragon Senessaxare other variants of this boss.Farum Azula Dragonis the normal enemy form of this boss.
+See Ancient Dragon Lansseax Lore
+Lansseax was the sister of Fortissax. It is said that she took the form of a human to commune with the knights as a priestess of the ancient dragon cult.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Troll | Elden Ring Wiki
+TrollsareGiant Humanoid EnemiesinElden Ring. Large and sturdy, these creatures are found everywhere in the Lands Between, serving as guards, knights, and even as beasts of burden.
+The lesser giants who fought for the Erdtree during the War against the Giants long ago. Though the giants have lost their minds, they stay inseparable from their swords that are in sad shape—such that the gold plating had flaked away.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Giant Crab | Elden Ring Wiki
+Giant Crabis aWildlife CreatureinElden Ring. Giant Crabs are hostile, and will often chase down and attack any unsuspecting players that wander too close.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Runebear | Elden Ring Wiki
+Runebearis aField BossinElden Ring. It's a massive beast with a runic pattern on its chest found deep in theEarthbore Cave. This is an optional boss, as players don't need to defeat it in order to advance.
+Ralva the Great Red BearandRugalea the Great Red Bearare other variants of this boss.Lesser Runebearis the normal enemy form.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Grafted Scion | Elden Ring Wiki
+Grafted Scionis aField BossinElden Ring. Grafted Scion is an amorphous mass of bodies that wields two swords and a greatshield, found in various locales, most prominently inStormveil Castle. This is an optional boss as players don't need to defeat it to advance in the game.
+Grafted Scion is on the island at the end of the tutorial section at the beginning of the game. [Map Link]
+If you didn't defeat Grafted Scion during the tutorial, you can return and face it again through the waygate marked "Precipice of Anticipation" inThe Four Belfries.
+From the entrance to Fringefolk Hero's Grave, head down the ramp, double back, and head down again until you reach a bridge over a gap in the floor. Drop down the near end of this gap and you'll land on a platform. Head east, down a flight of stairs, past a fire-breathing statue, and down another flight of stairs.
+You'll find yourself in a room with another bridge across a gap. When you approach the corpse on the far end that's holding anErdtree's Favor Talisman, one Grafted Scion will drop down on top of it and another will drop on the opposite end of the bridge.
+Head south from theRampart TowerSite of Grace and take the elevator down to the first floor. The Grafted Scion is in the hall directly outside the elevator. [Map Link]
+Disguised as aGiant Crayfishpatrolling around the gazebo betweenRose ChurchandBoilprawn Shack. There are four Giant Crayfish in this area: three are sleeping and one is patrolling. The one patrolling will reveal itself to be a Grafted Scion once you attack it. Easily reached by
+Follow the path northwest from theFirst Mt. Gelmir CampsiteSite of Grace and across the rock bridge. As you approach the ladder up the cliff face, the Grafted Scion will drop down to fight you. [Map Link]
+
+---
+
+area: Limgrave
+chapter: 1
+name: Giant Crayfish | Elden Ring Wiki
+Giant Crayfishis aWildlife CreatureinElden Ring. Giant Crayfish are often found in shallow bodies of water such as those found inLiurnia of the Lakes. They have tough outer shells alongside a giant pincer arm adept at crushing prey and a needle arm for impaling any it chooses.
+Values inRedcorrespond to theMountaintops of the Giantsvariant.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Bloodhound Knight | Elden Ring Wiki
+Bloodhound Knightis aField BossinElden Ring. Bloodhound Knight is a humanoid crawling on all fours, wielding a large curved sword, and is found inLakeside Crystal Cave. This is an optional boss.
+Lesser Bloodhound Knightis the normal enemy form of this boss. Another Bloodhound Knight appears in theBloodhound Knight Darriwilfight.
+The Bloodhound Knights are trained as hunters and known to be unshakable trackers. Without the use of language, each knight chooses his own master. Once the decision has been made, the knight stays loyal for life.
+The end boss ofLakeside Crystal Cave. [Map Link]
+
+---
+
+area: Limgrave
+chapter: 1
+name: Black Knight | Elden Ring Wiki
+Black Knightis aHumanoid EnemyinElden Ring. Black Knight is a new enemy that was exclusively added to theShadow of the ErdtreeDLC. The Black Knights are devoted followers ofMessmer the Impalerand can be found throughout the Lands of Shadow.
+The Black Knights wear black iron helms decorated with gold and chestplates engraved with golden Scadutree motifs, a small consolation for those forced into a graceless and dishonorable war. They emanate a foul odor, perhaps from the tainted blood that coats them, or from their own corrupted souls decaying through endless slaughter.
+Black Knight EdreddandBlack Knight GarrewareField Bossvariants of this enemy. In addition, the spirit of a Black Knight can be summoned to aid in battle by usingBlack Knight Commander AndreasandBlack Knight Captain Huw.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Fire Knight | Elden Ring Wiki
+Fire Knightis aHumanoid EnemyinElden Ring.Fire Knightis an enemy that was exclusively added to theShadow of the ErdtreeDLC. The Fire Knights serve directly under the command ofMessmer, being the only ones who truly understand him. They are intimately familiar with his serpent-like flames and the suffering tied to his cursed existence. These enemies can only be encountered within theShadow Keep. Named fire knights that do not respawn include Wego, Kood, and Salza.
+Adorned in a pointed helm and armor featuring a red cape and twin golden snakes around the neck that enhances Messmer's flame incantations, each knight hails from a renowned family of the Erdtree's upper echelons. However, they were shunned and exiled from their homes after swearing loyalty to Messmer as their master.Fire KnightQueeligndevoted his all to the crusade, and remade his greatsword in the shape of the lance wielded by his liege—aspiring to become a second Impaler.
+The spirit of aFire Knightcan be summoned for aid in battle by using theFire Knight HildeSpirit Ashes.
+Where to Find namedFire Knights:
+
+---
+
+area: Limgrave
+chapter: 1
+name: Misbegotten | Elden Ring Wiki
+Misbegottenis aHumanoid EnemyinElden Ring.Misbegottenare medium-sized humanoids with varying animalistic traits, such as tails, wings, and vaguely reptilian legs. They are treated as lesser by many, but should not be underestimated.
+The spirit of aWinged Misbegottencan be summoned for aid in battle by usingWinged Misbegotten Ashes.
+The misbegotten are held to be a punishment for making contact with the Crucible, and from birth they are treated as slaves, or worse.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Omenkiller | Elden Ring Wiki
+Omenkilleris aBossinElden Ring. It wields two serrated swords and if found at theVillage of the Albinaurics, in southwestLiurnia of the Lakes. This is an optional boss as players don't have to defeat it to advance inElden Ring.
+Lesser Omenkilleris the normal enemy version of this boss. It also appears in theOmenkiller and Miranda, the Blighted Bloomfight.
+The spirit of anOmenkillercan be summoned for aid in battle by using theOmenkiller RolloSpirit Ashes.
+From theVillage of the AlbinauricsSite of Grace, head up the hill and across the stone bridge. The Omenkiller is by the burning furnace near the tree. [Map Link]
+
+---
+
+area: Limgrave
+chapter: 1
+name: Living Jar | Elden Ring Wiki
+Living Jaris anenemyinElden Ring. They are animate jars that often hide out of place, usually only attacking when provoked or approached.
+The spirit of (3)Living Jarscan be summoned for aid in battle by using theSoldjars of Fortune Ashes.
+Though the jars are brought to life by human flesh and blood, they are all rather kindly folk. Perhaps they were made to be better than their innards.
+Their fragments command a high price due to the magical power locked within. This leaves the living jars unfortunate targets for poachers.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Walking Mausoleum | Elden Ring Wiki
+Wandering Mausoleumsare specialLocationsinElden Ring. Mausoleums appear as walking buildings with four legs and are found throughout the Lands Between, often with their signature bells attached. Players must attack the skull-like deposits on the structure while avoiding damage to get the mausoleum to become accessible. These can appear on either the legs or along the base of the building, the latter of which necessitates jumping on top of it.
+Players will hear mausoleums as they emit a distinctly loud bell sound as they walk about. They usually have a small roaming area, so they are easy to find. When you first want to access a wandering mausoleum, you must either attack the deposits on its feet or use the environment to climb up, jump onto the wandering mausoleum and destroy the deposits around the structure itself.  This can take considerable time depending on the location.
+Once the mausoleum is static, you can enter it at any time to perform aRemembrance Duplication: This is only available once per mausoleum, so pick wisely! Performing this rite will enable you to obtain the multipleRemembrance Weapons (Boss Weapons)and magic that they grant. Boss Armor is not gated behind their remembrances, but you must have defeated them to purchase fromEniaat theRoundtable Hold.
+There are a total of 7 Wandering Mausoleums in Elden Ring. Monuments with bells will duplicate any boss remembrance. Monumentswithoutbells will only duplicate the remembrance of a non-shard bearer boss. Each reward can only be received once per playthrough.
+Liurnia of the Lakes, No Bell:North of theRuined Labyrinth Graceor, due south of theMausoleum Compound Gracein Eastern Liurnia, north of the Church of Vows. It stops wandering for about seven minutes during "late night".
+Additionally, threeRemembrance Duplication Coffinswere added in the Shadow of the Erdtree expansion which serve the same purpose.
+*The two mausoleums without bells at the Mausoleum Compound site of grace can only duplicate the starred (*) entries.Every other mausoleum can duplicate all remembrances.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Giant Land Octopus | Elden Ring Wiki
+TheGiant Land Octopusis aWildlife CreatureinElden Ring. These creatures are hostile when approached, and are quite tanky and unpredictable.
+Giant Land Octopusesand the smallerLand OctopusesdropLand Octopus Ovaries; this item can be used in crafting several higher tier consumables and utility items.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Fingercreeper | Elden Ring Wiki
+TheFingercreeperis a type ofWildlife CreatureinElden Ring. Fingercreepers are hostile, grotesque creatures resembling a severed hand, comprised of gigantic disembodied fingers. They use their fingers to quickly move about and can fire a binding spell from the ring on the middlemost finger.
+These are the larger variant of theLesser Fingercreeper, and can often be found amongst groups of them lurking on the side of cliffs and buildings. Aside from being stronger and more powerful, one of their fingers bears a set of enormous gold rings, one of which holds a purple gemstone that allows Fingercreepers to launch an orb of gravity magic to ensnare and pull in anyone caught in it.
+Fingercreeperscan be found in the following locations:
+
+---
+
+area: Limgrave
+chapter: 1
+name: Miranda Sprout | Elden Ring Wiki
+Miranda Sproutis aWildlife CreatureinElden Ring.Miranda Sproutsare hostile at all times. They are smaller variants of theGiant Miranda Sproutand are typically seen with them.
+The spirit of five (5)Miranda Sproutscan be summoned for aid in battle by usingMiranda Sprout Ashes.
+Sweet little carnivorous blossoms that feed upon human flesh. They creep slowly, scattering toxic pollen. They are vulnerable to fire.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Lesser Ulcerated Tree Spirit | Elden Ring Wiki
+Lesser Ulcerated Tree Spiritis aMonster EnemyinElden Ring, the non-boss enemy of theUlcerated Tree Spirit. Located within many later game areas, the Lesser Ulcerated Tree Spirit is a towering, snake-like creature that heavily features a body composed of tree-like structures and is covered is sweltering red pustules. See alsoPutrid Tree Spiritfor an additional variant.
+Where to FindLesser Ulcerated Tree Spirit:
+From theLiftside ChamberSite of Grace, exit the room to the east and double back west to a ledge where you'll see a corpse with aSmithing Stone [1]. Drop off the ledge, then drop off again onto a stone buttress, then again to the north onto a wooden platform continue north onto a stone platform, then west down another series of wooden platforms. Once you reach ground level, head south through collapsed stonework and drop down one more ledge. The Ulcerated Tree Spirit will emerge from the ground and the fight will begin. [Map Link]
+Head south from theOuter Wall Phantom TreeSite of Grace until you encounter a small camp surrounded by log walls. As you approach the camp, the Ulcerated Tree Spirit will emerge from the ground and the fight will begin.
+Head out the door from theLower Capital ChurchSite of Grace and continue northwest down the ladder. Don't go all the way into the sewer; instead, turn right and head northeast through the door. Either kill or run past theLeyndell Knightin this room, then head out the door on the opposite side. The Ulcerated Tree Spirit will appear in the large arena here.
+You can also reach this boss from theAvenue BalconySite of Grace by heading northeast up the avenue, turning left after the black carriage into the plaza with the fountain. Enter the door on the west side and take the elevator down, then turn right and cross a small bridge to reach the arena.
+From theForbidden LandsSite of Grace, head up the stairs and through the door to the west, up the elevator, and across the long bridge. Head down the next elevator, down the stairs, and onto the wide field of ash where three Ulcerated Tree Spirits will attack.
+In the poison pool at the bottom of Belurat, Tower Settlement. [Map Link] [
+From theEllac River CaveSite of Grace, leave the cave to the west so you're in the riverbed, then head northeast upriver until you reach a large open area where the Ulcerated Tree Spirit will attack. [Map Link]
+
+---
+
+area: Limgrave
+chapter: 1
+name: Aging Untouchable | Elden Ring Wiki
+Aging Untouchableis anEnemyinElden Ring. Aging Untouchable is an enemy that was exclusively added to theShadow of the ErdtreeDLC. Likely born from the frenzied flame's influence in the region, Aging Untouchables are humanoid creatures with a swollen head riddled with glowing yellow eyes. They are invulnerable to attacks until they have been parried once. See theParryingpage for more information about this mechanic. They patrol sections of theAbyssal Woodsand relentlessly chase any players they see, inflictingMadness.
+Gift your madness to our Lord. Bless our brethren with grapes. Take care that they fully ripen.
+Where to Find Aging Untouchable:
+
+---
+
+area: Limgrave
+chapter: 1
+name: Horned Warrior | Elden Ring Wiki
+Horned Warrioris aHumanoid EnemyinElden Ring.Horned Warrioris a new enemy that was exclusively added to theShadow of the ErdtreeDLC. The Horned Warrior you encounter will either be dual-wielding curved swords or one-hand a curved greatsword. They are very weak toHoly Damageand can bepoisonedandrotted. They often swing their weapons relentlessly, giving you almost no chance to retaliate. They can also withstand attacks that would otherwise send a different type of enemy flying.
+A fearsome adversary, easily recognizable by their distinctive appearance. Their helms feature a crown of sturdy tangled horns, allowing them to invoke divinity. Clad in plated armor and adorned with ochre fabric. These warriors are not only resilient, but also agile, as they combine brute strength with swift and deadly precision.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Man-Fly | Elden Ring Wiki
+Man-Flyis anEnemyinElden Ring. Man-Fly is a new enemy that was exclusively added to theShadow of the ErdtreeDLC. Man-Fly enemies are common in the overworld. They embody both the characteristics of a fly and a man. These enemies will fly around and spit poison, but once they get close enough, they will try to grab and attack you.
+These creatures were originally humans who suffered from a metamorphosing illness, transforming them into human-insect hybrids. The disease ravaged their peaceful villages, killing most of the population. The few who survived were turned into man-flies. The illness also appears to make the infected aggressive, causing them to attack on sight.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Lamenter | Elden Ring Wiki
+Lamenteris aBossinElden Ring. Lamenter is a small but sneaky boss that uses clones as its main attacking method and is found inLamenter's Gaol. This is an optional boss as players don't need to defeat it to advance in Elden Ring.
+Lamenter is the end boss ofLamenter's Gaol, in the northwestern area ofCharo's Hidden Grave. [Map Link] [Video Link]
+[screenshots and artwork go here]
+
+---
+
+area: Limgrave
+chapter: 1
+name: Erdtree Burial Watchdog | Elden Ring Wiki
+Erdtree Burial Watchdogsare FieldBossesinElden Ring. These catlike hounds guard catacombs throughout the Lands Between, wielding swords and staves as well as elemental magic. These are optional bosses, meaning players don't need to defeat them in order to advance.
+TheLesser Burial Watchdogis the normal enemy form of this boss.
+The Watchdogs, battered and broken over their lengthy tenure, rule the catacombs and are even said to command the imps.
+Stormfoot Catacombs[More Info ↓] [Map Link]
+Impaler's Catacombs[More Info ↓] [Map Link]
+Cliffbottom Catacombs[More Info ↓] [Map Link]
+Minor Erdtree Catacombs[More Info ↓] [Map Link]
+Wyndham Catacombs[More Info ↓] [Map Link]
+Is vulnerable to acritical hitafter beingstance brokenor parried
+The negation numbers are the % of your damage that gets blocked. For example, if a negation is 60, 40% of that damage by that type will go through and 60% will be negated. Bigger number = less damage. A negation of 100 means no damage goes through, and a negation of -100 mean the enemy takes 2x damage from that source. 0 means damage goes pretty much as is.
+The resistance numbers are the buildup amount to trigger it. For example, if a resistance is 100 you must deal 100 points of the given buildup to trigger it. Note that these go down over time, and increase each time the effect procs.
+The Best Tips for Erdtree Burial Watchdog:
+Kaiden Sellsword Ashesmake early Watchdog fights a breeze.
+If you hit a Watchdog with severalCrystal Darts, it will go berserk and attack the closest thing, whether it be friend or foe. This can force it to focus on your summons while you attack it at range, but its most useful for forcing the Watchdog inImpaler's Catacombsto fight itsImpsor the Watchdogs inMinor Erdtree Catacombsto fight one another.
+For melee users, the best way to win this fight is to bait its attacks. Try dodge rolling to its side after a strike, get a few hits in, then dodge away. Some of its attacks covers a wide range, so having a good shield is also handy, but avoid guarding against the Levitating attacks since they can hit over a shield. If you end up behind the Watchdog, beware of its Tail Slam attack that can still hit you.
+Jump Attacks:Jumping is effective for dodging both the Levitating and Spinning Swipe attacks. Jump to dodge and then do a jumping attack to build upStancedamage and get incritical hits.
+Parries:Since their attacks are well-telegraphed, they can beparriedwith relative ease.
+This fight is considerably easier for ranged and magic users since all you need to do is keep your distance. You may have to roll or jump away several times during the Levitating attacks, since it likes to do this many times in a row, but eventually it will stop and switch to more easily punishable attacks.
+Glintstone PebbleandLightning Spearare excellent spells for these fights. Spells that can stun them such asRock Slingcan also help.
+Formerly calledBurial Tree Watchdogsin the Closed Network Test.
+Erdtree Burial Watchdogis an enemy and reoccurring boss inELDEN RING(2022).
+Erdtree Burial Watchdogs are living statues resembling beasts with hunched bodies and long, cat-like tails. Thesegolemsare the protectors of catacombs where Erdtree burial took place, and are said to command theImps.[1]
+If struck by aCrystal Dart, they will enter a maddened state and attack enemies around them.
+Consecrated Snowfield CatacombsGiant-Conquering Hero's Grave
+7,232 (Consecrated Snowfield Catacombs)5,095 (Giant-Conquering Hero's Grave)
+7,878 (Consecrated Snowfield Catacombs)3,712 (Giant-Conquering Hero's Grave)
+Erdtree Burial Watchdogs that wield large greatswords. The swords are decorated with the watchman's eye, but the pupils have been taken by graverobbers.[2]Their tails emit a variety of magical effects, such as fire, frost, and lightning.
+Can include a separate table for a specific instance of this variant's moveset.
+Erdtree Burial Watchdogs that wield large stone staffs embedded with glintstone, which they use to cast ancient sorcery.[3]
+
+---
+
+area: Limgrave
+chapter: 1
+name: Golem | Elden Ring Wiki
+Golemsare a type ofGiant Humanoid EnemyinElden Ring. They are massive humanoid constructs created to protect and guard against intruders, wielding their massive weapons. Though large, their weakness is their low mobility and their ankles, which will topple them with ease.
+AHalberdGolemis hiding around the ruins at the southwest ofStormhill, near the Evergaol. This one is inactive and will immediately wake up and begin attacking when provoked.  It does not respawn.
+There is anotherHalberd Golemhiding in the northeast corner of Stormhill, right of the Colosseum, similar to the above one. It also does not respawn.
+AHalberdGolemcan be found guarding the entrance toAinsel River Wellin the east side ofLiurnia of the Lakes, to the east of theChurch of Vows. It does not respawn.
+AnArcher Golemis guarding the entrance toCastle Morne. It does not respawn.
+TwoGolemsand oneArcher Golemcan be found on the bridge toDivine Tower of Limgrave(They do respawn, and is a early place for farmingGolem's Halberd) [Map Link]
+A uniqueGolemcan be found at the east of Caelid at the bottom of a cliff by going to the east from the Minor Erdtree (Dragonbarrow). [Map Link] It wields a glowing magic halberd and can summon orbs that fire lasers at you. It is powerful and is not worth the risk to kill, as it does not drop unique items.If one does wish to kill it, bait the lasers into hitting a wall or a pillar, as they do not track the player once fired.
+If one does wish to kill it, bait the lasers into hitting a wall or a pillar, as they do not track the player once fired.
+TwoArcher Golemswielding magic bows guard the ravine towards theCaelid Colosseumand theGreat-Jar. Their arrows explode upon hitting a surface.
+AGolemcan be found in the fields west of theShaded CastlenearMaleigh Marais, Shaded Castle Castellan. 2427Runes(Confirmed can dropGolem's Halberd)
+Two Golems are found guarding theGrand Lift of Dectus-- one wielding a Greatbow and one wielding a Halberd.Unlike other Golems, they do not attack if player approaches them after using the lift.
+Unlike other Golems, they do not attack if player approaches them after using the lift.
+TwoArcher Golemsand oneHalberd Golembetween the Outer Wall Battleground Site of Grace and the Draconic Tree Sentinel Boss fight.
+One Golem can be found near the Divine Bridge Site of Grace inLeyndell, Royal Capital. [Map Link] It does not respawn. TheBlessed Dew Talismanis in a chest near this golem. See more information below. Does respawn inLeyndell, Ashen Capital.
+Two are south of the Freezing Lake grace in the Mountaintops of the Giants. They can be used to break the glowing statue containing Smithing Stones. [Map Link]Probably the best spot to farm for the Golem's Halberd
+Probably the best spot to farm for the Golem's Halberd
+Ancient Ruins of Rauh: Bloodfiend Ruins Southeast Cliffside
+There's a particular non-respawning golem that is often confused with a boss due to its positioning. The "Divine Bridge Golem" can be found when proceeding across the Divine Bridge, the entrance toLeyndell, Royal Capital. The Golem will be found lying dormant, only to slowly stand up once approached. [Map Link]
+The Divine Golem is quite simple to deal with for melee users.  Preferably with a two-handed Heavy weapon, immediately do a fully charged heavy attack on its legs twice.  This will cause it to fall over and allow a Critical Attack on its chest.  This can be immediately repeated before it finishes standing up for an easy win. If you are using lighter weapons like Swords, land a couple of charged heavy attacks then retreat in case the Golem decides to stomp. Don't linger at a distance for too long, as its sweeps cover a wide area in front of it.
+Sorcerers will want to haveRock Slingwhen engaging at a distance. Those good at reading attacks in close can hammer it withGlintstone Pebbleor evenCarian Slicer, but one mistake can take a magic user out of the game with a low HP pool. Throw rocks at the ankles to knock the Golem down, then hit the chest with a couple of casts before retreating. The golem has an extremely long range reaching attack that can one-shot a magic user, so stay far back and advance to hit and run at the edge of Rock Sling's range.
+Guardian Golemis anenemyinELDEN RING(2022).
+Golems are giant stone guardians hailing from a civilization now gone to ruin.[1]They are said to have been made by a golem crafter, using an impure crystal knife not unlike theCrystal Dart.[2]Though typically wielding equally massiveGolem's Halberd, some can be found carryingGolem Greatbowsthat they use with great precision.
+Fire can be seen through the plates on their chests. Their hard, stone bodies are very resistant to physical damage, however they will topple if their ankles sustain enough damage, allowing for a critical attack on their chests.
+Liurnia of the LakesCapital OutskirtsLeyndell, Royal CapitalLeyndell, Ashen CapitalMountaintops of the Giants
+A golem carrying a massive halberd that it can use to tear the earth asunder and can eject streams of fire through their helmet. Be wary of the instance of this enemy on the cliffs just east of theMinor ErdtreeinGreyoll's Dragonbarrowthat wields a magically infused halberd, as it is extremely powerful and capable of using the halberd to summon three orbs that shoot a very destructive magical beam.
+Surprising reach due to the length of their halberds, and they still have strong attacks to defend their weak ankles. When they are knocked down their chests are vulnerable for a critical hit but sometimes just continuing to hack away at the ankles may be more effective.
+Can include a separate table for a specific instance of this variant's moveset.
+A golem carrying a massive greatbow. It pulls back the hardy string with its immense strength to shoot great arrows infused with the storm.[3]Be wary of the Golems that guard the approach to theGreat Jarof Caelid, as their arrows unleash a magical explosion upon landing.
+Almost defenceless at melee range since they can't point their bow further down at that point. The actual danger lies mostly in approaching them, after that the stomps should be of minimal difficulty.
+A Golem found at the end ofHighroad Cave, having most likely fallen down from the bridge to theDivine Tower of Limgrave.
+Damage types: mainlyStandarddamage, with somePiercedamage from its thrusts andFiredamage from its flame breaths.
+It's immune to allStatus Effectsand has 40% negation to all non-Physicaldamage types except forMagic, where it has only 20% resistance. It is somewhat weak toStrikedamage, having 0% negation towards it, and a mild 10% negation against all other Physical damage types.
+Since it starts out lying on the ground and will take a few seconds to get up once alerted, it's easy to get in some opening hits on its ankles. It has the range advantage and can hit most of the cave thanks to the length of its weapon.
+The simplest strategy is to do the same as with a regular, non-boss halberd golem by sticking behind its ankles and backing away when its starts hitting the ground with the butt of its weapon or if it breaths fire.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Revenant | Elden Ring Wiki
+Revenantis aHumanoid EnemyinElden Ring. TheRevenantis a highly aggressive multi-legged creature that can travel between dimensional portals to quickly close the distance with its prey. They can frequently be found stalking ruins in theLiurniaregion and are often accompanied by theWraith Callersthat worship them.
+TheRoyal Revenant, a boss version of the Revenant can be found in theKingsrealm Ruins.
+Revenantscan be found in the following locations:
+Cerulean Coast- Dragon Area, Beach-Facing Coffin
+Charo's Hidden Grave- Southeast Mariner Area
+As indicated in apurchasable note, Revenants and theirWraith Callerfollowers are damaged by healing effects. In practice this vulnerability is specifically to the area effects of certain healingincantations:Area-of-effect burst-heal incantations such asHeal,Great Heal,Lord's Heal, andErdtree Healdeal damage for 50% of max HP + 300 HP.Area-of-effect heal-over-time incantations such asBlessing's BoonandBlessing of the Erdtreedeal damage for 3% + 10 HP per second for 30 seconds.These healing incantations also deal significantPoisedamage and can instantly poise-break the target, creating an opportunity for acritical strike.Finger Maiden Therolina Puppetcan be a very useful spirit ash against these enemies.
+Area-of-effect burst-heal incantations such asHeal,Great Heal,Lord's Heal, andErdtree Healdeal damage for 50% of max HP + 300 HP.
+Area-of-effect heal-over-time incantations such asBlessing's BoonandBlessing of the Erdtreedeal damage for 3% + 10 HP per second for 30 seconds.
+These healing incantations also deal significantPoisedamage and can instantly poise-break the target, creating an opportunity for acritical strike.
+Finger Maiden Therolina Puppetcan be a very useful spirit ash against these enemies.
+No damage is taken from healing incantations when cast by invaders.
+No damage is taken from the ground-effect healing areas created byHoly GroundorWarming Stones.
+Moonlight AltarSainted Hero's GraveShaded CastleSubterranean Shunning-GroundsSellia HideawayElphael, Brace of the Haligtree
+Ghost Glovewort 2Ghost Glovewort 4Ghost Glovewort 6Ghost Glovewort 9
+Royal Revenantis an enemy inELDEN RING(2022).
+Pale, gaunt creatures resembling corpses with many limbs. They emerge from pools of shallow water, and attack with unnatural speed and the ability to inflictPoison.
+They take damage from and are stunned by healing incantations such asHeal,Great Heal,Lord's HealandErdtree Heal, losing half their health if hit. They also take damage from healing over time incantations, such asBlessing's BoonandBlessing of the Erdtree, losing 90% of their health over 30 seconds if affected by such as spell.
+They are often accompanied byRevenant Followers.
+A Royal Revenant encountered in the hidden cellar of Kingsrealm Ruins in north-westernLiurnia of the Lakes. It guards a chest containing theFrozen Needle.
+Encountered in a very small room and without having to go through their signature lengthy spawning animation, this Revenant will turn aggressive quickly.
+If it leaps towards roll forwards to the left of it and get in a hit before backing away, being ready to roll. Should it start to use more short-ranged melee slams, back away to provoke more leaps. Sometimes it will start to chain these slams into one long combo, either try to keep as far away as possible from this or get behind it if already close.
+Occasionally it will start to emit a green color around its head which signifies that it's about to spit out a thin cone ofPoisonsludge. Potentially dangerous if caught in the middle of an action such as drinking aFlask of Crimson Tearsbut otherwise easily rolled or jumped away from.
+Sometimes it will slip through a portal underground to appear behind its target and spit poison before starting its attack routine again.
+One easy way to kill it is to find an opening to cast a cheap healing spell such asHealand then cast it again immediately while it's stunned. Any class can do this as even aPrisonerhas enoughFaithwith aCommoner's Garb/Commoner's Simple GarbandTwo Fingers Heirloom.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Kindred of Rot | Elden Ring Wiki
+Kindred of Rotis aField BossinElden Ring. These insect-like creatures wield a spear in their many arms and are found inSeethewater Cave. This is an optional boss, as players don't need to defeat it in order to advance inElden Ring.
+Lesser Kindred of Rotis the normal enemy form of this boss. The spirit of a Kindred of Rot can be summoned for aid in battle usingKindred of Rot Ashes.
+The end boss ofSeethewater Cave. [Map Link]
+Is vulnerable to acritical hitafter beingstance brokenor parried
+Buffed if any nearby character is poisoned, similar toKindred of Rot's Exultation
+The negation numbers are the % of your damage that gets blocked. For example, if a negation is 60, 40% of that damage by that type will go through and 60% will be negated. Bigger number = less damage. A negation of 100 means no damage goes through, and a negation of -100 mean the enemy takes 2x damage from that source. 0 means damage goes pretty much as is.
+The resistance numbers are the buildup amount to trigger it. For example, if a resistance is 100 you must deal 100 points of the given buildup to trigger it. Note that these go down over time, and increase each time the effect procs. The values after the "/"s indicate the increased resistances after each successive proc.
+Use theSwift Glintstone Shardspell to stagger them and stops them from using their thread attack
+Keep your positioning to the side of them and focus on one at a time while rolling through any pest thread attacks. If you want a quick fight, use spirit summons to clear one while you clear the other. If you have a shield, you can guard counter them and it will stun them giving you more opportunities to deliver hits. Be patient and wait for an opening before coming down at them with by spamming your melee attacks, giving you an opportunity to interrupt their following attacks until they are cleared. Anticipate their next action and roll back if it follows through. Repeat the pattern of waiting for an opening until they are cleared.
+Either Holy Damage or Faith Builds work when going against them. They tend to take long pauses before each action. Mages have the option to useSwift Glintstone Shard, which may interrupt their next action. If significant damage was taken, roll back and create a larger separation before healing. If this is difficult, and you are willing, use spirit summons to help you since there are two of them and may be hard to separate. Keeping your distance will give you more openings and will eventually lead to their defeat.
+Glaive made from a hard, sharpened shell. Wielded by the pests who emerged from the Swamp of Aeonia. Slightly increases non-physical damage negation.
+Though men might recognize the keen intellect of the pests evidenced by this spear's uncanny design, it will never be understood by them.
+Ashen remains in which spirits yet dwell.Use to summon a spirit of the Kindred of Rot.
+This spirit takes the form of a crawling pest, its chitinous body making a dry rustling sound.Attacks enemies by secreting sticky threads.
+The Kindred of Rot are the servants of the Goddess of Rot—servants that have been forsaken.
+A talisman depicting the exultation of pests.
+Raises attack power when poisoning or rot occurs in the vicinity.
+"Rot for the scarlet goddess. O scarlet blossoms, flourish in distant lands, and return to us, the unwanted children."
+The Kindred of Rot are theservantsof theGoddess of Rot—servants that have been forsaken.
+TheKindred of Rotorpestsareenemiesand optionalbossesinELDEN RING(2022).
+Anthropomorphic, insectoid beings that emerged from theSwamp of Aeonia[1], they are forsaken servants and unwanted children of the newGoddess of Rot.[2][3]They are commonly found in places blighted byScarlet Rot, such asCaelidand theGrand Cloister.
+Fully grown pests found in Rot-infested areas. They wield glaives made from hard, sharpened shell, and can fire web-like threads from a distance. If Scarlet Rot orPoisonis utilised near them, they receive a buff.
+Fully-grown pests found in Rot-infested areas around theancient Rauh Ruinsand theChurch of the Bud. They are colored pink to signify they have been embraced byRomina, Saint of the Bud. They wield glaives made from hard, sharpened shell, and can firePest ThreadsandPest-Thread Spearsfrom a distance. If Scarlet Rot orPoisonis utilised near them, they receive a buff.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Cleanrot Knight | Elden Ring Wiki
+Cleanrot KnightsareField BossesinElden Ring. These tall warriors are clad in golden armor with distinct tufts of decorative crimson fur. They wield a thrusting sword, alongside a spear or a scythe and are found as bosses in various locations, often in those withPoisonorRot. They are optional bosses, as players don't need to defeat it in order to advance. However, defeating them yields usefulItemsandRunes.
+The Cleanrot Knights serveMalenia, Blade of Miquella, and fought with her againstGeneral Radahn'sarmy during the Shattering. They remain loyal to her despite knowing that they will eventually succumb to the scarlet rot.
+Lesser Cleanrot Knightis the normal enemy form of this boss. The spirit of a Cleanrot Knight can be summoned for aid in battle usingCleanrot Knight Finlay Ashes.
+The Cleanrot Knights vowed to fight alongside Malenia, despite the inevitable, if gradual, putrefaction of their flesh. Their acceptance of their fate made these battles fiercest of all.
+Stillwater Cave(Spear) [More Info ↓] [Map Link]
+Abandoned Cave(Spear & Sickle) [More Info ↓] [Map Link]
+Is vulnerable to acritical hitafter beingstance brokenor parried
+The negation numbers are the % of your damage that gets blocked. For example, if a negation is 60, 40% of that damage by that type will go through and 60% will be negated. Bigger number = less damage. A negation of 100 means no damage goes through, and a negation of -100 mean the enemy takes 2x damage from that source. 0 means damage goes pretty much as is.
+Don't just keep attacking over and over—once it uses Spear Guard, back off or it'll counter-attack.
+UseFire Pots. It's very weak to fire and has low health to begin with, so a single pot will do a lot of damage even at low levels
+Long windups and attack animations leave it very vulnerable to backstabs
+Baiting:Stay close and towards its left to tempt it into using Spear Stab, Impale, or Sacred Phalanx. When it starts winding up one of these slow attacks, circle around behind it and get a backstab critical.
+Waiting Game:Don't underestimate the Cleanrot Knight's range. It may not have any ranged attacks, but Rushdown is very good at closing distance and Impale will do a lot of damage if it connects. If your spells take a while to cast, either make sure you're across the arena or it's distracted by your summons.
+They first appeared in a trailer back in E3 2019, seen stabbingRadahnwith their spears.
+Known as Noble Rot Knight in other languages, likely referring to theBotritis fungusthat's used to make sweet wines
+Spear Variants are more aggressive than their Scythe wielding counterparts, often being the ones charging their opponents
+This Cleanrot Knight wields aCleanrot Spear
+This variant can buff itself when it lands multiple consequetive hits, increasing its damage for a short while.
+Drops3,300,Winged Sword Insignia,Cleanrot Knight's Sword
+The resistance numbers are the buildup amount to trigger it. For example, if a resistance is 100 you must deal 100 points of the given buildup to trigger it. Note that these go down over time, and increase each time the effect procs. The values after the "/"s indicate the increased resistances after each successive proc.
+Cleanrot Knightsis an enemy inELDEN RING(2022).
+War-Dead CatacombsShaded CastleConsecrated Snowfield CatacombsMiquella's Haligtree
+Cleanrot SpearHalo ScytheCleanrot Knight's Sword
+A knight who vowed to fight alongside Malenia, despite the gradual and inevitable putrefaction of their flesh.[1]They each carry aWinged Sword Insigniatalisman, representing the beautiful and relentless blade of Malenia, in honor of their service to her.[2]All Cleanrot Knights wield aCleanrot Knight's Swordas a secondary weapon to complement their long-handed armaments.[3]This allows them to land multiple attacks in quick succession, triggering the Talisman's blessing to strengthen them even further.
+Most Cleanrot Knights wield aCleanrot Spearwhich bears a small shield on its shaft. They will imbue their spear with gold prior to performing their more deadly attacks. Such as grabbing their enemy with the spear tip and infecting them with Scarlet Rot, and summoning forth a golden palisade from the ground.[4]They can also brace their spear with their sword to absorb an incoming blow and quickly retaliate with their own.
+Cleanrot knight commanders wield theHalo Scythe.[5]They prefer ranged combat over direct confrontation, and will repeatedly fire Miquella's rings of light at a distance.[6]Upon more direct confrontations, they may vomit Scarlet Rot.
+They are quite resistant toSlashandHolydamage, taking 35% and 40% less damage from these types. They have no resistance toPierceandLightningdamage and will take 20% extra damage fromFireattacks unless the scythe-wielding variant has cast its resistance incantation.
+A lone Cleanrot Knight, encountered in an alcove at the very end ofStillwater Cavethat has been partially flooded in poisonous waters.
+Most of the room is full ofpoisonouswater so it's advisable to quickly run to the small island of safety just left of the boss, in the middle left to far left section of the room.
+A Cleanrot Knight and its commander, both encountered in an alcove at the very end ofAbandoned Cavethat has been partially flooded by scarlet rot. The remains of numerous Abductor Virgins lay scattered around the arena.
+As the fight starts only the spear-wielder is present, with the scythe-wielding commander rising from the rot pool to the left within 12 seconds of starting the fight. As such it is best to spend that opening either summmoning aSpiritor rushing down the spear knight to try and at least severely wound it before the scythe knight can join the fray.
+Of the two combatants, the spear knight is more aggressive and will try to restrict player movement with its Sacred Phalanx and inflictScarlet Rotwith its charge while the scythe knight will harass from afar with Miquella's Ring of Light and buff both of them with a unique combination of health regeneration and extraFireresistance to cover for one of their weaknesses.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Basilisk | Elden Ring Wiki
+Basiliskis anEnemyinElden Ring. Basilisks are frog-eyed creatures found in underground areas. They are able to breathe out a black smoke that inflictsDeathon players for each second they stay in it, making it important to mind your surroundings when fighting them.
+Lake of Rot: They may pop out from out of the poison while exploring.
+Mt Gelmir: Seethewater River, north of the Seethewater RiverSite of Grace.
+Found around structures close to the waterfalls inDeeproot Depths.
+Often found lying in ambush in Poison/Rot pools or around corners. Never expect them to be alone.
+They create clouds that build upDeath Blight, but otherwise deal no damage.
+Immune tocritical hit. Stance break only stuns for a moment.
+Their large eyes are false; the real ones are slightly above their mouth, though they are very small.The large eyes are also reminiscent of Godwyn's eyes, found in areas afflicted by Deathroot.
+Recurring enemies from the Dark Souls series.
+Mt. GelmirVolcano ManorAuriza Hero's GraveSubterranean Shunning-GroundsAinsel RiverLake of RotDeeproot Depths
+Reptilian creatures found in all manner of places throughout theLands Between. They have large fake eyes on top of their heads, while their real eyes are much smaller. They breathe out clouds of black fog that inflictDeath Blight.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Albinauric | Elden Ring Wiki
+AlbinauricsareHumanoid EnemiesinElden Ring.Albinauricsare said to have been artificial lifeforms that were made by humans.
+First-Generation Albinauricshave a human-like appearance and a flawed pair of legs, which eventually give out and sometimes even disappear.
+Second-Generation Albinauricsare short creatures, with smooth gray skin and dumpy heads resembling those of frogs. They use primitive weapons such as wooden clubs and makeshift shields, and they often congregate in large groups. Second-GenerationAlbinauricsare very agile and able to cartwheel around.
+A First-GenerationAlbinauriccan be summoned using the Spirit AshLatenna The Albinauric. A pair of Second-GenerationAlbinauricscan be summoned using theAlbinauric Ashes.
+Albinaurics are lifeforms made by human hands. Thus, many believe them to live impure lives, untouched by the Erdtree's grace.
+Several First-GenerationAlbinauricVillagers can still be found moaning inside theVillage of the Albinauricsin southwest Liurnia. Some First-GenerationAlbinauricMages can be found past the bridge leading away from the Village's well. [Map Link]
+The player must encounterAlbus, an NPC and First-GenerationAlbinauricVillager, in order to reach theConsecrated Snowfield. He is found in the Village of the Albinaurics, disguised as a large pot. It is recommended that the player defeat the nearbyDepraved Perfumerbefore speaking to him.
+Just outside of the Village of the Albinaurics, two Afflicted First-GenerationAlbinauricscoughing up clouds ofPoisoncan be found kneeling on the bank of the Poison swamp below the Village.
+Plenty of First-GenerationAlbinauricMages can be found on the ground level ofCaria Manor.
+Several First-GenerationAlbinauricscan be found in the dungeon ofVolcano Manor.
+A few Insane First-GenerationAlbinauricscan be found in the lower levels ofLeyndell Royal Capital, near the well that leads down into theSubterranean Shunning-Grounds.
+A few First-GenerationAlbinauricscan be found inCastle Sol, in the room leading up to the area immediately preceding the Boss Arena.
+One First-GenerationAlbinauric Archercan be found near the entrance to the Consecrated Snowfield, just outside the end of theHidden Path to the Haligtree, riding herDirewolf.
+Several First-GenerationAlbinauricArchers can be found outside to the south ofOrdina, Liturgical Townin the Consecrated Snowfield. One rides a Direwolf.
+Second-GenerationAlbinauricscan be found all overLiurnia of the Lakes. Groups of them often roam the ruins of theAcademy Gate Town. [Map Link]
+Several Second-GenerationAlbinauricscan be found outside to the east ofOrdina, Liturgical Townin theConsecrated Snowfield, and more leading up to theMinor Erdtree.
+A large amount of red Second-GenerationAlbinauricswith 3 small Omen horns on their forehead can be found in theMohgwyn Palacearea, with many variations of weapons and equipment. In the forested area, the red Second-GenerationAlbinauricsthat blow theirCurved Great Clublike a horn can summon aGiant Skeleton (Spirit), which is the upper half of a colossal skeleton usually summoned byTibia Mariners.
+There are two types:First-Generation AlbinauricsandSecond-Generation Albinaurics.
+Upon reachingMohgwyn Palace, one can fast travel to the Palace Approach Ledge-Road site of grace, equip theSacred Relic Swordto use theWave of Goldweapon skill and farmAlbinaurics. Effectively yielding up to6,000,000Runesper hour with theGolden ScarabTalisman.
+Though some Albinaurics wield aRipple BladeorShamshir, they do not drop them.
+My legs will soon fade, and with them, my life. Alas, this is the immovable fate of all Albinaurics.
+TheAlbinauricsare a man-made species encountered inELDEN RING(2022).
+The albinaurics are artificial life found across theLands Betweeneither as aFirst-Generation Albinauric(including anarcher variant) orSecond-Generation Albinauric.
+Albinaurics are lifeforms made by human hands. Thus, many believe them to live impure lives, untouched by the Erdtree's grace.[1]They are said to have been created from a primordial drop of dew[2], and secretly harbour the ability to cast magic using their innate arcaneness.[3]All Albinaurics share a fate; their legs will one day fade, and with them, their lives.[4]This process can be seen most clearly in the elderly, bearded Albinaurics that inhabit theVillage of the Albinaurics.
+Albinaurics are viewed as impure, and are persecuted by theKnights of the Cuckoofor their defiled blood.[5]They seek salvation inMiquella's Haligtree, which they believe to be their chosen land.[6]Aged Albinaurics carryIvory Sicklesin dedication to the Haligtree, despite having never entered its presence.[7]
+All first-generation Albinaurics are disabled and have lost the use of their legs. The males appear as withered old men with long beards whose legs are vanishing into shadow. The female archers, who wear blue silver mail born from the same mother as themselves[8], also lack the functionality of their legs, which they compensate for by riding wolfback. Nonetheless, they were feared as deadly sharpshooters.[9]
+Second-generation Albinaurics differ visually from the more humanoid first generation specimens, having heads that resemble those of frogs[10]and protruding bellies.[11]They wield weaponry modelled after the ripples that are said to be the origin of their species[12][13], as well as wooden clubs shaped like the crescent moon.[14][15]
+Albinaurics are encountered throughout theLands Between. A majority may be found in centralLiurnia.
+Albinaurics are also found in theRealm of Shadow.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Demi-Human | Elden Ring Wiki
+Demi-Humanis aHumanoid EnemyinElden Ring.Demi-Humansare impure and agile creatures that emerge from caves and threaten the unprepared. They often roam in hordes under a leader's command.Demi-Humansare small in stature, but with a violent, brutish disposition. Though they seem somewhat intelligent, when night falls, their blood boils, and they become feral. Their appearance is wide-ranging, but they commonly look like armored primates that wield melee weapons and wooden shields.
+The spirits ofDemi-Humanscan be summoned for aid in battle by using theDemi-Human Ashes.
+SeeBoc the Seamsterfor a friendly Demi-Human seamster who can alter garments.
+Demi-Humans are small in stature, but they have a violent, brutish disposition. Though they seem somewhat intelligent, when night falls, their blood boils and they become feral.
+Demi-Humans can be found scattered around theDemi-Human Forest Ruins, where you'll also find a largeDemi-Human Queenthat dropsDemi-Human Queen's StaffandCrystal Burst. [Map Link]
+Players can encounterDemi-Humanin the caves and beaches of Limgrave, such asCoastal Cave
+Found scavenging inLimgrave, under an opportune bridge made of the remains of a collapsed building. The same bridge on top of whichKenneth Haightcalls for help. [Map Link]
+South ofBloody Finger Hunter Yura'sfirst location. [Map Link]
+Northeast ofSellia GatewayinCaelid, in a small area burned by a wildfire.
+InsideVolcano Cave, North-East from Volcano Manor [Map Link]
+These enemies are easy to deal with when alone, but will quickly overwhelm you with numbers.
+They gain a buff at night time, signified by their glowing red eyes.
+They can throwFire Pots, though inMt Gelmirthey throwVolcano Potsinstead.
+Killing their leader, usually their Queen, can cause most of them to cower.
+Ashen remains in which spirits yet dwell. Use to summon the spirits of five demi-humans.
+Spirits of demi-humans that are small in stature, but have aviolent, brutish disposition. Though they seem somewhatintelligent, when night falls, their blood boils and they becomeferal.
+A club with beast fangs wrapped around the striking end. The uneven spread of fangs causes blood loss.
+Given only to the toughest of demi-humans, this weapon is a badge of honor. Or so the demi-humans believe.
+Note sold by a nomadic merchant imparting knowledge in brief.
+"Slay the demi-human mob's leader first, and the rest will lose hope and panic."
+Demi-Humanis species of creatures inELDEN RING(2022).
+Demi-Humans are typically small in stature and bestial in appearance, often possessing fur, canine faces, and pointed ears. Although they are intelligent and capable of speech, as exemplified byBoc the Seamster, they are typically violent and brutish, particularly at night when their blood boils and they turn feral.[1]
+Demi-Humans wield a variety of weapons, such as falchions, daggers, and clubs. Those considered to be the toughest wield spiked clubs, which they believe to be a badge of honor.[2]
+Demi-Human society appears to be hierarchical, with the lesser Demi-Humans following much larger Demi-Human Chiefs. Demi-Humans lose hope if their leader dies[3], causing them to panic and stop attacking. At the top of the Demi-Human hierarchy are the Queens, who are capable of wielding rudimentary sorceries via their staves.
+Despite their violent demeanour, Demi-Humans are capable of fostering diplomatic relations with humans, withKenneth Haightbuilding an alliance with a group of Demi-Humans inFort Haight.[4]
+Coastal CaveWeeping PeninsulaLiurnia of the LakesLakeside Crystal CaveAltus PlateauMt. GelmirVolcano CaveCaelidMountaintops of the Giants
+ClubRickety ShieldStringGlass ShardRuin FragmentRainbow StoneGlowstoneVolcanic Stone
+Demi-Humans of average build, who typically wear rags and wield falchions and clubs.
+Weeping PeninsulaLakeside Crystal CaveAltus PlateauVolcano CaveMountaintops of the Giants
+StringGlass ShardRuin FragmentRainbow StoneGlowstoneVolcanic Stone
+Larger, stockier Demi-Humans that wield spiked clubs.
+Coastal CaveLiurnia of the LakesLakeside Crystal CaveAltus PlateauVolcano CaveMountaintops of the Giants
+StringGlass ShardRuin FragmentRainbow StoneGlowstone
+Liurnia of the LakesLakeside Crystal CaveAltus PlateauVolcano CaveMountaintops of the Giants
+Larger, more bestial Demi-Humans that serve as leaders of their smaller brethren. Fierce Demi-Human walk on all four legs, and carry daggers in each of their front paws. If one is killed, any nearby Demi-Humans will lose hope and stop fighting.
+The boss variant in theCoastal Caveis called Demi-Human Chief.
+Agile swordsman wielding aStar-Lined Sword. Found in the path that leads toDemi-Human Queen Marigga. The best of them isDemi-Human Swordmaster Onzeand is found as a boss atBelurat Gaol.
+This foe is the only way to farmStarlight Shards.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Crucible Knight
+Crucible Knightis a non-respawnableenemyinELDEN RING(2022).
+TheCrucible Knightsserved Godfrey, the First Elden Lord.[1]They were led byCrucible Knight OrdovisandCrucible Knight Siluria, two honored as the foremost amongst the Crucible Knights.[2]Their armor holds the power of the crucible of life. In time, their strength, even their appearance, was seen as chaotic and deserving of scorn.[3]
+Crucible Knights led by Ordovis. Their armor adorned with the axe ornamentation that is his mark.[4]They wield a greatsword modeled after theOrdovis's Greatswordand carry aCrucible Hornshieldin their off-hand. When facing a tough foe, they are capable of interweaving their attacks withAspects of the Crucible: BreathandAspects of the Crucible: Tailincantations.
+The following moves are unique to the Crucible Axe Knight inFarum AzulaandSiofra River(the one encountered by entering the portal atThe Four Belfries). It is also used byTanith's Knight.
+The following move is unique to Tanith's Knight and Crucible Knight Ordovis.
+Crucible Knights led by Siluria. Their armor adorned with the great tree ornamentation that is her mark.[5]They wield a greatspear modeled afterSiluria's Tree, which itself is modeled after the crucible of the primordial form of the Erdtree.[6]. When facing a tough foe, they are capable of interweaving their attacks withAspects of the Crucible: Horns.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Spirit Jellyfish
+A floating spirit that illuminates its surroundings.
+Spirit jellyfisharewildlifeenemiesinELDEN RING(2022).
+Translucentspiritjellyfish are commonly found floating over sacred ground in theLands Between.[1]They are typically placid, emitting a soft blue glow, however when provoked they will turn red and will attack by ramming their foes or firing jets ofPoison.[2]
+Spirit jellyfish are found throughout theLands Between, often appearing at night.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Giant Dog | Elden Ring Wiki
+Monstrous Dogis anEnemyinElden Ring.Monstrous Dogsare massive dogs that have grown to be much larger than normal, with smaller forelegs in exchange for bigger and stronger hind legs. They often chase after anything, and are fast enough to catch up even on horseback.
+A unique variant always spawns outside ofGowry's Shack.
+A pair appear to be watching herds of hostile sheep at the Shack of the Rotting
+Some are near the Hermit Merchant’s shack in theDragonbarrow.
+Found past the frozen lake in theMountaintops.
+This enemy will often lunge towards the player and attempt to bite/grab. The damage is very high, even for higher level players, but can mostly be avoided by sidestepping.
+The one near Gowry is wearing a spiked collar and also has a unique move where it sprays a cloud of rot. It seems to act as a sort of guard dog.
+There are white furred and red-eyed variants that howl upon noticing you. This will alert the other dogs to attack.
+They can hit and even kill each other if they get too close.
+Has very low poise, can be stance broken with a single guard counter.
+Despite its large size, is very easy to block.
+Seems to take extra damage from most types of damage including standard, strike and fire.
+Can be poise-broken, which allows for a critical hit on its head.
+They are highly susceptible to Sleep Pots.1 Sleep Pot at Faith 22, Int 15 will put one Monstrous Dog to sleep.
+1 Sleep Pot at Faith 22, Int 15 will put one Monstrous Dog to sleep.
+TheBeast-Repellent Torchprevents them from attacking the player until attacked, with exceptions:The red-eyed variants in Caelid attack the player, regardless of the torch.The regular and red-eyed variants in the Mountaintops of the Giants also ignore the pacifying effect.
+The red-eyed variants in Caelid attack the player, regardless of the torch.
+The regular and red-eyed variants in the Mountaintops of the Giants also ignore the pacifying effect.
+Giant dogs are found throughoutCaelidand theMountaintops of the Giants.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Teardrop Scarab | Elden Ring Wiki
+Teardrop Scarabsare specialcreaturesinElden Ring. Similar to Crystal Lizards in the Souls series,Teardrop Scarabsare non-hostile creatures that drop valuable items upon defeat. If the player fails to quickly eliminate them, they will begin to flicker and then disappear from the area. As with Crystal Lizards, when they dissapeared from the area, you can respawn them by resting at a Grace, or by log-out and back in again.
+These scarabs often roll clumps of valuable ashes of war during their labors, along with crimson and cerulean tears. They are very skittish, and will often flee when spotted.
+Unlike Crystal Lizards,Teardrop Scarabsdon't have particularly high resistances, so it's possible to defeat them easily with both magic and physical damage. Players should be careful, however, as the scarabs often run into groups of larger enemies, making them harder to target and making the player the victim of plenty of ambushes. For this reason, ranged attacks are usually best.
+Red and Blue Scarabs respawn when you rest. They are used to refill both flasks when killed.
+Scarabs that roll regular balls will often drop various rare items, such asAshes of WarorSomber Smithing Stones. These do not respawn after they die.
+Players can encounter the followingTeardrop Scarabs:
+Church of Dragon Communion(south of island) - DropsSomber Smithing Stone [1]
+Limgrave: north-East from theChurch of Elleh, behind a broken building with Ruin Fragments, on the way toGatefront Ruins- Drops Crimson Scarab
+Limgrave: Western beach. East side of the shore, you'll notice multiple glowing prints moving around the pillars. Attack it at the right time just when it's about to approach you to reveal the scarab. - DropsAsh of War: Stamp (Sweep).
+Limgrave: in the water in the South East portion of Agheel Lake, North West of the Agheel Lake SouthSite of Grace. — DropsAsh of War: Unsheathe.[Map Link]
+Limgrave: Hiding behind a tree in the corner ofSiofra River Well- 5 Crimson Scarabs around base of Minor Erdtree.
+Limgrave:  on the path at the bridge north of Agheel Lake. DropsAsh of War: Determination. [Map Link]
+Limgrave: On top of a building's ruins. DropsSomber Smithing Stone (1). [Map link]
+Limgrave: Near Third Church of Marika, next to Spiritspring. Drops theAsh of War: Sacred Blade.[Map Link]
+Limgrave: In the middle of the path leading from theStormhill Shacksite of grace to theCastleward Tunnelsite of grace. DropsAsh of War: Wild Strikes[Map Link]
+Along the main road taken fromLimgravein the east. Found on a portion of the road that slopes upwards, past an area with a brokenCarriage. DropsAsh of War: Mighty Shot. [Map Link]
+In a forested area southeast of the Castle Morne Rampart. Drops thePoison Mistincantation.[Map Link]
+In a crevasse separating the landmass containing the Minor Erdtree from the eastern side of the peninsula. The scarab is found in the lower section of the crevasse, surrounded by bats and a constant beat of lightning strikes from above. There are stone platforms on either cliffside you can use to descend safely. Drops theLightning Strikeincantation. [Map Link]
+Atop a collapsed stone structure overgrown with yellow moss. Found a short distance west of theTombsward Ruins. Drops theDivine Fortificationincantation. [Map Link]
+Off the beaten path, over a rocky area. Drops aSomber Smithing Stone (2)[Map Link]
+Found in a rocky, cavern-like area near the Minor Erdtree in southwestLiurnia.. DropsAsh of War: Sword Dance.  [Map Link]
+Found in the southeast poisonous swamp area of the map, south from the Folly on the Lake site of grace. The scarab is located in the center of an island near an opening in the rocky overpass.DropsAsh of War: Vow of the Indomitable[Map Link]
+In the marshes near theRose Churchsouthwest of the lake. Drops theBloodflame Bladeincantation.[Map Link]
+On the island below the broken bridge connecting Raya Lucaria Academy and East Raya Lucaria Gate. DropsAsh of War: Shield Bash. [Map Link]
+An invisible scarab is found roaming the shallow body of water southeast ofCaria Manor. Look for its glowing footprints and attack as they move towards you. DropsAsh of War: Hoarfrost Stomp. [Map Link]
+Found in an area behind the gardens and to the east inCaria Manor. Drops theCarian Piercersorcery. [Map Link]
+Found in the woods, between the trees. DropsSomber Smithing Stone (3). [Map Link]
+Three Sisters: In the ruins south ofRenna's Rise. DropsAsh of War: Chilling Mist. [Map Link]
+Found in the Church of Irith after giving Thops the extraGlintstone Keyand letting him leave for the academy. DropsAsh of War: Thops's Barrier.[Map Link]
+In the Ravine-Veiled Village, found by going as far northeast as possible in Lake ofLiurnia(near but not accessible fromGrand Lift of Dectus) DropsAsh of War: Barbaric Roar. [Map Link]
+Attached to a ceiling under a bridge West of the Academy Gate Town Site of Grace, above some Land Squirts and near a Giant Crab in theAcademy Gate Town. DropsAsh of War: Charge Forth. [Map Link]
+Found on the road on the way from Rotview Balcony to Caelem Ruins. Drops IncantationWhirl, O Flame![Map Link]
+Found along the Caelid Highway. DropsAsh of War: Lifesteal Fist. [Map Link]
+Sellia, Town of Sorcery: Found high above on a very large root in the western end of town. Accessible by jumping across the rooftops. DropsAsh of War: Double Slash[Map Link]
+An invisible scarab can be found roaming the northeast section ofAeonia Swamp, directly west ofSellia. Drops thePoison Armamentincantation. [Map Link]
+Found near the edge of the cliffs northwest of theIsolated Merchant's ShackinDragonbarrow. DropsAsh of War: Sky Shot. [Map Link]
+Capital Outskirts: An invisibleTeardrop Scarabcan be found leaving its glowing footprints inside the short rocky tunnel in the lake directly east of the Outer Wall Phantom Tree site of grace. DropsAsh of War: Prayerful Strike. [Map Link]
+Capital Outskirts: A teleporting scarab is found near the large blocked gate with manyWandering Noblesnear it. DropsAsh of War: Golden Parry[Map Link]
+Capital Outskirts: In the middle of a Leyndell encampment in the northeastern side of Altus Plateau. Just northwest of Hermit Merchant's Shack or Outer Wall Battleground site of grace.DropsAsh of War: Lightning Slash[Map Link]
+Dropped by a teleporting Scarab inside a broken building in theLux Ruins, near the Erdtree Gazing Hill site of grace. DropsAsh of War: Shield Crash.[Map Link]
+Northeast of Erdtree-Gazing Hill, flying above a pond with trees. DropsAsh of War: Blood Blade.[Map Link]
+An invisible Teardrop Scarab in the intersection of the road before Altus Highway Junction site of grace. It moves very slowly, and you can see some dust as it rolls. DropsAsh of War: Earthshaker.[Map Link]
+In the northern section of theWoodfolk Ruins, surrounded by manyLesser Wormfaces. DropsAsh of War: Golden Slam[Map Link]
+Just south ofSainted Hero's Grave, near a bunch of swords embedded into the ground.DropsAsh of War: Lightning Ram[Map Link]
+Leyndell, Royal Capital: There's an invisibleTeardrop Scarab. Can be found after heading down the stairs and taking the elevator, right after the fight withGodfrey, First Elden Lord.DropsBarrier of Gold.  [Map Link]
+Found in the narrow channel north of Seethewater River. DropsAsh of War: Barrage. [Map Link]
+An invisble scarab leaving behind tracks will be seen upon approaching theVolcano Manor’s entrance.DropsAsh of War: Through and Through.[Map Link]
+Found in the lower level of the Ancient Snow Valley Ruins, south of theHermit Merchant. Drops aSomber Smithing Stone (8)[Map Link]
+Found on top of a small mountain, will vanish if you get too close. Drops aSomber Smithing Stone (8).[Map Link]
+An invisible scarab leaving behind tracks can be seen east of the Freezing Lake site of grace. DropsAsh of War: Seppuku[Map Link]
+A lone scarab hanging on a dead tree near theGuardians’Garrison. Beware of the nearby enemies. It will dropAsh of War: Prelate’s Charge.[Map Link]
+Found by the cliffs south of the fountain plaza. This area is located in the upper level after ascending the Dragon Temple Lift. Drops the incantationGolden Lightning Fortification. [Map Link]
+Teardrop Scarabsare special, non-hostile creatures inELDEN RING(2022).
+No matter the type, the scarabs will eventually disappear if not destroyed in time when approached (indicated by them starting to roll away and start to flicker in and out).
+It should be noted that the ones that drop special items won't disappear permanently if you don't destroy them to get the item the first time you come across them, allowing you the chance to try again later when they respawn.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Giant Bat | Elden Ring Wiki
+Giant Batis aWildlife CreatureinElden Ring.Giant Batsare hostile creatures with large wings that allow them to fly. They are most commonly found at nighttime, in the open fields or in caves.
+Players can encounterGiant Batnear the cliffs on WesternLimgrave.
+Gravesite Plain: EastCastle Ensis, Exit to Scadu Altus
+Scadu Altus:Ruined Forge of Starfall PastEntrance,Moorth Ruins,Bonny VillageWest Entrance, Bonny Village North Tree and Overlook, Recluses' River Upstream, Manus Metyr Graveyard and West Cliffside
+Health:143 HP (Highroad Cave)161 HP (Weeping Peninsula)208 HP (Stormveil Castle)285 HP (Stillwater Cave)303 HP (Ruin-Strewn Precipice)409 HP (Capital Outskirts)519 HP (Volcano Manor)303 HP (Caelid- Gowry's Shack)842 HP (Greyoll's Dragonbarrow- Fort Faroth)610 HP (Mountaintops of the Giants)
+842 HP (Greyoll's Dragonbarrow- Fort Faroth)
+The absorption numbers are the % of your damage that gets blocked. For example, if an absorption is 60, 40% of that damage by that type will go through and 60% is absorbed. Bigger number = less damage. An absorption of 100 means no damage goes through, and a resistance of -100 mean the enemy takes 2x damage from that source. 0 means damage goes pretty much as is.
+The resistance numbers are the buildup amount to trigger it. For example, if a resistance is 100 you must deal 100 points of whatever aux buildup to trigger it. Note that these go down over time, and increase each time the effect procs.
+Runes:47(Highroad Cave)50(Weeping Peninsula)83(Stormveil Castle)91(Stillwater Cave)143(Ruin-Strewn Precipice)281(Capital Outskirts)434(Volcano Manor)144(Caelid- Gowry's Shack)887(Greyoll's Dragonbarrow)575(Mountaintops of the Giants)
+Often found in groups, so try to engage a few at a time.
+They have a ranged sound based attack that they will use if you are out of range so don't stray too far.They also have a grab attack, signalled by them spreading their legs out wide, where they bite at your throat, causing slightHemorrhagebuild-up.
+Gravity magic likeGravity WellandGravitascan bring them to the ground and stun them briefly.
+The Giant Bats in theMountaintops of the Giantshave a different under-wing pattern and coloration. These do more damage and drop moreRunes.
+In the Network Test, they may have behaved similarly to theChanting Dames, singing haunting melodies. This was left out during release.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Monstrous Crow | Elden Ring Wiki
+Monstrous Crowis aHostile Wildlife EnemyinElden Ring. A towering bird with extremely long legs built for running, a sharpened beak, and disproportionately small wings that can grant it flight for a short while.
+Mohgwyn Palace- These BlisteredGiant Crowsgain a new flailing attack, and have significantly more HP.
+There is a location atMohgwyn Palace, right next to the "Palace Approach Ledge-Road"Site of Grace, where a Blistered Giant Crow across a large gorge can be shot with an arrow or spell and be lured off the cliff's edge between the player and the Crow. Upon death, the Crow will drop 11038Runes, and can be respawned at the Site of Grace in the same location. This makes for an excellent way to farm many Runes very quickly.Using aGold-Pickled Fowl Foot, players will net 14,000+ Runes per kill, greatly increasing the Runes gained. Additionally, while using the Gold-Pickled Fowl Foot combined with the effects of theGolden ScarabTalisman, players will net 17,000+ Runes per kill.
+Using aGold-Pickled Fowl Foot, players will net 14,000+ Runes per kill, greatly increasing the Runes gained. Additionally, while using the Gold-Pickled Fowl Foot combined with the effects of theGolden ScarabTalisman, players will net 17,000+ Runes per kill.
+Crows will sometimes feign a stagger, complete with the audio cue. They begin wobbling around on one foot to bait an approach, before performing a grab attack with their beak. A truly staggered crow will flop over onto their side, exposing a glowing spot on their head.
+Blistered Crows may use a delayed, lunging bite attack that carries them forward into a belly flop. They will briefly cry out in surprise before propelling themselves forward while chomping blindly for a few seconds. This lengthy attack can be avoided by staying behind its head, creating distance, or by causing a stagger.
+The giant crows were easily recognized by their long legs, toothy beak, and black plumage. Though its wings were diminished, they enabled brief bursts of flight, making it an agile and formidable opponent. These crows were notorious for feigning vulnerability, often staggering as if injured, only to lure enemies into range for a swift and deadly grab attack with their beak.
+Giant crows are found in the most hostile environments in theLands Between. They appear near places of death, perched ominously over battle-torn landscapes.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Deathbird | Elden Ring Wiki
+Deathbirdis aField BossinElden Ring. A Deathbird is a bipedal bird with a decrepit appearance wielding a long fire poker and is found in various locations, but only at night. They share a close resemblance with theDeath Rite Birdbut cannot wield magic and are much weaker than their larger winged variants. This is an optional boss as players do not have to defeat it to advance.
+The Deathbirds are graveyard fire keepers; it is said they rake out the ashen remains of the dead from their kilns.
+Is vulnerable to acritical hitafter beingstance broken
+The negation numbers are the % of your damage that gets blocked. For example, if a negation is 60, 40% of that damage by that type will go through and 60% will be negated. Bigger number = less damage. A negation of 100 means no damage goes through, and a negation of -100 mean the enemy takes 2x damage from that source. 0 means damage goes pretty much as is.
+Holy Water Potscan take advantage of its weakness toHolydamageandthe pots' inherent 400% damage bonus againstThose Who Live in Deathto do massive damage even at lowFaith
+TheSacred Bladeskill is another great way for non-Faithbuilds to doHolydamage
+Stay on foot rather than riding Torrent. A Deathbird can leap a great distance, and the reach on its poker is long enough to clip you even when you're running at full speed on Torrent. Even ranged players should try to stay just outside the range of its swings, and keep the flexibility to dodge out of the way when it attacks
+Stay close to its hind legs, time your dodges, and get a few swings in after every attack. Don't get greedy and attack more than a few times.
+O Holy Fight:Because Deathbirds are bothThose Who Live in Deathandweak toHolydamage, melee builds with highFaithwill have a particularly easy time defeating them. TheOrder's Bladeincantation is easy to get and will give your weapon a tremendous damage boost against this boss.
+It's Litany:ForFaith-based magic builds,Litany of Proper Deathwill make short work of this fight. Because Deathbirds are bothThose Who Live in Deathandweak toHolydamage, it will do a whopping 1400% extra damage. Just be aware that it will only work when the Deathbird is touching the ground, so time the incantation carefully.
+The Deathbirds are said to have been born from a “Twinbird,” said to be the envoy for an outer god.
+Youcannotnormally summonSpirit Ashesfor this boss, unless you lure it to a nearby location that allows spirit summoning
+The Deathbird can be found east of the Warmaster's Shack, just over the cliff to the south. As with all Deathbirds, it only appears at night. [Map Link]
+The resistance numbers are the buildup amount to trigger it. For example, if a resistance is 100 you must deal 100 points of the given buildup to trigger it. Note that these go down over time, and increase each time the effect procs. The values after the "/"s indicate the increased resistances after each successive proc.
+Closest Site of Grace:Castle Morne Rampart
+The Deathbird can be found on the cliffs to the west of the path between the ramparts and Castle Morne. As with all Deathbirds, it only appears at night. [Map Link]
+If you fight this Deathbird before killing the nearbyGolemwith a bow, it may assist you in the battle
+It is possible to cheese this boss by standing on top of the big ruin structure close to where it spawns and using ranged attacks
+The Deathbird can be found northeast of theScenic Islesite of grace, beneath the ruins. As with all Deathbirds, it only appears at night. [Map Link]
+Deathbirdsare a recurring optionalbossinELDEN RING(2022)that only appears at night and spawns from the sky.
+Deathbirds are gigantic decaying birds with incrusted corpses over their body.
+All Deathbirds are said to be the offspring of an entity called thetwinbird, which is an envoy of anouter god.[1]
+In the time when there was noErdtree, death was burned inghostflame, and the Deathbirds were the keepers of thatfire.[2]They were graveyard fire keepers and were said torakeout the ashen remains of the dead from their kiln.[3]From the cinders of the dead burned with ghostflame arose vengefulspirits.[4]The Deathbirds were regarded as malevolent deities by some.[5]
+Through the ancient act of the rite of Death, priests of old were permitted to come among the Deathbirds and become their guardians, and act which serves as an oath sworn to their distant resurrection.[6]Such priests can be seen inside the wings of theDeath Rite Birdsas spirit beings wieldingDeath ritual spears.
+They count asThose Who Live in Deathdespite predating thedeathroot.
+Deathbirds usually rely on melee attacks which can be either dodged or blocked, except for its peck and grab attacks. It's recommended to avoid being under it's head to avoid getting pecked.
+As they count asThose Who Live in Deaththey are weak toHolydamage and extremely weak to specific anti-undead weapons.Ash of War: Sacred BladeandHoly Water Potsare useful tools to make short work of these enemies, even if the user doesn't have a lot ofFaith.
+Found at night, north-west of Castle Morne on top of cliff. Walk near the Ruins to make it appear.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Nox
+The Nox are the inhabitants of the Eternal Cities ofNokronandNokstella. They are a grey-skinned, cold-blooded race known for wielding flowing weapons[1]forged from the liquid metal ofSilver Tears.
+Long ago, the Nox committed treason against theGreater Willand its vassalFingers, fashioning crystalline helmets out of glass to ward off their intervention.[2]However, they invoked the ire of the Greater Will and were banished deep underground, forced to live under a false night sky in eternal anticipation of the coming age of stars, and of their Lord of Night.[3]
+Monks clad in armour with silk capes and hoods. They wield Flowing Hammers which can elongate in a whip-like fashion for additional range, turn into semi-spherical spiked fist weapons which they dual-wield, or into single, spherical weapons resembling censers.
+Can include a separate table for a specific instance of this variant's moveset.
+Skilled swordstresses of the Eternal Cities, who serve as the personal guards of the Nightmaidens, and wear conical crowns with silk veils that cover their eyes.[4]They wield flowing curved swords which can elongate for additional range. They are sometimes seen ridingGiant Ants.
+Nox who hold the highest clerical rank, symbolised by their twin crowns, which hide their eyes with silk.[5]They use short, curved daggers in combat, and can create a life-sappingmist.
+A duo consisting of a Monk and a Swordstress. They are found in a courtyard on the northern side of Sellia, behind a magical seal which can be broken by lighting three braziers atop towers throughout the town. Inside the courtyard is a large chair, reminiscent of those found in the Eternal Cities, albeit without a giant skeleton occupying it. A chest beneath the chair, accessible only once the duo has been defeated, containsLusat's Glintstone Staff.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Graven Mass
+Liurnia of the LakesConverted Fringe TowerLenne's RiseCaelidConsecrated Snowfield
+Graven Massis an enemy inELDEN RING(2022).
+Large orbs comprised of many Glintstone Crowns merged together. They are the seeds of stars, fashioned by scholars who cleave to the forbidden teachings of the primeval current, and their existence is thought to be a nightmare of theAcademy of Raya Lucaria.[1]
+Graven Masses can attack by releasing purple mist that deals magic damage, or by firing magic into the air, which then rains down on foes.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Furnace Golem
+Furnace Golem,焼炉のゴーレム(Shōro no Gōremu), is an enemy inElden Ring: Shadow of the Erdtree.
+Furnace Golems are giant autonomous constructs made from metal branches and rods. They once spread a great inferno wherever they went, acting as weapons of mass destruction and instruments of unfathomable torture, gathering the countless, still-living bodies of man and beasts alike and added them to their ever growing collection of burning corpses. The charred human remains that are seen within are visibly locked in poses of terror and despair. Many of them reaching far outside the bars of their prison in a desperate, yet hopeless attempt to escape.
+Their flames could burn away both body and soul,[1]and thus, on hismother'swishes, were used byMessmer the Impalerto cleanse the tower folk by fire,[2][3]in aCrusadewithout Grace or honor.[4]
+As they were built specifically to mock and torment members of thehornsent culture, they are decorated with visages offire giantsand thefell god of firethat haunts their many sagas.[5]The mask depicting the fell god is derisively surrounded by curled horns, artifacts that which the hornsent revere most.[6]
+The scattered sap of the Scadutree pools deep within the furnace golems, wherecrystal tearsare formed slowly over the ages.[7]Each Furnace Golem defeated will drop a tear that can be mixed in theFlask of Wondrous Physick.
+The most common type of Furnace Golem that can be found throughout therealm of shadow. Its exposed legs allows one to deal damage to it with conventional melee attacks. All furnace golems are vulnerable toHefty Fire PotsandHefty Furnace Potsif the pots are thrown into the opening at the top of the golem, the latter of which is the more damaging variant of the two.[8]
+Two of these golems can be found in theCastle Watering Hole. Where one of them, in its complete dormancy, will be blocking the entrance to theRuins of Unte. To gain access to the ruins and eventually fell this golem, then the player needs to re-awaken it with aHefty Furnace Pot, thrown into its cold, flameless basket.
+Furnace golem with armored leg-bracers. Conventional melee attacks will not work on them. Players must instead find high-ground near said golem and try to throw in eitherHefty Fire PotsorHefty Furnace Potsinto its basket in order to deal damage.
+The tactic of engaging the golem head-on and break its legs with repeated melee attacks.
+While hitting either of its legs, it's useful to be keep the other leg in view to better identify which attack is about to come out next, so that it may be avoided accordingly. Once both legs have been broken, the golem will begin to collapse and fall face-first down on the ground, where it will persist for a very long time. Allowing for several, risk-free additional attacks and a severely-damaging critical attack to it's face. While the basket-opening at the top of the construct is easily accessible from ground-level while its knocked over, the furnace golem has near complete immunity to damage from either variant of hefty pots while in this state. However, this immunity ends immediately after performing a critical attack. So the player still has a chance to throw in a hefty pot for additional heavy damage before its able to stand up again.
+Its shockwave attacks can be easily dodged by jumping (especially with Torrent's double-jump). If the golem is about to use its eruption attack, then its wise to run away and gain distance withTorrentand then get back into melee range again once the attack finishes. Do keep note that gaining too much distance for too long may trigger the golem to use its eruption attack again.
+The tactic of locating nearby high-ground so that one may throw several hefty pots into the golem from above.
+While only the armored variants force the player to use this method, this tactic is still applicable to every single furnace golem that can be found and is the fastest and easiest way to take out furnace golems bar none, as it does not require any stat-investment or weapon upgrades of any kind. The only things needed, are efficient resource-gathering for the required crafting materials and passable spacial awareness.
+Note that it'll take about five to sevenHefty Fire Potsor two to fourHefty Furnace Potsto defeat furnace golems with this method.
+
+---
+

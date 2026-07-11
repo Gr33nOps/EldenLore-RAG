@@ -1,0 +1,126 @@
+area: Limgrave
+chapter: 1
+name: Bell Bearings | Elden Ring Wiki
+Bell BearingsinElden RingareKey Itemswhich, when given to the enigmaticTwin Maiden Husksat theRoundtable Hold, expand their shop with new items. According to the lore of the Lands Between, a Bell Bearing represents the lingering essence and memories of commerce from the deceased. Though often collected after the tragic death ofNPCs, these macabre tokens are occasionally dropped byBosses— such as theBell Bearing Hunter, who relentlessly pursues merchants to claim these grisly prizes — or found abandoned throughout the world. Mechanically, only certainBell Bearingsare kept when going intoNew Game+. These include Bell Bearings that addcraftingorupgrade materialsbut do not include ones fromNPCsorMerchants.
+This page covers their names, items they unlock, andLocations. In total, there are62Bell Bearings,26are kept in NG+.
+Recommended Search Terms:Smithing Stone, Glovewort, Base game
+Moore's bell bearing, found upon his perished flesh. Offer to the Twin Maiden Husks at the Roundtable Hold to gain access to new items.
+Bell bearing of Count Ymir, Mother of Fingers, found upon his perished flesh. Offer to the Twin Maiden Husks at the Roundtable Hold to gain access to new items.
+The bell bearing of a hornsent herbalist who did not survive the war. Offer to the Twin Maiden Husks at the Roundtable Hold to gain access to the following items: - Rada Fruit
+The bell bearing of a hornsent mushroom-seller who did not survive the war. Offer to the Twin Maiden Husks at the Roundtable Hold to gain access to the following items: - Mushroom - Redflesh Mushroom
+The bell bearing of a hornsent mushroom-seller who did not survive the war. Offer to the Twin Maiden Husks at the Roundtable Hold to gain access to the following items: - Toxic Mushroom - Whiteflesh Mushroom
+The bell bearing of a hornsent greasemonger who did not survive the war. Offer to the Twin Maiden Husks at the Roundtable Hold to gain access to the following items: - Root Resin - Knot Resin
+The bell bearing of a hornsent moldmonger who did not survive the war. Offer to the Twin Maiden Husks at the Roundtable Hold to gain access to the following items: - Fly Mold
+Bell bearing of Igon, drake warrior. Offer to the Twin Maiden Husks at the Roundtable Hold to gain access to the following items: - Igon's Harpoon
+Bell bearing of Spellmachinist Rabbath. Offer to the Twin Maiden Husks at the Roundtable Hold to gain access to the following items: - Rabbath's Greatbolt
+The bell bearing of a hornsent string-seller who did not survive the war. Offer to the Twin Maiden Husks at the Roundtable Hold to gain access to the following items: - String
+Can be used to gain access to the following items when offered to theTwin Maiden Husksat theRoundtable Hold:
+Bell BearingsareKey Itemsthat can be given to theTwin Maiden Husksto expand their inventory.
+Merchants and instructorsusually drop their respective Bell Bearings when they die, either from being killed by the player or from scripted events; when given to theTwin Maiden Husks, the bearing will grant access to the inventor the merchant had at the time of death. This means the potential yield gained from their bearings may vary greatly depending on how early or late the merchant has fallen in their journey.
+Some Bell Bearings can be found scattered throughout theLands Between, or dropped by certain enemies such as theBell-Bearing Hunterupon defeat. They can also be found in theLand of Shadow, hidden in hanging jars  that must be destroyed with ranged attacks in order to release the items.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Smithing-Stone Miner's Bell Bearing
+Smithing-Stone Miner's Bell Bearingis a Key Item inELDEN RING(2022).
+There are 4 different versions of this item, each with a respective adjunct. They can be given to theTwin Maiden Husksin theRoundtable Hold.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Smithing-Stone Miner's Bell Bearing 2
+Smithing-Stone Miner's Bell Bearing 2is aKey IteminELDEN RING(2022).
+The bell bearing of a miner who once dug for smithing stone.
+Offer to the Twin Maiden Husks at the Roundtable Hold to gain access to the following items:
+- Smithing Stone [3]- Smithing Stone [4]- Explosive Stone
+Found inCapital Outskirts, inside theSealed Tunnel, which is at the southernmost part of the lake in the outskirts.
+Give to theTwin Maiden Husksat theRoundtable Holdto expand their inventory.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Glovewort Picker's Bell Bearing 1
+Glovewort Picker's Bell Bearing 1is aKey IteminELDEN RING(2022).
+The bell bearing of a forager who once picked grave glovewort flowers.
+Offer to the Twin Maiden Husks at the Roundtable Hold to gain access to the following items:
+- Grave Glovewort [1]- Grave Glovewort [2]- Grave Glovewort [3]
+Dropped by theLightning-attunedErdtree Burial Watchdogat the end ofWyndham Catacombs.
+Give to theTwin Maiden Husksat theRoundtable Holdto expand their inventory.
+Adds theGrave Glovewort 1,Grave Glovewort 2, andGrave Glovewort 3for 800, 1,200, and 1,600 Runes respectively.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Ghost-Glovewort Picker's Bell Bearing 1
+Ghost-Glovewort Picker's Bell Bearing 1is aKey IteminELDEN RING(2022).
+The bell bearing of a forager who once picked ghost glovewort flowers.
+Offer to the Twin Maiden Husks at the Roundtable Hold to gain access to the following items:
+- Ghost Glovewort [1]- Ghost Glovewort [2]- Ghost Glovewort [3]
+Found in a gazebo just after the Nokron, Eternal City Site of Grace, found when enteringNokron, Eternal Cityfrom the big crater inLimgrave.
+Give to theTwin Maiden Husksat theRoundtable Holdto expand their inventory.
+Adds theGhost Glovewort 1,Ghost Glovewort 2, andGhost Glovewort 3for 1,200, 1,800, and 2,400 Runes respectively.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Gravity Stone Peddler's Bell Bearing | Elden Ring Wiki
+Gravity Stone Peddler's Bell Bearingis aKey IteminElden Ring.Gravity Stone Peddler's Bell Bearingallows you to buy items from theTwin Maiden HusksinRoundtable Hold.Key ItemsinElden Ringinclude a wide variety of items found in specific locations or are given by a relatedNPCswhich are used to unlock areas, quests, and to further progress the game's story.
+Bell bearing of an unfortunate gravity stone peddler who was slain by the Bell Bearing Hunter.
+Offer to the Twin Maiden Husks at the Roundtable Hold to gain access to the following items:
+TheGravity Stone Peddler's Bell Bearingcan be found in the following location:
+Dropped by theBell Bearing Hunterthat spawns at theIsolated Merchant's ShackinDragonbarrow. Like the other spawn locations he will only spawn at night. He will spawn right outside the shack where the merchant usually sits.[Elden Ring Map Link]
+Gravity Stone Peddler's Bell Bearingcan be handed in to theTwin Maiden Husksin order to gain access to the following items for purchase:
+The items unlocked after offering theGravity Stone Peddler's Bell Bearingto theTwin Maiden Husks, can be carried over to NG+.
+Gravity Stone Peddler's Bell Bearingis aKey IteminELDEN RING(2022).
+Guaranteed Drop:Isolated Merchant's Shack (Dragonbarrow)
+Give to theTwin Maiden Husksat theRoundtable Holdto expand their inventory.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Meat Peddler's Bell Bearing | Elden Ring Wiki
+Meat Peddler's Bell Bearingis aKey IteminElden Ring.Meat Peddler's Bell Bearingcan be used to offer to the Twin Maiden Husks for new items access.Key ItemsinElden Ringinclude a wide variety of items found in specific locations or are given by a relatedNPCswhich are used to unlock areas, quests, and to further progress the game's story.
+Bell bearing of an unfortunate meat peddler who was slain by the Bell Bearing Hunter.
+Offer to the Twin Maiden Husks at the Roundtable Hold to gain access to the following items:
+- Sliver of Meat- Lump of Flesh- Turtle Neck Meat
+Dropped by theBell Bearing HunteratChurch of Vows. [Map Link]
+Meat Peddler's Bell Bearingcan be used to gain access to the following items when offered to theTwin Maiden Husksat theRoundtable Hold:
+The items unlocked after offering theMeat Peddler's Bell Bearingto theTwin Maiden Husks, can be carried over to NG+.
+Meat Peddler's Bell Bearingis aBell BearinginELDEN RING(2022).
+-Sliver of Meat-Lump of Flesh-Turtle Neck Meat
+Guaranteed Drop:Church of Vows(Liurnia of the Lakes)
+
+---
+
+area: Limgrave
+chapter: 1
+name: Medicine Peddler's Bell Bearing | Elden Ring Wiki
+Medicine Peddler's Bell Bearingis aKey IteminElden Ring.Medicine Peddler's Bell Bearingallows you to buy items from theTwin Maiden HusksinRoundtable Hold.Key ItemsinElden Ringinclude a wide variety of items found in specific locations or are given by a relatedNPCswhich are used to unlock areas, quests, and to further progress the game's story.
+Bell bearing of an unfortunate medicine peddler who was slain by the Bell Bearing Hunter.
+Offer to the Twin Maiden Husks at the Roundtable Hold to gain access to the following items:
+- Neutralizing Boluses- Stanching Boluses- Thawfrost Boluses- Stimulating Boluses
+This bell bearing can be obtained from theBell Bearing Hunterlocated inside of theHermit Merchant's ShackinAltus Plateau. Like the other spawn locations he only spawns here at night. [Map Link]
+Medicine Peddler's Bell Bearingcan be handed in to theTwin Maiden Husksin order to gain access to the following items for purchase:
+The items unlocked after offering theMedicine Peddler's Bell Bearingto theTwin Maiden Husks, can be carried over to NG+.
+Medicine Peddler's Bell Bearingis aKey IteminELDEN RING(2022).
+Guaranteed Drop:Hermit Merchant's ShackinCapital Outskirts
+Give to theTwin Maiden Husksat theRoundtable Holdto expand their inventory.
+
+---
+
+area: Limgrave
+chapter: 1
+name: Twin Maiden Husks
+TheTwin Maiden Husksare anNPCinELDEN RING(2022).
+The Twin Maiden Husks are a pair of merchants in theRoundtable Hold. They are corpses, and cannot speak, nor move. Their shop is expanded by giving themBell Bearingsthat can be acquired throughout the game.
+The Twin Maiden Husks are found on the upper level of the Roundtable Hold.
+
+---
+
